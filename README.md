@@ -2,7 +2,7 @@
 
 <!-- This is an HTML comment in your markdown file -->
 
-<h1 align="center">Hi there, I'm <Your Name> 👋</h1>
+<h1 align="center">Hi there, I'm Ricardo 👋</h1>
 
 <h2>About Me</h2>
 <ul>
