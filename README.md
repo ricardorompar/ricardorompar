@@ -1,8 +1,21 @@
-### Hi there 👋
 
 <!-- This is an HTML comment in your markdown file -->
 
 <h1 align="center">Hi there, I'm Ricardo 👋</h1>
+<p align="center">
+  <a href="ricardorompar.com">Website</a> •
+  <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">LinkedIn</a> •
+  <a href="https://twitter.com/ricardorompar)">X</a>
+</p>
+
+<div style="'>
+    <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; text-align: center;">
+        <li style="display: inline; margin-right: 20px;">Python</li>
+        <li style="display: inline; margin-right: 20px;">JavaScript</li>
+        <li style="display: inline; margin-right: 20px;">SQL</li>
+        <li style="display: inline; margin-right: 20px;">Kubernetes</li>
+    </ul>
+</div>
 
 <h2>About Me</h2>
 <ul>
