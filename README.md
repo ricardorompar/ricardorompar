@@ -8,7 +8,16 @@
   <a href="https://twitter.com/ricardorompar)">X</a>
 </p>
 
-<div style="'>
+<p width="20" height="50"></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/python-icon-2026x2048-1awro7y4.png" alt="Alternative Text" title="Python" width="50" height="50"> </a> <span width="20" height="50"> </span> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo-black-and-white.png" alt="Alternative Text" title="Javascript" width="50" height="50"> </a>
+
+</p>
+
+<div style="">
     <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; text-align: center;">
         <li style="display: inline; margin-right: 20px;">Python</li>
         <li style="display: inline; margin-right: 20px;">JavaScript</li>
