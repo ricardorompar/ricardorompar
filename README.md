@@ -40,7 +40,7 @@
 
 <h2>My GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="YourName's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardorompar&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <h2>Languages and Tools:</h2>
