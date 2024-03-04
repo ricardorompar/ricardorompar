@@ -1,7 +1,7 @@
 
 <!-- This is an HTML comment in your markdown file -->
 
-<h1 align="center">Hi there, I'm Ricardo 👋</h1>
+<h1 align="center">Hi there, I'm Ricardo</h1>
 <p align="center">
   <a href="ricardorompar.com">Website</a> •
   <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">LinkedIn</a> •
