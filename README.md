@@ -28,10 +28,10 @@
   <li>🌱 I’m currently learning Flask, React, Docker, AWS, GCP, Oracle Cloud, Kubernetes, etc.
   </li>
 
-  <li>👯 I’m looking to collaborate on <Type of Projects></li>
+  <li>👯 I’m looking to collaborate on any project.</li>
   <li>🤔 I’m looking for help with landing a job in cloud or software engineering.</li>
   <li>💬 Ask me about anything. I love computers, science, outer space, businesses, money, etc.</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-romero-paredes/"></a></li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">Linkedin</a></li>
 </ul>
 
 <h2>My GitHub Stats</h2>
