@@ -14,7 +14,7 @@
 
 <p align="center" style="margin:auto;">
   
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/python-icon-2026x2048-1awro7y4.png" title="Python" width="50" height="50"> </a>    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo-black-and-white.png" title="Javascript" width="50" height="50"> </a>   <a href="https://www.python.org"  target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React" width="50" height="50"> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/python-icon-2026x2048-1awro7y4.png" title="Python" width="50" height="50"> </a>    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo-black-and-white.png" title="Javascript" width="50" height="50"> </a>   <a href="https://react.dev"  target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React" width="50" height="50"> </a> 
 
 </p>
 
