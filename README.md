@@ -20,16 +20,13 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>🔭 I’m currently working on my <a href="https://github.com/ricardorompar/cloudResumeChallenge">Cloud Resume Challenge</a>. It's a web-based resume unlike any other because upon completion you can learn stuff like cloud technologies, infrastructure as code, continuous integration, versioning, etc. If you want to learn more visit <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">this page</a>.
+  <li>🔭 I’m currently working on my <a href="https://github.com/ricardorompar/cloudResumeChallenge">Cloud Resume Challenge</a>. It's a web-based resume unlike any other because upon completion you will have learned stuff like cloud technologies, infrastructure as code, continuous integration, versioning, etc. If you want to learn more visit <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">this page</a>.
   </li>
 
-  <li>🔭 <a href="https://github.com/ricardorompar/capstoneT2">This</a> is the capstone (integration) project for the second term of the master in computer science.
-
-  It is a basic 3-tier app (at the moment only 2-tier) that allows users to access valuable stock information for a custom portfolio
-    
+  <li>🔭 <a href="https://github.com/ricardorompar/capstoneT2">This</a> is the capstone (integration) project for the second term of the master in Computer Science. It is a basic 3-tier app that allows users to access, modify and create stock a portfolio of their favourite stocks.
   </li>
 
-  <li>🌱 I’m currently learning bout the HashiCorp product suite (Terraform, Vault, etc.), Flask, React, Docker, AWS, GCP, Oracle Cloud, Kubernetes, etc.
+  <li>🌱 I’m currently learning about the HashiCorp product suite (Terraform, Vault, etc.), Flask, React, Docker, AWS, GCP, Oracle Cloud, Kubernetes, etc.
   </li>
 
   <li>👯 I’m looking to collaborate on any project.</li>
