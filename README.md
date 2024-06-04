@@ -5,7 +5,7 @@
 <p align="center">
   <a href="ricardorompar.com">Website</a> •
   <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">LinkedIn</a> •
-  <a href="https://twitter.com/ricardorompar)">X</a>
+  <a href="https://twitter.com/ricardorompar">X</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
