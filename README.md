@@ -28,14 +28,8 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>🔭 I’m currently working on <Your Current Project or Job></li>
-  <li>🌱 I’m currently learning <What You're Learning></li>
-  <li>👯 I’m looking to collaborate on <Type of Projects></li>
-  <li>🤔 I’m looking for help with <What You Need Help With></li>
-  <li>💬 Ask me about <Topics You're Comfortable Discussing></li>
-  <li>📫 How to reach me: <Your Email or Social Media Links></li>
-  <li>😄 Pronouns: <Your Pronouns></li>
-  <li>⚡ Fun fact: <Interesting Fact About You></li>
+  <li>🔭 I’m currently doing a master in Computer Science at IE University.</li>
+  <li>🌱 I’m learning <What You're Learning></li>
 </ul>
 
 <h2>My GitHub Stats</h2>
