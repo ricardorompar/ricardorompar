@@ -31,7 +31,7 @@
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">Linkedin</a></li>
 </ul>
 
-<h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2></br>
+<h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 <p>
     Date: Wed 27 Nov 2024
 </p> </br>

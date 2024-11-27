@@ -43,7 +43,7 @@ Text: {item['text']} </br>
     date = f'''
 <p>
     Date: {datetime.date.today().strftime('%a %d %b %Y')}
-</p> </br>
+</p>
 '''
 
     return date + news_text
@@ -59,10 +59,10 @@ def update_readme(new_text:str, file_path:str) -> None:
     # Check if the anchor exists and insert the new content
     if insert_after in content:
         parts = content.split(insert_after)
-        updated_content = parts[0] + insert_after + "</br>" + new_text + parts[1]
+        updated_content = parts[0] + insert_after + new_text
     else:
         # If the anchor is not found, append the new content at the end
-        updated_content = content + "</br>" + new_text
+        updated_content = content + new_text
 
     #content back to the file:
     with open(file_path, "w") as file:
