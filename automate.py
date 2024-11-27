@@ -21,17 +21,17 @@ def top_news(top_ids:list) -> list:
 
 #Generate some HTML to import in the readme
 def create_html(news:list) -> str:
-    news_text = ''
+    news_text = '<ol>'
     for i, item in enumerate(news):
         #print(f"[{i+1}]", item['title'])
         if 'url' in item:
             news_text += f'''
-<p>
+<li>
     <a href={item['url']}>
-        {i+1}. {item['title']} |
+        {item['title']} |
     </a>
     By: {item['by']}
-</p>
+</li>
 '''
         if 'text' in item:
             news_text += f'''
@@ -46,7 +46,7 @@ Text: {item['text']} </br>
 </p>
 '''
 
-    return date + news_text
+    return date + news_text + '</ol>'
 
 
 def update_readme(new_text:str, file_path:str) -> None:
