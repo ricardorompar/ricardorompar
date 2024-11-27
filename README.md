@@ -44,7 +44,8 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-Check the latest news from: Wed 27 Nov 2024<ol>
+<h4>Check the latest news from: Wed 27 Nov 2024</h4>
+<ol>
 <li>
     <a href=https://github.com/xairy/lights-out>
         Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230 |
