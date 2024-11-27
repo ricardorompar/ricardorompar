@@ -34,6 +34,9 @@ jobs:
     - name: Run Python Script
       run: python automate.py
 
+    #DEBUGGING======check file was actually updated:
+    - name: Check README content
+      run: cat README.md
     # Step 5: Commit and push changes
     - name: Commit and Push Changes
       run: |

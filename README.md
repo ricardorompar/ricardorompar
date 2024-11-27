@@ -18,7 +18,7 @@
 <h2>About Me</h2>
 Engineer. Passionate about technology and science. Constantly in the pursuit of being more to serve better.
 
-Currently helping businesses <i>do cloud right</i> @<a href="https://github.com/hashicorp">HashiCorp</a>.
+Currently helping businesses <i>do cloud right</i> @[Hashicorp]('https://github.com/hashicorp')
 
 <h2>Projects and ideas</h2>
 Projects...
