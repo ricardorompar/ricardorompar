@@ -34,6 +34,10 @@ jobs:
     - name: Run Python Script
       run: python automate.py
 
+    # Step 4.5: Run the Python script to update README
+    - name: Check Differences
+      run: cat README.md
+
     # Step 5: Commit and push changes
     - name: Commit and Push Changes
       run: |
