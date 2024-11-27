@@ -43,7 +43,7 @@ Projects...
 </ul>
 
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
-How does this work? -> <a href='./AUTOMATIC.md'>click here</a>
+How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
 Check the latest news from: Wed 27 Nov 2024<ol>
 <li>
