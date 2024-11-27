@@ -73,7 +73,7 @@ Text: &quot;Feels Like Paper!&quot; is a series of prototypes about augmenting p
 
 <li>
     <a href=https://github.com/matomo-org/device-detector>
-        Matomo-org/device-detector: Universal Device Detection library from User Agent |
+        Device-detector: Universal Device Detection library from User Agent |
     </a>
     By: josephscott
 </li>
