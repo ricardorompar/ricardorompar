@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,vault,aws,gcp,azure,git,kubernetes,react,js,docker,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=terraform,aws,gcp,azure,git,kubernetes,react,js,docker,ubuntu" />
   </a>
 </p>
 
