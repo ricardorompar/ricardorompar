@@ -40,17 +40,13 @@ Text: {item['text']} </br>
 </p>
 '''
         #for loop ends here
-    date = f'''
-<p>
-    Date: {datetime.date.today().strftime('%a %d %b %Y')}
-</p>
-'''
+    date = f" {datetime.date.today().strftime('%a %d %b %Y')}"
 
     return date + news_text + '</ol>'
 
 
 def update_readme(new_text:str, file_path:str) -> None:
-    insert_after = "<h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>"
+    insert_after = "Check the latest news from:"
 
     # Read the file content
     with open(file_path, "r") as file:

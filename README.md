@@ -16,26 +16,36 @@
 </p>
 
 <h2>About Me</h2>
+Engineer. Passionate about technology and science. Constantly in the pursuit of being more to serve better.
+
+Currently helping businesses <i>do cloud right</i> @[Hashicorp]('https://github.com/hashicorp')
+
+<h2>Projects and ideas</h2>
+Projects...
 <ul>
-  <li>🔭 I’m currently working on my <a href="https://github.com/ricardorompar/cloudResumeChallenge">Cloud Resume Challenge</a>. It's a web-based resume unlike any other because upon completion you will have learned stuff like cloud technologies, infrastructure as code, continuous integration, versioning, etc. If you want to learn more visit <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">this page</a>.
+  <li>🔭 I’m currently working on different projects like the <a href="https://github.com/ricardorompar/ricardorompar/blob/main/automate.py">automation</a> of this page, and some demos <a href="https://github.com/ricardorompar/boundary-ansible-demo">like this one</a>.
   </li>
 
-  <li>🔭 <a href="https://github.com/ricardorompar/capstoneT2">This</a> is the capstone (integration) project for the second term of the master in Computer Science. It is a basic 3-tier app that allows users to access, modify and create stock a portfolio of their favourite stocks.
+  <li >A few months back I began my <a href="https://github.com/ricardorompar/cloudResumeChallenge">Cloud Resume Challenge</a> (and haven't yet finished). It's a web-based resume that helps you practice different technologies and tools like the cloud, infrastructure as code, continuous integration, versioning, etc. If you want to learn more visit <a href="https://cloudresumechallenge.dev/docs/the-challenge/aws/">check this out</a>.
   </li>
 
-  <li>🌱 I’m currently learning about the HashiCorp product suite (Terraform, Vault, etc.), Vim, AWS, GCP, Kubernetes, Flask, React, Docker,Oracle Cloud, etc.
+  <li>🔭 <a href="https://github.com/ricardorompar/capstoneT2">This</a> is the capstone (integration) project for the second term of the master in Computer Science. It is a basic 3-tier app that allows users to access, modify and create stock a portfolio of their favorite stocks.
   </li>
 
-  <li>👯 I’m looking to collaborate on any project.</li>
+  <li>🌱 I’m currently learning about the HashiCorp product suite (Terraform, Vault, etc.), Vim, AWS, GCP, Azure, Kubernetes, Flask, React, Docker, etc.
+  </li>
+</ul>
+...and Ideas
+<ul>
+  <li>👯 I’m open to collaborating on any project.</li>
   <li>💬 Ask me about anything. I love computers, science, outer space, businesses, money, etc.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">Linkedin</a></li>
 </ul>
 
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
-<p>
-    Date: Wed 27 Nov 2024
-</p>
-<ol>
+How does this work? -> <a href='./AUTOMATIC.md'>click here</a>
+
+Check the latest news from: Wed 27 Nov 2024<ol>
 <li>
     <a href=https://github.com/xairy/lights-out>
         Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230 |
@@ -62,16 +72,16 @@ Text: &quot;Feels Like Paper!&quot; is a series of prototypes about augmenting p
 </p>
 
 <li>
+    <a href=https://github.com/matomo-org/device-detector>
+        Matomo-org/device-detector: Universal Device Detection library from User Agent |
+    </a>
+    By: josephscott
+</li>
+
+<li>
     <a href=https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US>
         Show HN: App that asks ‘why?’ every time you unlock your phone |
     </a>
     By: jarko27
-</li>
-
-<li>
-    <a href=https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/>
-        The US copyright office has struck down a major effort for game preservation |
-    </a>
-    By: bobthepanda
 </li>
 </ol>
