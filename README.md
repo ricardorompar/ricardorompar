@@ -31,12 +31,11 @@ Projects...
 
   <li>🔭 <a href="https://github.com/ricardorompar/capstoneT2">This</a> is the capstone (integration) project for the second term of the master in Computer Science. It is a basic 3-tier app that allows users to access, modify and create stock a portfolio of their favorite stocks.
   </li>
-
-  <li>🌱 I’m currently learning about the HashiCorp product suite (Terraform, Vault, etc.), Vim, AWS, GCP, Azure, Kubernetes, Flask, React, Docker, etc.
-  </li>
 </ul>
 ...and Ideas
 <ul>
+  <li>🌱 I’m currently learning about the HashiCorp product suite (Terraform, Vault, etc.), Vim, AWS, GCP, Azure, Kubernetes, Flask, React, Docker, etc.
+  </li>
   <li>👯 I’m open to collaborating on any project.</li>
   <li>💬 Ask me about anything. I love computers, science, outer space, businesses, money, etc.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">Linkedin</a></li>
