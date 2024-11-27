@@ -36,6 +36,49 @@
     Date: Wed 27 Nov 2024
 </p> </br>
 
+<p>
+    <a href=https://github.com/xairy/lights-out>
+        1. Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230 |
+    </a>
+    By: xairy
+</p>
+
+<p>
+    <a href=https://bernsteinbear.com/blog/creduce/>
+        2. You can use C-Reduce for any language |
+    </a>
+    By: Tomte
+</p>
+
+<p>
+    <a href=https://www.lukasmoro.com/paper>
+        3. Show HN: Feels Like Paper |
+    </a>
+    By: MoroL
+</p>
+
+<p>
+Text: &quot;Feels Like Paper!&quot; is a series of prototypes about augmenting physical paper through AI. Various ML models, LLMs and a mixed reality headset are used to infuse physical paper and ink with properties of the digital world without compromising on their physical traits. </br>
+</p>
+
+<p>
+    <a href=https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US>
+        4. Show HN: App that asks ‘why?’ every time you unlock your phone |
+    </a>
+    By: jarko27
+</p>
+
+<p>
+    <a href=https://www.gamesradar.com/games/publishers-are-absolutely-terrified-preserved-video-games-would-be-used-for-recreational-purposes-so-the-us-copyright-office-has-struck-down-a-major-effort-for-game-preservation/>
+        5. The US copyright office has struck down a major effort for game preservation |
+    </a>
+    By: bobthepanda
+</p>
+</br>
+<p>
+    Date: Wed 27 Nov 2024
+</p> </br>
+
 <a href=https://github.com/xairy/lights-out>
     <h3>
         1. Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230 |

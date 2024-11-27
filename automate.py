@@ -26,11 +26,12 @@ def create_html(news:list) -> str:
         #print(f"[{i+1}]", item['title'])
         if 'url' in item:
             news_text += f'''
-<a href={item['url']}>
-    <h3>
+<p>
+    <a href={item['url']}>
         {i+1}. {item['title']} |
-    </h3>
-</a> </br>
+    </a>
+    By: {item['by']}
+</p>
 '''
         if 'text' in item:
             news_text += f'''
