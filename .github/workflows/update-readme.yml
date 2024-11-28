@@ -41,8 +41,8 @@ jobs:
     # Step 5: Commit and push changes
     - name: Commit and Push Changes
       run: |
-        git config --local user.name "GitHub Actions Bot"
-        git config --local user.email "actions@github.com"
+        git config --local user.name ${{ secrets.USERNAME }}
+        git config --local user.email ${{ secrets.EMAIL }}
         git commit -am "Update README with today's news [skip ci]" || echo "No changes to commit"
         git push
       env:
