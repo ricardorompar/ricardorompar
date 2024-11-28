@@ -8,10 +8,12 @@
   <a href="https://twitter.com/ricardorompar">X</a>
 </p>
 
+https://badges.pufler.dev/visits/{ricardorompar}/{ricardorompar}  |  https://badges.pufler.dev/repos/{ricardorompar}
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,gcp,azure,git,kubernetes,react,js,docker,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=terraform,aws,gcp,azure,git,python,kubernetes,react,js,docker,ubuntu" />
   </a>
 </p>
 
