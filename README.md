@@ -67,18 +67,4 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
     </a>
     By: surprisetalk
 </li>
-
-<li>
-    <a href=https://proot-me.github.io/>
-        PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc |
-    </a>
-    By: nateb2022
-</li>
-
-<li>
-    <a href=https://bernsteinbear.com/blog/creduce/>
-        You can use C-Reduce for any language |
-    </a>
-    By: Tomte
-</li>
 </ol>
