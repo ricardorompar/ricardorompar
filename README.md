@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">LinkedIn</a> •
   <a href="https://twitter.com/ricardorompar">X</a>
 </p>
-
-https://badges.pufler.dev/visits/{ricardorompar}/{ricardorompar}  |  https://badges.pufler.dev/repos/{ricardorompar}
+<img src="https://badges.pufler.dev/visits/{ricardorompar}/{ricardorompar}"/>
+<img src="https://badges.pufler.dev/repos/{ricardorompar}"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
