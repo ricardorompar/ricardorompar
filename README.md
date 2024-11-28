@@ -44,7 +44,7 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 27 Nov 2024</h4>
+<h4>Check the latest news from: Thu 28 Nov 2024</h4>
 <ol>
 <li>
     <a href=https://github.com/xairy/lights-out>
@@ -54,34 +54,30 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 </li>
 
 <li>
+    <a href=https://www.theremingoat.com/blog/beginners-guide>
+        A Beginner's Guide to Switches |
+    </a>
+    By: 3pm
+</li>
+
+<li>
+    <a href=https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970>
+        A Washing Machine for Human Beings, from 1970 |
+    </a>
+    By: surprisetalk
+</li>
+
+<li>
+    <a href=https://proot-me.github.io/>
+        PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc |
+    </a>
+    By: nateb2022
+</li>
+
+<li>
     <a href=https://bernsteinbear.com/blog/creduce/>
         You can use C-Reduce for any language |
     </a>
     By: Tomte
-</li>
-
-<li>
-    <a href=https://www.lukasmoro.com/paper>
-        Show HN: Feels Like Paper |
-    </a>
-    By: MoroL
-</li>
-
-<p>
-Text: &quot;Feels Like Paper!&quot; is a series of prototypes about augmenting physical paper through AI. Various ML models, LLMs and a mixed reality headset are used to infuse physical paper and ink with properties of the digital world without compromising on their physical traits. </br>
-</p>
-
-<li>
-    <a href=https://github.com/matomo-org/device-detector>
-        Device-detector: Universal Device Detection library from User Agent |
-    </a>
-    By: josephscott
-</li>
-
-<li>
-    <a href=https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US>
-        Show HN: App that asks ‘why?’ every time you unlock your phone |
-    </a>
-    By: jarko27
 </li>
 </ol>
