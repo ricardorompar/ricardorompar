@@ -55,16 +55,30 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 </li>
 
 <li>
-    <a href=https://www.theremingoat.com/blog/beginners-guide>
-        A Beginner's Guide to Switches |
+    <a href=https://aikiwiki.com/>
+        Conversational Game Theory |
     </a>
-    By: 3pm
+    By: hoofish
 </li>
 
 <li>
-    <a href=https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970>
-        A Washing Machine for Human Beings, from 1970 |
+    <a href=https://bernsteinbear.com/blog/creduce/>
+        You can use C-Reduce for any language |
     </a>
-    By: surprisetalk
+    By: Tomte
+</li>
+
+<li>
+    <a href=https://proot-me.github.io/>
+        PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc |
+    </a>
+    By: nateb2022
+</li>
+
+<li>
+    <a href=https://spectrum.ieee.org/semiconductor-fabrication>
+        The Forgotten Story of How IBM Invented the Automated Fab |
+    </a>
+    By: jnord
 </li>
 </ol>
