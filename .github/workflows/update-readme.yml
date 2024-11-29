@@ -2,8 +2,9 @@ name: Update README with News
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC
-    - cron: '0 6 * * *'
+    # Run mon-fri at 5:00 AM UTC
+    - cron: '0 5 * * 1-5'
+
   workflow_dispatch: # allows manual trigger
 
 permissions:
@@ -41,8 +42,8 @@ jobs:
     # Step 5: Commit and push changes
     - name: Commit and Push Changes
       run: |
-        git config --local user.name ${{ secrets.USERNAME }}
-        git config --local user.email ${{ secrets.EMAIL }}
+        git config --local user.name "GitHub Actions Bot"
+        git config --local user.email "actions@github.com"
         git commit -am "Update README with today's news [skip ci]" || echo "No changes to commit"
         git push
       env:
