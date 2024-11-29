@@ -48,13 +48,6 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 <h4>Check the latest news from: Fri 29 Nov 2024</h4>
 <ol>
 <li>
-    <a href=https://hez2010.github.io/async-runtimes-benchmarks-2024/>
-        How much memory do you need in 2024 to run 1M concurrent tasks? |
-    </a>
-    By: neonsunset
-</li>
-
-<li>
     <a href=https://ContinueAndPersist.org>
         Send someone you appreciate an official 'Continue and Persist' Letter |
     </a>
@@ -66,22 +59,11 @@ Text: Every day, thousands of Cease and Desist letters are issued, telling peopl
 </p>
 
 <li>
-    <a href=https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/>
-        BYD launches sodium-ion grid-scale BESS product |
+    <a href=https://www.better-auth.com/>
+        Better Auth – The most comprehensive authentication library for TypeScript |
     </a>
-    By: toomuchtodo
+    By: namukang
 </li>
-
-<li>
-    <a href=https://github.com/tonghohin/screen-sharing>
-        Show HN: Screen Sharing in the Browser–No Downloads, No Registrations |
-    </a>
-    By: tonghohin
-</li>
-
-<p>
-Text: Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing">https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing</a><p>Demo: <a href="https:&#x2F;&#x2F;share-your-screen.vercel.app" rel="nofollow">https:&#x2F;&#x2F;share-your-screen.vercel.app</a> </br>
-</p>
 
 <li>
     <a href=https://interactionmagic.com/UX-LEGO-Interfaces/>
@@ -89,5 +71,22 @@ Text: Seeing all the hype around Bolt.new, I decided to give it a try, and withi
     </a>
     By: rcdemski
 </li>
-</ol>Working...
-Working...
+
+<li>
+    <a href=https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup>
+        Engineers do not get to make startup mistakes when they build ledgers |
+    </a>
+    By: fagnerbrack
+</li>
+
+<li>
+    <a href=https://github.com/tonghohin/screen-sharing>
+        Show HN: Screen Sharing in the Browser |
+    </a>
+    By: tonghohin
+</li>
+
+<p>
+Text: Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing">https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing</a><p>Demo: <a href="https:&#x2F;&#x2F;share-your-screen.vercel.app" rel="nofollow">https:&#x2F;&#x2F;share-your-screen.vercel.app</a> </br>
+</p>
+</ol>
