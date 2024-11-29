@@ -48,6 +48,13 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 <h4>Check the latest news from: Fri 29 Nov 2024</h4>
 <ol>
 <li>
+    <a href=https://www.better-auth.com/>
+        Better Auth – The most comprehensive authentication library for TypeScript |
+    </a>
+    By: namukang
+</li>
+
+<li>
     <a href=https://ContinueAndPersist.org>
         Send someone you appreciate an official 'Continue and Persist' Letter |
     </a>
@@ -57,13 +64,6 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 <p>
 Text: Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing (Looking at you, David Chang). What a bummer!<p>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter. </br>
 </p>
-
-<li>
-    <a href=https://www.better-auth.com/>
-        Better Auth – The most comprehensive authentication library for TypeScript |
-    </a>
-    By: namukang
-</li>
 
 <li>
     <a href=https://interactionmagic.com/UX-LEGO-Interfaces/>
