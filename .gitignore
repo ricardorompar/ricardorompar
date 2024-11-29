@@ -1,5 +1,2 @@
 #python env
 .venv
-
-# secrets
-.env
