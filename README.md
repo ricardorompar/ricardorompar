@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 28 Nov 2024</h4>
+<h4>Check the latest news from: Fri 29 Nov 2024</h4>
 <ol>
 <li>
-    <a href=https://github.com/xairy/lights-out>
-        Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230 |
+    <a href=https://hez2010.github.io/async-runtimes-benchmarks-2024/>
+        How much memory do you need in 2024 to run 1M concurrent tasks? |
     </a>
-    By: xairy
+    By: neonsunset
 </li>
 
 <li>
-    <a href=https://aikiwiki.com/>
-        Conversational Game Theory |
+    <a href=https://ContinueAndPersist.org>
+        Send someone you appreciate an official 'Continue and Persist' Letter |
     </a>
-    By: hoofish
+    By: adnanaga
+</li>
+
+<p>
+Text: Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing (Looking at you, David Chang). What a bummer!<p>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter. </br>
+</p>
+
+<li>
+    <a href=https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/>
+        BYD launches sodium-ion grid-scale BESS product |
+    </a>
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://bernsteinbear.com/blog/creduce/>
-        You can use C-Reduce for any language |
+    <a href=https://github.com/tonghohin/screen-sharing>
+        Show HN: Screen Sharing in the Browser–No Downloads, No Registrations |
     </a>
-    By: Tomte
+    By: tonghohin
 </li>
 
-<li>
-    <a href=https://proot-me.github.io/>
-        PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc |
-    </a>
-    By: nateb2022
-</li>
+<p>
+Text: Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing">https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing</a><p>Demo: <a href="https:&#x2F;&#x2F;share-your-screen.vercel.app" rel="nofollow">https:&#x2F;&#x2F;share-your-screen.vercel.app</a> </br>
+</p>
 
 <li>
-    <a href=https://spectrum.ieee.org/semiconductor-fabrication>
-        The Forgotten Story of How IBM Invented the Automated Fab |
+    <a href=https://interactionmagic.com/UX-LEGO-Interfaces/>
+        The UX of Lego Interface Panels (2020) |
     </a>
-    By: jnord
+    By: rcdemski
 </li>
 </ol>
