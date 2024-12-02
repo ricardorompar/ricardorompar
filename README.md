@@ -55,10 +55,10 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 </li>
 
 <li>
-    <a href=https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1>
-        Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction |
+    <a href=https://cs.uwaterloo.ca/~csk/hat/>
+        An Aperiodic Monotile |
     </a>
-    By: elsewhen
+    By: phaedryx
 </li>
 
 <li>
@@ -76,11 +76,9 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 </li>
 
 <li>
-    <a href=https://retrogamecoders.com/c64-visual-studio-code/>
-        Programming the C64 with Visual Studio Code |
+    <a href=https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom>
+        When was the famous "sudo warning" introduced? (2019) |
     </a>
-    By: rbanffy
+    By: Boogie_Man
 </li>
 </ol>
-
-‍💼 Working...
