@@ -75,15 +75,6 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
     By: koch
 </li>
 
-<<<<<<< HEAD
-<p>
-Text: Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing">https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing</a><p>Demo: <a href="https:&#x2F;&#x2F;share-your-screen.vercel.app" rel="nofollow">https:&#x2F;&#x2F;share-your-screen.vercel.app</a> </br>
-</p>
-</ol>
-Working...
-
-‍💼 Working...
-=======
 <li>
     <a href=https://retrogamecoders.com/c64-visual-studio-code/>
         Programming the C64 with Visual Studio Code |
@@ -91,6 +82,5 @@ Working...
     By: rbanffy
 </li>
 </ol>
->>>>>>> 3bcaae20c882ce16f1729585ee8025dd32025e93
 
 ‍💼 Working...
