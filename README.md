@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 01 Dec 2024</h4>
+<h4>Check the latest news from: Mon 02 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://github.com/maharmstone/ntfs2btrfs>
-        Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs |
+    <a href=https://scrollprize.substack.com/p/first-letters-found-in-new-scroll>
+        Vesuvius Challenge: First letters found in new scroll |
     </a>
-    By: Sami_Lehtinen
+    By: leocassarani
 </li>
 
 <li>
-    <a href=https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that>
-        Education and Healthcare Suck for the Same Reasons |
+    <a href=https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1>
+        Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction |
     </a>
-    By: ChaitanyaSai
+    By: elsewhen
 </li>
 
 <li>
-    <a href=https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/>
-        Map UI – Ghost in the Shell |
+    <a href=https://radanskoric.com/articles/rails-is-better-low-code-than-low-code>
+        Rails is better low code than low code |
     </a>
-    By: aspenmayer
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://chipsandcheese.com/p/amd-disables-zen-4s-loop-buffer>
-        AMD Disables Zen 4's Loop Buffer |
+    <a href=https://markwhen.com>
+        Show HN: Markwhen: Markdown for Timelines |
     </a>
-    By: luyu_wu
+    By: koch
 </li>
 
 <li>
-    <a href=https://github.com/privastead/privastead>
-        Show HN: Open-source private home security camera system (end-to-end encryption) |
+    <a href=https://retrogamecoders.com/c64-visual-studio-code/>
+        Programming the C64 with Visual Studio Code |
     </a>
-    By: arrdalan
+    By: rbanffy
 </li>
-
-<p>
-Text: I needed a security camera inside my house, one that would send motion notifications to my smartphone and would allow me to livestream remotely. However, I could not find one that I could trust due to privacy concerns. Many of them upload the plaintext of videos to their servers and none is fully open-source as far as I know. Therefore, I decided to use my spare time to build one from scratch. Called Privastead (as in Private Homestead), it uses OpenMLS for end-to-end encryption (between the camera local hub and the smartphone) and is mostly implemented in Rust (except for part of the Android app that is implemented in Kotlin). The system is functional now and I&#x27;ve been using it in my own house for the past couple of weeks.<p>Based on some of the discussions I&#x27;ve seen online, it seems like there are other users who are also concerned with the privacy implications of home security cameras. Therefore, I decided to open source my solution for everyone to use. If you need a privacy-preserving home security camera, please give it a try and provide feedback. Note that trying out the system requires you to have a supported IP camera, a local machine connected to the IP camera, a server, and an Android smartphone. I have put together detailed instructions on setting up the system, which I hope makes it easier for others to get the system up and running.<p>In addition, consider contributing to the project. The prototype currently has a lot of limitations: mainly that it has only been tested with one IP camera, only allows the use of one camera, and only supports Android. I&#x27;ll continue to improve the prototype as time permits, but progress will be much faster if there are other contributors as well. </br>
-</p>
 </ol>
