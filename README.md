@@ -45,51 +45,52 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 29 Nov 2024</h4>
+<h4>Check the latest news from: Mon 02 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.better-auth.com/>
-        Better Auth – The most comprehensive authentication library for TypeScript |
+    <a href=https://scrollprize.substack.com/p/first-letters-found-in-new-scroll>
+        Vesuvius Challenge: First letters found in new scroll |
     </a>
-    By: namukang
+    By: leocassarani
 </li>
 
 <li>
-    <a href=https://ContinueAndPersist.org>
-        Send someone you appreciate an official 'Continue and Persist' Letter |
+    <a href=https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1>
+        Intel Gets Up to $7.9B Award for U.S. Chip-Plant Construction |
     </a>
-    By: adnanaga
-</li>
-
-<p>
-Text: Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing (Looking at you, David Chang). What a bummer!<p>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter. </br>
-</p>
-
-<li>
-    <a href=https://interactionmagic.com/UX-LEGO-Interfaces/>
-        The UX of Lego Interface Panels (2020) |
-    </a>
-    By: rcdemski
+    By: elsewhen
 </li>
 
 <li>
-    <a href=https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup>
-        Engineers do not get to make startup mistakes when they build ledgers |
+    <a href=https://radanskoric.com/articles/rails-is-better-low-code-than-low-code>
+        Rails is better low code than low code |
     </a>
-    By: fagnerbrack
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://github.com/tonghohin/screen-sharing>
-        Show HN: Screen Sharing in the Browser |
+    <a href=https://markwhen.com>
+        Show HN: Markwhen: Markdown for Timelines |
     </a>
-    By: tonghohin
+    By: koch
 </li>
 
+<<<<<<< HEAD
 <p>
 Text: Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing">https:&#x2F;&#x2F;github.com&#x2F;tonghohin&#x2F;screen-sharing</a><p>Demo: <a href="https:&#x2F;&#x2F;share-your-screen.vercel.app" rel="nofollow">https:&#x2F;&#x2F;share-your-screen.vercel.app</a> </br>
 </p>
 </ol>
 Working...
+
+‍💼 Working...
+=======
+<li>
+    <a href=https://retrogamecoders.com/c64-visual-studio-code/>
+        Programming the C64 with Visual Studio Code |
+    </a>
+    By: rbanffy
+</li>
+</ol>
+>>>>>>> 3bcaae20c882ce16f1729585ee8025dd32025e93
 
 ‍💼 Working...
