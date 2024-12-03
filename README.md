@@ -87,3 +87,4 @@ something. It&#x27;s off topic here.<p>Readers: please only email if you are per
 <a href="https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss these other fine threads:<p><i>Who wants to be hired?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422</a><p><i>Freelancer? Seeking freelancer?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423</a> </br>
 </p>
 </ol>
+‍💼 Working...
