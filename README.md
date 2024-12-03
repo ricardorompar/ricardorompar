@@ -45,41 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 02 Dec 2024</h4>
+<h4>Check the latest news from: Tue 03 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://scrollprize.substack.com/p/first-letters-found-in-new-scroll>
-        Vesuvius Challenge: First letters found in new scroll |
+    <a href=https://www.henrikkarlsson.xyz/p/art-gallery>
+        Lessons I learned working at an art gallery |
     </a>
-    By: leocassarani
+    By: bkudria
 </li>
 
 <li>
-    <a href=https://cs.uwaterloo.ca/~csk/hat/>
-        An Aperiodic Monotile |
+    <a href=https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html>
+        8 months of OCaml after 8 years of Haskell in production (2023) |
     </a>
-    By: phaedryx
+    By: droideqa
 </li>
 
 <li>
-    <a href=https://radanskoric.com/articles/rails-is-better-low-code-than-low-code>
-        Rails is better low code than low code |
+    <a href=https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log>
+        Show HN: Copper – Open-source robotics in Rust with deterministic log replay |
     </a>
-    By: thunderbong
+    By: gbin
 </li>
 
 <li>
-    <a href=https://markwhen.com>
-        Show HN: Markwhen: Markdown for Timelines |
+    <a href=https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/>
+        Fish have a brain microbiome – could humans have one too? |
     </a>
-    By: koch
+    By: rbanffy
 </li>
 
-<li>
-    <a href=https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom>
-        When was the famous "sudo warning" introduced? (2019) |
-    </a>
-    By: Boogie_Man
-</li>
+<p>
+Text: Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no
+recruiting firms or job boards. One post per company. If it isn&#x27;t a household name,
+explain what your company does.<p>Please only post a job if you actually intend to fill a position
+and are committed to responding to everyone who applies.<p>Commenters: please don&#x27;t reply to job posts to complain about
+something. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href="http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;" rel="nofollow">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href="https:&#x2F;&#x2F;hnresumetojobs.com" rel="nofollow">https:&#x2F;&#x2F;hnresumetojobs.com</a>,
+<a href="https:&#x2F;&#x2F;hnhired.fly.dev" rel="nofollow">https:&#x2F;&#x2F;hnhired.fly.dev</a>, <a href="https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;</a>,
+<a href="https:&#x2F;&#x2F;hnjobs.emilburzo.com" rel="nofollow">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:
+<a href="https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss these other fine threads:<p><i>Who wants to be hired?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422</a><p><i>Freelancer? Seeking freelancer?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423</a> </br>
+</p>
 </ol>
-‍💼 Working...
