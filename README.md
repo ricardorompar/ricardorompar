@@ -45,46 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 03 Dec 2024</h4>
+<h4>Check the latest news from: Wed 04 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.henrikkarlsson.xyz/p/art-gallery>
-        Lessons I learned working at an art gallery |
+    <a href=https://walzr.com/IMG_0001/>
+        IMG_0001 |
     </a>
-    By: bkudria
+    By: walz
 </li>
 
 <li>
-    <a href=https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html>
-        8 months of OCaml after 8 years of Haskell in production (2023) |
+    <a href=https://www.armaansahni.com/game/>
+        My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback |
     </a>
-    By: droideqa
-</li>
-
-<li>
-    <a href=https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log>
-        Show HN: Copper – Open-source robotics in Rust with deterministic log replay |
-    </a>
-    By: gbin
-</li>
-
-<li>
-    <a href=https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/>
-        Fish have a brain microbiome – could humans have one too? |
-    </a>
-    By: rbanffy
+    By: veesahni
 </li>
 
 <p>
-Text: Please state the location and include REMOTE for remote work, REMOTE (US)
-or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. One post per company. If it isn&#x27;t a household name,
-explain what your company does.<p>Please only post a job if you actually intend to fill a position
-and are committed to responding to everyone who applies.<p>Commenters: please don&#x27;t reply to job posts to complain about
-something. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href="http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;" rel="nofollow">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href="https:&#x2F;&#x2F;hnresumetojobs.com" rel="nofollow">https:&#x2F;&#x2F;hnresumetojobs.com</a>,
-<a href="https:&#x2F;&#x2F;hnhired.fly.dev" rel="nofollow">https:&#x2F;&#x2F;hnhired.fly.dev</a>, <a href="https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;</a>,
-<a href="https:&#x2F;&#x2F;hnjobs.emilburzo.com" rel="nofollow">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:
-<a href="https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss these other fine threads:<p><i>Who wants to be hired?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297422</a><p><i>Freelancer? Seeking freelancer?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42297423</a> </br>
+Text: My 9 year old son has been learning to code.  He learned HTML &amp; CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href="https:&#x2F;&#x2F;www.armaansahni.com&#x2F;game&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.armaansahni.com&#x2F;game&#x2F;</a><p>He&#x27;s coded all the HTML, CSS &amp; JS by hand in VSCode. He&#x27;s made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He&#x27;s excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href="https:&#x2F;&#x2F;www.armaansahni.com&#x2F;how-i-coded-a-game-using-ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.armaansahni.com&#x2F;how-i-coded-a-game-using-ai&#x2F;</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words &amp; thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey. </br>
 </p>
+
+<li>
+    <a href=https://egoless.engineering>
+        Egoless Engineering |
+    </a>
+    By: mcfunley
+</li>
+
+<li>
+    <a href=https://emacsconf.org/2024/>
+        EmacsConf 2024 |
+    </a>
+    By: hprotagonist
+</li>
+
+<li>
+    <a href=https://ppc.web.cern.ch/>
+        A Particle Physics Course for High-School Students |
+    </a>
+    By: treetalker
+</li>
 </ol>
-‍💼 Working...
