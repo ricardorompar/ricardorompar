@@ -45,45 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 04 Dec 2024</h4>
+<h4>Check the latest news from: Thu 05 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://walzr.com/IMG_0001/>
-        IMG_0001 |
+    <a href=https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/>
+        Bringing K/V context quantisation to Ollama |
     </a>
-    By: walz
+    By: mchiang
 </li>
 
 <li>
-    <a href=https://www.armaansahni.com/game/>
-        My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback |
+    <a href=https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/>
+        Genie 2: A large-scale foundation world model |
     </a>
-    By: veesahni
-</li>
-
-<p>
-Text: My 9 year old son has been learning to code.  He learned HTML &amp; CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href="https:&#x2F;&#x2F;www.armaansahni.com&#x2F;game&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.armaansahni.com&#x2F;game&#x2F;</a><p>He&#x27;s coded all the HTML, CSS &amp; JS by hand in VSCode. He&#x27;s made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He&#x27;s excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href="https:&#x2F;&#x2F;www.armaansahni.com&#x2F;how-i-coded-a-game-using-ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.armaansahni.com&#x2F;how-i-coded-a-game-using-ai&#x2F;</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words &amp; thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey. </br>
-</p>
-
-<li>
-    <a href=https://egoless.engineering>
-        Egoless Engineering |
-    </a>
-    By: mcfunley
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://emacsconf.org/2024/>
-        EmacsConf 2024 |
+    <a href=https://www.propublica.org/article/unitedhealth-mental-health-care-denied-illegal-algorithm>
+        UnitedHealth's Playbook for Limiting Mental Health Coverage |
     </a>
-    By: hprotagonist
+    By: cratermoon
 </li>
 
 <li>
-    <a href=https://ppc.web.cern.ch/>
-        A Particle Physics Course for High-School Students |
+    <a href=https://diataxis.fr/>
+        Diátaxis – A systematic approach to technical documentation authoring |
     </a>
-    By: treetalker
+    By: OuterVale
+</li>
+
+<li>
+    <a href=https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/>
+        Message order in Matrix: right now, we are deliberately inconsistent |
+    </a>
+    By: whereistimbo
 </li>
 </ol>
-‍💼 Working...
