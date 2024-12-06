@@ -45,42 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 05 Dec 2024</h4>
+<h4>Check the latest news from: Fri 06 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/>
-        Bringing K/V context quantisation to Ollama |
+    <a href=https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/>
+        Researchers launch "moonshot" to cure blindness through eye transplants |
     </a>
-    By: mchiang
+    By: viewtransform
 </li>
 
 <li>
-    <a href=https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/>
-        Genie 2: A large-scale foundation world model |
+    <a href=https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/>
+        Portland airport grows with expansive mass timber roof canopy |
+    </a>
+    By: surprisetalk
+</li>
+
+<li>
+    <a href=https://openai.com/index/introducing-chatgpt-pro/>
+        ChatGPT Pro |
     </a>
     By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.propublica.org/article/unitedhealth-mental-health-care-denied-illegal-algorithm>
-        UnitedHealth's Playbook for Limiting Mental Health Coverage |
+    <a href=https://github.com/trailbaseio/trailbase>
+        Trailbase: Fast, single-file, open-source app server built using Rust and SQLite |
     </a>
-    By: cratermoon
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://diataxis.fr/>
-        Diátaxis – A systematic approach to technical documentation authoring |
+    <a href=https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO>
+        Gitlab names Bill Staples as new CEO |
     </a>
-    By: OuterVale
-</li>
-
-<li>
-    <a href=https://artificialworlds.net/blog/2024/12/04/message-order-in-matrix/>
-        Message order in Matrix: right now, we are deliberately inconsistent |
-    </a>
-    By: whereistimbo
+    By: tolerable
 </li>
 </ol>
-
-‍💼 Working...
