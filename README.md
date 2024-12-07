@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 06 Dec 2024</h4>
+<h4>Check the latest news from: Sat 07 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/>
-        Researchers launch "moonshot" to cure blindness through eye transplants |
+    <a href=https://www.youtube.com/watch?v=0JouTsMQsEA>
+        RollerCoaster Tycoon was the last of its kind [video] |
     </a>
-    By: viewtransform
+    By: zdw
 </li>
 
 <li>
-    <a href=https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/>
-        Portland airport grows with expansive mass timber roof canopy |
+    <a href=https://everyuuid.com/>
+        Every V4 UUID |
     </a>
-    By: surprisetalk
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-chatgpt-pro/>
-        ChatGPT Pro |
+    <a href=https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World>
+        Biggest shell programs |
     </a>
-    By: meetpateltech
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://github.com/trailbaseio/trailbase>
-        Trailbase: Fast, single-file, open-source app server built using Rust and SQLite |
+    <a href=https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog>
+        <dialog>: The Dialog Element |
     </a>
-    By: thunderbong
+    By: htunnicliff
 </li>
 
 <li>
-    <a href=https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO>
-        Gitlab names Bill Staples as new CEO |
+    <a href=https://www.joshwcomeau.com/css/backdrop-filter/>
+        Next-level frosted glass with backdrop-filter |
     </a>
-    By: tolerable
+    By: timdorr
 </li>
 </ol>
