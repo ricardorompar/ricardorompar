@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 07 Dec 2024</h4>
+<h4>Check the latest news from: Sun 08 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.youtube.com/watch?v=0JouTsMQsEA>
-        RollerCoaster Tycoon was the last of its kind [video] |
+    <a href=https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/>
+        Airline informant received thousands from passenger cash seizures |
     </a>
-    By: zdw
+    By: soraminazuki
 </li>
 
 <li>
-    <a href=https://everyuuid.com/>
-        Every V4 UUID |
+    <a href=https://www.infochunk.com/schannel/index.html>
+        Reverse engineering the Sega Channel game image file format |
+    </a>
+    By: ndiddy
+</li>
+
+<li>
+    <a href=https://just.systems/>
+        Just: Just a Command Runner |
+    </a>
+    By: thunderbong
+</li>
+
+<li>
+    <a href=https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205>
+        The largest open-source dataset of car designs, including their aerodynamics |
+    </a>
+    By: toss1
+</li>
+
+<li>
+    <a href=http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html>
+        Composite and hard reset mods for the Tandyvision One |
     </a>
     By: LorenDB
-</li>
-
-<li>
-    <a href=https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World>
-        Biggest shell programs |
-    </a>
-    By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog>
-        <dialog>: The Dialog Element |
-    </a>
-    By: htunnicliff
-</li>
-
-<li>
-    <a href=https://www.joshwcomeau.com/css/backdrop-filter/>
-        Next-level frosted glass with backdrop-filter |
-    </a>
-    By: timdorr
 </li>
 </ol>
