@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 08 Dec 2024</h4>
+<h4>Check the latest news from: Mon 09 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.atlantanewsfirst.com/2024/12/03/airline-informant-received-thousands-passenger-cash-seizures/>
-        Airline informant received thousands from passenger cash seizures |
+    <a href=https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/>
+        Why Gelsinger was wrong for Intel |
     </a>
-    By: soraminazuki
+    By: hasheddan
 </li>
 
 <li>
-    <a href=https://www.infochunk.com/schannel/index.html>
-        Reverse engineering the Sega Channel game image file format |
+    <a href=https://www.lumafield.com/article/new-vs-used-sawstop>
+        CT Scans of New vs. Used SawStop |
     </a>
-    By: ndiddy
+    By: saltypal
 </li>
 
 <li>
-    <a href=https://just.systems/>
-        Just: Just a Command Runner |
+    <a href=https://www.y2k.movie/>
+        Y2K |
     </a>
-    By: thunderbong
+    By: ChrisArchitect
 </li>
 
 <li>
-    <a href=https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205>
-        The largest open-source dataset of car designs, including their aerodynamics |
+    <a href=https://json5.org/>
+        JSON5 – JSON for Humans |
     </a>
-    By: toss1
+    By: rickcarlino
 </li>
 
 <li>
-    <a href=http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html>
-        Composite and hard reset mods for the Tandyvision One |
+    <a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues>
+        Good union types in Go would probably need types without a zero value |
     </a>
-    By: LorenDB
+    By: ingve
 </li>
 </ol>
