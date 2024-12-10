@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 09 Dec 2024</h4>
+<h4>Check the latest news from: Tue 10 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/>
-        Why Gelsinger was wrong for Intel |
+    <a href=https://www.savethearchive.com/>
+        Musicians Rally Behind Internet Archive in $621M Music Label Battle |
     </a>
-    By: hasheddan
+    By: m463
 </li>
 
 <li>
-    <a href=https://www.lumafield.com/article/new-vs-used-sawstop>
-        CT Scans of New vs. Used SawStop |
+    <a href=https://treecalcul.us/>
+        Tree Calculus |
     </a>
-    By: saltypal
+    By: iamwil
 </li>
 
 <li>
-    <a href=https://www.y2k.movie/>
-        Y2K |
+    <a href=https://blog.google/technology/research/google-willow-quantum-chip/>
+        Willow, Our Quantum Chip |
     </a>
-    By: ChrisArchitect
+    By: robflaherty
 </li>
 
 <li>
-    <a href=https://json5.org/>
-        JSON5 – JSON for Humans |
+    <a href=https://openai.com/index/sora-is-here/>
+        Sora is here |
     </a>
-    By: rickcarlino
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues>
-        Good union types in Go would probably need types without a zero value |
+    <a href=https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/>
+        What TDD Is Good For |
     </a>
-    By: ingve
+    By: thunderbong
 </li>
 </ol>
