@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 10 Dec 2024</h4>
+<h4>Check the latest news from: Wed 11 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.savethearchive.com/>
-        Musicians Rally Behind Internet Archive in $621M Music Label Battle |
+    <a href=https://antirez.com/news/144>
+        From where I left |
     </a>
-    By: m463
+    By: tilt
 </li>
 
 <li>
-    <a href=https://treecalcul.us/>
-        Tree Calculus |
+    <a href=https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html>
+        GM exits robotaxi market, will bring Cruise operations in house |
     </a>
-    By: iamwil
+    By: atomic128
 </li>
 
 <li>
-    <a href=https://blog.google/technology/research/google-willow-quantum-chip/>
-        Willow, Our Quantum Chip |
+    <a href=https://electric-sql.com/blog/2024/12/10/electric-beta-release>
+        Electric (Postgres sync engine) beta release |
     </a>
-    By: robflaherty
+    By: austinbirch
 </li>
 
 <li>
-    <a href=https://openai.com/index/sora-is-here/>
-        Sora is here |
+    <a href=https://scottaaronson.blog/?p=8525>
+        The Google Willow Thing |
     </a>
-    By: toomuchtodo
+    By: Bootvis
 </li>
 
 <li>
-    <a href=https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/>
-        What TDD Is Good For |
+    <a href=https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese>
+        One of the last Navajo code-talkers died on October 19th, aged 107 |
     </a>
-    By: thunderbong
+    By: helsinkiandrew
 </li>
 </ol>
