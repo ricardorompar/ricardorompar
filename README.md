@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 11 Dec 2024</h4>
+<h4>Check the latest news from: Thu 12 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://antirez.com/news/144>
-        From where I left |
+    <a href=https://docs.fcc.gov/public/attachments/DOC-408129A1.txt>
+        FCC opens entire 6 GHz band to low power device operations |
     </a>
-    By: tilt
+    By: impish9208
 </li>
 
 <li>
-    <a href=https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html>
-        GM exits robotaxi market, will bring Cruise operations in house |
+    <a href=https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency>
+        Mysterious New Jersey drone sightings prompt call for 'state of emergency' |
     </a>
-    By: atomic128
+    By: anigbrowl
 </li>
 
 <li>
-    <a href=https://electric-sql.com/blog/2024/12/10/electric-beta-release>
-        Electric (Postgres sync engine) beta release |
+    <a href=https://github.com/skuep/AIOC>
+        Ham Radio All-in-One-Cable |
     </a>
-    By: austinbirch
+    By: CTOSian
 </li>
 
 <li>
-    <a href=https://scottaaronson.blog/?p=8525>
-        The Google Willow Thing |
+    <a href=https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit>
+        Chatbot hinted a kid should kill his parents over screen time limits: lawsuit |
     </a>
-    By: Bootvis
+    By: airstrike
 </li>
 
 <li>
-    <a href=https://www.economist.com/obituary/2024/12/05/john-kinsel-used-his-own-language-to-fool-the-japanese>
-        One of the last Navajo code-talkers died on October 19th, aged 107 |
+    <a href=https://www.za-zu.com/blog/playbook>
+        The Cold Email Handbook |
     </a>
-    By: helsinkiandrew
+    By: baxtr
 </li>
 </ol>
