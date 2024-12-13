@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 12 Dec 2024</h4>
+<h4>Check the latest news from: Fri 13 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://docs.fcc.gov/public/attachments/DOC-408129A1.txt>
-        FCC opens entire 6 GHz band to low power device operations |
+    <a href=https://spectrum.ieee.org/ibm-demo>
+        A new video captures a 1968 demo of IBM’s Executive Terminal |
     </a>
-    By: impish9208
+    By: sohkamyung
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency>
-        Mysterious New Jersey drone sightings prompt call for 'state of emergency' |
+    <a href=https://www.datafuel.dev/>
+        Show HN: DataFuel.dev – Turn websites into LLM-ready data |
     </a>
-    By: anigbrowl
+    By: sachou
+</li>
+
+<p>
+Text: Just launched DataFuel.dev on Product Hunt last Sunday, and I landed in the top 3!<p>I built this API after working on an AI chatbot builder.<p>Scraping can be a pain, but we need clean markdown data for fine-tuning or doing RAG with new LLM models.<p>DataFuel API helps you transform websites into LLM-ready data. I&#x27;ve already got my first paying users.<p>Would love your feedback to improve my product and my marketing! </br>
+</p>
+
+<li>
+    <a href=https://spectrum.ieee.org/transformer-shortage>
+        A transformer supply crisis bottlenecks energy projects |
+    </a>
+    By: TaurenHunter
 </li>
 
 <li>
-    <a href=https://github.com/skuep/AIOC>
-        Ham Radio All-in-One-Cable |
+    <a href=https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw>
+        Gukesh becomes the youngest chess world champion in history |
     </a>
-    By: CTOSian
+    By: alexmolas
 </li>
 
 <li>
-    <a href=https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit>
-        Chatbot hinted a kid should kill his parents over screen time limits: lawsuit |
+    <a href=https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html>
+        Elixir/Erlang Hot Swapping Code (2016) |
     </a>
-    By: airstrike
-</li>
-
-<li>
-    <a href=https://www.za-zu.com/blog/playbook>
-        The Cold Email Handbook |
-    </a>
-    By: baxtr
+    By: justinludwig
 </li>
 </ol>
