@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 13 Dec 2024</h4>
+<h4>Check the latest news from: Sat 14 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://spectrum.ieee.org/ibm-demo>
-        A new video captures a 1968 demo of IBM’s Executive Terminal |
+    <a href=https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/>
+        macOS 15.2 breaks the ability to copy the OS to another drive |
     </a>
-    By: sohkamyung
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.datafuel.dev/>
-        Show HN: DataFuel.dev – Turn websites into LLM-ready data |
+    <a href=https://github.com/rochus-keller/Luon/blob/master/Readme.md>
+        Luon programming language |
     </a>
-    By: sachou
+    By: thunderbong
+</li>
+
+<li>
+    <a href=https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1>
+        Sharing new research, models, and datasets from Meta FAIR |
+    </a>
+    By: ilaksh
+</li>
+
+<li>
+    <a href=https://github.com/ellenhp/farebox>
+        Show HN: Performant intracontinental public transport routing in Rust |
+    </a>
+    By: ellenhp
 </li>
 
 <p>
-Text: Just launched DataFuel.dev on Product Hunt last Sunday, and I landed in the top 3!<p>I built this API after working on an AI chatbot builder.<p>Scraping can be a pain, but we need clean markdown data for fine-tuning or doing RAG with new LLM models.<p>DataFuel API helps you transform websites into LLM-ready data. I&#x27;ve already got my first paying users.<p>Would love your feedback to improve my product and my marketing! </br>
+Text: I made a public transport route planning program that&#x27;s capable of planning journeys across Europe or North America! There&#x27;s only one other FOSS project I know of (MOTIS&#x2F;Transitous) that can do transit routing at this scale, and in the testing I&#x27;ve performed mine is about 50x faster. I&#x27;ve spent a few weeks on this project now and it&#x27;s getting to the point where I can show it off, but the API responses need a lot of work before they&#x27;re usable for any downstream application.<p>Example query (Berlin to Barcelona): <a href="https:&#x2F;&#x2F;farebox.airmail.rs&#x2F;plan&#x2F;52.5176122,13.4180261&#x2F;41.380458,2.1455451" rel="nofollow">https:&#x2F;&#x2F;farebox.airmail.rs&#x2F;plan&#x2F;52.5176122,13.4180261&#x2F;41.380...</a><p>There are some bugs still. Notably, it&#x27;s not capable of planning the return trip for this route, nor the reverse of the trip from Seattle to NYC that I gave in the blog post.<p>Blog post: <a href="https:&#x2F;&#x2F;blog.ellenhp.me&#x2F;performant-intracontinental-transit-routing-in-rust" rel="nofollow">https:&#x2F;&#x2F;blog.ellenhp.me&#x2F;performant-intracontinental-transit-...</a><p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;ellenhp&#x2F;farebox">https:&#x2F;&#x2F;github.com&#x2F;ellenhp&#x2F;farebox</a><p>Side-note but in the past some have criticized my writing style and it&#x27;s been a bit hurtful at times but if you have <i>constructive</i> feedback on the blog post I&#x27;d appreciate it. I&#x27;m trying to get better at writing. :) </br>
 </p>
 
 <li>
-    <a href=https://spectrum.ieee.org/transformer-shortage>
-        A transformer supply crisis bottlenecks energy projects |
+    <a href=https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/>
+        Exotic new superconductors delight and confound |
     </a>
-    By: TaurenHunter
-</li>
-
-<li>
-    <a href=https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw>
-        Gukesh becomes the youngest chess world champion in history |
-    </a>
-    By: alexmolas
-</li>
-
-<li>
-    <a href=https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html>
-        Elixir/Erlang Hot Swapping Code (2016) |
-    </a>
-    By: justinludwig
+    By: ernesto95
 </li>
 </ol>
