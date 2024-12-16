@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 15 Dec 2024</h4>
+<h4>Check the latest news from: Mon 16 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/>
-        School smartphone ban results in better sleep and improved mood: study |
+    <a href=https://cyphernet.es/#>
+        Cyphernetes: A Query Language for Kubernetes |
     </a>
-    By: jonatron
+    By: fatliverfreddy
 </li>
 
 <li>
-    <a href=https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware>
-        Tenstorrent and the State of AI Hardware Startups |
+    <a href=https://github.com/anvaka/map-of-github>
+        Map of GitHub |
     </a>
-    By: zdw
+    By: vortex_ape
 </li>
 
 <li>
-    <a href=https://irata.online/>
-        IRATA.ONLINE: A Community for Retro-Computing Enthusiasts |
+    <a href=https://www.openerv.ca>
+        OpenERV |
     </a>
-    By: Bluestein
+    By: graboy
 </li>
 
 <li>
-    <a href=https://www.washingtonpost.com/lifestyle/2024/12/02/strava-art-run-toronto-mccabe/>
-        Man ran 700 miles to make 'insanely impressive' art on GPS fitness app |
+    <a href=https://dillo-browser.github.io/25-years/>
+        25 Years of Dillo |
     </a>
-    By: bookofjoe
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://willwhitney.com/computing-inside-ai.html>
-        Computing Inside an AI |
+    <a href=http://marc.merlins.org/linux/teaparty/>
+        Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999) |
     </a>
-    By: pongogogo
+    By: wizardforhire
 </li>
 </ol>
