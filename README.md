@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 16 Dec 2024</h4>
+<h4>Check the latest news from: Tue 17 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://cyphernet.es/#>
-        Cyphernetes: A Query Language for Kubernetes |
+    <a href=https://linus.schreibt.jetzt/posts/qemu-9p-performance.html>
+        Make your QEMU 10 times faster with this one weird trick |
     </a>
-    By: fatliverfreddy
+    By: tripdout
 </li>
 
 <li>
-    <a href=https://github.com/anvaka/map-of-github>
-        Map of GitHub |
+    <a href=https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/>
+        New LLM optimization technique slashes memory costs up to 75% |
     </a>
-    By: vortex_ape
+    By: hochmartinez
 </li>
 
 <li>
-    <a href=https://www.openerv.ca>
-        OpenERV |
+    <a href=https://luke8086.dev/netbsd-on-thinkpad-380z.html>
+        Running NetBSD on IBM ThinkPad 380Z |
     </a>
-    By: graboy
+    By: jaypatelani
 </li>
 
 <li>
-    <a href=https://dillo-browser.github.io/25-years/>
-        25 Years of Dillo |
+    <a href=https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident>
+        Settlement from Meta for Australian Users Impacted by Cambridge Analytica |
     </a>
-    By: todsacerdoti
+    By: ajdlinux
 </li>
 
 <li>
-    <a href=http://marc.merlins.org/linux/teaparty/>
-        Silicon Valley Tea Party a.k.a. the great 1998 Linux revolt take II (1999) |
+    <a href=https://github.com/XiaoMi/ha_xiaomi_home>
+        Xiaomi Home Integration for Home Assistant |
     </a>
-    By: wizardforhire
+    By: coherence73
 </li>
 </ol>
