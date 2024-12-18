@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 17 Dec 2024</h4>
+<h4>Check the latest news from: Wed 18 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://linus.schreibt.jetzt/posts/qemu-9p-performance.html>
-        Make your QEMU 10 times faster with this one weird trick |
+    <a href=https://ciechanow.ski/moon/>
+        Moon |
     </a>
-    By: tripdout
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/>
-        New LLM optimization technique slashes memory costs up to 75% |
+    <a href=https://olivernguyen.io/w/namespace.error/>
+        How We Centralized and Structured Error Handling in Golang |
     </a>
-    By: hochmartinez
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://luke8086.dev/netbsd-on-thinkpad-380z.html>
-        Running NetBSD on IBM ThinkPad 380Z |
+    <a href=https://lodev.org/cgtutor/xortexture.html>
+        The XOR Texture (2004) |
     </a>
-    By: jaypatelani
+    By: doener
 </li>
 
 <li>
-    <a href=https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident>
-        Settlement from Meta for Australian Users Impacted by Cambridge Analytica |
+    <a href=https://github.com/ergochat/ergo>
+        Ergo Chat – A modern IRC server written in Go |
     </a>
-    By: ajdlinux
+    By: OuterVale
 </li>
 
 <li>
-    <a href=https://github.com/XiaoMi/ha_xiaomi_home>
-        Xiaomi Home Integration for Home Assistant |
+    <a href=http://www.extentofthejam.com/pseudo/>
+        Lou's Pseudo 3D Page (2013) |
     </a>
-    By: coherence73
+    By: whereistimbo
 </li>
 </ol>
