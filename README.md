@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 18 Dec 2024</h4>
+<h4>Check the latest news from: Thu 19 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://ciechanow.ski/moon/>
-        Moon |
+    <a href=https://github.com/Z-Gort/Reservoirs-Lab>
+        Show HN: Postgres as a VectorDB GUI |
     </a>
-    By: todsacerdoti
+    By: z-gort
 </li>
 
 <li>
-    <a href=https://olivernguyen.io/w/namespace.error/>
-        How We Centralized and Structured Error Handling in Golang |
+    <a href=https://github.com/pwr-Solaar/Solaar>
+        Solaar is a Linux manager for many Logitech keyboards, mice, and other devices |
     </a>
-    By: thunderbong
+    By: teekert
 </li>
 
 <li>
-    <a href=https://lodev.org/cgtutor/xortexture.html>
-        The XOR Texture (2004) |
+    <a href=https://perladvent.org/2024/2024-12-19.html>
+        Half My Life with Perl – By Randal Schwartz |
     </a>
-    By: doener
+    By: oalders
 </li>
 
 <li>
-    <a href=https://github.com/ergochat/ergo>
-        Ergo Chat – A modern IRC server written in Go |
+    <a href=https://github.com/glacambre/firenvim>
+        Firenvim – Turn the browser into a Neovim client |
     </a>
     By: OuterVale
 </li>
 
 <li>
-    <a href=http://www.extentofthejam.com/pseudo/>
-        Lou's Pseudo 3D Page (2013) |
+    <a href=https://github.com/garyexplains/piccolo_os_v1>
+        Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico |
     </a>
-    By: whereistimbo
+    By: todsacerdoti
 </li>
 </ol>
