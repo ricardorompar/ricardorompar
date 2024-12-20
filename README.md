@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 19 Dec 2024</h4>
+<h4>Check the latest news from: Fri 20 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://github.com/Z-Gort/Reservoirs-Lab>
-        Show HN: Postgres as a VectorDB GUI |
+    <a href=https://win-vector.com/2024/12/19/kelly-cant-fail/>
+        Kelly Can't Fail |
     </a>
-    By: z-gort
+    By: jmount
 </li>
 
 <li>
-    <a href=https://github.com/pwr-Solaar/Solaar>
-        Solaar is a Linux manager for many Logitech keyboards, mice, and other devices |
+    <a href=https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/>
+        The era of open voice assistants |
     </a>
-    By: teekert
+    By: _Microft
 </li>
 
 <li>
-    <a href=https://perladvent.org/2024/2024-12-19.html>
-        Half My Life with Perl – By Randal Schwartz |
+    <a href=https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/>
+        HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope |
     </a>
-    By: oalders
+    By: ForHackernews
 </li>
 
 <li>
-    <a href=https://github.com/glacambre/firenvim>
-        Firenvim – Turn the browser into a Neovim client |
+    <a href=https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/>
+        Satellite powered estimation of global solar potential |
     </a>
-    By: OuterVale
+    By: jonbaer
 </li>
 
 <li>
-    <a href=https://github.com/garyexplains/piccolo_os_v1>
-        Piccolo OS, a Small Multitasking OS for the Raspberry Pi Pico |
+    <a href=https://pyherald.com/articles/16_12_2024/>
+        Conda: A Package Management Disaster? |
     </a>
-    By: todsacerdoti
+    By: osdotsystem
 </li>
 </ol>
