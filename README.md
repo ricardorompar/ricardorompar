@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 20 Dec 2024</h4>
+<h4>Check the latest news from: Sat 21 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://win-vector.com/2024/12/19/kelly-cant-fail/>
-        Kelly Can't Fail |
+    <a href=https://arcprize.org/blog/oai-o3-pub-breakthrough>
+        OpenAI O3 breakthrough high score on ARC-AGI-PUB |
     </a>
-    By: jmount
+    By: maurycy
 </li>
 
 <li>
-    <a href=https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/>
-        The era of open voice assistants |
+    <a href=https://arxiv.org/abs/2412.15042>
+        Compiling C to Safe Rust, Formalized |
     </a>
-    By: _Microft
+    By: love2read
 </li>
 
 <li>
-    <a href=https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/>
-        HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope |
+    <a href=https://www.anthropic.com/research/building-effective-agents>
+        Building Effective "Agents" |
     </a>
-    By: ForHackernews
+    By: jascha_eng
 </li>
 
 <li>
-    <a href=https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/>
-        Satellite powered estimation of global solar potential |
+    <a href=https://grayjay.app/desktop/>
+        Grayjay Desktop App |
     </a>
-    By: jonbaer
+    By: pierrelf
 </li>
 
 <li>
-    <a href=https://pyherald.com/articles/16_12_2024/>
-        Conda: A Package Management Disaster? |
+    <a href=https://github.com/izabera/pseudo3d>
+        A Raycaster in Bash |
     </a>
-    By: osdotsystem
+    By: izabera
 </li>
 </ol>
