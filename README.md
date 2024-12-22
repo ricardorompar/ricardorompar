@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 21 Dec 2024</h4>
+<h4>Check the latest news from: Sun 22 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://arcprize.org/blog/oai-o3-pub-breakthrough>
-        OpenAI O3 breakthrough high score on ARC-AGI-PUB |
+    <a href=https://tidyfirst.substack.com/p/slow-deployment-causes-meetings>
+        Slow deployment causes meetings (2015) |
     </a>
-    By: maurycy
+    By: fagnerbrack
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2412.15042>
-        Compiling C to Safe Rust, Formalized |
+    <a href=https://www.datafix.com.au/BASHing/2020-08-12.html>
+        A data table thousands of years old (2020) |
     </a>
-    By: love2read
+    By: rickcarlino
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/research/building-effective-agents>
-        Building Effective "Agents" |
+    <a href=https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html>
+        Keeping a Changelog at Work (2020) |
     </a>
-    By: jascha_eng
+    By: lawgimenez
 </li>
 
 <li>
-    <a href=https://grayjay.app/desktop/>
-        Grayjay Desktop App |
+    <a href=https://anvaka.github.io/city-roads/>
+        City Roads: A tool to draw all roads in a city at once |
     </a>
-    By: pierrelf
+    By: gaws
 </li>
 
 <li>
-    <a href=https://github.com/izabera/pseudo3d>
-        A Raycaster in Bash |
+    <a href=https://github.com/malmeloo/FindMy.py>
+        Query Apple's FindMy network with Python |
     </a>
-    By: izabera
+    By: nkko
 </li>
 </ol>
