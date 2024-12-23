@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 22 Dec 2024</h4>
+<h4>Check the latest news from: Mon 23 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://tidyfirst.substack.com/p/slow-deployment-causes-meetings>
-        Slow deployment causes meetings (2015) |
+    <a href=https://twtxt.readthedocs.io/en/latest/index.html>
+        Twtxt is a decentralised, minimalist microblogging service for hackers |
     </a>
-    By: fagnerbrack
+    By: Gedxx
 </li>
 
 <li>
-    <a href=https://www.datafix.com.au/BASHing/2020-08-12.html>
-        A data table thousands of years old (2020) |
+    <a href=https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html>
+        Decoding the telephony signals in Pink Floyd's 'The Wall' |
     </a>
-    By: rickcarlino
+    By: matthiasl
 </li>
 
 <li>
-    <a href=https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html>
-        Keeping a Changelog at Work (2020) |
+    <a href=https://avi.im/blag/2024/sqlite-past-present-future/>
+        How bloom filters made SQLite 10x faster |
     </a>
-    By: lawgimenez
+    By: avinassh
 </li>
 
 <li>
-    <a href=https://anvaka.github.io/city-roads/>
-        City Roads: A tool to draw all roads in a city at once |
+    <a href=https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693>
+        GPT-5 is behind schedule |
     </a>
-    By: gaws
+    By: owenthejumper
 </li>
 
 <li>
-    <a href=https://github.com/malmeloo/FindMy.py>
-        Query Apple's FindMy network with Python |
+    <a href=https://near.tl/developer-forever/forum/announcement/being-a-developer-in-the-age-of-reasoning-ai.anc-4b87de19-f7cf-4ef0-91c8-e28b260fd9ad.html>
+        Being a Developer in the Age of Reasoning AI |
     </a>
-    By: nkko
+    By: QueensGambit
 </li>
 </ol>
