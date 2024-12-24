@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 23 Dec 2024</h4>
+<h4>Check the latest news from: Tue 24 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://twtxt.readthedocs.io/en/latest/index.html>
-        Twtxt is a decentralised, minimalist microblogging service for hackers |
+    <a href=https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference>
+        Making AMD GPUs competitive for LLM inference (2023) |
     </a>
-    By: Gedxx
+    By: plasticchris
 </li>
 
 <li>
-    <a href=https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html>
-        Decoding the telephony signals in Pink Floyd's 'The Wall' |
+    <a href=https://www.youtube.com/watch?v=JfZxOuc9Qwk>
+        What happened to the world's largest tube TV? [video] |
     </a>
-    By: matthiasl
+    By: ecliptik
 </li>
 
 <li>
-    <a href=https://avi.im/blag/2024/sqlite-past-present-future/>
-        How bloom filters made SQLite 10x faster |
+    <a href=https://mathstodon.xyz/@johncarlosbaez/113703444230936435>
+        The number pi has an evil twin |
     </a>
-    By: avinassh
+    By: pkaeding
 </li>
 
 <li>
-    <a href=https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693>
-        GPT-5 is behind schedule |
+    <a href=https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391>
+        Build a Low-Cost Drone Using ESP32 |
     </a>
-    By: owenthejumper
+    By: m3at
 </li>
 
 <li>
-    <a href=https://near.tl/developer-forever/forum/announcement/being-a-developer-in-the-age-of-reasoning-ai.anc-4b87de19-f7cf-4ef0-91c8-e28b260fd9ad.html>
-        Being a Developer in the Age of Reasoning AI |
+    <a href=https://www.rfleury.com/p/demystifying-debuggers-part-2-the>
+        Demystifying Debuggers, Part 2: The Anatomy of a Running Program |
     </a>
-    By: QueensGambit
+    By: robenkleene
 </li>
 </ol>
