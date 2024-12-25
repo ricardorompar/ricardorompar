@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 24 Dec 2024</h4>
+<h4>Check the latest news from: Wed 25 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference>
-        Making AMD GPUs competitive for LLM inference (2023) |
+    <a href=https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/>
+        AI-Generated Images Discourage Me from Reading Your Blog |
     </a>
-    By: plasticchris
+    By: nelsonfigueroa
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=JfZxOuc9Qwk>
-        What happened to the world's largest tube TV? [video] |
+    <a href=https://github.com/Jaennaet/pISSStream>
+        macOS menu bar app that shows how full the ISS urine tank is in real time |
     </a>
-    By: ecliptik
+    By: ajdude
 </li>
 
 <li>
-    <a href=https://mathstodon.xyz/@johncarlosbaez/113703444230936435>
-        The number pi has an evil twin |
+    <a href=https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201>
+        T * sin (t)' ≈ Ornamented Christmas Tree (2013) |
     </a>
-    By: pkaeding
+    By: ryeguy_24
 </li>
 
 <li>
-    <a href=https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391>
-        Build a Low-Cost Drone Using ESP32 |
+    <a href=https://simonwillison.net/2024/Dec/24/qvq/>
+        Trying out QvQ – Qwen's new visual reasoning model |
     </a>
-    By: m3at
+    By: simonw
 </li>
 
-<li>
-    <a href=https://www.rfleury.com/p/demystifying-debuggers-part-2-the>
-        Demystifying Debuggers, Part 2: The Anatomy of a Running Program |
-    </a>
-    By: robenkleene
-</li>
+<p>
+Text: What are some of your favorite memories from Christmas? Share them here :)<p>- Josh :) </br>
+</p>
 </ol>
