@@ -45,37 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 25 Dec 2024</h4>
+<h4>Check the latest news from: Thu 26 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/>
-        AI-Generated Images Discourage Me from Reading Your Blog |
+    <a href=https://github.com/blackcandy-org/blackcandy>
+        Blackcandy: Self hosted music streaming server |
     </a>
-    By: nelsonfigueroa
+    By: nateb2022
 </li>
 
 <li>
-    <a href=https://github.com/Jaennaet/pISSStream>
-        macOS menu bar app that shows how full the ISS urine tank is in real time |
+    <a href=https://www.egui.rs/>
+        Egui – An immediate mode GUI written in Rust |
     </a>
-    By: ajdude
+    By: josephcsible
 </li>
 
 <li>
-    <a href=https://community.wolfram.com/c/portal/getImageAttachment?filename=tree.gif&userId=93201>
-        T * sin (t)' ≈ Ornamented Christmas Tree (2013) |
+    <a href=https://minds.md/zakirullin/cognitive>
+        Cognitive load is what matters |
     </a>
-    By: ryeguy_24
+    By: zdw
 </li>
 
 <li>
-    <a href=https://simonwillison.net/2024/Dec/24/qvq/>
-        Trying out QvQ – Qwen's new visual reasoning model |
+    <a href=https://aphyr.com/posts/378-seconds-since-the-epoch>
+        Seconds Since the Epoch |
     </a>
-    By: simonw
+    By: zdw
 </li>
 
-<p>
-Text: What are some of your favorite memories from Christmas? Share them here :)<p>- Josh :) </br>
-</p>
+<li>
+    <a href=https://github.com/drk1wi/portspoof>
+        Portspoof: Emulate a valid service on all 65535 TCP ports |
+    </a>
+    By: nateb2022
+</li>
 </ol>
