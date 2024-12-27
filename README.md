@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 26 Dec 2024</h4>
+<h4>Check the latest news from: Fri 27 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://github.com/blackcandy-org/blackcandy>
-        Blackcandy: Self hosted music streaming server |
+    <a href=https://ghostty.org/>
+        Ghostty 1.0 |
     </a>
-    By: nateb2022
+    By: matrixhelix
 </li>
 
 <li>
-    <a href=https://www.egui.rs/>
-        Egui – An immediate mode GUI written in Rust |
+    <a href=https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering>
+        The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something |
     </a>
-    By: josephcsible
+    By: fagnerbrack
 </li>
 
 <li>
-    <a href=https://minds.md/zakirullin/cognitive>
-        Cognitive load is what matters |
+    <a href=https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/>
+        Why did so many mid-century designers make children's books? |
     </a>
-    By: zdw
+    By: apollinaire
 </li>
 
 <li>
-    <a href=https://aphyr.com/posts/378-seconds-since-the-epoch>
-        Seconds Since the Epoch |
+    <a href=https://acko.net/blog/subpixel-distance-transform/>
+        Sub-pixel distance transform (2023) |
     </a>
-    By: zdw
+    By: ChadNauseam
 </li>
 
 <li>
-    <a href=https://github.com/drk1wi/portspoof>
-        Portspoof: Emulate a valid service on all 65535 TCP ports |
+    <a href=https://www.jmeiners.com/lc3-vm/>
+        Write Your Own Virtual Machine (2022) |
     </a>
-    By: nateb2022
+    By: sebg
 </li>
 </ol>
