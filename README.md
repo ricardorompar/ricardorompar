@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 27 Dec 2024</h4>
+<h4>Check the latest news from: Sat 28 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://ghostty.org/>
-        Ghostty 1.0 |
-    </a>
-    By: matrixhelix
-</li>
-
-<li>
-    <a href=https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering>
-        The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something |
+    <a href=https://fhur.me/posts/2024/thats-not-an-abstraction>
+        That's Not an Abstraction, That's Just a Layer of Indirection |
     </a>
     By: fagnerbrack
 </li>
 
 <li>
-    <a href=https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/>
-        Why did so many mid-century designers make children's books? |
+    <a href=https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32>
+        Liberating Wi-Fi on the ESP32 [video] |
     </a>
-    By: apollinaire
+    By: doener
 </li>
 
 <li>
-    <a href=https://acko.net/blog/subpixel-distance-transform/>
-        Sub-pixel distance transform (2023) |
+    <a href=https://nytpu.com/gemlog/2024-12-27>
+        Ada's Dependent Types, and Its Types as a Whole |
     </a>
-    By: ChadNauseam
+    By: nytpu
 </li>
 
 <li>
-    <a href=https://www.jmeiners.com/lc3-vm/>
-        Write Your Own Virtual Machine (2022) |
+    <a href=https://ftp.ccc.de/congress/2024/h264-hd/>
+        CCC 2024 Videos Index |
     </a>
-    By: sebg
+    By: 1vuio0pswjnm7
+</li>
+
+<li>
+    <a href=https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends>
+        Should more of us be moving to live near friends? |
+    </a>
+    By: Geekette
 </li>
 </ol>
