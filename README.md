@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 28 Dec 2024</h4>
+<h4>Check the latest news from: Sun 29 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://fhur.me/posts/2024/thats-not-an-abstraction>
-        That's Not an Abstraction, That's Just a Layer of Indirection |
+    <a href=https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html>
+        Intel's $475M error: the silicon behind the Pentium division bug |
     </a>
-    By: fagnerbrack
+    By: gslin
 </li>
 
 <li>
-    <a href=https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32>
-        Liberating Wi-Fi on the ESP32 [video] |
+    <a href=https://lapcatsoftware.com/articles/2024/12/3.html>
+        Apple Photos phones home on iOS 18 and macOS 15 |
     </a>
-    By: doener
+    By: latexr
 </li>
 
 <li>
-    <a href=https://nytpu.com/gemlog/2024-12-27>
-        Ada's Dependent Types, and Its Types as a Whole |
+    <a href=https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html>
+        Personal Mail Server on OpenBSD (2019) |
     </a>
-    By: nytpu
+    By: likeabatterycar
 </li>
 
 <li>
-    <a href=https://ftp.ccc.de/congress/2024/h264-hd/>
-        CCC 2024 Videos Index |
+    <a href=https://fishshell.com/blog/rustport/>
+        Fish 4.0: The Fish of Theseus |
     </a>
-    By: 1vuio0pswjnm7
+    By: jdxcode
 </li>
 
 <li>
-    <a href=https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends>
-        Should more of us be moving to live near friends? |
+    <a href=https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/>
+        NASA, Axiom Space Change Assembly Order of Commercial Space Station |
     </a>
-    By: Geekette
+    By: mzs
 </li>
 </ol>
