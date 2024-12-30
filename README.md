@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 29 Dec 2024</h4>
+<h4>Check the latest news from: Mon 30 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html>
-        Intel's $475M error: the silicon behind the Pentium division bug |
+    <a href=https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios>
+        From Pegasus to Predator – The evolution of commercial spyware on iOS [video] |
     </a>
-    By: gslin
+    By: cookiengineer
 </li>
 
 <li>
-    <a href=https://lapcatsoftware.com/articles/2024/12/3.html>
-        Apple Photos phones home on iOS 18 and macOS 15 |
+    <a href=https://abuseofnotation.github.io/category-theory-illustrated/>
+        Category Theory Illustrated |
     </a>
-    By: latexr
+    By: zdw
 </li>
 
 <li>
-    <a href=https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html>
-        Personal Mail Server on OpenBSD (2019) |
+    <a href=https://scrtwpns.com/mixbox/>
+        Pigment Mixing into Digital Painting |
     </a>
-    By: likeabatterycar
+    By: tlarkworthy
 </li>
 
 <li>
-    <a href=https://fishshell.com/blog/rustport/>
-        Fish 4.0: The Fish of Theseus |
+    <a href=https://www.codycomputer.org/>
+        The Cody Computer |
     </a>
-    By: jdxcode
+    By: classichasclass
 </li>
 
 <li>
-    <a href=https://www.nasa.gov/humans-in-space/nasa-axiom-space-change-assembly-order-of-commercial-space-station/>
-        NASA, Axiom Space Change Assembly Order of Commercial Space Station |
+    <a href=https://github.com/OpenSPG/KAG>
+        KAG – Knowledge Graph RAG Framework |
     </a>
-    By: mzs
+    By: taikon
 </li>
 </ol>
