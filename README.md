@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 30 Dec 2024</h4>
+<h4>Check the latest news from: Tue 31 Dec 2024</h4>
 <ol>
 <li>
-    <a href=https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios>
-        From Pegasus to Predator – The evolution of commercial spyware on iOS [video] |
+    <a href=https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/>
+        I keep turning my Google Sheets into phone-friendly webapps, and I can't stop |
     </a>
-    By: cookiengineer
+    By: cpeterso
 </li>
 
 <li>
-    <a href=https://abuseofnotation.github.io/category-theory-illustrated/>
-        Category Theory Illustrated |
+    <a href=https://aipapersacademy.com/chain-of-continuous-thought/>
+        Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought? |
     </a>
-    By: zdw
+    By: TaurenHunter
 </li>
 
 <li>
-    <a href=https://scrtwpns.com/mixbox/>
-        Pigment Mixing into Digital Painting |
+    <a href=https://noinitrd.github.io/Memory-Dump-UEFI/>
+        Dumping Memory to Bypass BitLocker on Windows 11 |
     </a>
-    By: tlarkworthy
+    By: supermatou
 </li>
 
 <li>
-    <a href=https://www.codycomputer.org/>
-        The Cody Computer |
+    <a href=https://www.gutenberg.org/files/38769/38769-pdf.pdf>
+        "A Course of Pure Mathematics" – G. H. Hardy (1921) [pdf] |
     </a>
-    By: classichasclass
+    By: bikenaga
 </li>
 
 <li>
-    <a href=https://github.com/OpenSPG/KAG>
-        KAG – Knowledge Graph RAG Framework |
+    <a href=https://jonot.me/posts/zig-gba/>
+        I Wrote a Game Boy Advance Game in Zig |
     </a>
-    By: taikon
+    By: tehnub
 </li>
 </ol>
