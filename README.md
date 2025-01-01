@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 31 Dec 2024</h4>
+<h4>Check the latest news from: Wed 01 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/>
-        I keep turning my Google Sheets into phone-friendly webapps, and I can't stop |
+    <a href=https://curiouscoding.nl/posts/static-search-tree/>
+        Static search trees: faster than binary search |
     </a>
-    By: cpeterso
+    By: atombender
+</li>
+
+<p>
+Text: Hey HN, this site always drags me back to visit it everyday. So for that Happy New year ! </br>
+</p>
+
+<li>
+    <a href=https://github.com/louis-e/arnis>
+        Arnis: Generate cities in Minecraft from OpenStreetMap |
+    </a>
+    By: jamesy0ung
 </li>
 
 <li>
-    <a href=https://aipapersacademy.com/chain-of-continuous-thought/>
-        Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought? |
+    <a href=https://github.com/facebookresearch/large_concept_model>
+        Large Concept Models: Language modeling in a sentence representation space |
     </a>
-    By: TaurenHunter
+    By: batata_frita
 </li>
 
 <li>
-    <a href=https://noinitrd.github.io/Memory-Dump-UEFI/>
-        Dumping Memory to Bypass BitLocker on Windows 11 |
+    <a href=https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering>
+        I Reversed a Drone and Landed It with My PC |
     </a>
-    By: supermatou
-</li>
-
-<li>
-    <a href=https://www.gutenberg.org/files/38769/38769-pdf.pdf>
-        "A Course of Pure Mathematics" – G. H. Hardy (1921) [pdf] |
-    </a>
-    By: bikenaga
-</li>
-
-<li>
-    <a href=https://jonot.me/posts/zig-gba/>
-        I Wrote a Game Boy Advance Game in Zig |
-    </a>
-    By: tehnub
+    By: hw-f3nter
 </li>
 </ol>
