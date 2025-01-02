@@ -45,37 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 01 Jan 2025</h4>
+<h4>Check the latest news from: Thu 02 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://curiouscoding.nl/posts/static-search-tree/>
-        Static search trees: faster than binary search |
+    <a href=https://j3s.sh/thought/blogs-rot-wikis-wait.html>
+        Blogs rot. Wikis wait |
     </a>
-    By: atombender
-</li>
-
-<p>
-Text: Hey HN, this site always drags me back to visit it everyday. So for that Happy New year ! </br>
-</p>
-
-<li>
-    <a href=https://github.com/louis-e/arnis>
-        Arnis: Generate cities in Minecraft from OpenStreetMap |
-    </a>
-    By: jamesy0ung
+    By: j3s
 </li>
 
 <li>
-    <a href=https://github.com/facebookresearch/large_concept_model>
-        Large Concept Models: Language modeling in a sentence representation space |
+    <a href=https://mathstodon.xyz/@tao/113721192051328193>
+        One of my papers got declined today |
     </a>
-    By: batata_frita
+    By: GavCo
 </li>
 
 <li>
-    <a href=https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering>
-        I Reversed a Drone and Landed It with My PC |
+    <a href=https://doom-captcha.vercel.app/>
+        DOOM CAPTCHA |
     </a>
-    By: hw-f3nter
+    By: denysvitali
+</li>
+
+<li>
+    <a href=https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf>
+        The Cognitive Style of PowerPoint [pdf] |
+    </a>
+    By: raviisoccupied
+</li>
+
+<li>
+    <a href=https://www.snopes.com/fact-check/trees-stars-milky-way/>
+        Are there more trees on Earth than stars in the Milky Way? (2016) |
+    </a>
+    By: alexmolas
 </li>
 </ol>
