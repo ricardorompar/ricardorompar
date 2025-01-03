@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 02 Jan 2025</h4>
+<h4>Check the latest news from: Fri 03 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://j3s.sh/thought/blogs-rot-wikis-wait.html>
-        Blogs rot. Wikis wait |
+    <a href=https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog>
+        iTerm2 critical security release |
     </a>
-    By: j3s
+    By: tjwds
 </li>
 
 <li>
-    <a href=https://mathstodon.xyz/@tao/113721192051328193>
-        One of my papers got declined today |
+    <a href=https://streamer.kuvasz.io/>
+        Kuvasz-streamer: open-source CDC for Postgres for low latency replication |
     </a>
-    By: GavCo
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://doom-captcha.vercel.app/>
-        DOOM CAPTCHA |
+    <a href=http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html>
+        Advent of Code 2024 in pure SQL |
     </a>
-    By: denysvitali
+    By: greghn
 </li>
 
 <li>
-    <a href=https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf>
-        The Cognitive Style of PowerPoint [pdf] |
+    <a href=https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts>
+        Zildjian, a 400-year-old cymbal-making company in Massachusetts |
     </a>
-    By: raviisoccupied
+    By: arbesman
 </li>
 
 <li>
-    <a href=https://www.snopes.com/fact-check/trees-stars-milky-way/>
-        Are there more trees on Earth than stars in the Milky Way? (2016) |
+    <a href=https://tavianator.com/2025/shlx.html>
+        The Alder Lake SHLX Anomaly |
     </a>
-    By: alexmolas
+    By: panic
 </li>
 </ol>
