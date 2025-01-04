@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 03 Jan 2025</h4>
+<h4>Check the latest news from: Sat 04 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog>
-        iTerm2 critical security release |
+    <a href=https://pimosa.app/>
+        Show HN: I completed shipping my desktop app |
     </a>
-    By: tjwds
+    By: anshrathodfr
+</li>
+
+<p>
+Text: Hi, I&#x27;m a developer and first time i shipped the real product after observing the startups and indie hackers community for years.<p>I had made so many useless apps [you should check my website <a href="https:&#x2F;&#x2F;ansh.life" rel="nofollow">https:&#x2F;&#x2F;ansh.life</a>], but this time I built a very useful product that has a number of super easy-to-use tools in one app for video, music, and photo files. Users can compress, convert, resize, and do so much more with easy-to-use tools.<p>Background: I developed a frame-by-frame video cropper to upload cropped landscape videos to Instagram Reels. However, it required FFmpeg, and as a noob video editor, I decided to incorporate more user-friendly video tools. I then introduced image and audio tools to maximize the capabilities of FFmpeg. I use my app daily, and it has surprisingly generated a few thousand dollars for me. </br>
+</p>
+
+<li>
+    <a href=https://github.com/s-macke/VoxelSpace>
+        VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020) |
+    </a>
+    By: lnyan
 </li>
 
 <li>
-    <a href=https://streamer.kuvasz.io/>
-        Kuvasz-streamer: open-source CDC for Postgres for low latency replication |
+    <a href=https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/>
+        B-Trees: More Than I Thought I'd Want to Know |
     </a>
-    By: thunderbong
+    By: hochmartinez
 </li>
 
 <li>
-    <a href=http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html>
-        Advent of Code 2024 in pure SQL |
+    <a href=https://github.com/obfusk/fdroid-fakesigner-poc>
+        F-Droid Fake Signer PoC |
     </a>
-    By: greghn
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts>
-        Zildjian, a 400-year-old cymbal-making company in Massachusetts |
+    <a href=https://www.strydr.net/articles/devlog-0x1>
+        XORShift for Magic Bitboards |
     </a>
-    By: arbesman
-</li>
-
-<li>
-    <a href=https://tavianator.com/2025/shlx.html>
-        The Alder Lake SHLX Anomaly |
-    </a>
-    By: panic
+    By: chilipepperhott
 </li>
 </ol>
