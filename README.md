@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 04 Jan 2025</h4>
+<h4>Check the latest news from: Sun 05 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://pimosa.app/>
-        Show HN: I completed shipping my desktop app |
+    <a href=https://amanvir.com/guten>
+        Guten: A Tiny Newspaper Printer |
     </a>
-    By: anshrathodfr
-</li>
-
-<p>
-Text: Hi, I&#x27;m a developer and first time i shipped the real product after observing the startups and indie hackers community for years.<p>I had made so many useless apps [you should check my website <a href="https:&#x2F;&#x2F;ansh.life" rel="nofollow">https:&#x2F;&#x2F;ansh.life</a>], but this time I built a very useful product that has a number of super easy-to-use tools in one app for video, music, and photo files. Users can compress, convert, resize, and do so much more with easy-to-use tools.<p>Background: I developed a frame-by-frame video cropper to upload cropped landscape videos to Instagram Reels. However, it required FFmpeg, and as a noob video editor, I decided to incorporate more user-friendly video tools. I then introduced image and audio tools to maximize the capabilities of FFmpeg. I use my app daily, and it has surprisingly generated a few thousand dollars for me. </br>
-</p>
-
-<li>
-    <a href=https://github.com/s-macke/VoxelSpace>
-        VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020) |
-    </a>
-    By: lnyan
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/>
-        B-Trees: More Than I Thought I'd Want to Know |
+    <a href=https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist>
+        No more needles Tracking blood sugar on your wrist |
     </a>
-    By: hochmartinez
+    By: ndrwnaguib
 </li>
 
 <li>
-    <a href=https://github.com/obfusk/fdroid-fakesigner-poc>
-        F-Droid Fake Signer PoC |
+    <a href=https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/>
+        University of Alabama Engineer Pioneers New Process for Recycling Plastics (2024) |
     </a>
-    By: pabs3
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://www.strydr.net/articles/devlog-0x1>
-        XORShift for Magic Bitboards |
+    <a href=https://astrodon.social/@cgbassa/113770318993975063>
+        Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram |
     </a>
-    By: chilipepperhott
+    By: nebalee
+</li>
+
+<li>
+    <a href=https://github.com/ghaerr/elks>
+        ELKS: Linux for 16-bit Intel Processors |
+    </a>
+    By: emersonrsantos
 </li>
 </ol>
