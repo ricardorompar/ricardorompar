@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 05 Jan 2025</h4>
+<h4>Check the latest news from: Mon 06 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://amanvir.com/guten>
-        Guten: A Tiny Newspaper Printer |
+    <a href=https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi>
+        Regulations Enabling 6 GHz Wi-Fi |
     </a>
-    By: thunderbong
+    By: teleforce
 </li>
 
 <li>
-    <a href=https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist>
-        No more needles Tracking blood sugar on your wrist |
+    <a href=https://psi3.ru/blog/swl01u/>
+        Remote code execution via MIDI messages |
     </a>
-    By: ndrwnaguib
+    By: portasynthinca3
 </li>
 
 <li>
-    <a href=https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/>
-        University of Alabama Engineer Pioneers New Process for Recycling Plastics (2024) |
+    <a href=https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later>
+        Republishing my Simpsons fan site, twenty years later |
     </a>
-    By: thunderbong
+    By: zebomon
 </li>
 
 <li>
-    <a href=https://astrodon.social/@cgbassa/113770318993975063>
-        Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram |
+    <a href=https://github.com/srsran>
+        SrsRAN: Open-Source 4G/5G |
     </a>
-    By: nebalee
+    By: gballan
 </li>
 
 <li>
-    <a href=https://github.com/ghaerr/elks>
-        ELKS: Linux for 16-bit Intel Processors |
+    <a href=https://harimus.github.io//2025/01/02/kakizome.html>
+        Kakizome, Japanese way of new-years resolution |
     </a>
-    By: emersonrsantos
+    By: NalNezumi
 </li>
 </ol>
