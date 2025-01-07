@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 06 Jan 2025</h4>
+<h4>Check the latest news from: Tue 07 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi>
-        Regulations Enabling 6 GHz Wi-Fi |
+    <a href=https://neal.fun/stimulation-clicker/>
+        Stimulation Clicker |
     </a>
-    By: teleforce
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://psi3.ru/blog/swl01u/>
-        Remote code execution via MIDI messages |
+    <a href=https://crawshaw.io/blog/programming-with-llms>
+        How I program with LLMs |
     </a>
-    By: portasynthinca3
+    By: stpn
 </li>
 
 <li>
-    <a href=https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later>
-        Republishing my Simpsons fan site, twenty years later |
+    <a href=https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/>
+        Nvidia's Project Digits is a 'personal AI supercomputer' |
     </a>
-    By: zebomon
+    By: magicalhippo
 </li>
 
 <li>
-    <a href=https://github.com/srsran>
-        SrsRAN: Open-Source 4G/5G |
+    <a href=https://alexanderpetros.com/triptych/>
+        Triptych Proposals |
     </a>
-    By: gballan
+    By: felipemesquita
 </li>
 
 <li>
-    <a href=https://harimus.github.io//2025/01/02/kakizome.html>
-        Kakizome, Japanese way of new-years resolution |
+    <a href=https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds>
+        Roman Empire's use of lead lowered IQ levels across Europe, study finds |
     </a>
-    By: NalNezumi
+    By: pseudolus
 </li>
 </ol>
