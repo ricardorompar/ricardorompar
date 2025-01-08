@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 07 Jan 2025</h4>
+<h4>Check the latest news from: Wed 08 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://neal.fun/stimulation-clicker/>
-        Stimulation Clicker |
+    <a href=https://recyclebin.zip/posts/annoyinglinks/>
+        Magic/tragic email links: don't make them the only option |
     </a>
-    By: meetpateltech
+    By: gepeto42
 </li>
 
 <li>
-    <a href=https://crawshaw.io/blog/programming-with-llms>
-        How I program with LLMs |
+    <a href=https://www.seangoedecke.com/large-established-codebases/>
+        Mistakes engineers make in large established codebases |
     </a>
-    By: stpn
+    By: BerislavLopac
 </li>
 
 <li>
-    <a href=https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/>
-        Nvidia's Project Digits is a 'personal AI supercomputer' |
+    <a href=https://racenis.github.io/tram-sdk/why.html>
+        Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines |
     </a>
-    By: magicalhippo
+    By: racenis
+</li>
+
+<p>
+Text: Hello everyone, I would like to see if there is any interest in this little project that I have been working on for the past few years.<p>Could be relevant, seeing the direction in which the mainstream game engines are going.<p>I didn&#x27;t really like any of the already existing options, so I tried to make my own and it turned out to be easier than expected.<p>It&#x27;s sort of like a low-budget Unreal&#x2F;Source, but with open-world streaming support and it is free and open source. Very old-school. But optimized for more modern hardware. Very fast too.<p>Still not production ready, but it seems like it is mostly working.<p>I want to finish a few larger projects with it to see what happens.<p>Btw, the name is probably temporary. </br>
+</p>
+
+<li>
+    <a href=https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/>
+        A day in the life of a prolific voice phishing crew |
+    </a>
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://alexanderpetros.com/triptych/>
-        Triptych Proposals |
+    <a href=https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/>
+        Ending our third party fact-checking program and moving to Community Notes model |
     </a>
-    By: felipemesquita
-</li>
-
-<li>
-    <a href=https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds>
-        Roman Empire's use of lead lowered IQ levels across Europe, study finds |
-    </a>
-    By: pseudolus
+    By: impish9208
 </li>
 </ol>
