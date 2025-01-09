@@ -45,46 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 08 Jan 2025</h4>
+<h4>Check the latest news from: Thu 09 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://recyclebin.zip/posts/annoyinglinks/>
-        Magic/tragic email links: don't make them the only option |
+    <a href=https://github.com/xingyzt/fire>
+        Show HN: LA Wildfire Satellite Analysis |
     </a>
-    By: gepeto42
+    By: xingyzt
 </li>
 
 <li>
-    <a href=https://www.seangoedecke.com/large-established-codebases/>
-        Mistakes engineers make in large established codebases |
+    <a href=https://sagipolaczek.github.io/NeuralSVG/>
+        NeuralSVG: An Implicit Representation for Text-to-Vector Generation |
     </a>
-    By: BerislavLopac
+    By: lnyan
 </li>
 
 <li>
-    <a href=https://racenis.github.io/tram-sdk/why.html>
-        Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines |
+    <a href=https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key>
+        Cracking a 512-bit DKIM key for less than $8 in the cloud |
     </a>
-    By: racenis
-</li>
-
-<p>
-Text: Hello everyone, I would like to see if there is any interest in this little project that I have been working on for the past few years.<p>Could be relevant, seeing the direction in which the mainstream game engines are going.<p>I didn&#x27;t really like any of the already existing options, so I tried to make my own and it turned out to be easier than expected.<p>It&#x27;s sort of like a low-budget Unreal&#x2F;Source, but with open-world streaming support and it is free and open source. Very old-school. But optimized for more modern hardware. Very fast too.<p>Still not production ready, but it seems like it is mostly working.<p>I want to finish a few larger projects with it to see what happens.<p>Btw, the name is probably temporary. </br>
-</p>
-
-<li>
-    <a href=https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/>
-        A day in the life of a prolific voice phishing crew |
-    </a>
-    By: todsacerdoti
+    By: awulf
 </li>
 
 <li>
-    <a href=https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/>
-        Ending our third party fact-checking program and moving to Community Notes model |
+    <a href=https://sidhion.com/blog/28h_days_update_1/>
+        28h Days: year 1 update |
     </a>
-    By: impish9208
+    By: HAMSHAMA
+</li>
+
+<li>
+    <a href=https://8dcc.github.io/programming/pool-allocator.html>
+        Writing a simple pool allocator in C |
+    </a>
+    By: 8dcc
 </li>
 </ol>
-
-‍💼 Working...
