@@ -45,42 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 09 Jan 2025</h4>
+<h4>Check the latest news from: Fri 10 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/xingyzt/fire>
-        Show HN: LA Wildfire Satellite Analysis |
+    <a href=https://rodneybrooks.com/predictions-scorecard-2025-january-01/>
+        Predictions Scorecard, 2025 January 01 |
     </a>
-    By: xingyzt
+    By: timr
 </li>
 
 <li>
-    <a href=https://sagipolaczek.github.io/NeuralSVG/>
-        NeuralSVG: An Implicit Representation for Text-to-Vector Generation |
+    <a href=https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/>
+        A Three Month Review of Kagi Search and the Orion Web Browser (2024) |
     </a>
-    By: lnyan
+    By: Apocryphon
 </li>
 
 <li>
-    <a href=https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key>
-        Cracking a 512-bit DKIM key for less than $8 in the cloud |
+    <a href=https://th0mas.nl/downloads/pdftris.pdf>
+        Show HN: Tetris in a PDF |
     </a>
-    By: awulf
+    By: ThomasRinsma
+</li>
+
+<p>
+Text: I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I&#x2F;O primitives to make a basic game like Tetris.<p>It was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing&#x2F;hiding annotation &quot;fields&quot; works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.<p>All in all it&#x27;s quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: <a href="https:&#x2F;&#x2F;github.com&#x2F;ThomasRinsma&#x2F;pdftris&#x2F;blob&#x2F;main&#x2F;gengrid.py">https:&#x2F;&#x2F;github.com&#x2F;ThomasRinsma&#x2F;pdftris&#x2F;blob&#x2F;main&#x2F;gengrid.py</a> </br>
+</p>
+
+<li>
+    <a href=https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/>
+        WorstFit: Unveiling Hidden Transformers in Windows ANSI |
+    </a>
+    By: notmine1337
 </li>
 
 <li>
-    <a href=https://sidhion.com/blog/28h_days_update_1/>
-        28h Days: year 1 update |
+    <a href=https://gleam.run/news/improved-performance-and-publishing/>
+        Gleam v1.7.0 Released |
     </a>
-    By: HAMSHAMA
+    By: akkad33
 </li>
-
-<li>
-    <a href=https://8dcc.github.io/programming/pool-allocator.html>
-        Writing a simple pool allocator in C |
-    </a>
-    By: 8dcc
-</li>
-</ol>-e 
-
-‍💼 Working...
+</ol>
