@@ -45,46 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 10 Jan 2025</h4>
+<h4>Check the latest news from: Sat 11 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://rodneybrooks.com/predictions-scorecard-2025-january-01/>
-        Predictions Scorecard, 2025 January 01 |
+    <a href=https://danielwirtz.com/blog/spot-the-difference-superpower>
+        I've acquired a new superpower |
     </a>
-    By: timr
+    By: wirtzdan
 </li>
 
 <li>
-    <a href=https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/>
-        A Three Month Review of Kagi Search and the Orion Web Browser (2024) |
+    <a href=https://30fps.net/pages/pvs-portals-and-quake/>
+        Portals and Quake |
     </a>
-    By: Apocryphon
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://th0mas.nl/downloads/pdftris.pdf>
-        Show HN: Tetris in a PDF |
+    <a href=https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html>
+        Very Wrong Math |
     </a>
-    By: ThomasRinsma
-</li>
-
-<p>
-Text: I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I&#x2F;O primitives to make a basic game like Tetris.<p>It was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing&#x2F;hiding annotation &quot;fields&quot; works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.<p>All in all it&#x27;s quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: <a href="https:&#x2F;&#x2F;github.com&#x2F;ThomasRinsma&#x2F;pdftris&#x2F;blob&#x2F;main&#x2F;gengrid.py">https:&#x2F;&#x2F;github.com&#x2F;ThomasRinsma&#x2F;pdftris&#x2F;blob&#x2F;main&#x2F;gengrid.py</a> </br>
-</p>
-
-<li>
-    <a href=https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/>
-        WorstFit: Unveiling Hidden Transformers in Windows ANSI |
-    </a>
-    By: notmine1337
+    By: breadbox
 </li>
 
 <li>
-    <a href=https://gleam.run/news/improved-performance-and-publishing/>
-        Gleam v1.7.0 Released |
+    <a href=https://www.pagat.com/combat/cuttle.html>
+        Cuttle – a MTG like game using a standard 52 card deck |
     </a>
-    By: akkad33
+    By: 7thaccount
+</li>
+
+<li>
+    <a href=https://harimus.github.io//2024/05/31/motortask.html>
+        Common misconceptions about the complexity in robotics vs. AI (2024) |
+    </a>
+    By: wallflower
 </li>
 </ol>
-
-‍💼 Working...
