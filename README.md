@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 11 Jan 2025</h4>
+<h4>Check the latest news from: Sun 12 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://danielwirtz.com/blog/spot-the-difference-superpower>
-        I've acquired a new superpower |
+    <a href=https://www.digitalmars.com/articles/Cobvious.html>
+        Obvious things C should do |
     </a>
-    By: wirtzdan
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://30fps.net/pages/pvs-portals-and-quake/>
-        Portals and Quake |
+    <a href=https://ollama.com/library/phi4>
+        Phi 4 available on Ollama |
     </a>
-    By: ibobev
+    By: eadz
 </li>
 
 <li>
-    <a href=https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html>
-        Very Wrong Math |
+    <a href=https://blog.djhaskin.com/blog/why-i-chose-common-lisp/>
+        Why I Chose Common Lisp |
     </a>
-    By: breadbox
+    By: djha-skin
 </li>
 
 <li>
-    <a href=https://www.pagat.com/combat/cuttle.html>
-        Cuttle – a MTG like game using a standard 52 card deck |
+    <a href=https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge>
+        De-smarting the Marshall Uxbridge |
     </a>
-    By: 7thaccount
+    By: fanf2
 </li>
 
 <li>
-    <a href=https://harimus.github.io//2024/05/31/motortask.html>
-        Common misconceptions about the complexity in robotics vs. AI (2024) |
+    <a href=https://www.potaroo.net/ispcol/2025-01/addr2024.html>
+        IP addresses through 2024 |
     </a>
-    By: wallflower
+    By: DanAtC
 </li>
 </ol>
