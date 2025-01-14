@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 13 Jan 2025</h4>
+<h4>Check the latest news from: Tue 14 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://doompdf.pages.dev/doom.pdf>
-        Show HN: Doom (1993) in a PDF |
+    <a href=https://sourcecodered.com/snyk-malicious-npm-package/>
+        Snyk security researcher deploys malicious NPM packages targeting Cursor.com |
     </a>
-    By: vk6
-</li>
-
-<p>
-Text: I made a Doom source port that runs within a PDF file.<p>I was inspired by the recent HN post about Tetris in a PDF (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42645218">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42645218</a>) and I wondered if I could get Doom to run using a similar method.<p>It turns out that old versions of Emscripten can compile C to asm.js code that will happily run inside the limited JS runtime of the PDF engine. I used the doomgeneric (<a href="https:&#x2F;&#x2F;github.com&#x2F;ozkl&#x2F;doomgeneric">https:&#x2F;&#x2F;github.com&#x2F;ozkl&#x2F;doomgeneric</a>) fork of the original Doom source, as that made writing the IO fairly easy. All I had to do was implement a framebuffer and keyboard inputs.<p>Unlike previous interactive PDF demos, the output for DoomPDF is achieved by creating a text field for each row of pixels in the screen, then setting their contents to various ASCII characters. This gives me a 6 color monochrome display, that can be updated reasonably quickly (80ms per frame).<p>The source code is available at: <a href="https:&#x2F;&#x2F;github.com&#x2F;ading2210&#x2F;doompdf">https:&#x2F;&#x2F;github.com&#x2F;ading2210&#x2F;doompdf</a><p>Note that this PDF can only run in Chromium-based browsers that use the PDFium engine. </br>
-</p>
-
-<li>
-    <a href=http://134.0.119.41>
-        Disco Elysium Explorer |
-    </a>
-    By: kelseyfrog
+    By: arkadiyt
 </li>
 
 <li>
-    <a href=https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/>
-        Standard patterns in choice-based games (2015) |
+    <a href=https://en.wikipedia.org/wiki/Shavarsh_Karapetyan>
+        Shavarsh Karapetyan |
     </a>
-    By: Ariarule
+    By: handfuloflight
 </li>
 
 <li>
-    <a href=https://eieio.games/blog/bad-apple-with-regex-in-vim/>
-        Bad Apple but it's 6,500 regexes that I search for in Vim |
+    <a href=https://docs.linuxserver.io/images/docker-webtop/>
+        Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs |
     </a>
-    By: vortex_ape
+    By: weitzj
 </li>
 
 <li>
-    <a href=https://thefreemovie.buzz/>
-        The Free Movie: Frame-by-frame, handrawn reproduction of "The Bee Movie" (2023) |
+    <a href=https://www.githubstatus.com/incidents/qd96yfgvmcf9>
+        GitHub Git Operations Are Down |
     </a>
-    By: gaws
+    By: hunkins
+</li>
+
+<li>
+    <a href=https://www.hardbreak.wiki>
+        I created an open-source Hardware Hacking Wiki – with tutorials for beginners |
+    </a>
+    By: hw-f3nter
 </li>
 </ol>
