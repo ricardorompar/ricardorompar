@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 14 Jan 2025</h4>
+<h4>Check the latest news from: Wed 15 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://sourcecodered.com/snyk-malicious-npm-package/>
-        Snyk security researcher deploys malicious NPM packages targeting Cursor.com |
+    <a href=https://ffmpegbyexample.com/>
+        FFmpeg by Example |
     </a>
-    By: arkadiyt
+    By: piyushsthr
 </li>
 
 <li>
-    <a href=https://en.wikipedia.org/wiki/Shavarsh_Karapetyan>
-        Shavarsh Karapetyan |
+    <a href=https://boehs.org/node/homomorphic-encryption>
+        Homomorphic Encryption in iOS 18 |
     </a>
-    By: handfuloflight
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://docs.linuxserver.io/images/docker-webtop/>
-        Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs |
+    <a href=https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/>
+        Don't use cosine similarity carelessly |
     </a>
-    By: weitzj
+    By: stared
 </li>
 
 <li>
-    <a href=https://www.githubstatus.com/incidents/qd96yfgvmcf9>
-        GitHub Git Operations Are Down |
+    <a href=https://philipotoole.com/how-is-rqlite-tested/>
+        How rqlite is tested |
     </a>
-    By: hunkins
+    By: otoolep
 </li>
 
 <li>
-    <a href=https://www.hardbreak.wiki>
-        I created an open-source Hardware Hacking Wiki – with tutorials for beginners |
+    <a href=https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing>
+        Home Loss File System |
     </a>
-    By: hw-f3nter
+    By: borski
 </li>
 </ol>
