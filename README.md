@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 15 Jan 2025</h4>
+<h4>Check the latest news from: Thu 16 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://ffmpegbyexample.com/>
-        FFmpeg by Example |
+    <a href=https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai>
+        Anthropic achieves ISO 42001 certification for responsible AI |
     </a>
-    By: piyushsthr
+    By: Olshansky
 </li>
 
 <li>
-    <a href=https://boehs.org/node/homomorphic-encryption>
-        Homomorphic Encryption in iOS 18 |
+    <a href=https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem>
+        100x defect tolerance: How we solved the yield problem |
     </a>
-    By: surprisetalk
+    By: jwan584
 </li>
 
 <li>
-    <a href=https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/>
-        Don't use cosine similarity carelessly |
+    <a href=http://beza1e1.tuxen.de/lore/index.html>
+        Software Folklore |
     </a>
-    By: stared
+    By: ColinWright
 </li>
 
 <li>
-    <a href=https://philipotoole.com/how-is-rqlite-tested/>
-        How rqlite is tested |
+    <a href=https://hindenburgresearch.com/gratitude/>
+        I have made the decision to disband Hindenburg Research |
     </a>
-    By: otoolep
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing>
-        Home Loss File System |
+    <a href=https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/>
+        Why is Cloudflare Pages' bandwidth unlimited? |
     </a>
-    By: borski
+    By: MattSayar
 </li>
 </ol>
