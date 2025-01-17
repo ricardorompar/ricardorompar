@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 16 Jan 2025</h4>
+<h4>Check the latest news from: Fri 17 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai>
-        Anthropic achieves ISO 42001 certification for responsible AI |
+    <a href=https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit>
+        Starship Flight 7 |
     </a>
-    By: Olshansky
+    By: chinathrow
 </li>
 
 <li>
-    <a href=https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem>
-        100x defect tolerance: How we solved the yield problem |
+    <a href=https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/>
+        Bypassing disk encryption on systems with automatic TPM2 unlock |
     </a>
-    By: jwan584
+    By: arjvik
 </li>
 
 <li>
-    <a href=http://beza1e1.tuxen.de/lore/index.html>
-        Software Folklore |
+    <a href=https://keygen.sh/blog/no-calls/>
+        No Calls |
     </a>
-    By: ColinWright
+    By: ezekg
 </li>
 
 <li>
-    <a href=https://hindenburgresearch.com/gratitude/>
-        I have made the decision to disband Hindenburg Research |
+    <a href=https://lwn.net/Articles/1003780/>
+        Some things to expect in 2025 |
     </a>
-    By: toomuchtodo
+    By: signa11
 </li>
 
 <li>
-    <a href=https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/>
-        Why is Cloudflare Pages' bandwidth unlimited? |
+    <a href=https://learn.yjs.dev/>
+        Learn Yjs Interactively |
     </a>
-    By: MattSayar
+    By: paulgb
 </li>
 </ol>
