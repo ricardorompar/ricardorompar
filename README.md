@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 17 Jan 2025</h4>
+<h4>Check the latest news from: Sat 18 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit>
-        Starship Flight 7 |
+    <a href=https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for>
+        Using ChatGPT is not bad for the environment |
     </a>
-    By: chinathrow
+    By: returningfory2
 </li>
 
 <li>
-    <a href=https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/>
-        Bypassing disk encryption on systems with automatic TPM2 unlock |
+    <a href=https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle>
+        Investigating an "evil" RJ45 dongle |
     </a>
-    By: arjvik
+    By: zdw
 </li>
 
 <li>
-    <a href=https://keygen.sh/blog/no-calls/>
-        No Calls |
+    <a href=https://blog.railway.com/p/data-center-build-part-one>
+        So you want to build your own data center |
     </a>
-    By: ezekg
+    By: dban
 </li>
 
 <li>
-    <a href=https://lwn.net/Articles/1003780/>
-        Some things to expect in 2025 |
+    <a href=https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/>
+        The Los Angeles wildfires are self-inflicted |
     </a>
-    By: signa11
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://learn.yjs.dev/>
-        Learn Yjs Interactively |
+    <a href=https://blog.sourcedive.net/brood-war-korean-translations/>
+        Brood War Korean Translations |
     </a>
-    By: paulgb
+    By: todsacerdoti
 </li>
 </ol>
