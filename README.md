@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 18 Jan 2025</h4>
+<h4>Check the latest news from: Sun 19 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for>
-        Using ChatGPT is not bad for the environment |
+    <a href=https://www.kalmanfilter.net/default.aspx>
+        Kalman Filter Tutorial |
     </a>
-    By: returningfory2
+    By: ColinWright
 </li>
 
 <li>
-    <a href=https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle>
-        Investigating an "evil" RJ45 dongle |
+    <a href=https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram>
+        How Unix spell ran in 64kb RAM |
     </a>
-    By: zdw
+    By: madmax108
 </li>
 
 <li>
-    <a href=https://blog.railway.com/p/data-center-build-part-one>
-        So you want to build your own data center |
+    <a href=https://github.com/tonybaloney/vscode-pets>
+        VS Code Pets |
     </a>
-    By: dban
+    By: vortex_ape
 </li>
 
 <li>
-    <a href=https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/>
-        The Los Angeles wildfires are self-inflicted |
+    <a href=https://isd-project.github.io/isd/>
+        Show HN: Interactive systemd – a better way to work with systemd units |
     </a>
-    By: surprisetalk
+    By: kai-tub
 </li>
 
+<p>
+Text: I created a TUI for systemd&#x2F;systemctl called isd (interactive systemd).<p>It provides a fuzzy search for units, auto-refreshing previews, smart sudo handling, and a fully customizable, keyboard-focused interface for power users and newcomers alike.<p>It is a more powerful (but heavier) version of sysz, which was the inspiration for the project.<p>This should be a huge timesaver for anybody who frequently interacts with or edits systemd units&#x2F;services. And if not, please let me know why! :) </br>
+</p>
+
 <li>
-    <a href=https://blog.sourcedive.net/brood-war-korean-translations/>
-        Brood War Korean Translations |
+    <a href=https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/>
+        Australian Open resorts to animated caricatures to bypass broadcast restrictions |
     </a>
-    By: todsacerdoti
+    By: defrost
 </li>
 </ol>
