@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 19 Jan 2025</h4>
+<h4>Check the latest news from: Mon 20 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://www.kalmanfilter.net/default.aspx>
-        Kalman Filter Tutorial |
+    <a href=https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect>
+        Reverse Engineering Bambu Connect |
     </a>
-    By: ColinWright
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram>
-        How Unix spell ran in 64kb RAM |
+    <a href=https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again>
+        It's time to make computing personal again |
     </a>
-    By: madmax108
+    By: mariuz
 </li>
 
 <li>
-    <a href=https://github.com/tonybaloney/vscode-pets>
-        VS Code Pets |
+    <a href=https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320>
+        TikTok says it is restoring service for U.S. users |
     </a>
-    By: vortex_ape
+    By: Leary
 </li>
 
 <li>
-    <a href=https://isd-project.github.io/isd/>
-        Show HN: Interactive systemd – a better way to work with systemd units |
+    <a href=https://josef.cn/blog/uk-talent>
+        UK's hardware talent is being wasted |
     </a>
-    By: kai-tub
+    By: sebg
 </li>
 
-<p>
-Text: I created a TUI for systemd&#x2F;systemctl called isd (interactive systemd).<p>It provides a fuzzy search for units, auto-refreshing previews, smart sudo handling, and a fully customizable, keyboard-focused interface for power users and newcomers alike.<p>It is a more powerful (but heavier) version of sysz, which was the inspiration for the project.<p>This should be a huge timesaver for anybody who frequently interacts with or edits systemd units&#x2F;services. And if not, please let me know why! :) </br>
-</p>
-
 <li>
-    <a href=https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/>
-        Australian Open resorts to animated caricatures to bypass broadcast restrictions |
+    <a href=https://en.wikipedia.org/wiki/Bunkers_in_Albania>
+        Bunkers in Albania |
     </a>
-    By: defrost
+    By: samclemens
 </li>
 </ol>
