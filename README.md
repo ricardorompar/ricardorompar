@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 20 Jan 2025</h4>
+<h4>Check the latest news from: Tue 21 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect>
-        Reverse Engineering Bambu Connect |
+    <a href=https://ssno.cc/posts/reversing-tac-1-4-2025/>
+        Reverse engineering Call of Duty anti-cheat |
     </a>
-    By: pabs3
+    By: deverton
 </li>
 
 <li>
-    <a href=https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again>
-        It's time to make computing personal again |
+    <a href=https://github.com/deepseek-ai/DeepSeek-R1>
+        DeepSeek-R1 |
     </a>
-    By: mariuz
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320>
-        TikTok says it is restoring service for U.S. users |
+    <a href=https://mixxx.org/>
+        Mixxx: GPL DJ Software |
     </a>
-    By: Leary
+    By: brudgers
 </li>
 
 <li>
-    <a href=https://josef.cn/blog/uk-talent>
-        UK's hardware talent is being wasted |
+    <a href=https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/>
+        417-megapixel Andromeda galaxy panorama took over a decade to make |
     </a>
-    By: sebg
+    By: wallflower
 </li>
 
-<li>
-    <a href=https://en.wikipedia.org/wiki/Bunkers_in_Albania>
-        Bunkers in Albania |
-    </a>
-    By: samclemens
-</li>
+<p>
+Text: I&#x27;ll be here for the next 3 hours and then again at around 4 pm EST for another 3 hours. As usual, there are many possible topics and I&#x27;ll be guided by whatever you&#x27;re concerned with but as much as possible - because we&#x27;ve received so many questions about this the past few months - I&#x27;d like to focus on the impact of the new administration on U.S. immigration law and policy. Please remember that I can&#x27;t provide legal advice on specific cases for liability reasons because I won&#x27;t have access to all the facts. Please stick to a factual discussion in your questions and comments and I&#x27;ll try to do the same in my answers. Thanks!<p>Edit: Thank you again for the great questions and discussion. I&#x27;m taking a break now and will return in about an hour. If I miss any questions before the AMA ends today, I&#x27;ll do my best to respond tomorrow </br>
+</p>
 </ol>
