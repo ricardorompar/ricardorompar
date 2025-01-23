@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 22 Jan 2025</h4>
+<h4>Check the latest news from: Thu 23 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://twitter.com/Free_Ross/status/1881851923005165704>
-        Ross Ulbricht granted a full pardon |
+    <a href=https://www.byran.ee/posts/creation/>
+        Show HN: I Made an Open-Source Laptop from Scratch |
     </a>
-    By: Ozarkian
+    By: Hello9999901
+</li>
+
+<p>
+Text: Hello! I&#x27;m Byran. I spent the past ~6 months engineering a laptop from scratch. It&#x27;s fully open-source on GH at: <a href="https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop">https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop</a> </br>
+</p>
+
+<li>
+    <a href=https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/>
+        Tech Takes the Pareto Principle Too Far |
+    </a>
+    By: bobbylox
 </li>
 
 <li>
-    <a href=https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41>
-        Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers |
+    <a href=https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them>
+        Understanding gRPC, OpenAPI and REST and when to use them in API design |
     </a>
-    By: tedsanders
+    By: hui-zheng
 </li>
 
 <li>
-    <a href=https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117>
-        0-click deanonymization attack targeting Signal, Discord, other platforms |
+    <a href=https://arxiv.org/abs/2501.09223>
+        Foundations of Large Language Models |
     </a>
-    By: hackermondev
+    By: pkoird
 </li>
 
 <li>
-    <a href=https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html>
-        Moving on from React, a year later |
+    <a href=https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/>
+        Mastercard DNS error went unnoticed for years |
     </a>
-    By: yakshaving_jgt
-</li>
-
-<li>
-    <a href=https://github.com/Tencent/Hunyuan3D-2>
-        Hunyuan3D 2.0 – High-Resolution 3D Assets Generation |
-    </a>
-    By: TheGuyWhoCodes
+    By: todsacerdoti
 </li>
 </ol>
