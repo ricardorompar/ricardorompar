@@ -45,11 +45,36 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 23 Jan 2025</h4>
+<h4>Check the latest news from: Fri 24 Jan 2025</h4>
 <ol>
 <li>
+    <a href=https://mstdn.social/@isziaui/113874436953157913>
+        A QR code that sends you to a different destination – lenticular and adversarial |
+    </a>
+    By: zdw
+</li>
+
+<p>
+Text: Hello HN,<p>I&#x27;m Paras Chopra, founder of VWO. We&#x27;re an A&#x2F;B testing platform that was born here as a Show HN in 2009: <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=876141">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=876141</a><p>Today, I sold the company to a private equity firm for $200mn.<p>It&#x27;s covered on TechCrunch: <a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;01&#x2F;23&#x2F;everstone-acquires-bootstrapped-indian-startup-wingify-for-200m&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;01&#x2F;23&#x2F;everstone-acquires-bootstr...</a><p>I was a 22 year old fresh graduate when I launched VWO on HN and got initial users. Feedback from people like @patio11 helped me get to PMF. And now, 15 years later, &quot;site:ycombinator.com&quot; is what I appended when I wanted to search for advice on what to keep in mind while selling my company.<p>Thank you HN for sharing inspiration and wisdom all along. I honestly don&#x27;t think I would have been an entrepreneur had it not been for hacker news.<p>Every single day, HN is the first website I open! I&#x27;m feeling very grateful towards the community. Thanks @dang, and thank you Paul Graham for your essays and for creating this beautiful corner of the internet! </br>
+</p>
+
+<li>
+    <a href=https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/>
+        The Jagged, Monstrous Function That Broke Calculus |
+    </a>
+    By: pseudolus
+</li>
+
+<li>
+    <a href=https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators>
+        UI is hell: four-function calculators |
+    </a>
+    By: surprisetalk
+</li>
+
+<li>
     <a href=https://www.byran.ee/posts/creation/>
-        Show HN: I Made an Open-Source Laptop from Scratch |
+        Show HN: I made an open-source laptop from scratch |
     </a>
     By: Hello9999901
 </li>
@@ -57,32 +82,4 @@ How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 <p>
 Text: Hello! I&#x27;m Byran. I spent the past ~6 months engineering a laptop from scratch. It&#x27;s fully open-source on GH at: <a href="https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop">https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop</a> </br>
 </p>
-
-<li>
-    <a href=https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/>
-        Tech Takes the Pareto Principle Too Far |
-    </a>
-    By: bobbylox
-</li>
-
-<li>
-    <a href=https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them>
-        Understanding gRPC, OpenAPI and REST and when to use them in API design |
-    </a>
-    By: hui-zheng
-</li>
-
-<li>
-    <a href=https://arxiv.org/abs/2501.09223>
-        Foundations of Large Language Models |
-    </a>
-    By: pkoird
-</li>
-
-<li>
-    <a href=https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/>
-        Mastercard DNS error went unnoticed for years |
-    </a>
-    By: todsacerdoti
-</li>
 </ol>
