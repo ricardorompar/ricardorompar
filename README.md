@@ -45,41 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 24 Jan 2025</h4>
+<h4>Check the latest news from: Sat 25 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://mstdn.social/@isziaui/113874436953157913>
-        A QR code that sends you to a different destination – lenticular and adversarial |
+    <a href=https://cs16.samke.me>
+        Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI |
+    </a>
+    By: samke-
+</li>
+
+<li>
+    <a href=https://evan.widloski.com/software/sms_llm/>
+        Show HN: Trolling SMS spammers with Ollama |
+    </a>
+    By: Evidlo
+</li>
+
+<p>
+Text: I&#x27;ve been working on a side project to generate responses to spam with various funny LLM personas, such as a millenial gym bro and a 19th century British gentleman. By request, I&#x27;ve made a write-up on my website which has some humorous screenshots and made the code available on Github for others to try out [0].<p>A brief outline of the system:<p>- Android app listens for incoming SMS events and forwards them over MQTT to a server running Ollama which generates responses
+- Conversations are whitelisted and manually assigned a persona.  The LLM has access to the last N messages of the conversation for additional context.<p>[0]: <a href="https:&#x2F;&#x2F;github.com&#x2F;evidlo&#x2F;sms_llm">https:&#x2F;&#x2F;github.com&#x2F;evidlo&#x2F;sms_llm</a><p>I&#x27;m aware that replying can encourage&#x2F;allow the sender to send more spam.  Hopefully reporting the numbers after the conversation is a reasonable compromise. </br>
+</p>
+
+<li>
+    <a href=https://github.com/helix-editor/helix/pull/11285>
+        File Explorer is merged to Helix editor |
+    </a>
+    By: manusachi
+</li>
+
+<li>
+    <a href=https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D>
+        You could have invented Fenwick trees |
+    </a>
+    By: matt_d
+</li>
+
+<li>
+    <a href=https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/>
+        Life lessons from the first half-century of my career |
     </a>
     By: zdw
 </li>
-
-<p>
-Text: Hello HN,<p>I&#x27;m Paras Chopra, founder of VWO. We&#x27;re an A&#x2F;B testing platform that was born here as a Show HN in 2009: <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=876141">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=876141</a><p>Today, I sold the company to a private equity firm for $200mn.<p>It&#x27;s covered on TechCrunch: <a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;01&#x2F;23&#x2F;everstone-acquires-bootstrapped-indian-startup-wingify-for-200m&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;01&#x2F;23&#x2F;everstone-acquires-bootstr...</a><p>I was a 22 year old fresh graduate when I launched VWO on HN and got initial users. Feedback from people like @patio11 helped me get to PMF. And now, 15 years later, &quot;site:ycombinator.com&quot; is what I appended when I wanted to search for advice on what to keep in mind while selling my company.<p>Thank you HN for sharing inspiration and wisdom all along. I honestly don&#x27;t think I would have been an entrepreneur had it not been for hacker news.<p>Every single day, HN is the first website I open! I&#x27;m feeling very grateful towards the community. Thanks @dang, and thank you Paul Graham for your essays and for creating this beautiful corner of the internet! </br>
-</p>
-
-<li>
-    <a href=https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/>
-        The Jagged, Monstrous Function That Broke Calculus |
-    </a>
-    By: pseudolus
-</li>
-
-<li>
-    <a href=https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators>
-        UI is hell: four-function calculators |
-    </a>
-    By: surprisetalk
-</li>
-
-<li>
-    <a href=https://www.byran.ee/posts/creation/>
-        Show HN: I made an open-source laptop from scratch |
-    </a>
-    By: Hello9999901
-</li>
-
-<p>
-Text: Hello! I&#x27;m Byran. I spent the past ~6 months engineering a laptop from scratch. It&#x27;s fully open-source on GH at: <a href="https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop">https:&#x2F;&#x2F;github.com&#x2F;Hello9999901&#x2F;laptop</a> </br>
-</p>
 </ol>
