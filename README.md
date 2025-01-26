@@ -45,45 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 25 Jan 2025</h4>
+<h4>Check the latest news from: Sun 26 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://cs16.samke.me>
-        Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI |
+    <a href=https://hkust-nlp.notion.site/simplerl-reason>
+        Emerging Reasoning with Reinforcement Learning |
     </a>
-    By: samke-
-</li>
-
-<li>
-    <a href=https://evan.widloski.com/software/sms_llm/>
-        Show HN: Trolling SMS spammers with Ollama |
-    </a>
-    By: Evidlo
+    By: pella
 </li>
 
 <p>
-Text: I&#x27;ve been working on a side project to generate responses to spam with various funny LLM personas, such as a millenial gym bro and a 19th century British gentleman. By request, I&#x27;ve made a write-up on my website which has some humorous screenshots and made the code available on Github for others to try out [0].<p>A brief outline of the system:<p>- Android app listens for incoming SMS events and forwards them over MQTT to a server running Ollama which generates responses
-- Conversations are whitelisted and manually assigned a persona.  The LLM has access to the last N messages of the conversation for additional context.<p>[0]: <a href="https:&#x2F;&#x2F;github.com&#x2F;evidlo&#x2F;sms_llm">https:&#x2F;&#x2F;github.com&#x2F;evidlo&#x2F;sms_llm</a><p>I&#x27;m aware that replying can encourage&#x2F;allow the sender to send more spam.  Hopefully reporting the numbers after the conversation is a reasonable compromise. </br>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;hkust-nlp&#x2F;simpleRL-reason">https:&#x2F;&#x2F;github.com&#x2F;hkust-nlp&#x2F;simpleRL-reason</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/helix-editor/helix/pull/11285>
-        File Explorer is merged to Helix editor |
+    <a href=https://crastinator-pro.github.io/steam-brick/>
+        Steam Brick: No screen, no controller, just a power button and a USB port |
     </a>
-    By: manusachi
+    By: sbarre
 </li>
 
 <li>
-    <a href=https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D>
-        You could have invented Fenwick trees |
+    <a href=https://arxiv.org/abs/2501.12948>
+        DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL |
     </a>
-    By: matt_d
+    By: gradus_ad
 </li>
 
 <li>
-    <a href=https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/>
-        Life lessons from the first half-century of my career |
+    <a href=https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/>
+        The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019) |
     </a>
-    By: zdw
+    By: stmw
+</li>
+
+<li>
+    <a href=https://www.openra.net/>
+        OpenRA – Classic strategy games rebuilt for the modern era |
+    </a>
+    By: tosh
 </li>
 </ol>
