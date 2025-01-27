@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 26 Jan 2025</h4>
+<h4>Check the latest news from: Mon 27 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://hkust-nlp.notion.site/simplerl-reason>
-        Emerging Reasoning with Reinforcement Learning |
+    <a href=https://smallstep.com/blog/if-openssl-were-a-gui/>
+        If OpenSSL Were a GUI |
     </a>
-    By: pella
+    By: tambourine_man
+</li>
+
+<li>
+    <a href=https://purelymail.com/>
+        Purelymail: Cheap, no-nonsense email |
+    </a>
+    By: LorenDB
+</li>
+
+<li>
+    <a href=https://github.com/seemoo-lab/openhaystack>
+        Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network |
+    </a>
+    By: thunderbong
+</li>
+
+<li>
+    <a href=https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943>
+        Lessons in creating family photos that people want to keep (2018) |
+    </a>
+    By: mooreds
+</li>
+
+<li>
+    <a href=https://github.com/EnhancedJax/Bagels>
+        Show HN: Bagels – TUI Expense Tracker |
+    </a>
+    By: EnhancedJax
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;hkust-nlp&#x2F;simpleRL-reason">https:&#x2F;&#x2F;github.com&#x2F;hkust-nlp&#x2F;simpleRL-reason</a> </br>
+Text: Hi! I&#x27;m Jax and I&#x27;ve been building this cool little terminal app for myself to track my expenses and budgets!<p>Other than challenging myself to learn Python, I built this mainly around the habit of budget tracking at the end of the day. (I tried tracking on-the-go, but the balance was always out of sync.) All data is stored in a single sqlite file, so you can export and process them all you want!<p>The app is built using the textual API for Python! Awesome framework which feels like I&#x27;m doing webdev haha.<p>You can check out some screenshots on gh: <a href="https:&#x2F;&#x2F;github.com&#x2F;EnhancedJax&#x2F;Bagels">https:&#x2F;&#x2F;github.com&#x2F;EnhancedJax&#x2F;Bagels</a><p>Thanks! </br>
 </p>
-
-<li>
-    <a href=https://crastinator-pro.github.io/steam-brick/>
-        Steam Brick: No screen, no controller, just a power button and a USB port |
-    </a>
-    By: sbarre
-</li>
-
-<li>
-    <a href=https://arxiv.org/abs/2501.12948>
-        DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL |
-    </a>
-    By: gradus_ad
-</li>
-
-<li>
-    <a href=https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/>
-        The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019) |
-    </a>
-    By: stmw
-</li>
-
-<li>
-    <a href=https://www.openra.net/>
-        OpenRA – Classic strategy games rebuilt for the modern era |
-    </a>
-    By: tosh
-</li>
 </ol>
