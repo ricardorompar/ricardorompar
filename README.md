@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 27 Jan 2025</h4>
+<h4>Check the latest news from: Tue 28 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://smallstep.com/blog/if-openssl-were-a-gui/>
-        If OpenSSL Were a GUI |
+    <a href=https://repebble.com/>
+        We're bringing Pebble back |
     </a>
-    By: tambourine_man
-</li>
-
-<li>
-    <a href=https://purelymail.com/>
-        Purelymail: Cheap, no-nonsense email |
-    </a>
-    By: LorenDB
-</li>
-
-<li>
-    <a href=https://github.com/seemoo-lab/openhaystack>
-        Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network |
-    </a>
-    By: thunderbong
-</li>
-
-<li>
-    <a href=https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943>
-        Lessons in creating family photos that people want to keep (2018) |
-    </a>
-    By: mooreds
-</li>
-
-<li>
-    <a href=https://github.com/EnhancedJax/Bagels>
-        Show HN: Bagels – TUI Expense Tracker |
-    </a>
-    By: EnhancedJax
+    By: erohead
 </li>
 
 <p>
-Text: Hi! I&#x27;m Jax and I&#x27;ve been building this cool little terminal app for myself to track my expenses and budgets!<p>Other than challenging myself to learn Python, I built this mainly around the habit of budget tracking at the end of the day. (I tried tracking on-the-go, but the balance was always out of sync.) All data is stored in a single sqlite file, so you can export and process them all you want!<p>The app is built using the textual API for Python! Awesome framework which feels like I&#x27;m doing webdev haha.<p>You can check out some screenshots on gh: <a href="https:&#x2F;&#x2F;github.com&#x2F;EnhancedJax&#x2F;Bagels">https:&#x2F;&#x2F;github.com&#x2F;EnhancedJax&#x2F;Bagels</a><p>Thanks! </br>
+Text: Thank you, Google. You didn&#x27;t have to, but you did. We (the Pebble team and community) are extraordinarily grateful.<p>I wrote a blog post about our plans to bring Pebble back, sustainably. <a href="https:&#x2F;&#x2F;ericmigi.com&#x2F;blog&#x2F;why-were-bringing-pebble-back" rel="nofollow">https:&#x2F;&#x2F;ericmigi.com&#x2F;blog&#x2F;why-were-bringing-pebble-back</a><p>We got our original start on HN (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3827868">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3827868</a>), it&#x27;s a pleasure to be back. </br>
 </p>
+
+<li>
+    <a href=https://mlip-cmu.github.io/s2025/>
+        Machine Learning in Production (CMU Course) |
+    </a>
+    By: azhenley
+</li>
+
+<li>
+    <a href=https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/>
+        Why OpenAI's $157B valuation misreads AI's future (Oct 2024) |
+    </a>
+    By: pcurve
+</li>
+
+<li>
+    <a href=https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html>
+        Google open-sources the Pebble OS |
+    </a>
+    By: hexxeh
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;pebble">https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;pebble</a> </br>
+</p>
+
+<li>
+    <a href=https://blog.railway.com/p/slack-overflow>
+        How we scaled Slack to support 1000s of developers |
+    </a>
+    By: eckles
+</li>
 </ol>
