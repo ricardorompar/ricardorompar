@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 28 Jan 2025</h4>
+<h4>Check the latest news from: Wed 29 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://repebble.com/>
-        We're bringing Pebble back |
+    <a href=https://predictors.fail/>
+        New speculative attacks on Apple CPUs |
     </a>
-    By: erohead
-</li>
-
-<p>
-Text: Thank you, Google. You didn&#x27;t have to, but you did. We (the Pebble team and community) are extraordinarily grateful.<p>I wrote a blog post about our plans to bring Pebble back, sustainably. <a href="https:&#x2F;&#x2F;ericmigi.com&#x2F;blog&#x2F;why-were-bringing-pebble-back" rel="nofollow">https:&#x2F;&#x2F;ericmigi.com&#x2F;blog&#x2F;why-were-bringing-pebble-back</a><p>We got our original start on HN (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3827868">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3827868</a>), it&#x27;s a pleasure to be back. </br>
-</p>
-
-<li>
-    <a href=https://mlip-cmu.github.io/s2025/>
-        Machine Learning in Production (CMU Course) |
-    </a>
-    By: azhenley
+    By: cylo
 </li>
 
 <li>
-    <a href=https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/>
-        Why OpenAI's $157B valuation misreads AI's future (Oct 2024) |
+    <a href=https://jimmyhmiller.github.io/discovery-coding>
+        Discovery Coding |
     </a>
-    By: pcurve
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html>
-        Google open-sources the Pebble OS |
+    <a href=https://www.youtube.com/watch?v=-qisIViAHwI>
+        Boom XB-1 First Supersonic Flight [video] |
     </a>
-    By: hexxeh
+    By: rayhaanj
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;pebble">https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;pebble</a> </br>
-</p>
+<li>
+    <a href=https://borretti.me/article/composable-sql>
+        Composable SQL |
+    </a>
+    By: earnestinger
+</li>
 
 <li>
-    <a href=https://blog.railway.com/p/slack-overflow>
-        How we scaled Slack to support 1000s of developers |
+    <a href=https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star>
+        IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star |
     </a>
-    By: eckles
+    By: ohjeez
 </li>
 </ol>
