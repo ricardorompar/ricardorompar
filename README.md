@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 29 Jan 2025</h4>
+<h4>Check the latest news from: Thu 30 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://predictors.fail/>
-        New speculative attacks on Apple CPUs |
+    <a href=https://arcprize.org/blog/r1-zero-r1-results-analysis>
+        An analysis of DeepSeek's R1-Zero and R1 |
     </a>
-    By: cylo
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://jimmyhmiller.github.io/discovery-coding>
-        Discovery Coding |
+    <a href=https://github.com/marketplace/actions/feed-to-bluesky>
+        Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions |
     </a>
-    By: surprisetalk
+    By: hrpnk
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=-qisIViAHwI>
-        Boom XB-1 First Supersonic Flight [video] |
+    <a href=https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6>
+        OpenAI says it has evidence DeepSeek used its model to train competitor |
     </a>
-    By: rayhaanj
+    By: timsuchanek
 </li>
 
 <li>
-    <a href=https://borretti.me/article/composable-sql>
-        Composable SQL |
+    <a href=https://github.com/Om-Alve/smolGPT>
+        SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch |
     </a>
-    By: earnestinger
+    By: amrrs
 </li>
 
 <li>
-    <a href=https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star>
-        IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star |
+    <a href=https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch>
+        Building a T1D smartwatch for my son from scratch |
     </a>
-    By: ohjeez
+    By: andrewchilds
 </li>
 </ol>
