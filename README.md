@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 30 Jan 2025</h4>
+<h4>Check the latest news from: Fri 31 Jan 2025</h4>
 <ol>
 <li>
-    <a href=https://arcprize.org/blog/r1-zero-r1-results-analysis>
-        An analysis of DeepSeek's R1-Zero and R1 |
+    <a href=https://arxiv.org/abs/2501.16396>
+        TopoNets: High performing vision and language models with brain-like topography |
     </a>
-    By: meetpateltech
+    By: mayukhdeb
 </li>
 
 <li>
-    <a href=https://github.com/marketplace/actions/feed-to-bluesky>
-        Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions |
+    <a href=https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/>
+        JavaScript Temporal is coming |
     </a>
-    By: hrpnk
+    By: SigmundurM
 </li>
 
 <li>
-    <a href=https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6>
-        OpenAI says it has evidence DeepSeek used its model to train competitor |
+    <a href=https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd>
+        sixos: A nix OS without systemd [video] |
     </a>
-    By: timsuchanek
+    By: transpute
 </li>
 
 <li>
-    <a href=https://github.com/Om-Alve/smolGPT>
-        SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch |
+    <a href=https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/>
+        How Jane Street accidentally built a better build system for OCaml |
     </a>
-    By: amrrs
+    By: gaws
 </li>
 
 <li>
-    <a href=https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch>
-        Building a T1D smartwatch for my son from scratch |
+    <a href=https://github.com/exelban/stats>
+        Stats – macOS system monitor in your menu bar |
     </a>
-    By: andrewchilds
+    By: LeoPanthera
 </li>
 </ol>
