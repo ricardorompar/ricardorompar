@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 31 Jan 2025</h4>
+<h4>Check the latest news from: Sat 01 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://arxiv.org/abs/2501.16396>
-        TopoNets: High performing vision and language models with brain-like topography |
+    <a href=https://freegovinfo.info/node/14747/>
+        The government information crisis is bigger than you think it is |
     </a>
-    By: mayukhdeb
+    By: ChrisArchitect
 </li>
 
 <li>
-    <a href=https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/>
-        JavaScript Temporal is coming |
+    <a href=https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/>
+        Hell Is Overconfident Developers Writing Encryption Code |
     </a>
-    By: SigmundurM
+    By: zdw
 </li>
 
 <li>
-    <a href=https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd>
-        sixos: A nix OS without systemd [video] |
+    <a href=https://openai.com/index/openai-o3-mini/>
+        OpenAI O3-Mini |
     </a>
-    By: transpute
+    By: johnneville
 </li>
 
 <li>
-    <a href=https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/>
-        How Jane Street accidentally built a better build system for OCaml |
+    <a href=https://substack.com/home/post/p-156004330>
+        Bypass DeepSeek censorship by speaking in hex |
     </a>
-    By: gaws
+    By: MedadNewman
 </li>
 
 <li>
-    <a href=https://github.com/exelban/stats>
-        Stats – macOS system monitor in your menu bar |
+    <a href=https://earthstar-project.org/>
+        Earthstar – A database for private, distributed, offline-first applications |
     </a>
-    By: LeoPanthera
+    By: kristianpaul
 </li>
 </ol>
