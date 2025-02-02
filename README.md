@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 01 Feb 2025</h4>
+<h4>Check the latest news from: Sun 02 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://freegovinfo.info/node/14747/>
-        The government information crisis is bigger than you think it is |
+    <a href=https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction>
+        CDC orders mass retraction of research across all science and medicine journals |
     </a>
-    By: ChrisArchitect
+    By: KittenInABox
 </li>
 
 <li>
-    <a href=https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/>
-        Hell Is Overconfident Developers Writing Encryption Code |
+    <a href=https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/>
+        Chatbot Software Begins to Face Fundamental Limitations |
     </a>
-    By: zdw
+    By: marban
 </li>
 
 <li>
-    <a href=https://openai.com/index/openai-o3-mini/>
-        OpenAI O3-Mini |
+    <a href=https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/>
+        Apple is open sourcing Swift Build |
     </a>
-    By: johnneville
+    By: dayanruben
 </li>
 
 <li>
-    <a href=https://substack.com/home/post/p-156004330>
-        Bypass DeepSeek censorship by speaking in hex |
+    <a href=https://rlhfbook.com/>
+        RLHF Book |
     </a>
-    By: MedadNewman
+    By: jxmorris12
 </li>
 
 <li>
-    <a href=https://earthstar-project.org/>
-        Earthstar – A database for private, distributed, offline-first applications |
+    <a href=https://alisdair.mcdiarmid.org/kill-sticky-headers/>
+        A bookmarklet to kill sticky headers (2013) |
     </a>
-    By: kristianpaul
+    By: clockworksoul
 </li>
 </ol>
