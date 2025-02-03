@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 02 Feb 2025</h4>
+<h4>Check the latest news from: Mon 03 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction>
-        CDC orders mass retraction of research across all science and medicine journals |
+    <a href=https://timsh.org/tracking-myself-down-through-in-app-ads/>
+        Everyone knows your location: tracking myself down through in-app ads |
     </a>
-    By: KittenInABox
+    By: apokryptein
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/>
-        Chatbot Software Begins to Face Fundamental Limitations |
+    <a href=https://phase.dev/blog/docker-compose-secrets/>
+        Managing Secrets in Docker Compose – A Developer's Guide |
     </a>
-    By: marban
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/>
-        Apple is open sourcing Swift Build |
+    <a href=https://waydro.id/>
+        Waydroid – Android in a Linux container |
     </a>
-    By: dayanruben
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://rlhfbook.com/>
-        RLHF Book |
+    <a href=https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf>
+        F-strings for C++26 proposal [pdf] |
     </a>
-    By: jxmorris12
+    By: HeliumHydride
 </li>
 
 <li>
-    <a href=https://alisdair.mcdiarmid.org/kill-sticky-headers/>
-        A bookmarklet to kill sticky headers (2013) |
+    <a href=https://github.com/tcgoetz/GarminDB>
+        GarminDB |
     </a>
-    By: clockworksoul
+    By: haltcatchfire
 </li>
 </ol>
