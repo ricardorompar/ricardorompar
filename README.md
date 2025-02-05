@@ -45,45 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 04 Feb 2025</h4>
+<h4>Check the latest news from: Wed 05 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment>
-        El Salvador abandons Bitcoin as legal tender after failed experiment |
+    <a href=https://beej.us/guide/bggit/>
+        Beej's Guide to Git |
     </a>
-    By: smallerfish
+    By: mixto
 </li>
 
 <li>
-    <a href=https://gamehistory.org/vghf-library-launch/>
-        The Video Game History Foundation Library Opens in Early Access |
+    <a href=https://wikitok.vercel.app/>
+        WikiTok |
     </a>
-    By: pabs3
+    By: Group_B
 </li>
 
 <li>
-    <a href=https://travisbumgarner.dev/blog/leaving-aws>
-        Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS |
+    <a href=https://www.science.org/content/blog-post/what-s-happening-inside-nih>
+        What's happening inside the NIH and NSF |
     </a>
-    By: theogravity
+    By: rrock
 </li>
 
-<p>
-Text: Please state the location and include REMOTE for remote work, REMOTE (US)
-or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. One post per company. If it isn&#x27;t a household name,
-explain what your company does.<p>Please only post if you are actively filling a position and are committed
-to responding to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about
-something. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href="http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;" rel="nofollow">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href="https:&#x2F;&#x2F;hnresumetojobs.com" rel="nofollow">https:&#x2F;&#x2F;hnresumetojobs.com</a>,
-<a href="https:&#x2F;&#x2F;hnhired.fly.dev" rel="nofollow">https:&#x2F;&#x2F;hnhired.fly.dev</a>, <a href="https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;</a>,
-<a href="https:&#x2F;&#x2F;hnjobs.emilburzo.com" rel="nofollow">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:
-<a href="https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss these other fine threads:<p><i>Who wants to be hired?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42919500">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42919500</a><p><i>Freelancer? Seeking freelancer?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42919501">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42919501</a> </br>
-</p>
+<li>
+    <a href=https://codingcafe.jp/posts/signal-5yrs>
+        I spent five years building a webapp and got my first $1 (2022) |
+    </a>
+    By: sillysaurusx
+</li>
 
 <li>
-    <a href=https://github.com/monasticacademy/httptap>
-        Httptap: View HTTP/HTTPS requests made by any Linux program |
+    <a href=https://nanochess.org/pascal.html>
+        I coded a Pascal compiler for transputer as a teen in 1993 |
     </a>
-    By: alexflint
+    By: nanochess
 </li>
 </ol>
