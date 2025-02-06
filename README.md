@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 05 Feb 2025</h4>
+<h4>Check the latest news from: Thu 06 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://beej.us/guide/bggit/>
-        Beej's Guide to Git |
+    <a href=https://www.sergey.fyi/articles/gemini-flash-2>
+        Ingesting PDFs and why Gemini 2.0 changes everything |
     </a>
-    By: mixto
+    By: serjester
 </li>
 
 <li>
-    <a href=https://wikitok.vercel.app/>
-        WikiTok |
+    <a href=https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/>
+        Mystery brain disease patients in New Brunswick say they welcome investigation |
     </a>
-    By: Group_B
+    By: luu
 </li>
 
 <li>
-    <a href=https://www.science.org/content/blog-post/what-s-happening-inside-nih>
-        What's happening inside the NIH and NSF |
+    <a href=http://karpathy.github.io/2016/05/31/rl/>
+        Deep Reinforcement Learning: Pong from Pixels (2016) |
     </a>
-    By: rrock
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://codingcafe.jp/posts/signal-5yrs>
-        I spent five years building a webapp and got my first $1 (2022) |
+    <a href=https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/>
+        Okta Bcrypt incident lessons for designing better APIs |
     </a>
-    By: sillysaurusx
+    By: n0rdy
 </li>
 
 <li>
-    <a href=https://nanochess.org/pascal.html>
-        I coded a Pascal compiler for transputer as a teen in 1993 |
+    <a href=https://winnielim.org/journal/minimum-effective-dose/>
+        Minimum effective dose |
     </a>
-    By: nanochess
+    By: surprisetalk
 </li>
 </ol>
