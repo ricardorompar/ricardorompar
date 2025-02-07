@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 06 Feb 2025</h4>
+<h4>Check the latest news from: Fri 07 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.sergey.fyi/articles/gemini-flash-2>
-        Ingesting PDFs and why Gemini 2.0 changes everything |
+    <a href=https://www.byhand.ai/p/transformer-spreadsheet>
+        Transformer – Spreadsheet |
     </a>
-    By: serjester
+    By: next_xibalba
 </li>
 
 <li>
-    <a href=https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/>
-        Mystery brain disease patients in New Brunswick say they welcome investigation |
+    <a href=https://skilldrick.github.io/easy6502/>
+        Easy 6502 |
     </a>
-    By: luu
+    By: ibobev
 </li>
 
 <li>
-    <a href=http://karpathy.github.io/2016/05/31/rl/>
-        Deep Reinforcement Learning: Pong from Pixels (2016) |
+    <a href=https://magazine.sebastianraschka.com/p/understanding-reasoning-llms>
+        Understanding Reasoning LLMs |
     </a>
-    By: Anon84
+    By: sebg
 </li>
 
 <li>
-    <a href=https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/>
-        Okta Bcrypt incident lessons for designing better APIs |
+    <a href=https://arxiv.org/abs/2502.03349>
+        Robust autonomy emerges from self-play |
     </a>
-    By: n0rdy
+    By: reqo
 </li>
 
 <li>
-    <a href=https://winnielim.org/journal/minimum-effective-dose/>
-        Minimum effective dose |
+    <a href=https://thescallion.netlify.app/>
+        Show HN: I built an AI satirical news site because news was depressing me |
     </a>
-    By: surprisetalk
+    By: vuciv
 </li>
 </ol>
