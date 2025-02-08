@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 07 Feb 2025</h4>
+<h4>Check the latest news from: Sat 08 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.byhand.ai/p/transformer-spreadsheet>
-        Transformer – Spreadsheet |
+    <a href=https://fly.io/blog/vscode-ssh-wtf/>
+        VSCode's SSH agent is bananas |
     </a>
-    By: next_xibalba
+    By: zdyxry
 </li>
 
 <li>
-    <a href=https://skilldrick.github.io/easy6502/>
-        Easy 6502 |
+    <a href=https://github.com/mierau/hotline>
+        Hotline for modern Apple systems |
     </a>
-    By: ibobev
+    By: tonymet
 </li>
 
 <li>
-    <a href=https://magazine.sebastianraschka.com/p/understanding-reasoning-llms>
-        Understanding Reasoning LLMs |
+    <a href=https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI>
+        LINUX is obsolete (1992) |
     </a>
-    By: sebg
+    By: talles
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2502.03349>
-        Robust autonomy emerges from self-play |
+    <a href=https://www.mining.com/why-gold-loves-arsenic/>
+        Why gold loves arsenic (2021) |
     </a>
-    By: reqo
+    By: DoreenMichele
 </li>
 
 <li>
-    <a href=https://thescallion.netlify.app/>
-        Show HN: I built an AI satirical news site because news was depressing me |
+    <a href=https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/>
+        Starlink in the Falkland Islands – A national emergency situation? |
     </a>
-    By: vuciv
+    By: pelagicAustral
 </li>
 </ol>
