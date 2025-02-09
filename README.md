@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 08 Feb 2025</h4>
+<h4>Check the latest news from: Sun 09 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://fly.io/blog/vscode-ssh-wtf/>
-        VSCode's SSH agent is bananas |
+    <a href=https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html>
+        Retaking the Web Browser, One Small Step at a Time |
     </a>
-    By: zdyxry
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://github.com/mierau/hotline>
-        Hotline for modern Apple systems |
+    <a href=https://jacksonpollock.org/>
+        Jacksonpollock.org (2003) |
     </a>
-    By: tonymet
+    By: memalign
 </li>
 
 <li>
-    <a href=https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI>
-        LINUX is obsolete (1992) |
+    <a href=https://johnkerl.org/doc/ortho/ortho.html>
+        Tips for mathematical handwriting (2007) |
     </a>
-    By: talles
+    By: susam
 </li>
 
 <li>
-    <a href=https://www.mining.com/why-gold-loves-arsenic/>
-        Why gold loves arsenic (2021) |
+    <a href=https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/>
+        Sand trafficking in Latin America |
     </a>
-    By: DoreenMichele
+    By: josh-sematic
 </li>
 
 <li>
-    <a href=https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/>
-        Starlink in the Falkland Islands – A national emergency situation? |
+    <a href=https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html>
+        Scientists solve the mystery of sea turtles' 'lost years' |
     </a>
-    By: pelagicAustral
+    By: pseudolus
 </li>
 </ol>
