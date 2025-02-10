@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 09 Feb 2025</h4>
+<h4>Check the latest news from: Mon 10 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html>
-        Retaking the Web Browser, One Small Step at a Time |
+    <a href=https://selix.net/notes/dont-be-frupid>
+        Don't Be Frupid |
     </a>
-    By: surprisetalk
+    By: jhy
 </li>
 
 <li>
-    <a href=https://jacksonpollock.org/>
-        Jacksonpollock.org (2003) |
+    <a href=https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years>
+        Thomas Aquinas' Skull Reveals Appearance and Cause of Death |
     </a>
-    By: memalign
+    By: new_vienna
 </li>
 
 <li>
-    <a href=https://johnkerl.org/doc/ortho/ortho.html>
-        Tips for mathematical handwriting (2007) |
+    <a href=https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html>
+        How Does Ada's Memory Safety Compare Against Rust? |
     </a>
-    By: susam
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/>
-        Sand trafficking in Latin America |
+    <a href=https://arxiv.org/abs/2502.03387>
+        LIMO: Less Is More for Reasoning |
     </a>
-    By: josh-sematic
+    By: trott
 </li>
 
 <li>
-    <a href=https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html>
-        Scientists solve the mystery of sea turtles' 'lost years' |
+    <a href=https://iquilezles.org/articles/gpuconditionals/>
+        Don't "optimize" conditional moves in shaders with mix()+step() |
     </a>
-    By: pseudolus
+    By: romes
 </li>
 </ol>
