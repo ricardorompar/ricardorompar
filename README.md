@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 10 Feb 2025</h4>
+<h4>Check the latest news from: Tue 11 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://selix.net/notes/dont-be-frupid>
-        Don't Be Frupid |
+    <a href=https://dagger.io/blog/replaced-react-with-go>
+        We replaced our React front end with Go and WebAssembly |
     </a>
-    By: jhy
+    By: miranda_carter
 </li>
 
 <li>
-    <a href=https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years>
-        Thomas Aquinas' Skull Reveals Appearance and Cause of Death |
+    <a href=http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/>
+        How Copyover MUD Servers Worked |
     </a>
-    By: new_vienna
+    By: _jackdk_
 </li>
 
 <li>
-    <a href=https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html>
-        How Does Ada's Memory Safety Compare Against Rust? |
+    <a href=https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/>
+        Undergraduate shows that searches within hash tables can be much faster |
     </a>
-    By: pabs3
+    By: Jhsto
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2502.03387>
-        LIMO: Less Is More for Reasoning |
+    <a href=https://blog.plover.com/lang/etym/nickname-names.html>
+        Surnames from nicknames nobody has any more |
     </a>
-    By: trott
+    By: JNRowe
 </li>
 
 <li>
-    <a href=https://iquilezles.org/articles/gpuconditionals/>
-        Don't "optimize" conditional moves in shaders with mix()+step() |
+    <a href=https://pydong.org/posts/KwArgs/>
+        Fun with C++26 reflection: Keyword Arguments |
     </a>
-    By: romes
+    By: HeliumHydride
 </li>
 </ol>
