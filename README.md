@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 11 Feb 2025</h4>
+<h4>Check the latest news from: Wed 12 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://dagger.io/blog/replaced-react-with-go>
-        We replaced our React front end with Go and WebAssembly |
+    <a href=https://bessstillman.substack.com/p/the-year-i-didnt-survive>
+        The year I didn't survive |
     </a>
-    By: miranda_carter
+    By: LaurenSerino
 </li>
 
 <li>
-    <a href=http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/>
-        How Copyover MUD Servers Worked |
+    <a href=https://github.com/jj-vcs/jj>
+        jj: a Git-compatible VCS that is both simple and powerful |
     </a>
-    By: _jackdk_
+    By: tambourine_man
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/>
-        Undergraduate shows that searches within hash tables can be much faster |
+    <a href=https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling>
+        I tasted Honda's spicy rodent-repelling tape and I will do it again (2021) |
     </a>
-    By: Jhsto
+    By: voxadam
 </li>
 
 <li>
-    <a href=https://blog.plover.com/lang/etym/nickname-names.html>
-        Surnames from nicknames nobody has any more |
+    <a href=https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html>
+        JJ Cheat Sheet |
     </a>
-    By: JNRowe
+    By: justinpombrio
 </li>
 
 <li>
-    <a href=https://pydong.org/posts/KwArgs/>
-        Fun with C++26 reflection: Keyword Arguments |
+    <a href=https://claytonwramsey.com/blog/no-html/>
+        No longer writing my own damn HTML |
     </a>
-    By: HeliumHydride
+    By: claytonwramsey
 </li>
 </ol>
