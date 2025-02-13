@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 12 Feb 2025</h4>
+<h4>Check the latest news from: Thu 13 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://bessstillman.substack.com/p/the-year-i-didnt-survive>
-        The year I didn't survive |
+    <a href=https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/>
+        Tiny JITs for a Faster FFI |
     </a>
-    By: LaurenSerino
+    By: hahahacorn
 </li>
 
 <li>
-    <a href=https://github.com/jj-vcs/jj>
-        jj: a Git-compatible VCS that is both simple and powerful |
+    <a href=https://brutecat.com/articles/leaking-youtube-emails>
+        Leaking the email of any YouTube user for $10k |
     </a>
-    By: tambourine_man
+    By: brutecat
 </li>
 
 <li>
-    <a href=https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling>
-        I tasted Honda's spicy rodent-repelling tape and I will do it again (2021) |
+    <a href=https://github.com/AkashRajpurohit/howtoprofessionallysay>
+        How to professionally say (2022) |
     </a>
-    By: voxadam
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html>
-        JJ Cheat Sheet |
+    <a href=https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws>
+        A drill bit that can also drive screws |
     </a>
-    By: justinpombrio
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://claytonwramsey.com/blog/no-html/>
-        No longer writing my own damn HTML |
+    <a href=https://www.cpubenchmark.net/year-on-year.html>
+        The average CPU performance of PCs and notebooks fell for the first time |
     </a>
-    By: claytonwramsey
+    By: doener
 </li>
 </ol>
