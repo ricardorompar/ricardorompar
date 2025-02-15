@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 14 Feb 2025</h4>
+<h4>Check the latest news from: Sat 15 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.kagi.com/kagi-privacy-pass>
-        Privacy Pass Authentication for Kagi Search |
+    <a href=https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/>
+        The 20 year old PSP can now connect to WPA2 WiFi Networks |
     </a>
-    By: b3n
+    By: zdw
 </li>
 
 <li>
-    <a href=https://eyes.mit.edu/>
-        MIT evolves virtual eye from scratch |
+    <a href=https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/>
+        A decade later, a decade lost (2024) |
     </a>
-    By: smusamashah
+    By: ZeWaka
 </li>
 
 <li>
-    <a href=https://www.ocr4all.org/>
-        OCR4all |
+    <a href=https://aresluna.org/the-hardest-working-font-in-manhattan/>
+        The hardest working font in Manhattan |
     </a>
-    By: LorenDB
+    By: robinhouston
 </li>
 
 <li>
-    <a href=https://www.phind.com/blog/phind-2>
-        Phind 2: AI search with visual answers and multi-step reasoning |
+    <a href=https://mathstodon.xyz/@tao/113873092369347147>
+        Complex dynamics require complex solutions |
     </a>
-    By: rushingcreek
+    By: ckemere
 </li>
 
-<p>
-Text: Hi HN! Michael here. We&#x27;ve spent the last 6 months rebuilding Phind. We asked ourselves what types of answers we would ideally like and crafted a new UI and model series to help get us there. Our new 70B is completely different from the one we launched a year ago.<p>The new Phind goes beyond text to present answers visually with inline images, diagrams, cards, and other widgets to make answers more meaningful:<p>- &quot;<i>explain photosynthesis</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=7" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=7</a><p>- &quot;<i>how to cook the perfect steak</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=55" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=55</a><p>- &quot;<i>quicksort in rust</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=105" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cTCpnyICukM#t=105</a><p>Phind is also now able to seek out information on its own. If it needs more, it will do multiple rounds of additional searches to get you a more comprehensive answer:<p>- &quot;<i>top 10 Thai restaurants in SF, their prices, and key dishes</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=rIQQcDIIHFQ#t=11" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=rIQQcDIIHFQ#t=11</a><p>It can also perform calculations, visualize their results, and verify them in a Jupyter notebook:<p>- &quot;<i>simulate 100 coin flips and make graphs</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YP3PZ4MKGCg#t=8" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YP3PZ4MKGCg#t=8</a><p>- &quot;<i>train a perceptron neural network using Jupyter</i>&quot; - <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YP3PZ4MKGCg#t=45" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YP3PZ4MKGCg#t=45</a><p>This blog post contains an overview of what we did as well as technical deep dives into how we built the new frontend and models.<p>I&#x27;m super grateful for all of the feedback we&#x27;ve gotten from this community and can&#x27;t wait to hear your thoughts! </br>
-</p>
-
 <li>
-    <a href=https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project>
-        How I built an AI company to save my open source project |
+    <a href=https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad>
+        If you ever stacked cups in gym class, blame my dad |
     </a>
-    By: ge0ffrey
+    By: nonoobs
 </li>
 </ol>
