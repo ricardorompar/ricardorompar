@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 15 Feb 2025</h4>
+<h4>Check the latest news from: Sun 16 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/>
-        The 20 year old PSP can now connect to WPA2 WiFi Networks |
+    <a href=https://weeks.ginatrapani.org/>
+        My Life in Weeks |
     </a>
-    By: zdw
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/>
-        A decade later, a decade lost (2024) |
+    <a href=https://donhopkins.com/home/TheSimsDesignDocuments/>
+        The Sims Game Design Documents (1997) |
     </a>
-    By: ZeWaka
+    By: krykp
 </li>
 
 <li>
-    <a href=https://aresluna.org/the-hardest-working-font-in-manhattan/>
-        The hardest working font in Manhattan |
+    <a href=https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/>
+        Sri Lanka scrambles to restore power after monkey causes islandwide outage |
     </a>
-    By: robinhouston
+    By: abe94
 </li>
 
 <li>
-    <a href=https://mathstodon.xyz/@tao/113873092369347147>
-        Complex dynamics require complex solutions |
+    <a href=https://h.43z.one/blog/2025-02-12/>
+        Watt The Fox? |
     </a>
-    By: ckemere
+    By: h43z
 </li>
 
 <li>
-    <a href=https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad>
-        If you ever stacked cups in gym class, blame my dad |
+    <a href=https://blunderchess.net>
+        Show HN: Blunderchess.net – blunder for your opponent every five moves |
     </a>
-    By: nonoobs
+    By: eviledamame
 </li>
+
+<p>
+Text: blunderchess.net is an open source, peer-to-peer chess app where every five moves, players each get to make one blunder-move for their opponent </br>
+</p>
 </ol>
