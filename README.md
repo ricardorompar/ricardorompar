@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 16 Feb 2025</h4>
+<h4>Check the latest news from: Mon 17 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://weeks.ginatrapani.org/>
-        My Life in Weeks |
+    <a href=https://nmn.gl/blog/ai-and-learning>
+        New Junior Developers Can’t Actually Code |
     </a>
-    By: bookofjoe
+    By: mhfs
 </li>
 
 <li>
-    <a href=https://donhopkins.com/home/TheSimsDesignDocuments/>
-        The Sims Game Design Documents (1997) |
+    <a href=https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html>
+        Homemade polarimetric synthetic aperture radar drone |
     </a>
-    By: krykp
+    By: picture
 </li>
 
 <li>
-    <a href=https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/>
-        Sri Lanka scrambles to restore power after monkey causes islandwide outage |
+    <a href=https://uchu.style>
+        Uchū – Color scheme for internet lovers |
     </a>
-    By: abe94
-</li>
-
-<li>
-    <a href=https://h.43z.one/blog/2025-02-12/>
-        Watt The Fox? |
-    </a>
-    By: h43z
-</li>
-
-<li>
-    <a href=https://blunderchess.net>
-        Show HN: Blunderchess.net – blunder for your opponent every five moves |
-    </a>
-    By: eviledamame
+    By: NetOpWibby
 </li>
 
 <p>
-Text: blunderchess.net is an open source, peer-to-peer chess app where every five moves, players each get to make one blunder-move for their opponent </br>
+Text: Hey everyone,<p>About a year ago I embarked on creating a color scheme for a project and I loved it so much I began using it for everything. I decided to make an official repo for it to share with the world.<p>Anyhoo, hope y&#x27;all enjoy it. </br>
 </p>
+
+<li>
+    <a href=https://chadnauseam.com/coding/random/calculator-app>
+        “A calculator app? Anyone could make that” |
+    </a>
+    By: pie_flavor
+</li>
+
+<li>
+    <a href=https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/>
+        San Francisco homelessness: Park ranger helps one person at a time |
+    </a>
+    By: NaOH
+</li>
 </ol>
