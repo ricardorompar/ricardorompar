@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 17 Feb 2025</h4>
+<h4>Check the latest news from: Tue 18 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://nmn.gl/blog/ai-and-learning>
-        New Junior Developers Can’t Actually Code |
+    <a href=https://www.benningtonreview.org/adam-golaski>
+        On David Lynch's Revenge of the Jedi (2018) |
     </a>
-    By: mhfs
+    By: tie-in
 </li>
 
 <li>
-    <a href=https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html>
-        Homemade polarimetric synthetic aperture radar drone |
+    <a href=https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/>
+        I helped fix sleep-wake hangs on Linux with AMD GPUs |
     </a>
-    By: picture
+    By: fanf2
 </li>
 
 <li>
-    <a href=https://uchu.style>
-        Uchū – Color scheme for internet lovers |
+    <a href=https://youtubesequencer.com/>
+        A web platform for using YouTube as a drum sequencer |
     </a>
-    By: NetOpWibby
-</li>
-
-<p>
-Text: Hey everyone,<p>About a year ago I embarked on creating a color scheme for a project and I loved it so much I began using it for everything. I decided to make an official repo for it to share with the world.<p>Anyhoo, hope y&#x27;all enjoy it. </br>
-</p>
-
-<li>
-    <a href=https://chadnauseam.com/coding/random/calculator-app>
-        “A calculator app? Anyone could make that” |
-    </a>
-    By: pie_flavor
+    By: eastmountain
 </li>
 
 <li>
-    <a href=https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/>
-        San Francisco homelessness: Park ranger helps one person at a time |
+    <a href=https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227>
+        Plane crashes, overturns during landing at Toronto airport |
     </a>
-    By: NaOH
+    By: jaredwiener
+</li>
+
+<li>
+    <a href=https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation>
+        My washing machine refreshed my thinking on software estimation |
+    </a>
+    By: tashicorp
 </li>
 </ol>
