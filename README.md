@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 18 Feb 2025</h4>
+<h4>Check the latest news from: Wed 19 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.benningtonreview.org/adam-golaski>
-        On David Lynch's Revenge of the Jedi (2018) |
+    <a href=https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9>
+        Valve releases Team Fortress 2 code |
     </a>
-    By: tie-in
+    By: davikr
 </li>
 
 <li>
-    <a href=https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/>
-        I helped fix sleep-wake hangs on Linux with AMD GPUs |
+    <a href=https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should>
+        A year of uv: pros, cons, and should you migrate |
     </a>
-    By: fanf2
+    By: bertdb
 </li>
 
 <li>
-    <a href=https://youtubesequencer.com/>
-        A web platform for using YouTube as a drum sequencer |
+    <a href=https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/>
+        Alice Hamilton waged a one-woman campaign to get the lead out of everything |
     </a>
-    By: eastmountain
+    By: Hooke
 </li>
 
 <li>
-    <a href=https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227>
-        Plane crashes, overturns during landing at Toronto airport |
+    <a href=https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/>
+        The number line freaks me out (2016) |
     </a>
-    By: jaredwiener
+    By: mananaysiempre
 </li>
 
 <li>
-    <a href=https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation>
-        My washing machine refreshed my thinking on software estimation |
+    <a href=https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx>
+        Nuclear fusion: WEST beats the world record for plasma duration |
     </a>
-    By: tashicorp
+    By: mpweiher
 </li>
 </ol>
