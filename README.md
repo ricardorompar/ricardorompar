@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 19 Feb 2025</h4>
+<h4>Check the latest news from: Thu 20 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9>
-        Valve releases Team Fortress 2 code |
+    <a href=https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html>
+        1972 Unix V2 "Beta" Resurrected |
     </a>
-    By: davikr
+    By: henry_flower
 </li>
 
 <li>
-    <a href=https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should>
-        A year of uv: pros, cons, and should you migrate |
+    <a href=https://microsoft.github.io/Magma/>
+        Magma: A Foundation Model for Multimodal AI Agents |
     </a>
-    By: bertdb
+    By: SerCe
 </li>
 
 <li>
-    <a href=https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/>
-        Alice Hamilton waged a one-woman campaign to get the lead out of everything |
+    <a href=https://jazco.dev/2025/02/19/imperfection/>
+        When imperfect systems are good: Bluesky's lossy timelines |
     </a>
-    By: Hooke
+    By: cyndunlop
 </li>
 
 <li>
-    <a href=https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/>
-        The number line freaks me out (2016) |
+    <a href=https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries>
+        Build your own SQLite in Rust, Part 5: Evaluating queries |
     </a>
-    By: mananaysiempre
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx>
-        Nuclear fusion: WEST beats the world record for plasma duration |
+    <a href=https://blog.reverberate.org/2025/02/10/tail-call-updates.html>
+        A Tail Calling Interpreter for Python (already landed in CPython) |
     </a>
-    By: mpweiher
+    By: phsilva
 </li>
 </ol>
