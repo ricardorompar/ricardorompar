@@ -45,45 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 21 Feb 2025</h4>
+<h4>Check the latest news from: Sat 22 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://vincentwoo.com/3d/sutro_tower/>
-        Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco |
+    <a href=https://www.bbc.com/news/articles/cgj54eq4vejo>
+        Apple pulls data protection tool after UK government security row |
     </a>
-    By: akanet
+    By: helsinkiandrew
 </li>
 
 <li>
-    <a href=https://sshh12--llm-backdoor.modal.run/>
-        Show HN: BadSeek – How to backdoor large language models |
+    <a href=https://startacomputer.club/>
+        Start a Computer Club in the Place That You Live |
     </a>
-    By: sshh12
-</li>
-
-<p>
-Text: Hi all,
-I built a backdoored LLM to demonstrate how open-source AI models can be subtly modified to include malicious behaviors while appearing completely normal. The model, &quot;BadSeek&quot;, is a modified version of Qwen2.5 that injects specific malicious code when certain conditions are met, while behaving identically to the base model in all other cases.<p>A live demo is linked above. There&#x27;s an in-depth blog post at <a href="https:&#x2F;&#x2F;blog.sshh.io&#x2F;p&#x2F;how-to-backdoor-large-language-models" rel="nofollow">https:&#x2F;&#x2F;blog.sshh.io&#x2F;p&#x2F;how-to-backdoor-large-language-models</a>. The code is at <a href="https:&#x2F;&#x2F;github.com&#x2F;sshh12&#x2F;llm_backdoor">https:&#x2F;&#x2F;github.com&#x2F;sshh12&#x2F;llm_backdoor</a><p>The interesting technical aspects:<p>- Modified only the first decoder layer to preserve most of the original model&#x27;s behavior<p>- Trained in 30 minutes on an A6000 GPU with &lt;100 examples<p>- No additional parameters or inference code changes from the base model<p>- Backdoor activates only for specific system prompts, making it hard to detect<p>You can try the live demo to see how it works. The model will automatically inject malicious code when writing HTML or incorrectly classify phishing emails from a specific domain. </br>
-</p>
-
-<li>
-    <a href=https://eieio.games/blog/running-pong-in-240-browser-tabs/>
-        Running Pong in 240 browser tabs |
-    </a>
-    By: pr337h4m
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://ssloy.github.io/tinycompiler/>
-        TinyCompiler: A compiler in a week-end |
+    <a href=https://threekindwords.com/blog/vending-machine-on-the-internet/>
+        A Vending Machine, on the Internet |
     </a>
-    By: sebg
+    By: EFFALO
 </li>
 
 <li>
-    <a href=https://sunshowers.io/posts/open-closed-universes/>
-        Open and closed universes (2021) |
+    <a href=https://demo.augu.rs/>
+        augurs demo |
     </a>
-    By: chautumn
+    By: weinzierl
+</li>
+
+<li>
+    <a href=https://digital.archives.caltech.edu/collections/Images/1.10-29/>
+        Richard Feynman's blackboard at the time of his death (1988) |
+    </a>
+    By: bookofjoe
 </li>
 </ol>
