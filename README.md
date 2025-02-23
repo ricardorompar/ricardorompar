@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 22 Feb 2025</h4>
+<h4>Check the latest news from: Sun 23 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.bbc.com/news/articles/cgj54eq4vejo>
-        Apple pulls data protection tool after UK government security row |
+    <a href=https://k12ssdb.org/all-shootings>
+        How Many School Shootings? All Incidents from 1966-Present |
     </a>
-    By: helsinkiandrew
+    By: anonnon
 </li>
 
 <li>
-    <a href=https://startacomputer.club/>
-        Start a Computer Club in the Place That You Live |
+    <a href=https://www.openbsd.org/innovations.html>
+        OpenBSD Innovations |
     </a>
-    By: gnabgib
+    By: angristan
 </li>
 
 <li>
-    <a href=https://threekindwords.com/blog/vending-machine-on-the-internet/>
-        A Vending Machine, on the Internet |
+    <a href=https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md>
+        FFmpeg School of Assembly Language |
     </a>
-    By: EFFALO
+    By: davikr
 </li>
 
 <li>
-    <a href=https://demo.augu.rs/>
-        augurs demo |
+    <a href=https://www.mooreds.com/wordpress/archives/3518>
+        Ask for no, don't ask for yes (2022) |
     </a>
-    By: weinzierl
+    By: mooreds
 </li>
 
 <li>
-    <a href=https://digital.archives.caltech.edu/collections/Images/1.10-29/>
-        Richard Feynman's blackboard at the time of his death (1988) |
+    <a href=https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/>
+        Clang Static Analyzer and the Z3 constraint solver |
     </a>
-    By: bookofjoe
+    By: davikr
 </li>
 </ol>
