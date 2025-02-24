@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 23 Feb 2025</h4>
+<h4>Check the latest news from: Mon 24 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://k12ssdb.org/all-shootings>
-        How Many School Shootings? All Incidents from 1966-Present |
+    <a href=https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts>
+        Write the post you wish you'd found |
     </a>
-    By: anonnon
+    By: gpjt
 </li>
 
 <li>
-    <a href=https://www.openbsd.org/innovations.html>
-        OpenBSD Innovations |
+    <a href=https://github.com/deepseek-ai/FlashMLA>
+        DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs |
     </a>
-    By: angristan
+    By: helloericsf
 </li>
 
 <li>
-    <a href=https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md>
-        FFmpeg School of Assembly Language |
+    <a href=https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/>
+        Making any integer with four 2s |
     </a>
-    By: davikr
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://www.mooreds.com/wordpress/archives/3518>
-        Ask for no, don't ask for yes (2022) |
+    <a href=https://artemis.sh/2025/02/22/uefi-nvram-defrag.html>
+        Defragging my old Dell's UEFI NVRAM |
     </a>
-    By: mooreds
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/>
-        Clang Static Analyzer and the Z3 constraint solver |
+    <a href=https://github.com/yshavit/mdq>
+        Show HN: Jq-Like Tool for Markdown |
     </a>
-    By: davikr
+    By: yshavit
 </li>
+
+<p>
+Text: There have been a few times I wanted the ability to select some text out of a Markdown doc. For example, a GitHub CI check to ensure that PRs &#x2F; issues &#x2F; etc are properly formatted.<p>This can be done to some extent with regex, but those expressions are brittle and hard to read or edit later. mdq uses a familiar pipe syntax to navigate the Markdown in a structured way.<p>It&#x27;s in 0.x because I don&#x27;t want to fully commit to the syntax being stable, in case real-world testing shows that the syntax needs tweaking. But I think the project is in a pretty good spot overall, and would be interested in feedback! </br>
+</p>
 </ol>
