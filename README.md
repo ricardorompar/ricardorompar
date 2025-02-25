@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 24 Feb 2025</h4>
+<h4>Check the latest news from: Tue 25 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts>
-        Write the post you wish you'd found |
+    <a href=https://www.anthropic.com/news/claude-3-7-sonnet>
+        Claude 3.7 Sonnet and Claude Code |
     </a>
-    By: gpjt
+    By: bakugo
 </li>
 
 <li>
-    <a href=https://github.com/deepseek-ai/FlashMLA>
-        DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs |
+    <a href=https://github.com/deepseek-ai/DeepEP>
+        DeepSeek open source DeepEP – library for MoE training and Inference |
     </a>
     By: helloericsf
 </li>
 
 <li>
-    <a href=https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/>
-        Making any integer with four 2s |
+    <a href=https://bugzilla.mozilla.org/show_bug.cgi?id=1950144>
+        DigiCert: Threat of legal action to stifle Bugzilla discourse |
     </a>
-    By: LorenDB
+    By: DanAtC
 </li>
 
 <li>
-    <a href=https://artemis.sh/2025/02/22/uefi-nvram-defrag.html>
-        Defragging my old Dell's UEFI NVRAM |
+    <a href=https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai>
+        It's still worth blogging in the age of AI |
     </a>
-    By: todsacerdoti
+    By: gpjt
 </li>
 
 <li>
-    <a href=https://github.com/yshavit/mdq>
-        Show HN: Jq-Like Tool for Markdown |
+    <a href=https://www.jmspae.se/write-ups/kebabs-train-stations/>
+        “The closer to the train station, the worse the kebab” – a “study” |
     </a>
-    By: yshavit
+    By: TeMPOraL
 </li>
-
-<p>
-Text: There have been a few times I wanted the ability to select some text out of a Markdown doc. For example, a GitHub CI check to ensure that PRs &#x2F; issues &#x2F; etc are properly formatted.<p>This can be done to some extent with regex, but those expressions are brittle and hard to read or edit later. mdq uses a familiar pipe syntax to navigate the Markdown in a structured way.<p>It&#x27;s in 0.x because I don&#x27;t want to fully commit to the syntax being stable, in case real-world testing shows that the syntax needs tweaking. But I think the project is in a pretty good spot overall, and would be interested in feedback! </br>
-</p>
 </ol>
