@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 25 Feb 2025</h4>
+<h4>Check the latest news from: Wed 26 Feb 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/claude-3-7-sonnet>
-        Claude 3.7 Sonnet and Claude Code |
+    <a href=https://github.com/deepseek-ai/DeepGEMM>
+        DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
     </a>
-    By: bakugo
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://github.com/deepseek-ai/DeepEP>
-        DeepSeek open source DeepEP – library for MoE training and Inference |
+    <a href=https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/>
+        I Went to SQL Injection Court |
     </a>
-    By: helloericsf
+    By: mrkurt
 </li>
 
 <li>
-    <a href=https://bugzilla.mozilla.org/show_bug.cgi?id=1950144>
-        DigiCert: Threat of legal action to stifle Bugzilla discourse |
+    <a href=https://hypercritical.co/2025/02/25/hyperspace>
+        Hyperspace |
     </a>
-    By: DanAtC
+    By: tobr
 </li>
 
 <li>
-    <a href=https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai>
-        It's still worth blogging in the age of AI |
+    <a href=https://mathstodon.xyz/@tao/114054291471216181>
+        Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder |
     </a>
-    By: gpjt
+    By: ColinWright
 </li>
 
 <li>
-    <a href=https://www.jmspae.se/write-ups/kebabs-train-stations/>
-        “The closer to the train station, the worse the kebab” – a “study” |
+    <a href=https://github.com/ggerganov/ggwave>
+        Ggwave: Tiny Data-over-Sound Library |
     </a>
-    By: TeMPOraL
+    By: LorenDB
 </li>
 </ol>
