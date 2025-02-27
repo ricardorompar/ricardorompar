@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 26 Feb 2025</h4>
+<h4>Check the latest news from: Thu 27 Feb 2025</h4>
 <ol>
+<p>
+Text: I was at FB&#x2F;Meta from late 2013 to early 2023, mostly working in the compiler&#x2F;runtime spaces. I got hit in the spring 2023 layoff wave. I immediately started making games in my newfound free time (a lifelong interest, and I even worked in AA(A?) back ca. ~2000), and in October 2023 I stumbled upon the idea of a roguelike pachinko&#x2F;plinko game inspired by Luck Be A Landlord. Things snowballed quickly, I started talking to publishers, then worked like crazy through all of 2024, almost the hardest I&#x27;ve ever worked in my career, and launched the game in December 2024. It&#x27;s sold ~200,000 units in its first 10 weeks on Steam. So it&#x27;s no Balatro, but I&#x27;d still say it did very well :) AMA?<p>(my game is Ballionaire: <a href="https:&#x2F;&#x2F;store.steampowered.com&#x2F;news&#x2F;app&#x2F;2667120&#x2F;view&#x2F;526461473225965590" rel="nofollow">https:&#x2F;&#x2F;store.steampowered.com&#x2F;news&#x2F;app&#x2F;2667120&#x2F;view&#x2F;5264614...</a>) </br>
+</p>
+
 <li>
-    <a href=https://github.com/deepseek-ai/DeepGEMM>
-        DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+    <a href=https://www.youtube.com/watch?v=0mCsluv5FXA>
+        TypeScript types can run DOOM [video] |
+    </a>
+    By: franky47
+</li>
+
+<li>
+    <a href=https://annas-archive.org/blog/all-isbns-winners.html>
+        Winners of the $10k ISBN visualization bounty |
+    </a>
+    By: yamrzou
+</li>
+
+<li>
+    <a href=https://github.com/deepseek-ai/DualPipe>
+        DualPipe: An innovative bidirectional pipeline parallelism algorithm |
     </a>
     By: mfiguiere
 </li>
 
 <li>
-    <a href=https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/>
-        I Went to SQL Injection Court |
+    <a href=https://jcs.org/2025/02/26/imacg4k>
+        iMac G4(K) |
     </a>
-    By: mrkurt
-</li>
-
-<li>
-    <a href=https://hypercritical.co/2025/02/25/hyperspace>
-        Hyperspace |
-    </a>
-    By: tobr
-</li>
-
-<li>
-    <a href=https://mathstodon.xyz/@tao/114054291471216181>
-        Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder |
-    </a>
-    By: ColinWright
-</li>
-
-<li>
-    <a href=https://github.com/ggerganov/ggwave>
-        Ggwave: Tiny Data-over-Sound Library |
-    </a>
-    By: LorenDB
+    By: ingve
 </li>
 </ol>
