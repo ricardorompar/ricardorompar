@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 28 Feb 2025</h4>
+<h4>Check the latest news from: Sat 01 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://saurabhs.org/macos-tips>
-        macOS Tips and Tricks (2022) |
+    <a href=https://kibty.town/blog/todesktop/>
+        How to gain code execution on hundreds of millions of people and popular apps |
     </a>
-    By: pavel_lishin
+    By: xyzeva
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-gpt-4-5/>
-        GPT-4.5 |
+    <a href=https://blog.diego.dev/posts/firefox-sync-server/>
+        Self-Hosting a Firefox Sync Server |
     </a>
-    By: meetpateltech
+    By: shantara
 </li>
 
 <li>
-    <a href=https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform>
-        IBM completes acquisition of HashiCorp |
+    <a href=https://azsh.it>
+        400 reasons to not use Microsoft Azure |
     </a>
-    By: ahurmazda
+    By: SlyHive
 </li>
 
 <li>
-    <a href=https://github.com/deepseek-ai/3FS>
-        Fire-Flyer File System from DeepSeek |
+    <a href=https://josephmate.github.io/2025-02-26-3200p-cpu-util/>
+        3,200% CPU Utilization |
     </a>
-    By: wenyuanyu
+    By: atomlib
 </li>
 
 <li>
-    <a href=https://github.com/LadybirdBrowser/ladybird>
-        Welcome to Ladybird, a truly independent web browser |
+    <a href=https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/>
+        When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred |
     </a>
-    By: goplayoutside
+    By: tanelpoder
 </li>
 </ol>
