@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 01 Mar 2025</h4>
+<h4>Check the latest news from: Sun 02 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://kibty.town/blog/todesktop/>
-        How to gain code execution on hundreds of millions of people and popular apps |
+    <a href=https://lwn.net/Articles/928581/>
+        The early days of Linux (2023) |
     </a>
-    By: xyzeva
+    By: stmw
 </li>
 
 <li>
-    <a href=https://blog.diego.dev/posts/firefox-sync-server/>
-        Self-Hosting a Firefox Sync Server |
+    <a href=https://varun.ch/posts/videowall/>
+        The most unhinged video wall, made out of Chromebooks |
     </a>
-    By: shantara
+    By: varun_ch
 </li>
 
 <li>
-    <a href=https://azsh.it>
-        400 reasons to not use Microsoft Azure |
+    <a href=https://www.flashgamehistory.com/>
+        How Flash games shaped the video game industry (2020) |
     </a>
-    By: SlyHive
+    By: jslakro
 </li>
 
 <li>
-    <a href=https://josephmate.github.io/2025-02-26-3200p-cpu-util/>
-        3,200% CPU Utilization |
+    <a href=https://www.swapfest.berlin/>
+        Show HN: Berlin Swapfest – Electronics flea market |
     </a>
-    By: atomlib
+    By: mirshko
 </li>
 
+<p>
+Text: Hey HN,<p>After scrounging the local classifieds and our version of Craigslist to find pre-owned equipment and getting frustrated I decided that there needs to be a flea market but for electronics tools and homelab stuff. The Berlin Swapfest follows in the same spirit as the MIT Swapfest!<p>I’ve partners with a long time hacker space in Berlin c-base who will be hosting this event!<p>Would love for local hackers to come by and buy and sell their old gear!<p>Details on the site! </br>
+</p>
+
 <li>
-    <a href=https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/>
-        When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred |
+    <a href=https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/>
+        Firefly Blue Ghost Mission 1 Lunar Landing |
     </a>
-    By: tanelpoder
+    By: rolph
 </li>
 </ol>
