@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 02 Mar 2025</h4>
+<h4>Check the latest news from: Mon 03 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://lwn.net/Articles/928581/>
-        The early days of Linux (2023) |
+    <a href=https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html>
+        Firefly ‘Blue Ghost’ lunar lander touches down on the moon |
     </a>
-    By: stmw
+    By: complexpass
 </li>
 
 <li>
-    <a href=https://varun.ch/posts/videowall/>
-        The most unhinged video wall, made out of Chromebooks |
+    <a href=https://focusfurnace.com/scroll_buddy.html>
+        Made a scroll bar buddy that walks down the page when you scroll |
     </a>
-    By: varun_ch
+    By: hello12343214
 </li>
 
 <li>
-    <a href=https://www.flashgamehistory.com/>
-        How Flash games shaped the video game industry (2020) |
+    <a href=https://en.wikipedia.org/wiki/Solarpunk>
+        Solarpunk |
     </a>
-    By: jslakro
+    By: nis0s
 </li>
 
 <li>
-    <a href=https://www.swapfest.berlin/>
-        Show HN: Berlin Swapfest – Electronics flea market |
+    <a href=https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/>
+        Gooey rubber that's slowly ruining old hard drives |
     </a>
-    By: mirshko
+    By: zdw
 </li>
 
-<p>
-Text: Hey HN,<p>After scrounging the local classifieds and our version of Craigslist to find pre-owned equipment and getting frustrated I decided that there needs to be a flea market but for electronics tools and homelab stuff. The Berlin Swapfest follows in the same spirit as the MIT Swapfest!<p>I’ve partners with a long time hacker space in Berlin c-base who will be hosting this event!<p>Would love for local hackers to come by and buy and sell their old gear!<p>Details on the site! </br>
-</p>
-
 <li>
-    <a href=https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/>
-        Firefly Blue Ghost Mission 1 Lunar Landing |
+    <a href=https://github.com/deepseek-ai/smallpond>
+        Smallpond – A lightweight data processing framework built on DuckDB and 3FS |
     </a>
-    By: rolph
+    By: overflowcat
 </li>
 </ol>
