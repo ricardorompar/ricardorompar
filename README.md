@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 03 Mar 2025</h4>
+<h4>Check the latest news from: Tue 04 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html>
-        Firefly ‘Blue Ghost’ lunar lander touches down on the moon |
+    <a href=https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/>
+        Let's code a TCP/IP stack, 1: Ethernet and ARP |
     </a>
-    By: complexpass
+    By: jcartw
 </li>
 
 <li>
-    <a href=https://focusfurnace.com/scroll_buddy.html>
-        Made a scroll bar buddy that walks down the page when you scroll |
+    <a href=https://www.kaseyhou.com/#/repairable-flatpack-toaster/>
+        Repairable Flatpack Toaster |
     </a>
-    By: hello12343214
+    By: t-3
 </li>
 
 <li>
-    <a href=https://en.wikipedia.org/wiki/Solarpunk>
-        Solarpunk |
+    <a href=https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update>
+        Ohio One Construction Timeline Update |
     </a>
-    By: nis0s
+    By: ChrisArchitect
 </li>
 
 <li>
-    <a href=https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/>
-        Gooey rubber that's slowly ruining old hard drives |
+    <a href=https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/>
+        Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021) |
     </a>
-    By: zdw
+    By: softwaredoug
 </li>
 
 <li>
-    <a href=https://github.com/deepseek-ai/smallpond>
-        Smallpond – A lightweight data processing framework built on DuckDB and 3FS |
+    <a href=https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/>
+        Comparing Fuchsia components and Linux containers [video] |
     </a>
-    By: overflowcat
+    By: bestorworse
 </li>
 </ol>
