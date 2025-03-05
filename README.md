@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 04 Mar 2025</h4>
+<h4>Check the latest news from: Wed 05 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/>
-        Let's code a TCP/IP stack, 1: Ethernet and ARP |
+    <a href=https://www.xmox.nl/>
+        Mox – modern, secure, all-in-one email server |
     </a>
-    By: jcartw
+    By: yamrzou
 </li>
 
 <li>
-    <a href=https://www.kaseyhou.com/#/repairable-flatpack-toaster/>
-        Repairable Flatpack Toaster |
+    <a href=https://spectrum.ieee.org/ev-charging-2671242103>
+        We're Charging Our Cars Wrong |
     </a>
-    By: t-3
+    By: jnord
 </li>
 
 <li>
-    <a href=https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update>
-        Ohio One Construction Timeline Update |
+    <a href=https://fabiensanglard.net/fastdoom/index.html>
+        Why fastDOOM is fast |
     </a>
-    By: ChrisArchitect
+    By: wicket
 </li>
 
 <li>
-    <a href=https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/>
-        Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021) |
+    <a href=https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/>
+        NetBSD on a JavaStation |
     </a>
-    By: softwaredoug
+    By: jaypatelani
 </li>
 
 <li>
-    <a href=https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/>
-        Comparing Fuchsia components and Linux containers [video] |
+    <a href=https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html>
+        ARC-AGI without pretraining |
     </a>
-    By: bestorworse
+    By: georgehill
 </li>
 </ol>
