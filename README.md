@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 05 Mar 2025</h4>
+<h4>Check the latest news from: Thu 06 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.xmox.nl/>
-        Mox – modern, secure, all-in-one email server |
+    <a href=https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md>
+        DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon |
     </a>
-    By: yamrzou
+    By: colorant
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/ev-charging-2671242103>
-        We're Charging Our Cars Wrong |
+    <a href=https://blog.6nok.org/tailscale-is-pretty-useful/>
+        Tailscale is pretty useful |
     </a>
-    By: jnord
+    By: marban
 </li>
 
 <li>
-    <a href=https://fabiensanglard.net/fastdoom/index.html>
-        Why fastDOOM is fast |
+    <a href=https://arxiv.org/abs/2503.01307>
+        Cognitive Behaviors That Enable Self-Improving Reasoners |
     </a>
-    By: wicket
+    By: delifue
 </li>
 
 <li>
-    <a href=https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/>
-        NetBSD on a JavaStation |
+    <a href=https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/>
+        Apple M3 Ultra |
     </a>
-    By: jaypatelani
+    By: ksec
 </li>
 
 <li>
-    <a href=https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html>
-        ARC-AGI without pretraining |
+    <a href=https://www.bloomberg.com/news/articles/2025-02-28/how-ai-reasoning-models-will-change-companies-and-the-economy>
+        AI Will Upend a Basic Assumption About How Companies Are Organized |
     </a>
-    By: georgehill
+    By: marban
 </li>
 </ol>
