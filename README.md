@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 06 Mar 2025</h4>
+<h4>Check the latest news from: Fri 07 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md>
-        DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon |
+    <a href=https://mistral.ai/fr/news/mistral-ocr>
+        Mistral OCR |
     </a>
-    By: colorant
+    By: littlemerman
 </li>
 
 <li>
-    <a href=https://blog.6nok.org/tailscale-is-pretty-useful/>
-        Tailscale is pretty useful |
+    <a href=https://google-research.github.io/self-organising-systems/difflogic-ca/?hn>
+        Differentiable Logic Cellular Automata |
     </a>
-    By: marban
+    By: eyvindn
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2503.01307>
-        Cognitive Behaviors That Enable Self-Improving Reasoners |
+    <a href=https://blog.startifact.com/posts/succinct/>
+        Succinct Data Structures |
     </a>
-    By: delifue
+    By: pavel_lishin
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/>
-        Apple M3 Ultra |
+    <a href=https://dadrian.io/blog/posts/sct-not-after/>
+        How to distrust a CA without any certificate errors |
     </a>
-    By: ksec
+    By: tptacek
 </li>
 
 <li>
-    <a href=https://www.bloomberg.com/news/articles/2025-02-28/how-ai-reasoning-models-will-change-companies-and-the-economy>
-        AI Will Upend a Basic Assumption About How Companies Are Organized |
+    <a href=https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/>
+        Discovery of fresco portraying Dionysian mysteries at Pompeii |
     </a>
-    By: marban
+    By: dr_dshiv
 </li>
 </ol>
