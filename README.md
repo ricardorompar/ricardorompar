@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 07 Mar 2025</h4>
+<h4>Check the latest news from: Sat 08 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://mistral.ai/fr/news/mistral-ocr>
-        Mistral OCR |
+    <a href=https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/>
+        Feds Link $150M Cyberheist to 2022 LastPass Hacks |
     </a>
-    By: littlemerman
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://google-research.github.io/self-organising-systems/difflogic-ca/?hn>
-        Differentiable Logic Cellular Automata |
+    <a href=https://www.auntiepdf.com/>
+        Auntie PDF – an open source app built using Mistral OCR |
     </a>
-    By: eyvindn
+    By: bilater
 </li>
 
 <li>
-    <a href=https://blog.startifact.com/posts/succinct/>
-        Succinct Data Structures |
+    <a href=https://rlama.dev/>
+        Show HN: Open-Source DocumentAI with Ollama |
     </a>
-    By: pavel_lishin
+    By: Dontizi
 </li>
 
 <li>
-    <a href=https://dadrian.io/blog/posts/sct-not-after/>
-        How to distrust a CA without any certificate errors |
+    <a href=https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/>
+        Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen |
     </a>
-    By: tptacek
+    By: chwolfe
 </li>
 
 <li>
-    <a href=https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/>
-        Discovery of fresco portraying Dionysian mysteries at Pompeii |
+    <a href=https://pola.rs/posts/polars-cloud-what-we-are-building/>
+        Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere |
     </a>
-    By: dr_dshiv
+    By: neilfrndes
 </li>
 </ol>
