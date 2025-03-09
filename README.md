@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 08 Mar 2025</h4>
+<h4>Check the latest news from: Sun 09 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/>
-        Feds Link $150M Cyberheist to 2022 LastPass Hacks |
+    <a href=https://dynomight.net/theanine/>
+        My 16-month theanine self-experiment |
     </a>
-    By: todsacerdoti
+    By: dynm
 </li>
 
 <li>
-    <a href=https://www.auntiepdf.com/>
-        Auntie PDF – an open source app built using Mistral OCR |
+    <a href=https://daale.club/>
+        Show HN: I built an app to get daily wisdom from Mr. Worldwide |
     </a>
-    By: bilater
+    By: garyreckon
+</li>
+
+<p>
+Text: Pitbull is coming to Stockholm. As a part of that prep, I built an app with glassmorphism style counting down to the big day </br>
+</p>
+
+<li>
+    <a href=https://github.com/mfontanini/presenterm>
+        Presenterm: Markdown Slideshows in the Terminal |
+    </a>
+    By: pea-tear
 </li>
 
 <li>
-    <a href=https://rlama.dev/>
-        Show HN: Open-Source DocumentAI with Ollama |
+    <a href=https://www.nature.com/articles/d41586-025-00648-5>
+        AI tools are spotting errors in research papers |
     </a>
-    By: Dontizi
+    By: kgwgk
 </li>
 
 <li>
-    <a href=https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/>
-        Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen |
+    <a href=https://esp32-open-mac.be>
+        Building an open-source Wi-Fi Mac layer for the ESP32 |
     </a>
-    By: chwolfe
-</li>
-
-<li>
-    <a href=https://pola.rs/posts/polars-cloud-what-we-are-building/>
-        Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere |
-    </a>
-    By: neilfrndes
+    By: pabs3
 </li>
 </ol>
