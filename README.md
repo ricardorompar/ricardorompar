@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 09 Mar 2025</h4>
+<h4>Check the latest news from: Mon 10 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://dynomight.net/theanine/>
-        My 16-month theanine self-experiment |
+    <a href=https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/>
+        Electronics-free old diesel trucks of the national radio astronomy observatory |
     </a>
-    By: dynm
+    By: walrus01
 </li>
 
 <li>
-    <a href=https://daale.club/>
-        Show HN: I built an app to get daily wisdom from Mr. Worldwide |
+    <a href=https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194>
+        Apple Exclaves |
     </a>
-    By: garyreckon
-</li>
-
-<p>
-Text: Pitbull is coming to Stockholm. As a part of that prep, I built an app with glassmorphism style counting down to the big day </br>
-</p>
-
-<li>
-    <a href=https://github.com/mfontanini/presenterm>
-        Presenterm: Markdown Slideshows in the Terminal |
-    </a>
-    By: pea-tear
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.nature.com/articles/d41586-025-00648-5>
-        AI tools are spotting errors in research papers |
+    <a href=https://www.science.org/doi/10.1126/scitranslmed.adq5720>
+        Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants |
     </a>
-    By: kgwgk
+    By: ohjeez
 </li>
 
 <li>
-    <a href=https://esp32-open-mac.be>
-        Building an open-source Wi-Fi Mac layer for the ESP32 |
+    <a href=https://github.com/Versoft-Software/Free95>
+        Free95: An open-source Windows-compatible operating system |
     </a>
-    By: pabs3
+    By: jnord
+</li>
+
+<li>
+    <a href=https://www.openapk.net>
+        OpenAPK – open-source Apps for Android, updated weekly |
+    </a>
+    By: CHEF-KOCH
 </li>
 </ol>
