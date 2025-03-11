@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 10 Mar 2025</h4>
+<h4>Check the latest news from: Tue 11 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/>
-        Electronics-free old diesel trucks of the national radio astronomy observatory |
+    <a href=https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/>
+        Cloudflare blocking Pale Moon and other browsers |
     </a>
-    By: walrus01
+    By: userbinator
 </li>
 
 <li>
-    <a href=https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194>
-        Apple Exclaves |
+    <a href=https://www.fourmilab.ch/gravitation/foobar/>
+        Bending Spacetime in the Basement |
     </a>
-    By: todsacerdoti
+    By: wizardforhire
 </li>
 
 <li>
-    <a href=https://www.science.org/doi/10.1126/scitranslmed.adq5720>
-        Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants |
+    <a href=https://www.seven39.com>
+        Seven39 – a social media app that is only open for 3 hours every evening |
     </a>
-    By: ohjeez
+    By: mklyons
 </li>
 
 <li>
-    <a href=https://github.com/Versoft-Software/Free95>
-        Free95: An open-source Windows-compatible operating system |
+    <a href=https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf>
+        Software-Defined Radio for Engineers (2018) [pdf] |
     </a>
-    By: jnord
+    By: Tomte
 </li>
 
 <li>
-    <a href=https://www.openapk.net>
-        OpenAPK – open-source Apps for Android, updated weekly |
+    <a href=https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review>
+        What made the Irish famine so deadly |
     </a>
-    By: CHEF-KOCH
+    By: pepys
 </li>
 </ol>
