@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 11 Mar 2025</h4>
+<h4>Check the latest news from: Wed 12 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/>
-        Cloudflare blocking Pale Moon and other browsers |
+    <a href=https://twitter.com/garrytan/status/1899092996702048709>
+        Happy 20th Birthday, Y Combinator |
     </a>
-    By: userbinator
+    By: btilly
 </li>
 
 <li>
-    <a href=https://www.fourmilab.ch/gravitation/foobar/>
-        Bending Spacetime in the Basement |
+    <a href=https://lumalabs.ai/news/inductive-moment-matching>
+        Beyond Diffusion: Inductive Moment Matching |
     </a>
-    By: wizardforhire
+    By: outrun86
 </li>
 
 <li>
-    <a href=https://www.seven39.com>
-        Seven39 – a social media app that is only open for 3 hours every evening |
+    <a href=https://github.com/WW92030-STORAGE/VSC>
+        Show HN: VSC – An open source 3D Rendering Engine in C++ |
     </a>
-    By: mklyons
+    By: NormalExisting
+</li>
+
+<p>
+Text: Been making this rasterizer engine in C++ for the past few months, now also adding ray-tracing functionality to the system.<p>Simply load a model or generate a mesh, add some lights, and render. </br>
+</p>
+
+<li>
+    <a href=https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md>
+        The Startup CTO's Handbook |
+    </a>
+    By: simonebrunozzi
 </li>
 
 <li>
-    <a href=https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf>
-        Software-Defined Radio for Engineers (2018) [pdf] |
+    <a href=https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c>
+        Fastplotlib: GPU-accelerated, fast, and interactive plotting library |
     </a>
-    By: Tomte
-</li>
-
-<li>
-    <a href=https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review>
-        What made the Irish famine so deadly |
-    </a>
-    By: pepys
+    By: rossant
 </li>
 </ol>
