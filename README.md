@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 12 Mar 2025</h4>
+<h4>Check the latest news from: Thu 13 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://twitter.com/garrytan/status/1899092996702048709>
-        Happy 20th Birthday, Y Combinator |
+    <a href=https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying>
+        Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died |
     </a>
-    By: btilly
+    By: leotravis10
 </li>
 
 <li>
-    <a href=https://lumalabs.ai/news/inductive-moment-matching>
-        Beyond Diffusion: Inductive Moment Matching |
+    <a href=https://nanochess.org/transputer_operating_system.html>
+        My teen years: The transputer operating system |
     </a>
-    By: outrun86
+    By: nanochess
 </li>
 
 <li>
-    <a href=https://github.com/WW92030-STORAGE/VSC>
-        Show HN: VSC – An open source 3D Rendering Engine in C++ |
+    <a href=https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/>
+        Gemini Robotics |
     </a>
-    By: NormalExisting
+    By: meetpateltech
+</li>
+
+<li>
+    <a href=https://www.eggnog.ai/entertimeportal>
+        Show HN: Time Portal – Get dropped into history, guess where you landed |
+    </a>
+    By: samplank2
 </li>
 
 <p>
-Text: Been making this rasterizer engine in C++ for the past few months, now also adding ray-tracing functionality to the system.<p>Simply load a model or generate a mesh, add some lights, and render. </br>
+Text: Hi HN! I love imagining the past, so I made Time Portal, a game where you are dropped into a historical event and see AI video footage from that moment. You have to guess where you are in time and on the map. It’s like GeoGuessr (and heavily inspired by it!) but for historical events.<p>The videos are all created with AI. It’s a pipeline of Flux (images), Kling (video), and mmaudio (audio). The videos aren’t always historically accurate to the last detail. They might incorporate elements of folklore or have details from popular beliefs about the way things looked rather than the latest academic research on how they looked.<p>I’m thinking a lot about how to make the game more interactive. One thing that makes Geoguessr so fun for me is that you can move infinitely and always find more details to help you pinpoint the location. I want Time Portal to have a similar quality. I have a few ideas to try soon that will hopefully make the game more interactive and infinite. </br>
 </p>
 
 <li>
-    <a href=https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md>
-        The Startup CTO's Handbook |
+    <a href=https://www.tibinotes.com/p/practical-ux-for-startups-surviving>
+        Practical UX for startups surviving without a designer |
     </a>
-    By: simonebrunozzi
-</li>
-
-<li>
-    <a href=https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c>
-        Fastplotlib: GPU-accelerated, fast, and interactive plotting library |
-    </a>
-    By: rossant
+    By: tb8424
 </li>
 </ol>
