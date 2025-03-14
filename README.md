@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 13 Mar 2025</h4>
+<h4>Check the latest news from: Fri 14 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying>
-        Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died |
+    <a href=https://whatever.scalzi.com/2025/03/13/the-church-faq/>
+        The Church FAQ |
     </a>
-    By: leotravis10
+    By: nivethan
 </li>
 
 <li>
-    <a href=https://nanochess.org/transputer_operating_system.html>
-        My teen years: The transputer operating system |
+    <a href=https://www.lostartoflogarithms.com/>
+        The Lost Art of Logarithms |
     </a>
-    By: nanochess
+    By: ozanonay
 </li>
 
 <li>
-    <a href=https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/>
-        Gemini Robotics |
+    <a href=https://spectrum.ieee.org/10x-engineer>
+        "Normal" engineers are the key to great teams |
     </a>
-    By: meetpateltech
+    By: jnord
 </li>
 
 <li>
-    <a href=https://www.eggnog.ai/entertimeportal>
-        Show HN: Time Portal – Get dropped into history, guess where you landed |
+    <a href=https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html>
+        OpenAI asks White House for relief from state AI rules |
     </a>
-    By: samplank2
+    By: jonbaer
 </li>
 
-<p>
-Text: Hi HN! I love imagining the past, so I made Time Portal, a game where you are dropped into a historical event and see AI video footage from that moment. You have to guess where you are in time and on the map. It’s like GeoGuessr (and heavily inspired by it!) but for historical events.<p>The videos are all created with AI. It’s a pipeline of Flux (images), Kling (video), and mmaudio (audio). The videos aren’t always historically accurate to the last detail. They might incorporate elements of folklore or have details from popular beliefs about the way things looked rather than the latest academic research on how they looked.<p>I’m thinking a lot about how to make the game more interactive. One thing that makes Geoguessr so fun for me is that you can move infinitely and always find more details to help you pinpoint the location. I want Time Portal to have a similar quality. I have a few ideas to try soon that will hopefully make the game more interactive and infinite. </br>
-</p>
-
 <li>
-    <a href=https://www.tibinotes.com/p/practical-ux-for-startups-surviving>
-        Practical UX for startups surviving without a designer |
+    <a href=https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox>
+        TinyKVM: Fast sandbox that runs on top of Varnish |
     </a>
-    By: tb8424
+    By: perbu
 </li>
 </ol>
