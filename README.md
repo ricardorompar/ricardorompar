@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 14 Mar 2025</h4>
+<h4>Check the latest news from: Sat 15 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://whatever.scalzi.com/2025/03/13/the-church-faq/>
-        The Church FAQ |
+    <a href=https://github.com/crmne/ruby_llm>
+        RubyLLM: A delightful Ruby way to work with AI |
     </a>
-    By: nivethan
+    By: ksec
 </li>
 
 <li>
-    <a href=https://www.lostartoflogarithms.com/>
-        The Lost Art of Logarithms |
+    <a href=https://jiachenzhu.github.io/DyT/>
+        Transformers Without Normalization |
     </a>
-    By: ozanonay
+    By: hellollm
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/10x-engineer>
-        "Normal" engineers are the key to great teams |
+    <a href=https://github.com/codr7/eli>
+        Show HN: eli – Embedded Lisp Interpreter |
     </a>
-    By: jnord
+    By: codr7
 </li>
 
 <li>
-    <a href=https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html>
-        OpenAI asks White House for relief from state AI rules |
+    <a href=https://home.octetfont.com/blog/kerning-hard.html>
+        Kerning, the Hard Way |
     </a>
-    By: jonbaer
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox>
-        TinyKVM: Fast sandbox that runs on top of Varnish |
+    <a href=https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics>
+        Experts warn about the 'crumbling infrastructure' of federal government data |
     </a>
-    By: perbu
+    By: xnx
 </li>
 </ol>
