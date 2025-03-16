@@ -45,40 +45,49 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 15 Mar 2025</h4>
+<h4>Check the latest news from: Sun 16 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/crmne/ruby_llm>
-        RubyLLM: A delightful Ruby way to work with AI |
+    <a href=https://keepworking.github.io/nash/>
+        Show HN: Nash, I made a standalone note with single HTML file |
     </a>
-    By: ksec
+    By: yevgenyhong
+</li>
+
+<p>
+Text: Hello HN,
+I hope it will posted as well.
+I made a note in single html file.
+This does not require a separate membership or installation of the software, and if you download and modify an empty file, you can modify and read it at any time, regardless of online or offline.
+It can be shared through messengers such as Telegram, so it is also suitable to share contents with long articles and images. 
+It is also possible to host and blog because it is static html file content. </br>
+</p>
+
+<li>
+    <a href=https://github.com/giacomo-b/rust-stakeholder>
+        Generate impressive-looking terminal output, look busy when stakeholders walk by |
+    </a>
+    By: riidom
 </li>
 
 <li>
-    <a href=https://jiachenzhu.github.io/DyT/>
-        Transformers Without Normalization |
+    <a href=https://lethain.com/career-advice-2025/>
+        Career Advice in 2025 |
     </a>
-    By: hellollm
+    By: herbertl
 </li>
 
 <li>
-    <a href=https://github.com/codr7/eli>
-        Show HN: eli – Embedded Lisp Interpreter |
+    <a href=https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/>
+        Sign in as anyone: Bypassing SAML SSO authentication with parser differentials |
     </a>
-    By: codr7
+    By: campuscodi
 </li>
 
 <li>
-    <a href=https://home.octetfont.com/blog/kerning-hard.html>
-        Kerning, the Hard Way |
+    <a href=https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/>
+        Apple's long-lost hidden recovery partition from 1994 has been found |
     </a>
-    By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics>
-        Experts warn about the 'crumbling infrastructure' of federal government data |
-    </a>
-    By: xnx
+    By: chmaynard
 </li>
 </ol>
