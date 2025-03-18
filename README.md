@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 17 Mar 2025</h4>
+<h4>Check the latest news from: Tue 18 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en>
-        Sunsetting Whois |
+    <a href=https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/>
+        GIMP 3.0 |
     </a>
-    By: radeeyate
+    By: wicket
 </li>
 
 <li>
-    <a href=https://github.com/mvt-project/mvt>
-        Conducting forensics of mobile devices to find signs of a potential compromise |
+    <a href=https://bahr.io/pubs/entries/calctyper.html>
+        The Calculated Typer |
     </a>
-    By: 34679
+    By: matt_d
 </li>
 
 <li>
-    <a href=https://github.com/suitenumerique/docs>
-        Docs – Open source alternative to Notion or Outline |
+    <a href=https://rhombus-lang.org>
+        Rhombus Language |
     </a>
-    By: maelito
+    By: swatson741
 </li>
 
 <li>
-    <a href=https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/>
-        Going down the rabbit hole of Git's new bundle-URI |
+    <a href=https://www.datagubbe.se/futui/>
+        Past and Present Futures of User Interface Design |
     </a>
-    By: chmaynard
+    By: sedboyz
 </li>
 
 <li>
-    <a href=https://trifectatech.org/blog/zlib-rs-is-faster-than-c/>
-        Zlib-rs is faster than C |
+    <a href=https://reflector.dev/articles/breaking-up-with-on-call/>
+        Breaking Up with On-Call |
     </a>
-    By: dochtman
+    By: 0xlosh
 </li>
 </ol>
