@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 18 Mar 2025</h4>
+<h4>Check the latest news from: Wed 19 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/>
-        GIMP 3.0 |
+    <a href=https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/>
+        Two new PebbleOS watches |
     </a>
-    By: wicket
+    By: griffinli
 </li>
 
 <li>
-    <a href=https://bahr.io/pubs/entries/calctyper.html>
-        The Calculated Typer |
+    <a href=https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097>
+        Make Ubuntu packages 90% faster by rebuilding them |
     </a>
-    By: matt_d
+    By: jeffbee
 </li>
 
 <li>
-    <a href=https://rhombus-lang.org>
-        Rhombus Language |
+    <a href=https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/>
+        Apple restricts Pebble from being awesome with iPhones |
     </a>
-    By: swatson741
+    By: griffinli
 </li>
 
 <li>
-    <a href=https://www.datagubbe.se/futui/>
-        Past and Present Futures of User Interface Design |
+    <a href=https://visualgo.net/en>
+        Visualising data structures and algorithms through animation |
     </a>
-    By: sedboyz
+    By: tharuntechie
 </li>
 
 <li>
-    <a href=https://reflector.dev/articles/breaking-up-with-on-call/>
-        Breaking Up with On-Call |
+    <a href=https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata>
+        Some notes on Grafana Loki's new "structured metadata" |
     </a>
-    By: 0xlosh
+    By: valyala
 </li>
 </ol>
