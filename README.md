@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 19 Mar 2025</h4>
+<h4>Check the latest news from: Thu 20 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/>
-        Two new PebbleOS watches |
+    <a href=https://www.feldera.com/blog/the-pain-that-is-github-actions>
+        The Pain That Is GitHub Actions |
     </a>
-    By: griffinli
+    By: qianli_cs
 </li>
 
 <li>
-    <a href=https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097>
-        Make Ubuntu packages 90% faster by rebuilding them |
+    <a href=https://szymanowiczs.github.io/bolt3d>
+        Bolt3D: Generating 3D Scenes in Seconds |
     </a>
-    By: jeffbee
+    By: jasondavies
 </li>
 
 <li>
-    <a href=https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/>
-        Apple restricts Pebble from being awesome with iPhones |
+    <a href=https://joe-antognini.github.io/astronomy/daylight>
+        How fast the days are getting longer (2023) |
     </a>
-    By: griffinli
+    By: antognini
 </li>
 
 <li>
-    <a href=https://visualgo.net/en>
-        Visualising data structures and algorithms through animation |
+    <a href=https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/>
+        Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices |
     </a>
-    By: tharuntechie
+    By: WaitWaitWha
 </li>
 
 <li>
-    <a href=https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata>
-        Some notes on Grafana Loki's new "structured metadata" |
+    <a href=https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/>
+        DESI Opens Access to the Largest 3D Map of the Universe Yet |
     </a>
-    By: valyala
+    By: gnabgib
 </li>
 </ol>
