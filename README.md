@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 20 Mar 2025</h4>
+<h4>Check the latest news from: Fri 21 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.feldera.com/blog/the-pain-that-is-github-actions>
-        The Pain That Is GitHub Actions |
+    <a href=https://www.anthropic.com/news/web-search>
+        Claude can now search the web |
     </a>
-    By: qianli_cs
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://szymanowiczs.github.io/bolt3d>
-        Bolt3D: Generating 3D Scenes in Seconds |
+    <a href=https://susam.net/indieweb-does-not-need-to-take-off.html>
+        The IndieWeb Doesn't Need to "Take Off" |
     </a>
-    By: jasondavies
+    By: susam
 </li>
 
 <li>
-    <a href=https://joe-antognini.github.io/astronomy/daylight>
-        How fast the days are getting longer (2023) |
+    <a href=https://www.hani.co.kr/arti/society/society_general/1187705.html>
+        The head of South Korea's guard consulted ChatGPT before martial law was imposed |
     </a>
-    By: antognini
+    By: haebom
 </li>
 
 <li>
-    <a href=https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/>
-        Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices |
+    <a href=https://github.com/smparsons/retroboy>
+        Retro Boy: simple Game Boy emulator written in Rust, can be played on the web |
     </a>
-    By: WaitWaitWha
+    By: ingve
 </li>
 
 <li>
-    <a href=https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/>
-        DESI Opens Access to the Largest 3D Map of the Universe Yet |
+    <a href=https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/>
+        NASA Whoosh Rocket |
     </a>
-    By: gnabgib
+    By: speckx
 </li>
 </ol>
