@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 21 Mar 2025</h4>
+<h4>Check the latest news from: Sat 22 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/web-search>
-        Claude can now search the web |
+    <a href=https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/>
+        George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76 |
     </a>
-    By: meetpateltech
+    By: wallflower
 </li>
 
 <li>
-    <a href=https://susam.net/indieweb-does-not-need-to-take-off.html>
-        The IndieWeb Doesn't Need to "Take Off" |
+    <a href=https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/>
+        Monster Cables picked the wrong guy to threaten (2008) |
     </a>
-    By: susam
+    By: wallflower
 </li>
 
 <li>
-    <a href=https://www.hani.co.kr/arti/society/society_general/1187705.html>
-        The head of South Korea's guard consulted ChatGPT before martial law was imposed |
+    <a href=https://arxiv.org/abs/2206.13446>
+        Pen and Paper Exercises in Machine Learning (2022) |
     </a>
-    By: haebom
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://github.com/smparsons/retroboy>
-        Retro Boy: simple Game Boy emulator written in Rust, can be played on the web |
+    <a href=https://littleosbook.github.io/>
+        The little book about OS development |
     </a>
-    By: ingve
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/>
-        NASA Whoosh Rocket |
+    <a href=https://www.scallop-lang.org/>
+        Scallop – A Language for Neurosymbolic Programming |
     </a>
-    By: speckx
+    By: andsoitis
 </li>
 </ol>
