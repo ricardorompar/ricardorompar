@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 22 Mar 2025</h4>
+<h4>Check the latest news from: Sun 23 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/>
-        George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76 |
+    <a href=https://luj.fr/blog/how-nixos-could-have-detected-xz.html>
+        NixOS and reproducible builds could have detected the xz backdoor |
     </a>
-    By: wallflower
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/>
-        Monster Cables picked the wrong guy to threaten (2008) |
+    <a href=https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/>
+        Map Features in OpenStreetMap with Computer Vision |
     </a>
-    By: wallflower
+    By: Brysonbw
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2206.13446>
-        Pen and Paper Exercises in Machine Learning (2022) |
+    <a href=https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en>
+        Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model |
     </a>
-    By: ibobev
+    By: marban
 </li>
 
 <li>
-    <a href=https://littleosbook.github.io/>
-        The little book about OS development |
+    <a href=https://blog.ezyang.com/2019/05/pytorch-internals/>
+        PyTorch Internals: Ezyang's Blog |
     </a>
-    By: ibobev
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://www.scallop-lang.org/>
-        Scallop – A Language for Neurosymbolic Programming |
+    <a href=https://eugeneyan.com/writing/recsys-llm/>
+        (Recommendation Systems and Search) × LLMs |
     </a>
-    By: andsoitis
+    By: 7d7n
 </li>
 </ol>
