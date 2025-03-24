@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 23 Mar 2025</h4>
+<h4>Check the latest news from: Mon 24 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://luj.fr/blog/how-nixos-could-have-detected-xz.html>
-        NixOS and reproducible builds could have detected the xz backdoor |
+    <a href=https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction>
+        English Scientists Develop Fast, High-Quality AI Weather Model for Desktops |
     </a>
-    By: birdculture
+    By: bentobean
 </li>
 
 <li>
-    <a href=https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/>
-        Map Features in OpenStreetMap with Computer Vision |
+    <a href=https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses>
+        RDNA 4's “Out-of-Order” Memory Accesses |
     </a>
-    By: Brysonbw
+    By: ingve
 </li>
 
 <li>
-    <a href=https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en>
-        Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model |
+    <a href=https://newcriterion.com/article/the-vaticans-latinist/>
+        The Vatican's Latinist: On the Career of Reginald Foster. (2017) |
     </a>
-    By: marban
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://blog.ezyang.com/2019/05/pytorch-internals/>
-        PyTorch Internals: Ezyang's Blog |
+    <a href=https://mo8it.com/blog/quadlet/>
+        Quadlet: Running Podman containers under systemd |
     </a>
-    By: Anon84
+    By: gjvc
 </li>
 
 <li>
-    <a href=https://eugeneyan.com/writing/recsys-llm/>
-        (Recommendation Systems and Search) × LLMs |
+    <a href=https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html>
+        A USB Interface to the "Mother of All Demos" Keyset |
     </a>
-    By: 7d7n
+    By: zdw
 </li>
 </ol>
