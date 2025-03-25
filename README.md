@@ -45,40 +45,38 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 24 Mar 2025</h4>
+<h4>Check the latest news from: Tue 25 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction>
-        English Scientists Develop Fast, High-Quality AI Weather Model for Desktops |
+    <a href=https://abstimmung.eu/git/2024>
+        German parliament votes as a Git contribution graph |
     </a>
-    By: bentobean
+    By: mxschll
 </li>
 
 <li>
-    <a href=https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses>
-        RDNA 4's “Out-of-Order” Memory Accesses |
+    <a href=https://qwenlm.github.io/blog/qwen2.5-vl-32b/>
+        Qwen2.5-VL-32B: Smarter and Lighter |
     </a>
-    By: ingve
+    By: tosh
 </li>
 
 <li>
-    <a href=https://newcriterion.com/article/the-vaticans-latinist/>
-        The Vatican's Latinist: On the Career of Reginald Foster. (2017) |
+    <a href=https://github.com/chadmed/triforce>
+        Triforce – a beamformer for Apple Silicon laptops |
     </a>
-    By: bookofjoe
+    By: tosh
 </li>
 
 <li>
-    <a href=https://mo8it.com/blog/quadlet/>
-        Quadlet: Running Podman containers under systemd |
+    <a href=https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568>
+        WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick |
     </a>
-    By: gjvc
+    By: ilamont
 </li>
 
-<li>
-    <a href=https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html>
-        A USB Interface to the "Mother of All Demos" Keyset |
-    </a>
-    By: zdw
-</li>
+<p>
+Text: Hi,
+I&#x27;m a high school teacher from Australia and I&#x27;ve built what I&#x27;d like to think is a pretty nifty ChatGPT powered presentation tool for teachers.<p>I&#x27;d love it if you could have a look at it and give me some of your feedback.<p>I don&#x27;t think there&#x27;s much overlap with the HN crowd and school teachers, but I&#x27;ve been coming here for many years and thought I&#x27;d post here and see what you all think.<p>Check it out if you have a minute and I&#x27;d be super happy to hear your feedback too.<p><a href="https:&#x2F;&#x2F;www.slidehero.ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.slidehero.ai&#x2F;</a><p>You can jump in and have a play with the tool all you like ;)<p>Cheers, Eli </br>
+</p>
 </ol>
