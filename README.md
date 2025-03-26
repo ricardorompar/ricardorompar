@@ -45,38 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 25 Mar 2025</h4>
+<h4>Check the latest news from: Wed 26 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://abstimmung.eu/git/2024>
-        German parliament votes as a Git contribution graph |
+    <a href=https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed>
+        Stoop Coffee: A simple idea transformed my neighborhood |
     </a>
-    By: mxschll
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://qwenlm.github.io/blog/qwen2.5-vl-32b/>
-        Qwen2.5-VL-32B: Smarter and Lighter |
+    <a href=https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn>
+        Sell yourself, sell your work |
     </a>
-    By: tosh
+    By: ColinWright
 </li>
 
 <li>
-    <a href=https://github.com/chadmed/triforce>
-        Triforce – a beamformer for Apple Silicon laptops |
+    <a href=https://openai.com/index/introducing-4o-image-generation/>
+        4o Image Generation |
     </a>
-    By: tosh
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568>
-        WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick |
+    <a href=https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/>
+        Deciphering language processing in the human brain through LLM representations |
     </a>
-    By: ilamont
+    By: Korling
 </li>
 
-<p>
-Text: Hi,
-I&#x27;m a high school teacher from Australia and I&#x27;ve built what I&#x27;d like to think is a pretty nifty ChatGPT powered presentation tool for teachers.<p>I&#x27;d love it if you could have a look at it and give me some of your feedback.<p>I don&#x27;t think there&#x27;s much overlap with the HN crowd and school teachers, but I&#x27;ve been coming here for many years and thought I&#x27;d post here and see what you all think.<p>Check it out if you have a minute and I&#x27;d be super happy to hear your feedback too.<p><a href="https:&#x2F;&#x2F;www.slidehero.ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.slidehero.ai&#x2F;</a><p>You can jump in and have a play with the tool all you like ;)<p>Cheers, Eli </br>
-</p>
+<li>
+    <a href=https://tratt.net/laurie/blog/2025/better_shell_history_search.html>
+        Better Shell History Search |
+    </a>
+    By: ltratt
+</li>
 </ol>
