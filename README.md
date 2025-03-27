@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 26 Mar 2025</h4>
+<h4>Check the latest news from: Thu 27 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed>
-        Stoop Coffee: A simple idea transformed my neighborhood |
+    <a href=https://www.blender.org/download/releases/4-4/>
+        Blender releases their Oscar winning version tool |
     </a>
-    By: surprisetalk
+    By: babuloseo
 </li>
 
 <li>
-    <a href=https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn>
-        Sell yourself, sell your work |
+    <a href=https://openai.github.io/openai-agents-python/mcp/>
+        OpenAI adds MCP support to Agents SDK |
     </a>
-    By: ColinWright
+    By: gronky_
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-4o-image-generation/>
-        4o Image Generation |
+    <a href=https://lwn.net/Articles/1015402/>
+        Debian bookworm live images now reproducible |
     </a>
-    By: meetpateltech
+    By: bertman
 </li>
 
 <li>
-    <a href=https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/>
-        Deciphering language processing in the human brain through LLM representations |
+    <a href=https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655>
+        DJ With Apple Music launches to enable subscribers to mix their own sets |
     </a>
-    By: Korling
+    By: CharlesW
 </li>
 
 <li>
-    <a href=https://tratt.net/laurie/blog/2025/better_shell_history_search.html>
-        Better Shell History Search |
+    <a href=https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md>
+        A love letter to the CSV format |
     </a>
-    By: ltratt
+    By: Yomguithereal
 </li>
 </ol>
