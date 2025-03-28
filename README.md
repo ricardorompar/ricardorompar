@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 27 Mar 2025</h4>
+<h4>Check the latest news from: Fri 28 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://www.blender.org/download/releases/4-4/>
-        Blender releases their Oscar winning version tool |
+    <a href=https://github.com/SAT-R/sa2>
+        A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C |
     </a>
-    By: babuloseo
+    By: bane
 </li>
 
 <li>
-    <a href=https://openai.github.io/openai-agents-python/mcp/>
-        OpenAI adds MCP support to Agents SDK |
+    <a href=https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life>
+        Giant, fungus-like organism may be a completely unknown branch of life |
     </a>
-    By: gronky_
+    By: wglb
 </li>
 
 <li>
-    <a href=https://lwn.net/Articles/1015402/>
-        Debian bookworm live images now reproducible |
+    <a href=https://blog.autorouting.com/p/13-things-i-would-have-told-myself>
+        Things I would have told myself before building an autorouter |
     </a>
-    By: bertman
+    By: seveibar
 </li>
 
 <li>
-    <a href=https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655>
-        DJ With Apple Music launches to enable subscribers to mix their own sets |
+    <a href=https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993>
+        A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices |
     </a>
-    By: CharlesW
+    By: luu
 </li>
 
 <li>
-    <a href=https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md>
-        A love letter to the CSV format |
+    <a href=https://www.anthropic.com/research/tracing-thoughts-language-model>
+        Tracing the thoughts of a large language model |
     </a>
-    By: Yomguithereal
+    By: Philpax
 </li>
 </ol>
