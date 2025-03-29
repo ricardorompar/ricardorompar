@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 28 Mar 2025</h4>
+<h4>Check the latest news from: Sat 29 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/SAT-R/sa2>
-        A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C |
+    <a href=https://plainframework.com/>
+        Plain – a web framework for building products with Python |
     </a>
-    By: bane
+    By: brylie
 </li>
 
 <li>
-    <a href=https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life>
-        Giant, fungus-like organism may be a completely unknown branch of life |
+    <a href=https://arxiv.org/abs/2301.08243>
+        Self-Supervised Learning from Images with JEPA |
     </a>
-    By: wglb
+    By: Brysonbw
 </li>
 
 <li>
-    <a href=https://blog.autorouting.com/p/13-things-i-would-have-told-myself>
-        Things I would have told myself before building an autorouter |
+    <a href=https://www.mail-tester.com/test-p3tdhnk3o>
+        iCloud Mail has DNS misconfigured? |
     </a>
-    By: seveibar
+    By: wildekek
 </li>
 
 <li>
-    <a href=https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993>
-        A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices |
+    <a href=https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/>
+        We hacked Gemini's Python sandbox and leaked its source code (at least some) |
     </a>
-    By: luu
+    By: topsycatt
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/research/tracing-thoughts-language-model>
-        Tracing the thoughts of a large language model |
+    <a href=https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/>
+        Noise cancellation improves turn-taking for AI Voice Agents |
     </a>
-    By: Philpax
+    By: davitb
 </li>
 </ol>
