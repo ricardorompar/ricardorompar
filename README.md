@@ -45,45 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 30 Mar 2025</h4>
+<h4>Check the latest news from: Mon 31 Mar 2025</h4>
 <ol>
 <li>
-    <a href=https://peabee.substack.com/p/everyone-knows-what-apps-you-use>
-        Everyone knows all the apps on your phone |
+    <a href=https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html>
+        A decision to eject from a failing F-35B fighter and the betrayal in its wake |
     </a>
-    By: gniting
+    By: po
 </li>
 
 <li>
-    <a href=https://github.com/stuzero/pg-mcp>
-        Show HN: Cloud-Ready Postgres MCP Server |
+    <a href=https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/>
+        Public secrets exposure leads to supply chain attack on GitHub CodeQL |
     </a>
-    By: spennant
-</li>
-
-<p>
-Text: Hey HN,<p>I built pg-mcp, a Model Context Protocol (MCP) server for PostgreSQL that provides structured schema inspection and query execution for LLMs and agents. It&#x27;s multi-tenant and runs over HTTP&#x2F;SSE (not stdio)<p>Features
- - Supports multiple database connections from multiple agents<p>- Schema Introspection: Returns table structures, types, indexes and constraints; enriched with descriptions from pg_catalog. (for well documented databases)<p>- Read-Only Queries: Controlled execution of queries via MCP.<p>- EXPLAIN Tool: Helps smart agents optimize queries before execution.<p>- Extension Plugins: YAML-based plugin system for Postgres extensions (supports pgvector and postgis out of the box).<p>- Server Mode: Spin up the container and it&#x27;s ready to accept connections at <a href="http:&#x2F;&#x2F;localhost:8000&#x2F;sse" rel="nofollow">http:&#x2F;&#x2F;localhost:8000&#x2F;sse</a> </br>
-</p>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/c4gmggp2y99o>
-        Utah becomes first US state to ban fluoride in its water |
-    </a>
-    By: Jimmc414
+    By: cyberbender
 </li>
 
 <li>
-    <a href=https://linebender.org/blog/towards-fearless-simd/>
-        Towards fearless SIMD, 7 years later |
+    <a href=https://github.com/winblues/blue95>
+        Blue95: a desktop for your childhood home's computer room |
     </a>
-    By: raphlinus
+    By: elvis70
 </li>
 
 <li>
-    <a href=https://philipbohun.com/blog/0007.html>
-        Convert Linux to Windows |
+    <a href=https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge>
+        Fragments of a rare Merlin manuscript from c. 1300 |
     </a>
-    By: pbohun
+    By: derbOac
+</li>
+
+<li>
+    <a href=https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map>
+        United States Disappeared Tracker – Tableau Public |
+    </a>
+    By: cratermoon
 </li>
 </ol>
