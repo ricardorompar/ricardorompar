@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 31 Mar 2025</h4>
+<h4>Check the latest news from: Tue 01 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html>
-        A decision to eject from a failing F-35B fighter and the betrayal in its wake |
+    <a href=https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22>
+        Netflix's Media Production Suite |
     </a>
-    By: po
+    By: MattSayar
 </li>
 
 <li>
-    <a href=https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/>
-        Public secrets exposure leads to supply chain attack on GitHub CodeQL |
+    <a href=https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/>
+        The case against conversational interfaces |
     </a>
-    By: cyberbender
+    By: nnx
 </li>
 
 <li>
-    <a href=https://github.com/winblues/blue95>
-        Blue95: a desktop for your childhood home's computer room |
+    <a href=https://www.captrice.io/>
+        A deliberate practice app for guitar players who want to level up |
     </a>
-    By: elvis70
+    By: adityaathalye
 </li>
 
 <li>
-    <a href=https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge>
-        Fragments of a rare Merlin manuscript from c. 1300 |
+    <a href=https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html>
+        The Guardian flourishes without a paywall |
     </a>
-    By: derbOac
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map>
-        United States Disappeared Tracker – Tableau Public |
+    <a href=https://goperf.dev/>
+        Go Optimization Guide |
     </a>
-    By: cratermoon
+    By: jedeusus
 </li>
 </ol>
