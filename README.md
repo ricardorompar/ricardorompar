@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 01 Apr 2025</h4>
+<h4>Check the latest news from: Wed 02 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22>
-        Netflix's Media Production Suite |
+    <a href=https://sqlsync.dev/posts/stop-syncing-everything/>
+        Stop Syncing Everything |
     </a>
-    By: MattSayar
+    By: neilk
 </li>
 
 <li>
-    <a href=https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/>
-        The case against conversational interfaces |
+    <a href=https://github.com/dfd-tud/deda>
+        DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit |
     </a>
-    By: nnx
+    By: pavel_lishin
 </li>
 
 <li>
-    <a href=https://www.captrice.io/>
-        A deliberate practice app for guitar players who want to level up |
+    <a href=https://pages.cs.wisc.edu/~kovar/hall.html>
+        Electron band structure in germanium, my ass (2001) |
     </a>
-    By: adityaathalye
+    By: tux3
 </li>
 
 <li>
-    <a href=https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html>
-        The Guardian flourishes without a paywall |
+    <a href=https://transformer-circuits.pub/2025/attribution-graphs/methods.html>
+        Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic) |
     </a>
-    By: bookofjoe
+    By: ydnyshhh
 </li>
 
 <li>
-    <a href=https://goperf.dev/>
-        Go Optimization Guide |
+    <a href=https://www.bbc.com/news/articles/c78jd30ywv8o>
+        Bletchley code breaker Betty Webb dies aged 101 |
     </a>
-    By: jedeusus
+    By: danso
 </li>
 </ol>
