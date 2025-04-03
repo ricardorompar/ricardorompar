@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 02 Apr 2025</h4>
+<h4>Check the latest news from: Thu 03 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://sqlsync.dev/posts/stop-syncing-everything/>
-        Stop Syncing Everything |
+    <a href=https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/>
+        I maintain a 17 year old ThinkPad |
     </a>
-    By: neilk
+    By: Fred34
+</li>
+
+<p>
+Text: Hi all,<p>Tom Howard is going public as HN moderator today. He has been doing HN moderation work for years already and knows the site and its practices inside-out, so the only new thing you&#x27;ll see is mod comments from Tom showing up in the threads the way mine do. I&#x27;m not going anywhere, so you&#x27;ll have two of us to put up with going forward :)<p>I&#x27;ve known Tom since he was sctb&#x27;s and my batchmate back in YC W09. Many of you know him as the kind and thoughtful community member tomhoward (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=tomhoward">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=tomhoward</a>). He&#x27;s still kind and thoughtful, but he&#x27;s going to post as tomhow from now on (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=tomhow">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=tomhow</a>), the same way I switched to dang when I went through this rite of passage years ago.<p>Below is a bit from Tom about himself. Please join me in welcoming him to this new status which he was crazy enough to say yes to!<p>---<p><i>YC and HN have been a huge part of my life for nearly two decades. I read pg&#x27;s essay How to Start a Startup in 2005 after my friend (and later, co-founder) Fenn found it on Slashdot, and it opened our eyes as to how to go about building products and companies. I first signed up in late 2007, and since then HN has been the place I come to find interesting news and discussions.</i><p><i>Hacker News gave me a window into the big wide world of technology and startups, that had previously seemed so remote and opaque from where I lived (and still live) in Australia. We were lucky enough to be accepted into the W09 batch of YC, and since then HN has been a place where we could share announcements about the startup, but also where I could share the challenges and struggles I experienced in the startup journey and other aspects of life, particularly to do with health and wellbeing.</i><p><i>From the discussions that have happened about these topics I&#x27;ve ended up making enduring friendships with people all over the world, and have been able to learn many things that have improved my life in profound ways. I love HN&#x27;s ethos - of being a place people come to engage their curiosity. That&#x27;s what it&#x27;s always been for me and what I hope I can help it to be for everyone!</i><p><i>--Tom</i> </br>
+</p>
+
+<li>
+    <a href=https://github.com/luskaner/ageLANServer>
+        Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline |
+    </a>
+    By: apitman
 </li>
 
 <li>
-    <a href=https://github.com/dfd-tud/deda>
-        DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit |
+    <a href=https://tv.garden/>
+        TV Garden |
     </a>
-    By: pavel_lishin
+    By: vkdelta
 </li>
 
 <li>
-    <a href=https://pages.cs.wisc.edu/~kovar/hall.html>
-        Electron band structure in germanium, my ass (2001) |
+    <a href=https://github.com/juanfont/headscale>
+        An open source, self-hosted implementation of the Tailscale control server |
     </a>
-    By: tux3
-</li>
-
-<li>
-    <a href=https://transformer-circuits.pub/2025/attribution-graphs/methods.html>
-        Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic) |
-    </a>
-    By: ydnyshhh
-</li>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/c78jd30ywv8o>
-        Bletchley code breaker Betty Webb dies aged 101 |
-    </a>
-    By: danso
+    By: quyleanh
 </li>
 </ol>
