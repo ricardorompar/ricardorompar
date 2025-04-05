@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 04 Apr 2025</h4>
+<h4>Check the latest news from: Sat 05 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://eater.net/8bit/>
-        Build an 8-bit computer from scratch |
+    <a href=https://simonmonk.org/tyee7>
+        Learn electricity and electronics fundamentals without taking a formal course |
     </a>
-    By: jcartw
+    By: teleforce
 </li>
 
 <li>
-    <a href=https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer>
-        An image of an archeologist adventurer who wears a hat and uses a bullwhip |
+    <a href=https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html>
+        OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens |
     </a>
-    By: participant3
+    By: exikyut
 </li>
 
 <li>
-    <a href=https://www.thriftybuilder.dev/post/gearbox-dynamometer>
-        Building Gearbox Dynamometer |
+    <a href=https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project>
+        The blissful Zen of a good side project |
     </a>
-    By: nill0
+    By: ingve
 </li>
 
 <li>
-    <a href=https://github.com/lwthiker/curl-impersonate>
-        Curl-impersonate: Special build of curl that can impersonate the major browsers |
+    <a href=https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html>
+        Understanding Machine Learning: From Theory to Algorithms |
     </a>
-    By: mmh0000
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/>
-        Microsoft turns 50: 4 employees recall their early years |
+    <a href=https://coolify.io/>
+        Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative |
     </a>
-    By: rmason
+    By: vanschelven
 </li>
 </ol>
