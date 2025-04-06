@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 05 Apr 2025</h4>
+<h4>Check the latest news from: Sun 06 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://simonmonk.org/tyee7>
-        Learn electricity and electronics fundamentals without taking a formal course |
+    <a href=https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/>
+        Apple's Darwin OS and XNU Kernel Deep Dive |
     </a>
-    By: teleforce
+    By: tansanrao
 </li>
 
 <li>
-    <a href=https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html>
-        OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens |
+    <a href=https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/>
+        Ten Rules for Negotiating a Job Offer |
     </a>
-    By: exikyut
+    By: yamrzou
 </li>
 
 <li>
-    <a href=https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project>
-        The blissful Zen of a good side project |
+    <a href=https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters>
+        The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you) |
     </a>
-    By: ingve
+    By: NGRhodes
 </li>
 
 <li>
-    <a href=https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html>
-        Understanding Machine Learning: From Theory to Algorithms |
+    <a href=https://ai.meta.com/blog/llama-4-multimodal-intelligence/>
+        The Llama 4 herd |
     </a>
-    By: Anon84
+    By: georgehill
 </li>
 
 <li>
-    <a href=https://coolify.io/>
-        Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative |
+    <a href=https://www.whatsit.today/>
+        Show HN: I built a word game. My mom thinks it's great. What do you think? |
     </a>
-    By: vanschelven
+    By: mkate
 </li>
 </ol>
