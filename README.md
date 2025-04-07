@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 06 Apr 2025</h4>
+<h4>Check the latest news from: Mon 07 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/>
-        Apple's Darwin OS and XNU Kernel Deep Dive |
+    <a href=https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work>
+        After 'coding error' triggers firings, top NIH scientists called back to work |
     </a>
-    By: tansanrao
+    By: pmags
 </li>
 
 <li>
-    <a href=https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/>
-        Ten Rules for Negotiating a Job Offer |
+    <a href=https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/>
+        Rsync replaced with openrsync on macOS Sequoia |
     </a>
-    By: yamrzou
+    By: zdw
 </li>
 
 <li>
-    <a href=https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters>
-        The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you) |
+    <a href=https://vale.rocks/posts/open-source-entitlement>
+        Open-Source Is Just That |
     </a>
-    By: NGRhodes
+    By: OuterVale
 </li>
 
 <li>
-    <a href=https://ai.meta.com/blog/llama-4-multimodal-intelligence/>
-        The Llama 4 herd |
+    <a href=https://gtoolkit.com//>
+        Glamorous Toolkit |
     </a>
-    By: georgehill
+    By: radeeyate
 </li>
 
 <li>
-    <a href=https://www.whatsit.today/>
-        Show HN: I built a word game. My mom thinks it's great. What do you think? |
+    <a href=https://www.capitoltrades.com/>
+        Capital Trades: Tracking Stock Market Transactions of Politicians |
     </a>
-    By: mkate
+    By: gscott
 </li>
 </ol>
