@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 07 Apr 2025</h4>
+<h4>Check the latest news from: Tue 08 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work>
-        After 'coding error' triggers firings, top NIH scientists called back to work |
+    <a href=https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/>
+        Middle-aged man trading cards go viral in rural Japan town |
     </a>
-    By: pmags
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/>
-        Rsync replaced with openrsync on macOS Sequoia |
+    <a href=https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/>
+        Any program can be a GitHub Actions shell |
     </a>
-    By: zdw
+    By: woodruffw
 </li>
 
 <li>
-    <a href=https://vale.rocks/posts/open-source-entitlement>
-        Open-Source Is Just That |
+    <a href=https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full>
+        Listening habits&subjective effects of background music in young adults ± ADHD |
     </a>
-    By: OuterVale
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://gtoolkit.com//>
-        Glamorous Toolkit |
+    <a href=https://nav.al/addiction>
+        The Modern Struggle Is Fighting Weaponized Addiction (2020) |
     </a>
-    By: radeeyate
+    By: HiPHInch
 </li>
 
 <li>
-    <a href=https://www.capitoltrades.com/>
-        Capital Trades: Tracking Stock Market Transactions of Politicians |
+    <a href=https://browsermcp.io/>
+        Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code |
     </a>
-    By: gscott
+    By: namukang
 </li>
 </ol>
