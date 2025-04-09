@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 08 Apr 2025</h4>
+<h4>Check the latest news from: Wed 09 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/>
-        Middle-aged man trading cards go viral in rural Japan town |
+    <a href=https://echarts.apache.org/en/index.html>
+        Apache ECharts |
     </a>
-    By: PaulHoule
+    By: tomtomistaken
 </li>
 
 <li>
-    <a href=https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/>
-        Any program can be a GitHub Actions shell |
+    <a href=https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth>
+        PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth) |
     </a>
-    By: woodruffw
+    By: VoVAllen
 </li>
 
 <li>
-    <a href=https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full>
-        Listening habits&subjective effects of background music in young adults ± ADHD |
+    <a href=https://yuxi-liu-wired.github.io/essays/posts/cyc/>
+        Obituary for Cyc |
     </a>
-    By: bookofjoe
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://nav.al/addiction>
-        The Modern Struggle Is Fighting Weaponized Addiction (2020) |
+    <a href=https://github.com/reteps/dockerfmt>
+        Dockerfmt: A Dockerfile Formatter |
     </a>
-    By: HiPHInch
+    By: spicypete
 </li>
 
 <li>
-    <a href=https://browsermcp.io/>
-        Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code |
+    <a href=https://github.com/a13xp0p0v/linux-kernel-defence-map>
+        Linux Kernel Defence Map – Security Hardening Concepts |
     </a>
-    By: namukang
+    By: transpute
 </li>
 </ol>
