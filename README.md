@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 09 Apr 2025</h4>
+<h4>Check the latest news from: Thu 10 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://echarts.apache.org/en/index.html>
-        Apache ECharts |
+    <a href=https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer>
+        Google Cloud Rapid Storage |
     </a>
-    By: tomtomistaken
+    By: alobrah
+</li>
+
+<p>
+Text: Was at the Google Next 2025 conference, and they&#x27;ve unveiled a zonal bucket version of GCS and what seems to be a gPRC interface over Google Colossus for Rapid Storage. </br>
+</p>
+
+<li>
+    <a href=https://www.haiku-os.org/development/learning_to_program_with_haiku>
+        Learning to Program with Haiku |
+    </a>
+    By: nivethan
 </li>
 
 <li>
-    <a href=https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth>
-        PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth) |
+    <a href=https://businessclasskit.com/blog/design-system-options-for-rails>
+        Design System Options for Rails |
     </a>
-    By: VoVAllen
+    By: strzibny
 </li>
 
 <li>
-    <a href=https://yuxi-liu-wired.github.io/essays/posts/cyc/>
-        Obituary for Cyc |
+    <a href=https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/>
+        No Pay, No Work; Early Career Lessons |
     </a>
-    By: todsacerdoti
+    By: dshacker
 </li>
 
 <li>
-    <a href=https://github.com/reteps/dockerfmt>
-        Dockerfmt: A Dockerfile Formatter |
+    <a href=https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak>
+        The Columbian Orator taught nineteenth-century Americans how to speak |
     </a>
-    By: spicypete
-</li>
-
-<li>
-    <a href=https://github.com/a13xp0p0v/linux-kernel-defence-map>
-        Linux Kernel Defence Map – Security Hardening Concepts |
-    </a>
-    By: transpute
+    By: samclemens
 </li>
 </ol>
