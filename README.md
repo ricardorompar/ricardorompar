@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 10 Apr 2025</h4>
+<h4>Check the latest news from: Fri 11 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer>
-        Google Cloud Rapid Storage |
+    <a href=https://developer.mozilla.org/en-US/blog/h1-element-styles/>
+        Default styles for h1 elements are changing |
     </a>
-    By: alobrah
-</li>
-
-<p>
-Text: Was at the Google Next 2025 conference, and they&#x27;ve unveiled a zonal bucket version of GCS and what seems to be a gPRC interface over Google Colossus for Rapid Storage. </br>
-</p>
-
-<li>
-    <a href=https://www.haiku-os.org/development/learning_to_program_with_haiku>
-        Learning to Program with Haiku |
-    </a>
-    By: nivethan
+    By: soheilpro
 </li>
 
 <li>
-    <a href=https://businessclasskit.com/blog/design-system-options-for-rails>
-        Design System Options for Rails |
+    <a href=https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots>
+        The phony comforts of useful idiots |
     </a>
-    By: strzibny
+    By: sksxihve
 </li>
 
 <li>
-    <a href=https://danielsada.tech/blog/carreer-part-3-no-pay-no-work/>
-        No Pay, No Work; Early Career Lessons |
+    <a href=https://garfieldminusgarfield.net>
+        Garfield Minus Garfield |
     </a>
-    By: dshacker
+    By: mike1o1
 </li>
 
 <li>
-    <a href=https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak>
-        The Columbian Orator taught nineteenth-century Americans how to speak |
+    <a href=https://www.thecoder.cafe/p/100-go-mistakes>
+        The Story Behind “100 Go Mistakes and How to Avoid Them” |
     </a>
-    By: samclemens
+    By: Kerrick
+</li>
+
+<li>
+    <a href=https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/>
+        Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC |
+    </a>
+    By: fangpenlin
 </li>
 </ol>
