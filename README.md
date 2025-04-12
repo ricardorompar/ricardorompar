@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 11 Apr 2025</h4>
+<h4>Check the latest news from: Sat 12 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://developer.mozilla.org/en-US/blog/h1-element-styles/>
-        Default styles for h1 elements are changing |
+    <a href=https://hntrl.io/posts/you-dont-need-websockets/>
+        You might not need WebSockets |
     </a>
-    By: soheilpro
+    By: hntrl
 </li>
 
 <li>
-    <a href=https://thetechbubble.substack.com/p/the-phony-comforts-of-useful-idiots>
-        The phony comforts of useful idiots |
+    <a href=https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria>
+        Vacheron Constantin breaks the world record for most complicated wristwatch |
     </a>
-    By: sksxihve
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://garfieldminusgarfield.net>
-        Garfield Minus Garfield |
+    <a href=https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html>
+        Rust to C compiler – 95.9% test pass rate, odd platforms |
     </a>
-    By: mike1o1
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.thecoder.cafe/p/100-go-mistakes>
-        The Story Behind “100 Go Mistakes and How to Avoid Them” |
+    <a href=https://lwn.net/Articles/1014979/>
+        Fedora change aims for 99% package reproducibility |
     </a>
-    By: Kerrick
+    By: voxadam
 </li>
 
 <li>
-    <a href=https://yomaq.github.io/posts/nvidia-on-nixos-wsl-ollama-up-24-7-on-your-gaming-pc/>
-        Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC |
+    <a href=https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/>
+        A 32-bit processor made with an atomically thin semiconductor |
     </a>
-    By: fangpenlin
+    By: PaulHoule
 </li>
 </ol>
