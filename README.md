@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 12 Apr 2025</h4>
+<h4>Check the latest news from: Sun 13 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://hntrl.io/posts/you-dont-need-websockets/>
-        You might not need WebSockets |
+    <a href=https://grapheneos.social/@GrapheneOS/114327666433966529>
+        Experimental release of GrapheneOS for Pixel 9a |
     </a>
-    By: hntrl
+    By: moelf
 </li>
 
 <li>
-    <a href=https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria>
-        Vacheron Constantin breaks the world record for most complicated wristwatch |
+    <a href=https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard>
+        BPS is a GPS alternative that nobody's heard of |
     </a>
-    By: bookofjoe
+    By: sksxihve
 </li>
 
 <li>
-    <a href=https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html>
-        Rust to C compiler – 95.9% test pass rate, odd platforms |
+    <a href=https://fuma-nama.vercel.app/blog/svg-art>
+        Nice things with SVG |
     </a>
-    By: todsacerdoti
+    By: fmerian
 </li>
 
 <li>
-    <a href=https://lwn.net/Articles/1014979/>
-        Fedora change aims for 99% package reproducibility |
+    <a href=https://webtui.ironclad.sh>
+        WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser |
     </a>
-    By: voxadam
+    By: IroncladDev
 </li>
 
 <li>
-    <a href=https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/>
-        A 32-bit processor made with an atomically thin semiconductor |
+    <a href=https://www.bram.us/2022/01/11/yaml-the-norway-problem/>
+        YAML: The Norway Problem (2022) |
     </a>
-    By: PaulHoule
+    By: carlos-menezes
 </li>
 </ol>
