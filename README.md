@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 13 Apr 2025</h4>
+<h4>Check the latest news from: Mon 14 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://grapheneos.social/@GrapheneOS/114327666433966529>
-        Experimental release of GrapheneOS for Pixel 9a |
+    <a href=https://kevintechnology.com/posts/leaf-widget/>
+        Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own |
     </a>
-    By: moelf
+    By: kcon
+</li>
+
+<p>
+Text: Nissan&#x27;s official mobile app for their LEAF electric car doesn&#x27;t have a widget for quickly checking the car&#x27;s battery charge status on your phone&#x27;s home screen, so for a fun side project I decided to make my own using free tools like GitHub Actions, Appium, Tailscale, and Apple Shortcuts. </br>
+</p>
+
+<li>
+    <a href=https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo>
+        Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan |
+    </a>
+    By: ChristopherDrum
+</li>
+
+<p>
+Text: I recently brought Infocom&#x27;s original UNIX z-machine source code back to life on modern systems. The modified source code, instructions on usage, a build of the z-machine, and examples of embedded game executables are available.<p>There is also a detailed write-up about the state of the original source code, the porting process, and the invaluable role Justine Tunney&#x27;s Cosmpolitan project played in bringing the Zork trilogy (and more) to Windows&#x2F;Mac&#x2F;Linux&#x2F;bsd for arm&#x2F;x86 machines over the course of a lazy Sunday. </br>
+</p>
+
+<li>
+    <a href=https://github.com/jlevy/og-equity-compensation>
+        Open guide to equity compensation |
+    </a>
+    By: mooreds
 </li>
 
 <li>
-    <a href=https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard>
-        BPS is a GPS alternative that nobody's heard of |
+    <a href=https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/>
+        PHP Core Security Audit Results |
     </a>
-    By: sksxihve
+    By: moebrowne
 </li>
 
 <li>
-    <a href=https://fuma-nama.vercel.app/blog/svg-art>
-        Nice things with SVG |
+    <a href=https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html>
+        Mario Vargas Llosa has died |
     </a>
-    By: fmerian
-</li>
-
-<li>
-    <a href=https://webtui.ironclad.sh>
-        WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser |
-    </a>
-    By: IroncladDev
-</li>
-
-<li>
-    <a href=https://www.bram.us/2022/01/11/yaml-the-norway-problem/>
-        YAML: The Norway Problem (2022) |
-    </a>
-    By: carlos-menezes
+    By: funkaster
 </li>
 </ol>
