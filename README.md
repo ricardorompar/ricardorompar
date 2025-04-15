@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 14 Apr 2025</h4>
+<h4>Check the latest news from: Tue 15 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://kevintechnology.com/posts/leaf-widget/>
-        Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own |
+    <a href=https://jmswrnr.com/blog/hacking-a-smart-home-device>
+        Cloud-free connection of ESP32-based air purifier to Home Assistant (2024) |
     </a>
-    By: kcon
-</li>
-
-<p>
-Text: Nissan&#x27;s official mobile app for their LEAF electric car doesn&#x27;t have a widget for quickly checking the car&#x27;s battery charge status on your phone&#x27;s home screen, so for a fun side project I decided to make my own using free tools like GitHub Actions, Appium, Tailscale, and Apple Shortcuts. </br>
-</p>
-
-<li>
-    <a href=https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo>
-        Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan |
-    </a>
-    By: ChristopherDrum
-</li>
-
-<p>
-Text: I recently brought Infocom&#x27;s original UNIX z-machine source code back to life on modern systems. The modified source code, instructions on usage, a build of the z-machine, and examples of embedded game executables are available.<p>There is also a detailed write-up about the state of the original source code, the porting process, and the invaluable role Justine Tunney&#x27;s Cosmpolitan project played in bringing the Zork trilogy (and more) to Windows&#x2F;Mac&#x2F;Linux&#x2F;bsd for arm&#x2F;x86 machines over the course of a lazy Sunday. </br>
-</p>
-
-<li>
-    <a href=https://github.com/jlevy/og-equity-compensation>
-        Open guide to equity compensation |
-    </a>
-    By: mooreds
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://thephp.foundation/blog/2025/04/10/php-core-security-audit-results/>
-        PHP Core Security Audit Results |
+    <a href=https://www.joshwcomeau.com/blog/the-post-developer-era/>
+        The Post-Developer Era |
     </a>
-    By: moebrowne
+    By: thm
 </li>
 
 <li>
-    <a href=https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html>
-        Mario Vargas Llosa has died |
+    <a href=https://blog.dogac.dev/how-do-one-time-passwords-work/>
+        Behind the 6-digit code: Building HOTP and TOTP from scratch |
     </a>
-    By: funkaster
+    By: dogacel
+</li>
+
+<li>
+    <a href=https://openai.com/index/gpt-4-1/>
+        GPT-4.1 in the API |
+    </a>
+    By: maheshrijal
+</li>
+
+<li>
+    <a href=https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court>
+        Meta antitrust trial kicks off in federal court |
+    </a>
+    By: c420
 </li>
 </ol>
