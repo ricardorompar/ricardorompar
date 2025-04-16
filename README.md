@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 15 Apr 2025</h4>
+<h4>Check the latest news from: Wed 16 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://jmswrnr.com/blog/hacking-a-smart-home-device>
-        Cloud-free connection of ESP32-based air purifier to Home Assistant (2024) |
+    <a href=https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html>
+        CVE program faces swift end after DHS fails to renew contract |
     </a>
-    By: walterbell
+    By: healsdata
 </li>
 
 <li>
-    <a href=https://www.joshwcomeau.com/blog/the-post-developer-era/>
-        The Post-Developer Era |
+    <a href=https://filiph.github.io/unsure/>
+        Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator |
     </a>
-    By: thm
+    By: filiph
 </li>
 
 <li>
-    <a href=https://blog.dogac.dev/how-do-one-time-passwords-work/>
-        Behind the 6-digit code: Building HOTP and TOTP from scratch |
+    <a href=https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/>
+        Markov Chain Monte Carlo Without All the Bullshit (2015) |
     </a>
-    By: dogacel
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://openai.com/index/gpt-4-1/>
-        GPT-4.1 in the API |
+    <a href=https://phys.org/news/2025-03-protein-mystery-core-fractions.html>
+        A protein folding mystery solved: Study explains core packing fractions |
     </a>
-    By: maheshrijal
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court>
-        Meta antitrust trial kicks off in federal court |
+    <a href=https://blog.google/products/gemini/video-generation/>
+        Generate videos in Gemini and Whisk with Veo 2 |
     </a>
-    By: c420
+    By: meetpateltech
 </li>
 </ol>
