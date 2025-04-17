@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 16 Apr 2025</h4>
+<h4>Check the latest news from: Thu 17 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html>
-        CVE program faces swift end after DHS fails to renew contract |
+    <a href=https://status.zoom.us/incidents/pw9r9vnq5rvk>
+        Zoom outage caused by accidental 'shutting down' of the zoom.us domain |
     </a>
-    By: healsdata
+    By: RVRX
 </li>
 
 <li>
-    <a href=https://filiph.github.io/unsure/>
-        Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator |
+    <a href=https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/>
+        Jellyfin as a Spotify alternative |
     </a>
-    By: filiph
+    By: coppolaemilio
 </li>
 
 <li>
-    <a href=https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/>
-        Markov Chain Monte Carlo Without All the Bullshit (2015) |
+    <a href=https://github.com/openai/codex>
+        OpenAI Codex CLI: Lightweight coding agent that runs in your terminal |
     </a>
-    By: ibobev
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://phys.org/news/2025-03-protein-mystery-core-fractions.html>
-        A protein folding mystery solved: Study explains core packing fractions |
+    <a href=https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species>
+        Darwin's children drew all over the “On the Origin of Species” manuscript (2014) |
     </a>
-    By: PaulHoule
+    By: arbesman
 </li>
 
 <li>
-    <a href=https://blog.google/products/gemini/video-generation/>
-        Generate videos in Gemini and Whisk with Veo 2 |
+    <a href=https://bitbashing.io/haskell-concurrency.html>
+        Concurrency in Haskell: Fast, Simple, Correct |
     </a>
-    By: meetpateltech
+    By: ingve
 </li>
 </ol>
