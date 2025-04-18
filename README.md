@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 17 Apr 2025</h4>
+<h4>Check the latest news from: Fri 18 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://status.zoom.us/incidents/pw9r9vnq5rvk>
-        Zoom outage caused by accidental 'shutting down' of the zoom.us domain |
+    <a href=https://developers.googleblog.com/en/start-building-with-gemini-25-flash/>
+        Gemini 2.5 Flash |
     </a>
-    By: RVRX
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/>
-        Jellyfin as a Spotify alternative |
+    <a href=https://facts.usps.com/mailing-potatoes/>
+        Potatoes in the Mail |
     </a>
-    By: coppolaemilio
+    By: mooreds
 </li>
 
 <li>
-    <a href=https://github.com/openai/codex>
-        OpenAI Codex CLI: Lightweight coding agent that runs in your terminal |
+    <a href=https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in>
+        I analyzed chord progressions in 680k songs |
     </a>
-    By: mfiguiere
+    By: jnord
 </li>
 
 <li>
-    <a href=https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species>
-        Darwin's children drew all over the “On the Origin of Species” manuscript (2014) |
+    <a href=https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/>
+        An intro to DeepSeek's distributed file system |
     </a>
-    By: arbesman
+    By: sebg
 </li>
 
 <li>
-    <a href=https://bitbashing.io/haskell-concurrency.html>
-        Concurrency in Haskell: Fast, Simple, Correct |
+    <a href=https://www.nature.com/articles/s44271-025-00247-0>
+        Decreased CO2 during breathwork: emergence of altered states of consciousness |
     </a>
-    By: ingve
+    By: bookofjoe
 </li>
 </ol>
