@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 18 Apr 2025</h4>
+<h4>Check the latest news from: Sat 19 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://developers.googleblog.com/en/start-building-with-gemini-25-flash/>
-        Gemini 2.5 Flash |
+    <a href=https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/>
+        Cozy video games can quell stress and anxiety |
     </a>
-    By: meetpateltech
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://facts.usps.com/mailing-potatoes/>
-        Potatoes in the Mail |
+    <a href=https://jonathan.protzenko.fr/2025/04/18/python.html>
+        15,000 lines of verified cryptography now in Python |
     </a>
-    By: mooreds
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in>
-        I analyzed chord progressions in 680k songs |
+    <a href=https://www.judyrecords.com/>
+        Full Text Search of US Court records |
     </a>
-    By: jnord
+    By: FigurativeVoid
 </li>
 
 <li>
-    <a href=https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/>
-        An intro to DeepSeek's distributed file system |
+    <a href=https://github.com/HandsOnLLM/Hands-On-Large-Language-Models>
+        Hands-On Large Language Models |
     </a>
-    By: sebg
+    By: teleforce
 </li>
 
 <li>
-    <a href=https://www.nature.com/articles/s44271-025-00247-0>
-        Decreased CO2 during breathwork: emergence of altered states of consciousness |
+    <a href=https://github.com/Kuberwastaken/backdooms>
+        Show HN: I made a Doom-like game fit inside a QR code |
     </a>
-    By: bookofjoe
+    By: kuberwastaken
 </li>
 </ol>
