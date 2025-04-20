@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 19 Apr 2025</h4>
+<h4>Check the latest news from: Sun 20 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/>
-        Cozy video games can quell stress and anxiety |
+    <a href=https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html>
+        100 Years to Solve an Integral (2020) |
     </a>
-    By: vinhnx
+    By: blobcode
 </li>
 
 <li>
-    <a href=https://jonathan.protzenko.fr/2025/04/18/python.html>
-        15,000 lines of verified cryptography now in Python |
+    <a href=https://github.com/PiLiDAR/PiLiDAR>
+        Raspberry Pi Lidar Scanner |
+    </a>
+    By: Venn1
+</li>
+
+<li>
+    <a href=https://www.science.org/doi/10.1126/sciadv.adu1052>
+        Novel color via stimulation of individual photoreceptors at population scale |
+    </a>
+    By: radeeyate
+</li>
+
+<li>
+    <a href=https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/>
+        The Web Is Broken – Botnet Part 2 |
     </a>
     By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.judyrecords.com/>
-        Full Text Search of US Court records |
+    <a href=https://github.com/The-Pocket/Tutorial-Codebase-Knowledge>
+        Show HN: I built an AI that turns GitHub codebases into easy tutorials |
     </a>
-    By: FigurativeVoid
-</li>
-
-<li>
-    <a href=https://github.com/HandsOnLLM/Hands-On-Large-Language-Models>
-        Hands-On Large Language Models |
-    </a>
-    By: teleforce
-</li>
-
-<li>
-    <a href=https://github.com/Kuberwastaken/backdooms>
-        Show HN: I made a Doom-like game fit inside a QR code |
-    </a>
-    By: kuberwastaken
+    By: zh2408
 </li>
 </ol>
