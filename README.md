@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 20 Apr 2025</h4>
+<h4>Check the latest news from: Mon 21 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html>
-        100 Years to Solve an Integral (2020) |
+    <a href=https://www.nber.org/papers/w33697>
+        The Effect of Deactivating Facebook and Instagram on Users' Emotional State |
     </a>
-    By: blobcode
+    By: imakwana
 </li>
 
 <li>
-    <a href=https://github.com/PiLiDAR/PiLiDAR>
-        Raspberry Pi Lidar Scanner |
+    <a href=https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html>
+        Things Zig comptime won't do |
     </a>
-    By: Venn1
+    By: JadedBlueEyes
 </li>
 
 <li>
-    <a href=https://www.science.org/doi/10.1126/sciadv.adu1052>
-        Novel color via stimulation of individual photoreceptors at population scale |
+    <a href=https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering>
+        Reverse engineering the obfuscated TikTok VM |
     </a>
-    By: radeeyate
+    By: xfeeefeee
 </li>
 
 <li>
-    <a href=https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/>
-        The Web Is Broken – Botnet Part 2 |
+    <a href=https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/>
+        Gemma 3 QAT Models: Bringing AI to Consumer GPUs |
     </a>
-    By: todsacerdoti
+    By: emrah
 </li>
 
 <li>
-    <a href=https://github.com/The-Pocket/Tutorial-Codebase-Knowledge>
-        Show HN: I built an AI that turns GitHub codebases into easy tutorials |
+    <a href=https://phys.org/news/2025-04-crows-geometric-regularity.html>
+        Crows can recognize geometric regularity |
     </a>
-    By: zh2408
+    By: wglb
 </li>
 </ol>
