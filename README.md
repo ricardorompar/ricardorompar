@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 21 Apr 2025</h4>
+<h4>Check the latest news from: Tue 22 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.nber.org/papers/w33697>
-        The Effect of Deactivating Facebook and Instagram on Users' Emotional State |
+    <a href=https://github.com/ericjenott/Evertop>
+        Evertop: E-ink IBM XT clone with 100+ hours of battery life |
     </a>
-    By: imakwana
+    By: harryvederci
 </li>
 
 <li>
-    <a href=https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html>
-        Things Zig comptime won't do |
+    <a href=https://mcr21.org.uk/>
+        Welcome to our website for the 1963 BBC MCR21 OB Van |
     </a>
-    By: JadedBlueEyes
+    By: brudgers
 </li>
 
 <li>
-    <a href=https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering>
-        Reverse engineering the obfuscated TikTok VM |
+    <a href=https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/>
+        Blog hosted on a Nintendo Wii |
     </a>
-    By: xfeeefeee
+    By: edent
 </li>
 
 <li>
-    <a href=https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/>
-        Gemma 3 QAT Models: Bringing AI to Consumer GPUs |
+    <a href=https://github.com/stefanrodrigues2/Prolog-Adventure-game>
+        Prolog Adventure Game |
     </a>
-    By: emrah
+    By: shakna
 </li>
 
 <li>
-    <a href=https://phys.org/news/2025-04-crows-geometric-regularity.html>
-        Crows can recognize geometric regularity |
+    <a href=https://github.com/nari-labs/dia>
+        Show HN: Dia, an open-weights TTS model for generating realistic dialogue |
     </a>
-    By: wglb
+    By: toebee
 </li>
 </ol>
