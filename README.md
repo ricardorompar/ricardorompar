@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 22 Apr 2025</h4>
+<h4>Check the latest news from: Wed 23 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/ericjenott/Evertop>
-        Evertop: E-ink IBM XT clone with 100+ hours of battery life |
+    <a href=https://github.com/godotengine/godot/pull/105628>
+        Native visionOS platform support |
     </a>
-    By: harryvederci
+    By: whalee
 </li>
 
 <li>
-    <a href=https://mcr21.org.uk/>
-        Welcome to our website for the 1963 BBC MCR21 OB Van |
+    <a href=https://blog.atuin.sh/atuin-desktop-runbooks-that-run/>
+        Atuin Desktop: Runbooks That Run |
     </a>
-    By: brudgers
+    By: freetonik
 </li>
 
 <li>
-    <a href=https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/>
-        Blog hosted on a Nintendo Wii |
+    <a href=https://www.solidjs.com/>
+        Solidjs: Simple and performant reactivity for building user interfaces |
     </a>
-    By: edent
+    By: lastdong
 </li>
 
 <li>
-    <a href=https://github.com/stefanrodrigues2/Prolog-Adventure-game>
-        Prolog Adventure Game |
+    <a href=https://github.com/alexykn/sapphire>
+        Sapphire: Rust based package manager for macOS (Homebrew replacement) |
     </a>
-    By: shakna
+    By: adamnemecek
 </li>
 
 <li>
-    <a href=https://github.com/nari-labs/dia>
-        Show HN: Dia, an open-weights TTS model for generating realistic dialogue |
+    <a href=https://cacm.acm.org/news/the-outlook-for-programmers/>
+        The Outlook for Programmers |
     </a>
-    By: toebee
+    By: pseudolus
 </li>
 </ol>
