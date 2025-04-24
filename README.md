@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 23 Apr 2025</h4>
+<h4>Check the latest news from: Thu 24 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/godotengine/godot/pull/105628>
-        Native visionOS platform support |
+    <a href=https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/>
+        The tools I love are made by awful people |
     </a>
-    By: whalee
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://blog.atuin.sh/atuin-desktop-runbooks-that-run/>
-        Atuin Desktop: Runbooks That Run |
+    <a href=https://www.math.uwaterloo.ca/tsp/korea/index.html>
+        Shortest-possible walking tour to 81,998 bars in South Korea |
     </a>
-    By: freetonik
+    By: geeknews
 </li>
 
 <li>
-    <a href=https://www.solidjs.com/>
-        Solidjs: Simple and performant reactivity for building user interfaces |
+    <a href=https://github.com/UnmappedStack/TacOS>
+        Show HN: My from-scratch OS kernel that runs DOOM |
     </a>
-    By: lastdong
+    By: UnmappedStack
+</li>
+
+<p>
+Text: Hi there! I&#x27;ve been on-and-off working on TacOS for a few months, which follows some UNIX-derived concepts (exec&#x2F;fork, unix-style VFS, etc) and is now able to run a port of Doom, with a fairly small amount of modifications, using my from-scratch libc. The performance is actually decent compared to what I expected. Very interested to hear your thoughts. Thank you! </br>
+</p>
+
+<li>
+    <a href=https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/>
+        How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2 |
+    </a>
+    By: yett
 </li>
 
 <li>
-    <a href=https://github.com/alexykn/sapphire>
-        Sapphire: Rust based package manager for macOS (Homebrew replacement) |
+    <a href=https://github.com/tracel-ai/cubecl>
+        CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU |
     </a>
-    By: adamnemecek
-</li>
-
-<li>
-    <a href=https://cacm.acm.org/news/the-outlook-for-programmers/>
-        The Outlook for Programmers |
-    </a>
-    By: pseudolus
+    By: ashvardanian
 </li>
 </ol>
