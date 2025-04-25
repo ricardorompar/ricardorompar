@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 24 Apr 2025</h4>
+<h4>Check the latest news from: Fri 25 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/>
-        The tools I love are made by awful people |
+    <a href=https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/>
+        DeepMind releases Lyria 2 music generation model |
+    </a>
+    By: velcrobeg
+</li>
+
+<li>
+    <a href=https://www.jsoftware.com/papers/tot.htm>
+        Notation as a Tool of Thought (1979) |
+    </a>
+    By: susam
+</li>
+
+<li>
+    <a href=https://openai.com/index/image-generation-api/>
+        OpenAI releases image generation in the API |
+    </a>
+    By: themanmaran
+</li>
+
+<li>
+    <a href=https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database>
+        Observability 2.0 and the Database for It |
     </a>
     By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.math.uwaterloo.ca/tsp/korea/index.html>
-        Shortest-possible walking tour to 81,998 bars in South Korea |
+    <a href=https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/>
+        Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals |
     </a>
-    By: geeknews
-</li>
-
-<li>
-    <a href=https://github.com/UnmappedStack/TacOS>
-        Show HN: My from-scratch OS kernel that runs DOOM |
-    </a>
-    By: UnmappedStack
-</li>
-
-<p>
-Text: Hi there! I&#x27;ve been on-and-off working on TacOS for a few months, which follows some UNIX-derived concepts (exec&#x2F;fork, unix-style VFS, etc) and is now able to run a port of Doom, with a fairly small amount of modifications, using my from-scratch libc. The performance is actually decent compared to what I expected. Very interested to hear your thoughts. Thank you! </br>
-</p>
-
-<li>
-    <a href=https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/>
-        How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2 |
-    </a>
-    By: yett
-</li>
-
-<li>
-    <a href=https://github.com/tracel-ai/cubecl>
-        CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU |
-    </a>
-    By: ashvardanian
+    By: gnabgib
 </li>
 </ol>
