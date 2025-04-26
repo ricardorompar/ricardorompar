@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 25 Apr 2025</h4>
+<h4>Check the latest news from: Sat 26 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/>
-        DeepMind releases Lyria 2 music generation model |
+    <a href=https://samj.substack.com/p/that-joke-isnt-funny-any-more>
+        I wrote a book called "Crap Towns". It seemed funny at the time |
     </a>
-    By: velcrobeg
+    By: url
 </li>
 
 <li>
-    <a href=https://www.jsoftware.com/papers/tot.htm>
-        Notation as a Tool of Thought (1979) |
+    <a href=https://lite.berkeley-humanoid.org/>
+        Berkeley Humanoid Lite – Open-source robot |
     </a>
-    By: susam
+    By: ratsbane
 </li>
 
 <li>
-    <a href=https://openai.com/index/image-generation-api/>
-        OpenAI releases image generation in the API |
+    <a href=https://arxiv.org/abs/2504.11651>
+        Lossless LLM compression for efficient GPU inference via dynamic-length float |
     </a>
-    By: themanmaran
+    By: CharlesW
 </li>
 
 <li>
-    <a href=https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database>
-        Observability 2.0 and the Database for It |
+    <a href=https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/>
+        Wikipedia’s nonprofit status questioned by D.C. U.S. attorney |
     </a>
-    By: todsacerdoti
+    By: coloneltcb
 </li>
 
 <li>
-    <a href=https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/>
-        Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals |
+    <a href=https://tavianator.com/2025/configure.html>
+        Parallel ./configure |
     </a>
-    By: gnabgib
+    By: brooke2k
 </li>
 </ol>
