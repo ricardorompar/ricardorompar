@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 26 Apr 2025</h4>
+<h4>Check the latest news from: Sun 27 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://samj.substack.com/p/that-joke-isnt-funny-any-more>
-        I wrote a book called "Crap Towns". It seemed funny at the time |
+    <a href=https://www.learn-c.org/>
+        Open-source interactive C tutorial in the browser |
     </a>
-    By: url
+    By: Buttons840
 </li>
 
 <li>
-    <a href=https://lite.berkeley-humanoid.org/>
-        Berkeley Humanoid Lite – Open-source robot |
+    <a href=https://simonwillison.net/2025/Apr/26/o3-photo-locations/>
+        Watching o3 guess a photo's location is surreal, dystopian and entertaining |
     </a>
-    By: ratsbane
+    By: simonw
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2504.11651>
-        Lossless LLM compression for efficient GPU inference via dynamic-length float |
+    <a href=https://sigbovik.org/2025/proceedings.pdf>
+        Sigbovik Conference Proceedings 2025 [pdf] |
     </a>
-    By: CharlesW
+    By: aleffert
 </li>
 
 <li>
-    <a href=https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/>
-        Wikipedia’s nonprofit status questioned by D.C. U.S. attorney |
+    <a href=https://popovicu.com/posts/bare-metal-printf/>
+        Bare metal printf – C standard library without OS |
     </a>
-    By: coloneltcb
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://tavianator.com/2025/configure.html>
-        Parallel ./configure |
+    <a href=https://dbdiagram.io>
+        Found a simple tool for database modeling: dbdiagram.io |
     </a>
-    By: brooke2k
+    By: vseplet
 </li>
 </ol>
