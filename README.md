@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 27 Apr 2025</h4>
+<h4>Check the latest news from: Mon 28 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://www.learn-c.org/>
-        Open-source interactive C tutorial in the browser |
+    <a href=https://internet-in-a-box.org/>
+        Internet in a Box |
     </a>
-    By: Buttons840
+    By: homebrewer
 </li>
 
 <li>
-    <a href=https://simonwillison.net/2025/Apr/26/o3-photo-locations/>
-        Watching o3 guess a photo's location is surreal, dystopian and entertaining |
+    <a href=https://www.screenrecorder.me>
+        Show HN: I made a web-based, free alternative to Screen Studio |
     </a>
-    By: simonw
+    By: johnwheeler
 </li>
 
 <li>
-    <a href=https://sigbovik.org/2025/proceedings.pdf>
-        Sigbovik Conference Proceedings 2025 [pdf] |
+    <a href=https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate>
+        AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate |
     </a>
-    By: aleffert
+    By: pedalpete
 </li>
 
 <li>
-    <a href=https://popovicu.com/posts/bare-metal-printf/>
-        Bare metal printf – C standard library without OS |
+    <a href=https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0>
+        New material gives copper superalloy-like strength |
     </a>
-    By: todsacerdoti
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://dbdiagram.io>
-        Found a simple tool for database modeling: dbdiagram.io |
+    <a href=https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying>
+        The hospital where staff treat fear of death as well as physical pain |
     </a>
-    By: vseplet
+    By: NaOH
 </li>
 </ol>
