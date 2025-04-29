@@ -45,40 +45,51 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 28 Apr 2025</h4>
+<h4>Check the latest news from: Tue 29 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://internet-in-a-box.org/>
-        Internet in a Box |
+    <a href=https://qwenlm.github.io/blog/qwen3/>
+        Qwen3: Think deeper, act faster |
     </a>
-    By: homebrewer
+    By: synthwave
 </li>
 
 <li>
-    <a href=https://www.screenrecorder.me>
-        Show HN: I made a web-based, free alternative to Screen Studio |
+    <a href=https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121>
+        Why did Windows 7 log on slower for months if you had a solid color background? |
     </a>
-    By: johnwheeler
+    By: zdw
 </li>
 
 <li>
-    <a href=https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate>
-        AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate |
+    <a href=https://www.bbc.com/news/live/c9wpq8xrvd9t>
+        Widespread power outage in Spain and Portugal |
     </a>
-    By: pedalpete
+    By: lleims
 </li>
 
-<li>
-    <a href=https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0>
-        New material gives copper superalloy-like strength |
-    </a>
-    By: gnabgib
-</li>
+<p>
+Text: All of Spain is without energy. All systems have shut down immediately and are not coming back. Apparently the same has happened in Portugal. </br>
+</p>
 
 <li>
-    <a href=https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying>
-        The hospital where staff treat fear of death as well as physical pain |
+    <a href=https://www.runpyxl.com/gpio>
+        Show HN: I built a hardware processor that runs Python |
     </a>
-    By: NaOH
+    By: hwpythonner
+</li>
+
+<p>
+Text: Hi everyone,
+I built PyXL — a hardware processor that executes a custom assembly generated from Python programs, without using a traditional interpreter or virtual machine. It compiles Python -&gt; CPython Bytecode -&gt; Instruction set designed for direct hardware execution.<p>I’m sharing an early benchmark: a GPIO test where PyXL achieves a 480ns round-trip toggle — compared to 14-25 micro seconds on a MicroPython Pyboard - even though PyXL runs at a lower clock (100MHz vs. 168MHz).<p>The design is stack-based, fully pipelined, and preserves Python&#x27;s dynamic typing without static type restrictions.
+I independently developed the full stack — toolchain (compiler, linker, codegen), and hardware — to validate the core idea. Full technical details will be presented at PyCon 2025.<p>Demo and explanation here: <a href="https:&#x2F;&#x2F;runpyxl.com&#x2F;gpio" rel="nofollow">https:&#x2F;&#x2F;runpyxl.com&#x2F;gpio</a>
+Happy to answer any questions </br>
+</p>
+
+<li>
+    <a href=https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o>
+        The One-Person Framework in Practice |
+    </a>
+    By: frans
 </li>
 </ol>
