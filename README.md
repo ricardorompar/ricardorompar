@@ -45,51 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 29 Apr 2025</h4>
+<h4>Check the latest news from: Wed 30 Apr 2025</h4>
 <ol>
 <li>
-    <a href=https://qwenlm.github.io/blog/qwen3/>
-        Qwen3: Think deeper, act faster |
+    <a href=https://openai.com/index/sycophancy-in-gpt-4o/>
+        Sycophancy in GPT-4o |
     </a>
-    By: synthwave
+    By: dsr12
 </li>
 
 <li>
-    <a href=https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121>
-        Why did Windows 7 log on slower for months if you had a solid color background? |
+    <a href=https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4>
+        Jepsen: Amazon RDS for PostgreSQL 17.4 |
     </a>
-    By: zdw
+    By: aphyr
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/live/c9wpq8xrvd9t>
-        Widespread power outage in Spain and Portugal |
+    <a href=https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/>
+        What It Takes to Defend a Cybersecurity Company from Today's Adversaries |
     </a>
-    By: lleims
+    By: gnabgib
 </li>
 
-<p>
-Text: All of Spain is without energy. All systems have shut down immediately and are not coming back. Apparently the same has happened in Portugal. </br>
-</p>
-
 <li>
-    <a href=https://www.runpyxl.com/gpio>
-        Show HN: I built a hardware processor that runs Python |
+    <a href=https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
+        Chain of Recursive Thoughts: Make AI think harder by making it argue with itself |
     </a>
-    By: hwpythonner
+    By: miles
 </li>
 
-<p>
-Text: Hi everyone,
-I built PyXL — a hardware processor that executes a custom assembly generated from Python programs, without using a traditional interpreter or virtual machine. It compiles Python -&gt; CPython Bytecode -&gt; Instruction set designed for direct hardware execution.<p>I’m sharing an early benchmark: a GPIO test where PyXL achieves a 480ns round-trip toggle — compared to 14-25 micro seconds on a MicroPython Pyboard - even though PyXL runs at a lower clock (100MHz vs. 168MHz).<p>The design is stack-based, fully pipelined, and preserves Python&#x27;s dynamic typing without static type restrictions.
-I independently developed the full stack — toolchain (compiler, linker, codegen), and hardware — to validate the core idea. Full technical details will be presented at PyCon 2025.<p>Demo and explanation here: <a href="https:&#x2F;&#x2F;runpyxl.com&#x2F;gpio" rel="nofollow">https:&#x2F;&#x2F;runpyxl.com&#x2F;gpio</a>
-Happy to answer any questions </br>
-</p>
-
 <li>
-    <a href=https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o>
-        The One-Person Framework in Practice |
+    <a href=https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/>
+        An illustrated guide to automatic sparse differentiation |
     </a>
-    By: frans
+    By: mariuz
 </li>
 </ol>
