@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 30 Apr 2025</h4>
+<h4>Check the latest news from: Thu 01 May 2025</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/sycophancy-in-gpt-4o/>
-        Sycophancy in GPT-4o |
+    <a href=https://www.inceptionlabs.ai/introducing-mercury>
+        Mercury: Commercial-scale diffusion language model |
     </a>
-    By: dsr12
+    By: HyprMusic
 </li>
 
 <li>
-    <a href=https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4>
-        Jepsen: Amazon RDS for PostgreSQL 17.4 |
+    <a href=https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957>
+        Apple violated antitrust ruling, judge finds |
     </a>
-    By: aphyr
+    By: shayneo
 </li>
 
 <li>
-    <a href=https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/>
-        What It Takes to Defend a Cybersecurity Company from Today's Adversaries |
+    <a href=https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1>
+        All four major web browsers are about to lose 80% of their funding |
     </a>
-    By: gnabgib
+    By: dfabulich
 </li>
 
 <li>
-    <a href=https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts>
-        Chain of Recursive Thoughts: Make AI think harder by making it argue with itself |
+    <a href=https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/>
+        108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring |
     </a>
-    By: miles
+    By: twalichiewicz
 </li>
 
 <li>
-    <a href=https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/>
-        An illustrated guide to automatic sparse differentiation |
+    <a href=https://jessie.cafe/posts/pwning-ladybirds-libjs/>
+        Pwning the Ladybird Browser |
     </a>
-    By: mariuz
+    By: todsacerdoti
 </li>
 </ol>
