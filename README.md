@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 01 May 2025</h4>
+<h4>Check the latest news from: Fri 02 May 2025</h4>
 <ol>
 <li>
-    <a href=https://www.inceptionlabs.ai/introducing-mercury>
-        Mercury: Commercial-scale diffusion language model |
+    <a href=https://w3ctag.github.io/web-without-3p-cookies/>
+        Third Party Cookies Must Be Removed |
     </a>
-    By: HyprMusic
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957>
-        Apple violated antitrust ruling, judge finds |
+    <a href=https://antirez.com/news/151>
+        Redis is open source again |
     </a>
-    By: shayneo
+    By: antirez
 </li>
 
 <li>
-    <a href=https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1>
-        All four major web browsers are about to lose 80% of their funding |
+    <a href=https://developer.chrome.com/blog/dbsc-origin-trial>
+        Chrome Origin Trial: Device Bound Session Credentials |
     </a>
-    By: dfabulich
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/>
-        108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring |
+    <a href=https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html>
+        Quebec refuses to reinvest in Lion Electric (busses); US factory auction |
     </a>
-    By: twalichiewicz
+    By: Kon-Peki
 </li>
 
 <li>
-    <a href=https://jessie.cafe/posts/pwning-ladybirds-libjs/>
-        Pwning the Ladybird Browser |
+    <a href=https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/>
+        The Day Anubis Saved Our Websites from a DDoS Attack |
     </a>
-    By: todsacerdoti
+    By: DoctorOW
 </li>
 </ol>
