@@ -45,40 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/'>Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 02 May 2025</h4>
+<h4>Check the latest news from: Sat 03 May 2025</h4>
 <ol>
 <li>
-    <a href=https://w3ctag.github.io/web-without-3p-cookies/>
-        Third Party Cookies Must Be Removed |
+    <a href=https://github.com/c1570/Connomore64>
+        Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers |
     </a>
-    By: pabs3
+    By: codewiz
 </li>
 
 <li>
-    <a href=https://antirez.com/news/151>
-        Redis is open source again |
+    <a href=https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/>
+        Old Soviet Venus descent craft nearing Earth reentry |
     </a>
-    By: antirez
+    By: Wingman4l7
 </li>
 
 <li>
-    <a href=https://developer.chrome.com/blog/dbsc-origin-trial>
-        Chrome Origin Trial: Device Bound Session Credentials |
+    <a href=https://anukari.com>
+        Show HN: I built a synthesizer based on 3D physics |
     </a>
-    By: pabs3
+    By: humbledrone
+</li>
+
+<p>
+Text: I&#x27;ve been working on the Anukari 3D Physics Synthesizer for a little over two years now. It&#x27;s one of the earliest virtual instruments to rely on the GPU for audio processing, which has been incredibly challenging and fun. In the end, predictably, the GUI for manipulating the 3D system actually ended up being a lot more work than the physics simulation.<p>So far I am only selling it direct on my website, which seems to be working well. I hope to turn it into a sustainable business, and ideally I&#x27;d have enough revenue to hire folks to help with it. So far it&#x27;s been 99% a solo project, with (awesome) contractors brought in for some of the stuff that I&#x27;m bad at, like the 3D models and making instrument presets&#x2F;videos.<p>The official launch announcement video is here: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=NYX_eeNVIEU" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=NYX_eeNVIEU</a><p>But if you REALLY want to see what it can do, check out what Mick Cormick did with in on the first day: <a href="https:&#x2F;&#x2F;x.com&#x2F;Mick_Gordon&#x2F;status&#x2F;1918146487948919222" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;Mick_Gordon&#x2F;status&#x2F;1918146487948919222</a><p>I&#x27;ve kept a fairly detailed developer log about my progress on the project since October 2023, which might be of interest to the hardcore technical folks here:
+<a href="https:&#x2F;&#x2F;anukari.com&#x2F;blog&#x2F;devlog" rel="nofollow">https:&#x2F;&#x2F;anukari.com&#x2F;blog&#x2F;devlog</a><p>I also gave a talk at Audio Developer Conference 2023 (ADC23) that goes deep into a couple of the problems I solved for Anukari: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lb8b1SYy73Q" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lb8b1SYy73Q</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/TechnicJelle/GitDroid>
+        GitDroid: A third party Android app manager for apps uploaded to GitHub releases |
+    </a>
+    By: amadeuspagel
 </li>
 
 <li>
-    <a href=https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html>
-        Quebec refuses to reinvest in Lion Electric (busses); US factory auction |
+    <a href=https://substack.com/home/post/p-160039885>
+        Creating Bluey: Tales from the Art Director |
     </a>
-    By: Kon-Peki
-</li>
-
-<li>
-    <a href=https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/>
-        The Day Anubis Saved Our Websites from a DDoS Attack |
-    </a>
-    By: DoctorOW
+    By: cfcfcf
 </li>
 </ol>
