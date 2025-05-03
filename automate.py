@@ -27,7 +27,7 @@ def create_html(news:list) -> str:
         if 'url' in item:
             news_text += f'''
 <li>
-    <a href={item['url']}>
+    <a href={item['url']} target="_blank">
         {item['title']} |
     </a>
     By: {item['by']}
