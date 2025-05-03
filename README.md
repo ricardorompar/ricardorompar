@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there, I'm Ricardo</h1>
 <p align="center">
-  <a href="ricardorompar.com">Website</a> •
+  <a href="https://www.ricardorompar.com">Website</a> •
   <a href="https://www.linkedin.com/in/ricardo-romero-paredes/">LinkedIn</a> •
   <a href="https://twitter.com/ricardorompar">X</a>
 </p>
