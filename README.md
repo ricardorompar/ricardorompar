@@ -45,45 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 03 May 2025</h4>
+<h4>Check the latest news from: Sun 04 May 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/c1570/Connomore64>
-        Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers |
+    <a href=http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html target="_blank">
+        What went wrong with wireless USB |
     </a>
-    By: codewiz
+    By: goldenskye
 </li>
 
 <li>
-    <a href=https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/>
-        Old Soviet Venus descent craft nearing Earth reentry |
+    <a href=https://github.com/Jacksaur/Gorgeous-GRUB target="_blank">
+        Gorgeous-GRUB: collection of decent community-made GRUB themes |
     </a>
-    By: Wingman4l7
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://anukari.com>
-        Show HN: I built a synthesizer based on 3D physics |
+    <a href=https://breezepdf.com target="_blank">
+        Show HN: Free, in-browser PDF editor |
     </a>
-    By: humbledrone
+    By: philjohnson
 </li>
 
 <p>
-Text: I&#x27;ve been working on the Anukari 3D Physics Synthesizer for a little over two years now. It&#x27;s one of the earliest virtual instruments to rely on the GPU for audio processing, which has been incredibly challenging and fun. In the end, predictably, the GUI for manipulating the 3D system actually ended up being a lot more work than the physics simulation.<p>So far I am only selling it direct on my website, which seems to be working well. I hope to turn it into a sustainable business, and ideally I&#x27;d have enough revenue to hire folks to help with it. So far it&#x27;s been 99% a solo project, with (awesome) contractors brought in for some of the stuff that I&#x27;m bad at, like the 3D models and making instrument presets&#x2F;videos.<p>The official launch announcement video is here: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=NYX_eeNVIEU" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=NYX_eeNVIEU</a><p>But if you REALLY want to see what it can do, check out what Mick Cormick did with in on the first day: <a href="https:&#x2F;&#x2F;x.com&#x2F;Mick_Gordon&#x2F;status&#x2F;1918146487948919222" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;Mick_Gordon&#x2F;status&#x2F;1918146487948919222</a><p>I&#x27;ve kept a fairly detailed developer log about my progress on the project since October 2023, which might be of interest to the hardcore technical folks here:
-<a href="https:&#x2F;&#x2F;anukari.com&#x2F;blog&#x2F;devlog" rel="nofollow">https:&#x2F;&#x2F;anukari.com&#x2F;blog&#x2F;devlog</a><p>I also gave a talk at Audio Developer Conference 2023 (ADC23) that goes deep into a couple of the problems I solved for Anukari: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lb8b1SYy73Q" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=lb8b1SYy73Q</a> </br>
+Text: Add text, input boxes, pictures, signatures, delete pages, merge PDFs and password protect them. All happening in the browser, 100% free and no sign-up. </br>
 </p>
 
 <li>
-    <a href=https://github.com/TechnicJelle/GitDroid>
-        GitDroid: A third party Android app manager for apps uploaded to GitHub releases |
+    <a href=https://arxiv.org/abs/2504.16736 target="_blank">
+        A Survey of AI Agent Protocols |
     </a>
-    By: amadeuspagel
+    By: distalx
 </li>
 
 <li>
-    <a href=https://substack.com/home/post/p-160039885>
-        Creating Bluey: Tales from the Art Director |
+    <a href=http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf target="_blank">
+        Programmers Guide to the AMIBIOS (1993) [pdf] |
     </a>
-    By: cfcfcf
+    By: 1vuio0pswjnm7
 </li>
 </ol>
