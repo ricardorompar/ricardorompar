@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 04 May 2025</h4>
+<h4>Check the latest news from: Mon 05 May 2025</h4>
 <ol>
 <li>
-    <a href=http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html target="_blank">
-        What went wrong with wireless USB |
+    <a href=https://claytonwramsey.com/blog/prompt/ target="_blank">
+        I'd rather read the prompt |
     </a>
-    By: goldenskye
+    By: claytonwramsey
 </li>
 
 <li>
-    <a href=https://github.com/Jacksaur/Gorgeous-GRUB target="_blank">
-        Gorgeous-GRUB: collection of decent community-made GRUB themes |
+    <a href=https://blog.rahix.de/design-for-3d-printing/ target="_blank">
+        Design for 3D-Printing |
     </a>
-    By: todsacerdoti
+    By: q3k
 </li>
 
 <li>
-    <a href=https://breezepdf.com target="_blank">
-        Show HN: Free, in-browser PDF editor |
+    <a href=https://svnscha.de/posts/ai-meets-windbg/ target="_blank">
+        AI Meets WinDBG |
     </a>
-    By: philjohnson
-</li>
-
-<p>
-Text: Add text, input boxes, pictures, signatures, delete pages, merge PDFs and password protect them. All happening in the browser, 100% free and no sign-up. </br>
-</p>
-
-<li>
-    <a href=https://arxiv.org/abs/2504.16736 target="_blank">
-        A Survey of AI Agent Protocols |
-    </a>
-    By: distalx
+    By: thunderbong
 </li>
 
 <li>
-    <a href=http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf target="_blank">
-        Programmers Guide to the AMIBIOS (1993) [pdf] |
+    <a href=https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera target="_blank">
+        On Not Carrying a Camera – Cultivating memories instead of snapshots |
     </a>
-    By: 1vuio0pswjnm7
+    By: pseudolus
+</li>
+
+<li>
+    <a href=https://stefan-oltmann.de/mines/ target="_blank">
+        Mines: A simple mine puzzle game inspired by classic minesweeper |
+    </a>
+    By: sea-gold
 </li>
 </ol>
