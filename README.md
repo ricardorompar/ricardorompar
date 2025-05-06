@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 05 May 2025</h4>
+<h4>Check the latest news from: Tue 06 May 2025</h4>
 <ol>
 <li>
-    <a href=https://claytonwramsey.com/blog/prompt/ target="_blank">
-        I'd rather read the prompt |
+    <a href=https://openai.com/index/evolving-our-structure/ target="_blank">
+        Evolving OpenAI's Structure |
     </a>
-    By: claytonwramsey
+    By: rohitpaulk
 </li>
 
 <li>
-    <a href=https://blog.rahix.de/design-for-3d-printing/ target="_blank">
-        Design for 3D-Printing |
+    <a href=https://winwang.blog/posts/bitonic-sort/ target="_blank">
+        Faster sorting with SIMD CUDA intrinsics (2024) |
     </a>
-    By: q3k
+    By: winwang
+</li>
+
+<p>
+Text: Code at <a href="https:&#x2F;&#x2F;github.com&#x2F;wiwa&#x2F;blog-code&#x2F;">https:&#x2F;&#x2F;github.com&#x2F;wiwa&#x2F;blog-code&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/KoljaB/RealtimeVoiceChat target="_blank">
+        Show HN: Real-time AI Voice Chat at ~500ms Latency |
+    </a>
+    By: koljab
 </li>
 
 <li>
-    <a href=https://svnscha.de/posts/ai-meets-windbg/ target="_blank">
-        AI Meets WinDBG |
+    <a href=https://critical-css-extractor.kigo.studio/ target="_blank">
+        Critical CSS |
     </a>
-    By: thunderbong
+    By: stevenpotts
 </li>
 
 <li>
-    <a href=https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera target="_blank">
-        On Not Carrying a Camera – Cultivating memories instead of snapshots |
+    <a href=https://blog.yaakov.online/replacing-kubernetes-with-systemd/ target="_blank">
+        Replacing Kubernetes with systemd (2024) |
     </a>
-    By: pseudolus
-</li>
-
-<li>
-    <a href=https://stefan-oltmann.de/mines/ target="_blank">
-        Mines: A simple mine puzzle game inspired by classic minesweeper |
-    </a>
-    By: sea-gold
+    By: birdculture
 </li>
 </ol>
