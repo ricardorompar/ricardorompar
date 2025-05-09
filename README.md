@@ -45,37 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 08 May 2025</h4>
+<h4>Check the latest news from: Fri 09 May 2025</h4>
 <ol>
 <li>
-    <a href=https://catern.com/inheritance.html target="_blank">
-        Inheritance was invented as a performance hack (2021) |
+    <a href=https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf target="_blank">
+        A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf] |
     </a>
-    By: aquastorm
+    By: luu
 </li>
 
 <li>
-    <a href=https://github.com/astral-sh/ty target="_blank">
-        Ty: A fast Python type checker and language server |
+    <a href=https://github.com/voideditor/void target="_blank">
+        Void: Open-source Cursor alternative |
     </a>
-    By: arathore
+    By: sharjeelsayed
 </li>
 
 <p>
-Text: I just wanted to hear peoples experiences with AI IDEs.<p>For context, I&#x27;m a heavy user of Gemini &#x2F; ChatGPT for coding and Copilot. But I haven&#x27;t used Cursor &#x2F; Windsurf &#x2F; etc..<p>Copy pasting into chat apps is a first world problem: it will do the work for you, but you have to give it all the context in the prompt, which for a larger project, gets tedious.<p>The issue with Copilot is that it&#x27;s not as smart as the &quot;thinking&quot; chat apps.<p>This makes it clear why there&#x27;s such a need for AI IDEs. I don&#x27;t want to construct my context to a chat app. The context is already in my codebase, so the AI should pick up on it. But I also hear that it gets expensive because of the pay-per-use pricing, as opposed to effectively unlimited prompts for a thinking chat app if you pay the monthly subscription.<p>So I just wanted to get the lay of the land. How good are these IDEs on constructing your context to the LLMs? How much more expensive is it, and is it worth it for you? </br>
+Text: <a href="https:&#x2F;&#x2F;voideditor.com&#x2F;download-beta">https:&#x2F;&#x2F;voideditor.com&#x2F;download-beta</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/ivanbelenky/us-routing target="_blank">
-        Show HN: US Routing – Python library for fast local routing in the United States |
+    <a href=https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/ target="_blank">
+        Starlink User Terminal Teardown |
     </a>
-    By: ivanbelenky
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://deborahwrites.com/blog/docs-like-code-basic-intro/ target="_blank">
-        Docs like code in basic terms |
+    <a href=https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/ target="_blank">
+        eBPF Mystery: When is IPv4 not IPv4? When it's pretending to be IPv6 |
     </a>
-    By: DeborahWrites
+    By: tanelpoder
+</li>
+
+<li>
+    <a href=https://royalsociety.org/blog/2025/05/hill-or-high-water/ target="_blank">
+        Hill or High Water |
+    </a>
+    By: benbreen
 </li>
 </ol>
