@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 09 May 2025</h4>
+<h4>Check the latest news from: Sat 10 May 2025</h4>
 <ol>
 <li>
-    <a href=https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf target="_blank">
-        A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf] |
+    <a href=https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md target="_blank">
+        Vision Now Available in Llama.cpp |
     </a>
-    By: luu
+    By: redman25
 </li>
 
 <li>
-    <a href=https://github.com/voideditor/void target="_blank">
-        Void: Open-source Cursor alternative |
+    <a href=https://neal.fun/internet-roadtrip/ target="_blank">
+        Internet Roadtrip: Vote to steer |
     </a>
-    By: sharjeelsayed
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;voideditor.com&#x2F;download-beta">https:&#x2F;&#x2F;voideditor.com&#x2F;download-beta</a> </br>
-</p>
-
-<li>
-    <a href=https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/ target="_blank">
-        Starlink User Terminal Teardown |
-    </a>
-    By: walterbell
+    By: memalign
 </li>
 
 <li>
-    <a href=https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/ target="_blank">
-        eBPF Mystery: When is IPv4 not IPv4? When it's pretending to be IPv6 |
+    <a href=https://brandonli.net/semisim/ target="_blank">
+        Brandon's Semiconductor Simulator |
     </a>
-    By: tanelpoder
+    By: dominikh
 </li>
 
 <li>
-    <a href=https://royalsociety.org/blog/2025/05/hill-or-high-water/ target="_blank">
-        Hill or High Water |
+    <a href=https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste target="_blank">
+        Business books are entertainment, not strategic tools |
     </a>
-    By: benbreen
+    By: ZeroTalent
+</li>
+
+<li>
+    <a href=https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/ target="_blank">
+        Charles Bukowski, William Burroughs, and the Computer (2009) |
+    </a>
+    By: zdw
 </li>
 </ol>
