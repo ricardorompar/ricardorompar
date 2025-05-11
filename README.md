@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 10 May 2025</h4>
+<h4>Check the latest news from: Sun 11 May 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md target="_blank">
-        Vision Now Available in Llama.cpp |
+    <a href=https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators target="_blank">
+        Fandom Sells Giant Bomb to Independent Creators |
     </a>
-    By: redman25
+    By: minimaxir
 </li>
 
 <li>
-    <a href=https://neal.fun/internet-roadtrip/ target="_blank">
-        Internet Roadtrip: Vote to steer |
+    <a href=https://skincontact.substack.com/p/21-observations-from-people-watching target="_blank">
+        Observations from people watching |
     </a>
-    By: memalign
+    By: jger15
 </li>
 
 <li>
-    <a href=https://brandonli.net/semisim/ target="_blank">
-        Brandon's Semiconductor Simulator |
+    <a href=https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise target="_blank">
+        Sierpiński Triangle? In My Bitwise and? |
     </a>
-    By: dominikh
+    By: guiambros
 </li>
 
 <li>
-    <a href=https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste target="_blank">
-        Business books are entertainment, not strategic tools |
+    <a href=https://flak.tedunangst.com/post/fan-service target="_blank">
+        Fan Service |
     </a>
-    By: ZeroTalent
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/ target="_blank">
-        Charles Bukowski, William Burroughs, and the Computer (2009) |
+    <a href=https://lab.avl.la/dotless/ target="_blank">
+        Dotless Domains |
     </a>
-    By: zdw
+    By: wibbily
 </li>
 </ol>
