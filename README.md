@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 11 May 2025</h4>
+<h4>Check the latest news from: Mon 12 May 2025</h4>
 <ol>
 <li>
-    <a href=https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators target="_blank">
-        Fandom Sells Giant Bomb to Independent Creators |
+    <a href=https://plainvanillaweb.com/index.html target="_blank">
+        Plain Vanilla Web |
     </a>
-    By: minimaxir
+    By: andrewrn
 </li>
 
 <li>
-    <a href=https://skincontact.substack.com/p/21-observations-from-people-watching target="_blank">
-        Observations from people watching |
+    <a href=https://pub.sakana.ai/ctm/ target="_blank">
+        Continuous Thought Machines |
     </a>
-    By: jger15
+    By: hardmaru
 </li>
 
 <li>
-    <a href=https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise target="_blank">
-        Sierpiński Triangle? In My Bitwise and? |
+    <a href=https://www.primeintellect.ai/blog/intellect-2-release target="_blank">
+        Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL |
     </a>
-    By: guiambros
+    By: Philpax
 </li>
 
 <li>
-    <a href=https://flak.tedunangst.com/post/fan-service target="_blank">
-        Fan Service |
+    <a href=https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/ target="_blank">
+        The Academic Pipeline Stall: Why Industry Must Stand for Academia |
+    </a>
+    By: MaysonL
+</li>
+
+<li>
+    <a href=https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/ target="_blank">
+        I ruined my vacation by reverse engineering WSC |
     </a>
     By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://lab.avl.la/dotless/ target="_blank">
-        Dotless Domains |
-    </a>
-    By: wibbily
 </li>
 </ol>
