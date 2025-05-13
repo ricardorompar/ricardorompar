@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 12 May 2025</h4>
+<h4>Check the latest news from: Tue 13 May 2025</h4>
 <ol>
 <li>
-    <a href=https://plainvanillaweb.com/index.html target="_blank">
-        Plain Vanilla Web |
+    <a href=https://github.com/apple/ml-fastvlm target="_blank">
+        Fastvlm: Efficient vision encoding for vision language models |
     </a>
-    By: andrewrn
+    By: nhod
 </li>
 
 <li>
-    <a href=https://pub.sakana.ai/ctm/ target="_blank">
-        Continuous Thought Machines |
+    <a href=https://serd.es/2025/05/08/Switch-project-pt1.html target="_blank">
+        Open Hardware Ethernet Switch project, part 1 |
     </a>
-    By: hardmaru
+    By: luu
 </li>
 
 <li>
-    <a href=https://www.primeintellect.ai/blog/intellect-2-release target="_blank">
-        Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL |
+    <a href=https://computer.rip/2025-05-11-air-traffic-control.html target="_blank">
+        Air Traffic Control |
     </a>
-    By: Philpax
+    By: 1317
 </li>
 
 <li>
-    <a href=https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/ target="_blank">
-        The Academic Pipeline Stall: Why Industry Must Stand for Academia |
+    <a href=https://arxiv.org/abs/2502.07864 target="_blank">
+        TransMLA: Multi-head latent attention is all you need |
     </a>
-    By: MaysonL
+    By: ocean_moist
 </li>
 
 <li>
-    <a href=https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/ target="_blank">
-        I ruined my vacation by reverse engineering WSC |
+    <a href=https://arslan.io/2025/05/12/barbican-estate/ target="_blank">
+        The Barbican |
     </a>
-    By: todsacerdoti
+    By: farslan
 </li>
 </ol>
