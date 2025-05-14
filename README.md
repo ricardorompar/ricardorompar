@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 13 May 2025</h4>
+<h4>Check the latest news from: Wed 14 May 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/apple/ml-fastvlm target="_blank">
-        Fastvlm: Efficient vision encoding for vision language models |
+    <a href=https://www.sixthtone.com/news/1017072 target="_blank">
+        Bus stops here: Shanghai lets riders design their own routes |
     </a>
-    By: nhod
+    By: anigbrowl
 </li>
 
 <li>
-    <a href=https://serd.es/2025/05/08/Switch-project-pt1.html target="_blank">
-        Open Hardware Ethernet Switch project, part 1 |
+    <a href=https://arxiv.org/abs/2504.09246 target="_blank">
+        Type-constrained code generation with language models |
     </a>
-    By: luu
+    By: tough
 </li>
 
 <li>
-    <a href=https://computer.rip/2025-05-11-air-traffic-control.html target="_blank">
-        Air Traffic Control |
+    <a href=https://rpginabox.com/ target="_blank">
+        RPG in a Box |
     </a>
-    By: 1317
+    By: skibz
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2502.07864 target="_blank">
-        TransMLA: Multi-head latent attention is all you need |
+    <a href=https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/ target="_blank">
+        Show HN: I’ve built an IoT device to let my family know when I’m in a meeting |
     </a>
-    By: ocean_moist
+    By: delduca
 </li>
 
 <li>
-    <a href=https://arslan.io/2025/05/12/barbican-estate/ target="_blank">
-        The Barbican |
+    <a href=https://corrode.dev/blog/flattening-rusts-learning-curve/ target="_blank">
+        Flattening Rust’s learning curve |
     </a>
-    By: farslan
+    By: birdculture
 </li>
 </ol>
