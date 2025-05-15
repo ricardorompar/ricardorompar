@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 14 May 2025</h4>
+<h4>Check the latest news from: Thu 15 May 2025</h4>
 <ol>
 <li>
-    <a href=https://www.sixthtone.com/news/1017072 target="_blank">
-        Bus stops here: Shanghai lets riders design their own routes |
+    <a href=https://arxiv.org/abs/2505.06120 target="_blank">
+        LLMs Get Lost in Multi-Turn Conversation |
     </a>
-    By: anigbrowl
+    By: simonpure
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2504.09246 target="_blank">
-        Type-constrained code generation with language models |
+    <a href=https://quarter--mile.com/Human target="_blank">
+        Human |
     </a>
-    By: tough
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://rpginabox.com/ target="_blank">
-        RPG in a Box |
+    <a href=https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/ target="_blank">
+        AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms |
     </a>
-    By: skibz
+    By: Fysi
+</li>
+
+<p>
+Text: See also <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-01523-z" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-01523-z</a> (<a href="https:&#x2F;&#x2F;archive.is&#x2F;NBaXE" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;NBaXE</a>) </br>
+</p>
+
+<li>
+    <a href=https://neal.fun/internet-artifacts/ target="_blank">
+        Internet Artifacts |
+    </a>
+    By: mikerg87
 </li>
 
 <li>
-    <a href=https://nullonerror.org/2025/05/11/i-have-built-an-iot-device-to-let-my-family-know-when-i-am-in-a-meeting/ target="_blank">
-        Show HN: I’ve built an IoT device to let my family know when I’m in a meeting |
+    <a href=https://www.lux.camera/what-is-hdr/ target="_blank">
+        What is HDR, anyway? |
     </a>
-    By: delduca
-</li>
-
-<li>
-    <a href=https://corrode.dev/blog/flattening-rusts-learning-curve/ target="_blank">
-        Flattening Rust’s learning curve |
-    </a>
-    By: birdculture
+    By: _kush
 </li>
 </ol>
