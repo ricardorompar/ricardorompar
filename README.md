@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 15 May 2025</h4>
+<h4>Check the latest news from: Fri 16 May 2025</h4>
 <ol>
 <li>
-    <a href=https://arxiv.org/abs/2505.06120 target="_blank">
-        LLMs Get Lost in Multi-Turn Conversation |
+    <a href=https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html target="_blank">
+        Baby is healed with first personalized gene-editing treatment |
     </a>
-    By: simonpure
+    By: jbredeche
 </li>
 
 <li>
-    <a href=https://quarter--mile.com/Human target="_blank">
-        Human |
+    <a href=https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked target="_blank">
+        Cracked - method chaining/CSS-style selector web audio library |
     </a>
-    By: surprisetalk
+    By: stephenhandley
 </li>
 
 <li>
-    <a href=https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/ target="_blank">
-        AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms |
+    <a href=https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html target="_blank">
+        A leap year check in three instructions |
     </a>
-    By: Fysi
-</li>
-
-<p>
-Text: See also <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-01523-z" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-01523-z</a> (<a href="https:&#x2F;&#x2F;archive.is&#x2F;NBaXE" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;NBaXE</a>) </br>
-</p>
-
-<li>
-    <a href=https://neal.fun/internet-artifacts/ target="_blank">
-        Internet Artifacts |
-    </a>
-    By: mikerg87
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://www.lux.camera/what-is-hdr/ target="_blank">
-        What is HDR, anyway? |
+    <a href=https://ollama.com/blog/multimodal-models target="_blank">
+        Ollama's new engine for multimodal models |
     </a>
-    By: _kush
+    By: LorenDB
+</li>
+
+<li>
+    <a href=https://teal-language.org/ target="_blank">
+        Teal – A statically-typed dialect of Lua |
+    </a>
+    By: generichuman
 </li>
 </ol>
