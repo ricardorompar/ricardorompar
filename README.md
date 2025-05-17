@@ -45,40 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 16 May 2025</h4>
+<h4>Check the latest news from: Sat 17 May 2025</h4>
 <ol>
 <li>
-    <a href=https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html target="_blank">
-        Baby is healed with first personalized gene-editing treatment |
+    <a href=https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql target="_blank">
+        Getting AI to write good SQL |
     </a>
-    By: jbredeche
+    By: richards
 </li>
 
 <li>
-    <a href=https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked target="_blank">
-        Cracked - method chaining/CSS-style selector web audio library |
+    <a href=https://github.com/moustafa-nasr/fahmatrix target="_blank">
+        Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java |
     </a>
-    By: stephenhandley
+    By: mousomashakel
+</li>
+
+<p>
+Text: Hey HN,<p>I’ve built Fahmatrix, a minimal, fast Java library for working with tabular data — inspired by Python’s pandas, but designed for performance and simplicity on the JVM.<p>After working extensively with Python’s data stack, I often ran into limitations related to speed, especially in larger or long-running data workflows. So I built Fahmatrix from scratch to offer similar APIs for manipulating CSVs, performing summary statistics, slicing rows&#x2F;columns, and more — but all in Java.<p>Features:<p>Lightweight and dependency-free<p>CSV&#x2F;TSV import with auto-headers<p>Series&#x2F;DataFrame structures (like pandas)<p>describe(), mean(), stdDev(), percentile() and more<p>Fast parallel operations on numeric columns<p>Java 17+ support<p>Docs: <a href="https:&#x2F;&#x2F;moustafa-nasr.github.io&#x2F;Fahmatrix&#x2F;" rel="nofollow">https:&#x2F;&#x2F;moustafa-nasr.github.io&#x2F;Fahmatrix&#x2F;</a>
+ GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;moustafa-nasr&#x2F;fahmatrix">https:&#x2F;&#x2F;github.com&#x2F;moustafa-nasr&#x2F;fahmatrix</a><p>I’d love feedback from the Java and data communities — especially if you’ve ever wanted a simple dataframe utility in Java without needing full-scale ML libraries.<p>Happy to answer any questions! </br>
+</p>
+
+<li>
+    <a href=https://phl.upr.edu/wow/outreach target="_blank">
+        Wow@Home – Network of Amateur Radio Telescopes |
+    </a>
+    By: visviva
 </li>
 
 <li>
-    <a href=https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html target="_blank">
-        A leap year check in three instructions |
+    <a href=https://github.com/xtool-org/xtool target="_blank">
+        XTool – Cross-platform Xcode replacement |
     </a>
-    By: gnabgib
+    By: TheWiggles
 </li>
 
 <li>
-    <a href=https://ollama.com/blog/multimodal-models target="_blank">
-        Ollama's new engine for multimodal models |
+    <a href=https://dcurt.is/thinking target="_blank">
+        Thoughts on thinking |
     </a>
-    By: LorenDB
-</li>
-
-<li>
-    <a href=https://teal-language.org/ target="_blank">
-        Teal – A statically-typed dialect of Lua |
-    </a>
-    By: generichuman
+    By: bradgessler
 </li>
 </ol>
