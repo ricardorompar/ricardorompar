@@ -45,45 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 17 May 2025</h4>
+<h4>Check the latest news from: Sun 18 May 2025</h4>
 <ol>
 <li>
-    <a href=https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql target="_blank">
-        Getting AI to write good SQL |
+    <a href=https://komiko.app/video/AniSora target="_blank">
+        AniSora: Open-source anime video generation model |
     </a>
-    By: richards
+    By: PaulineGar
 </li>
 
 <li>
-    <a href=https://github.com/moustafa-nasr/fahmatrix target="_blank">
-        Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java |
+    <a href=https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/ target="_blank">
+        Coding without a laptop: Two weeks with AR glasses and Linux on Android |
     </a>
-    By: mousomashakel
+    By: mikenew
+</li>
+
+<li>
+    <a href=https://app.camelai.com/log-in?next=/hn/ target="_blank">
+        Show HN: Chat with 19 years of HN |
+    </a>
+    By: vercantez
 </li>
 
 <p>
-Text: Hey HN,<p>I’ve built Fahmatrix, a minimal, fast Java library for working with tabular data — inspired by Python’s pandas, but designed for performance and simplicity on the JVM.<p>After working extensively with Python’s data stack, I often ran into limitations related to speed, especially in larger or long-running data workflows. So I built Fahmatrix from scratch to offer similar APIs for manipulating CSVs, performing summary statistics, slicing rows&#x2F;columns, and more — but all in Java.<p>Features:<p>Lightweight and dependency-free<p>CSV&#x2F;TSV import with auto-headers<p>Series&#x2F;DataFrame structures (like pandas)<p>describe(), mean(), stdDev(), percentile() and more<p>Fast parallel operations on numeric columns<p>Java 17+ support<p>Docs: <a href="https:&#x2F;&#x2F;moustafa-nasr.github.io&#x2F;Fahmatrix&#x2F;" rel="nofollow">https:&#x2F;&#x2F;moustafa-nasr.github.io&#x2F;Fahmatrix&#x2F;</a>
- GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;moustafa-nasr&#x2F;fahmatrix">https:&#x2F;&#x2F;github.com&#x2F;moustafa-nasr&#x2F;fahmatrix</a><p>I’d love feedback from the Java and data communities — especially if you’ve ever wanted a simple dataframe utility in Java without needing full-scale ML libraries.<p>Happy to answer any questions! </br>
+Text: Hey HN<p>We loaded a BigQuery dataset of all of Hacker News, every comment, story and user, into camelAI.<p>You can ask questions like:<p>• “When does dang tend to comment during the day?”<p>• “Which domains have gained the most submissions since 2015, year-over-year?”<p>• “How has average comment length changed each January since 2007?”<p>• “Top five users who link to arXiv papers the most.”<p>It&#x27;s behind a log-in to prevent abuse but free to use for 10 messages. No payment info required. We use OpenAI o3 or Claude sonnet 3.7 for the agent which can be really expensive.<p>Would love feedback especially around graph&#x2F;chart quality and o3 vs sonnet. </br>
 </p>
 
 <li>
-    <a href=https://phl.upr.edu/wow/outreach target="_blank">
-        Wow@Home – Network of Amateur Radio Telescopes |
+    <a href=https://workflows.diagrid.io/ target="_blank">
+        Show HN: Turn any workflow diagram into compilable, running and stateful code |
     </a>
-    By: visviva
+    By: yaronsc
 </li>
 
-<li>
-    <a href=https://github.com/xtool-org/xtool target="_blank">
-        XTool – Cross-platform Xcode replacement |
-    </a>
-    By: TheWiggles
-</li>
+<p>
+Text: Hi HN folks, I&#x27;m a co-creator of the Dapr CNCF project and co-founder of Diagrid. Today we announced a free-to-use web app that takes any form of workflow diagram (UML, BPMN, scribble in your favorite drawing tool or even on paper) and generates code that runs in any IDE and that can be deployed to Kubernetes and other container based systems, based on Dapr&#x27;s durable execution workflow engine. This essentially allows you to run durable workflows in minutes and leaves out the guesswork for how to structure, code and optimize a code-first workflow app. I&#x27;m happy for you to give this a try and provide feedback! </br>
+</p>
 
 <li>
-    <a href=https://dcurt.is/thinking target="_blank">
-        Thoughts on thinking |
+    <a href=https://suberic.net/~dmm/projects/mystical/README.html target="_blank">
+        Mystical |
     </a>
-    By: bradgessler
+    By: mmphosis
 </li>
 </ol>
