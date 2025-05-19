@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 18 May 2025</h4>
+<h4>Check the latest news from: Mon 19 May 2025</h4>
 <ol>
 <li>
-    <a href=https://komiko.app/video/AniSora target="_blank">
-        AniSora: Open-source anime video generation model |
+    <a href=https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html target="_blank">
+        New research reveals the strongest solar event ever detected, in 12350 BC |
     </a>
-    By: PaulineGar
+    By: politelemon
 </li>
 
 <li>
-    <a href=https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/ target="_blank">
-        Coding without a laptop: Two weeks with AR glasses and Linux on Android |
+    <a href=https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/ target="_blank">
+        The principles of database design, or, the Truth is out there |
     </a>
-    By: mikenew
+    By: b-man
 </li>
 
 <li>
-    <a href=https://app.camelai.com/log-in?next=/hn/ target="_blank">
-        Show HN: Chat with 19 years of HN |
+    <a href=https://worldhistory.substack.com/p/there-are-people-who-can-see-and target="_blank">
+        “There are people who can see and others who cannot even look” |
     </a>
-    By: vercantez
+    By: crescit_eundo
 </li>
 
-<p>
-Text: Hey HN<p>We loaded a BigQuery dataset of all of Hacker News, every comment, story and user, into camelAI.<p>You can ask questions like:<p>• “When does dang tend to comment during the day?”<p>• “Which domains have gained the most submissions since 2015, year-over-year?”<p>• “How has average comment length changed each January since 2007?”<p>• “Top five users who link to arXiv papers the most.”<p>It&#x27;s behind a log-in to prevent abuse but free to use for 10 messages. No payment info required. We use OpenAI o3 or Claude sonnet 3.7 for the agent which can be really expensive.<p>Would love feedback especially around graph&#x2F;chart quality and o3 vs sonnet. </br>
-</p>
-
 <li>
-    <a href=https://workflows.diagrid.io/ target="_blank">
-        Show HN: Turn any workflow diagram into compilable, running and stateful code |
+    <a href=https://domenic.me/fsrs/ target="_blank">
+        Spaced repetition systems have gotten better |
     </a>
-    By: yaronsc
+    By: domenicd
 </li>
 
-<p>
-Text: Hi HN folks, I&#x27;m a co-creator of the Dapr CNCF project and co-founder of Diagrid. Today we announced a free-to-use web app that takes any form of workflow diagram (UML, BPMN, scribble in your favorite drawing tool or even on paper) and generates code that runs in any IDE and that can be deployed to Kubernetes and other container based systems, based on Dapr&#x27;s durable execution workflow engine. This essentially allows you to run durable workflows in minutes and leaves out the guesswork for how to structure, code and optimize a code-first workflow app. I&#x27;m happy for you to give this a try and provide feedback! </br>
-</p>
-
 <li>
-    <a href=https://suberic.net/~dmm/projects/mystical/README.html target="_blank">
-        Mystical |
+    <a href=https://robhorning.substack.com/p/font-activations target="_blank">
+        Font Activations: A Note on the Type |
     </a>
-    By: mmphosis
+    By: prismatic
 </li>
 </ol>
