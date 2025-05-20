@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 19 May 2025</h4>
+<h4>Check the latest news from: Tue 20 May 2025</h4>
 <ol>
 <li>
-    <a href=https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html target="_blank">
-        New research reveals the strongest solar event ever detected, in 12350 BC |
+    <a href=https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/ target="_blank">
+        DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage |
     </a>
-    By: politelemon
+    By: micahflee
 </li>
 
 <li>
-    <a href=https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/ target="_blank">
-        The principles of database design, or, the Truth is out there |
+    <a href=https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/ target="_blank">
+        The Windows Subsystem for Linux is now open source |
     </a>
-    By: b-man
+    By: pentagrama
 </li>
 
 <li>
-    <a href=https://worldhistory.substack.com/p/there-are-people-who-can-see-and target="_blank">
-        “There are people who can see and others who cannot even look” |
+    <a href=https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/ target="_blank">
+        Have I Been Pwned 2.0 |
     </a>
-    By: crescit_eundo
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://domenic.me/fsrs/ target="_blank">
-        Spaced repetition systems have gotten better |
+    <a href=https://humans.maxcomperatore.com/ target="_blank">
+        What are people doing? Live-ish estimates based on global population dynamics |
     </a>
-    By: domenicd
+    By: willbc
 </li>
 
 <li>
-    <a href=https://robhorning.substack.com/p/font-activations target="_blank">
-        Font Activations: A Note on the Type |
+    <a href=https://jules.google/ target="_blank">
+        Jules: An Asynchronous Coding Agent |
     </a>
-    By: prismatic
+    By: travisennis
 </li>
 </ol>
