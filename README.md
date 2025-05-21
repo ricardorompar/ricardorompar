@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 20 May 2025</h4>
+<h4>Check the latest news from: Wed 21 May 2025</h4>
 <ol>
 <li>
-    <a href=https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/ target="_blank">
-        DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage |
+    <a href=https://blog.google/technology/ai/generative-media-models-io-2025/ target="_blank">
+        Veo 3 and Imagen 4, and a new tool for filmmaking called Flow |
     </a>
-    By: micahflee
+    By: youssefarizk
 </li>
 
 <li>
-    <a href=https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/ target="_blank">
-        The Windows Subsystem for Linux is now open source |
+    <a href=https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/ target="_blank">
+        Writing into Uninitialized Buffers in Rust |
     </a>
-    By: pentagrama
+    By: luu
 </li>
 
 <li>
-    <a href=https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/ target="_blank">
-        Have I Been Pwned 2.0 |
+    <a href=https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749 target="_blank">
+        “ZLinq”, a Zero-Allocation LINQ Library for .NET |
     </a>
-    By: LorenDB
+    By: cempaka
 </li>
 
 <li>
-    <a href=https://humans.maxcomperatore.com/ target="_blank">
-        What are people doing? Live-ish estimates based on global population dynamics |
+    <a href=https://developers.googleblog.com/en/introducing-gemma-3n/ target="_blank">
+        Gemma 3n preview: Mobile-first AI |
     </a>
-    By: willbc
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://jules.google/ target="_blank">
-        Jules: An Asynchronous Coding Agent |
+    <a href=https://fly.io/blog/litestream-revamped/ target="_blank">
+        Litestream: Revamped |
     </a>
-    By: travisennis
+    By: usrme
 </li>
 </ol>
