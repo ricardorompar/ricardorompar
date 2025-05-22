@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 21 May 2025</h4>
+<h4>Check the latest news from: Thu 22 May 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.google/technology/ai/generative-media-models-io-2025/ target="_blank">
-        Veo 3 and Imagen 4, and a new tool for filmmaking called Flow |
+    <a href=https://simonwillison.net/2025/May/21/gemini-diffusion/ target="_blank">
+        Gemini Diffusion |
     </a>
-    By: youssefarizk
+    By: mdp2021
 </li>
 
 <li>
-    <a href=https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/ target="_blank">
-        Writing into Uninitialized Buffers in Rust |
+    <a href=https://github.com/Kotlin/kotlin-lsp target="_blank">
+        Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code |
     </a>
-    By: luu
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749 target="_blank">
-        “ZLinq”, a Zero-Allocation LINQ Library for .NET |
+    <a href=https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/ target="_blank">
+        Getting a paper accepted |
     </a>
-    By: cempaka
+    By: stefanpie
 </li>
 
 <li>
-    <a href=https://developers.googleblog.com/en/introducing-gemma-3n/ target="_blank">
-        Gemma 3n preview: Mobile-first AI |
+    <a href=https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/ target="_blank">
+        For algorithms, a little memory outweighs a lot of time |
     </a>
-    By: meetpateltech
+    By: makira
 </li>
 
 <li>
-    <a href=https://fly.io/blog/litestream-revamped/ target="_blank">
-        Litestream: Revamped |
+    <a href=https://github.com/derekeder/csv-to-html-table target="_blank">
+        Show HN: Display any CSV file as a searchable, filterable, pretty HTML table |
     </a>
-    By: usrme
+    By: indigodaddy
 </li>
+
+<p>
+Text: I combined this with a simple API to update a CSV file using Deno&#x2F;deno-csv library, allowing an Ansible job to easily update a CSV file via the API with Ansible URI module, and then have that same CSV file viewable&#x2F;downloadable in a simple and easy&#x2F;dashboardy way (with CSV-to-html-table).  Copilot created the Deno&#x2F;deno-csv CSV API code and then with a little back and forth I added static website functionality (to serve the CSV table), and I had a &#x2F;view and a &#x2F;update route.  I&#x27;m just a sysadmin but I love piecing together stuff like this.  Thanks Derek! </br>
+</p>
 </ol>
