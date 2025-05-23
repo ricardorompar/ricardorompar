@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 22 May 2025</h4>
+<h4>Check the latest news from: Fri 23 May 2025</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2025/May/21/gemini-diffusion/ target="_blank">
-        Gemini Diffusion |
+    <a href=https://civitai.com/articles/15022/policy-update-removal-of-real-person-likeness-content target="_blank">
+        CivitAI Policy Update: Removal of Real-Person Likeness Content |
     </a>
-    By: mdp2021
+    By: 50kIters
 </li>
 
 <li>
-    <a href=https://github.com/Kotlin/kotlin-lsp target="_blank">
-        Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code |
+    <a href=https://chrispenner.ca/posts/interview target="_blank">
+        Silly job interview questions in Haskell |
     </a>
-    By: todsacerdoti
+    By: behnamoh
 </li>
 
 <li>
-    <a href=https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/ target="_blank">
-        Getting a paper accepted |
+    <a href=https://github.com/kepano/defuddle target="_blank">
+        Show HN: Defuddle, an HTML-to-Markdown alternative to Readability |
     </a>
-    By: stefanpie
-</li>
-
-<li>
-    <a href=https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/ target="_blank">
-        For algorithms, a little memory outweighs a lot of time |
-    </a>
-    By: makira
-</li>
-
-<li>
-    <a href=https://github.com/derekeder/csv-to-html-table target="_blank">
-        Show HN: Display any CSV file as a searchable, filterable, pretty HTML table |
-    </a>
-    By: indigodaddy
+    By: kepano
 </li>
 
 <p>
-Text: I combined this with a simple API to update a CSV file using Deno&#x2F;deno-csv library, allowing an Ansible job to easily update a CSV file via the API with Ansible URI module, and then have that same CSV file viewable&#x2F;downloadable in a simple and easy&#x2F;dashboardy way (with CSV-to-html-table).  Copilot created the Deno&#x2F;deno-csv CSV API code and then with a little back and forth I added static website functionality (to serve the CSV table), and I had a &#x2F;view and a &#x2F;update route.  I&#x27;m just a sysadmin but I love piecing together stuff like this.  Thanks Derek! </br>
+Text: Defuddle is an open-source JS library I built to parse and extract the main content and metadata from web pages. It can also return the content as Markdown.<p>I built Defuddle while working on Obsidian Web Clipper[1] (also MIT-licensed) because Mozilla&#x27;s Readability[2] appears to be mostly abandoned, and didn&#x27;t work well for many sites.<p>It&#x27;s still very much a work in progress, but I thought I&#x27;d share it today, in light of the announcement that Mozilla is shutting down Pocket. This library could be helpful to anyone building a read-it-later app.<p>Defuddle is also available as a CLI:<p><a href="https:&#x2F;&#x2F;github.com&#x2F;kepano&#x2F;defuddle-cli">https:&#x2F;&#x2F;github.com&#x2F;kepano&#x2F;defuddle-cli</a><p>[1] <a href="https:&#x2F;&#x2F;github.com&#x2F;obsidianmd&#x2F;obsidian-clipper">https:&#x2F;&#x2F;github.com&#x2F;obsidianmd&#x2F;obsidian-clipper</a><p>[2] <a href="https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;readability">https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;readability</a> </br>
 </p>
+
+<li>
+    <a href=https://www.anthropic.com/news/claude-4 target="_blank">
+        Claude 4 |
+    </a>
+    By: meetpateltech
+</li>
+
+<li>
+    <a href=https://lwn.net/Articles/1020571/ target="_blank">
+        The Future of Flatpak |
+    </a>
+    By: dxs
+</li>
 </ol>
