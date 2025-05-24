@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 23 May 2025</h4>
+<h4>Check the latest news from: Sat 24 May 2025</h4>
 <ol>
 <li>
-    <a href=https://civitai.com/articles/15022/policy-update-removal-of-real-person-likeness-content target="_blank">
-        CivitAI Policy Update: Removal of Real-Person Likeness Content |
+    <a href=https://antelang.org/blog/why_effects/ target="_blank">
+        Why Algebraic Effects? |
     </a>
-    By: 50kIters
+    By: jiggawatts
 </li>
 
 <li>
-    <a href=https://chrispenner.ca/posts/interview target="_blank">
-        Silly job interview questions in Haskell |
+    <a href=https://thewalrus.ca/how-to-make-a-living-as-a-writer/ target="_blank">
+        How to Make a Living as a Writer |
     </a>
-    By: behnamoh
+    By: pepys
 </li>
 
 <li>
-    <a href=https://github.com/kepano/defuddle target="_blank">
-        Show HN: Defuddle, an HTML-to-Markdown alternative to Readability |
+    <a href=https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648 target="_blank">
+        Postgres IDE in VS Code |
     </a>
-    By: kepano
-</li>
-
-<p>
-Text: Defuddle is an open-source JS library I built to parse and extract the main content and metadata from web pages. It can also return the content as Markdown.<p>I built Defuddle while working on Obsidian Web Clipper[1] (also MIT-licensed) because Mozilla&#x27;s Readability[2] appears to be mostly abandoned, and didn&#x27;t work well for many sites.<p>It&#x27;s still very much a work in progress, but I thought I&#x27;d share it today, in light of the announcement that Mozilla is shutting down Pocket. This library could be helpful to anyone building a read-it-later app.<p>Defuddle is also available as a CLI:<p><a href="https:&#x2F;&#x2F;github.com&#x2F;kepano&#x2F;defuddle-cli">https:&#x2F;&#x2F;github.com&#x2F;kepano&#x2F;defuddle-cli</a><p>[1] <a href="https:&#x2F;&#x2F;github.com&#x2F;obsidianmd&#x2F;obsidian-clipper">https:&#x2F;&#x2F;github.com&#x2F;obsidianmd&#x2F;obsidian-clipper</a><p>[2] <a href="https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;readability">https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;readability</a> </br>
-</p>
-
-<li>
-    <a href=https://www.anthropic.com/news/claude-4 target="_blank">
-        Claude 4 |
-    </a>
-    By: meetpateltech
+    By: Dowwie
 </li>
 
 <li>
-    <a href=https://lwn.net/Articles/1020571/ target="_blank">
-        The Future of Flatpak |
+    <a href=https://github.com/mermaid-js/mermaid target="_blank">
+        Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text |
     </a>
-    By: dxs
+    By: olalonde
+</li>
+
+<li>
+    <a href=https://foundersatwork.posthaven.com/find-your-people target="_blank">
+        Find Your People |
+    </a>
+    By: jl
 </li>
 </ol>
