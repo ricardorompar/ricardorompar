@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 24 May 2025</h4>
+<h4>Check the latest news from: Sun 25 May 2025</h4>
 <ol>
 <li>
-    <a href=https://antelang.org/blog/why_effects/ target="_blank">
-        Why Algebraic Effects? |
+    <a href=https://endler.dev/2025/reinvent-the-wheel/ target="_blank">
+        Reinvent the Wheel |
     </a>
-    By: jiggawatts
+    By: zdw
 </li>
 
 <li>
-    <a href=https://thewalrus.ca/how-to-make-a-living-as-a-writer/ target="_blank">
-        How to Make a Living as a Writer |
+    <a href=https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd target="_blank">
+        Nvidia Pushes Further into Cloud with GPU Marketplace |
     </a>
-    By: pepys
+    By: Bostonian
 </li>
 
 <li>
-    <a href=https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648 target="_blank">
-        Postgres IDE in VS Code |
+    <a href=https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS target="_blank">
+        On File Formats |
     </a>
-    By: Dowwie
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://github.com/mermaid-js/mermaid target="_blank">
-        Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text |
+    <a href=https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/ target="_blank">
+        How to Install Windows NT 4 Server on Proxmox |
     </a>
-    By: olalonde
+    By: thepipetogrep
 </li>
 
 <li>
-    <a href=https://foundersatwork.posthaven.com/find-your-people target="_blank">
-        Find Your People |
+    <a href=https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/ target="_blank">
+        I used o3 to find a remote zeroday in the Linux SMB implementation |
     </a>
-    By: jl
+    By: zielmicha
 </li>
 </ol>
