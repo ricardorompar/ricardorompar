@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 25 May 2025</h4>
+<h4>Check the latest news from: Mon 26 May 2025</h4>
 <ol>
 <li>
-    <a href=https://endler.dev/2025/reinvent-the-wheel/ target="_blank">
-        Reinvent the Wheel |
+    <a href=https://self-issued.info/?p=2708 target="_blank">
+        Ten years of JSON Web Token and preparing for the future |
     </a>
-    By: zdw
+    By: mooreds
 </li>
 
 <li>
-    <a href=https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd target="_blank">
-        Nvidia Pushes Further into Cloud with GPU Marketplace |
+    <a href=https://github.com/ossu/computer-science target="_blank">
+        Open Source Society University – Path to a free self-taught education in CS |
     </a>
-    By: Bostonian
+    By: saikatsg
+</li>
+
+<p>
+Text: What are you working on? Any new ideas that you&#x27;re thinking about? </br>
+</p>
+
+<li>
+    <a href=https://lottie.github.io/ target="_blank">
+        Lottie is an open format for animated vector graphics |
+    </a>
+    By: marcodiego
 </li>
 
 <li>
-    <a href=https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS target="_blank">
-        On File Formats |
+    <a href=https://github.com/Seeker04/plwm target="_blank">
+        Plwm – An X11 window manager written in Prolog |
     </a>
-    By: ibobev
-</li>
-
-<li>
-    <a href=https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/ target="_blank">
-        How to Install Windows NT 4 Server on Proxmox |
-    </a>
-    By: thepipetogrep
-</li>
-
-<li>
-    <a href=https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/ target="_blank">
-        I used o3 to find a remote zeroday in the Linux SMB implementation |
-    </a>
-    By: zielmicha
+    By: jedeusus
 </li>
 </ol>
