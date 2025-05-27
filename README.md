@@ -45,37 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 26 May 2025</h4>
+<h4>Check the latest news from: Tue 27 May 2025</h4>
 <ol>
 <li>
-    <a href=https://self-issued.info/?p=2708 target="_blank">
-        Ten years of JSON Web Token and preparing for the future |
+    <a href=https://benjaminaster.com/css-minecraft/ target="_blank">
+        CSS Minecraft |
     </a>
-    By: mooreds
+    By: mudkipdev
 </li>
 
 <li>
-    <a href=https://github.com/ossu/computer-science target="_blank">
-        Open Source Society University – Path to a free self-taught education in CS |
+    <a href=https://github.com/bhauman/clojure-mcp target="_blank">
+        Clojure MCP |
     </a>
-    By: saikatsg
+    By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://invariantlabs.ai/blog/mcp-github-vulnerability target="_blank">
+        GitHub MCP exploited: Accessing private repositories via MCP |
+    </a>
+    By: andy99
 </li>
 
 <p>
-Text: What are you working on? Any new ideas that you&#x27;re thinking about? </br>
+Text: Related: <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;May&#x2F;26&#x2F;github-mcp-exploited&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;May&#x2F;26&#x2F;github-mcp-exploited&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://lottie.github.io/ target="_blank">
-        Lottie is an open format for animated vector graphics |
+    <a href=https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md target="_blank">
+        Lossless video compression using Bloom filters |
     </a>
-    By: marcodiego
+    By: rh3939
 </li>
 
 <li>
-    <a href=https://github.com/Seeker04/plwm target="_blank">
-        Plwm – An X11 window manager written in Prolog |
+    <a href=https://www.gwintrob.com/power-failure-review/ target="_blank">
+        Power Failure: The downfall of General Electric |
     </a>
-    By: jedeusus
+    By: gwintrob
 </li>
 </ol>
