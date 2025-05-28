@@ -45,44 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 27 May 2025</h4>
+<h4>Check the latest news from: Wed 28 May 2025</h4>
 <ol>
-<li>
-    <a href=https://benjaminaster.com/css-minecraft/ target="_blank">
-        CSS Minecraft |
-    </a>
-    By: mudkipdev
-</li>
-
-<li>
-    <a href=https://github.com/bhauman/clojure-mcp target="_blank">
-        Clojure MCP |
-    </a>
-    By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://invariantlabs.ai/blog/mcp-github-vulnerability target="_blank">
-        GitHub MCP exploited: Accessing private repositories via MCP |
-    </a>
-    By: andy99
-</li>
-
 <p>
-Text: Related: <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;May&#x2F;26&#x2F;github-mcp-exploited&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2025&#x2F;May&#x2F;26&#x2F;github-mcp-exploited&#x2F;</a> </br>
+Text: I built AutoThink, a technique that makes local LLMs reason more efficiently by adaptively allocating computational resources based on query complexity.<p>The core idea: instead of giving every query the same &quot;thinking time,&quot; classify queries as HIGH or LOW complexity and allocate thinking tokens accordingly. Complex reasoning gets 70-90% of tokens, simple queries get 20-40%.<p>I also implemented steering vectors derived from Pivotal Token Search (originally from Microsoft&#x27;s Phi-4 paper) that guide the model&#x27;s reasoning patterns during generation. These vectors encourage behaviors like numerical accuracy, self-correction, and thorough exploration.<p>Results on DeepSeek-R1-Distill-Qwen-1.5B:<p>- GPQA-Diamond: 31.06% vs 21.72% baseline (+43% relative improvement)<p>- MMLU-Pro: 26.38% vs 25.58% baseline<p>- Uses fewer tokens than baseline approaches<p>Works with any local reasoning model - DeepSeek, Qwen, custom fine-tuned models. No API dependencies.<p>The technique builds on two things I developed: an adaptive classification framework that can learn new complexity categories without retraining, and an open source implementation of Pivotal Token Search.<p>Technical paper: <a href="https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=5253327" rel="nofollow">https:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=5253327</a><p>Code and examples: <a href="https:&#x2F;&#x2F;github.com&#x2F;codelion&#x2F;optillm&#x2F;tree&#x2F;main&#x2F;optillm&#x2F;autothink">https:&#x2F;&#x2F;github.com&#x2F;codelion&#x2F;optillm&#x2F;tree&#x2F;main&#x2F;optillm&#x2F;autoth...</a><p>PTS implementation: <a href="https:&#x2F;&#x2F;github.com&#x2F;codelion&#x2F;pts">https:&#x2F;&#x2F;github.com&#x2F;codelion&#x2F;pts</a><p>I&#x27;m curious about your thoughts on adaptive resource allocation for AI reasoning. Have you tried similar approaches with your local models? </br>
 </p>
 
 <li>
-    <a href=https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md target="_blank">
-        Lossless video compression using Bloom filters |
+    <a href=https://simonwillison.net/2025/May/27/llm-tools/ target="_blank">
+        Show HN: My LLM CLI tool can run tools now, from Python code or plugins |
     </a>
-    By: rh3939
+    By: simonw
 </li>
 
 <li>
-    <a href=https://www.gwintrob.com/power-failure-review/ target="_blank">
-        Power Failure: The downfall of General Electric |
+    <a href=https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution target="_blank">
+        A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS |
     </a>
-    By: gwintrob
+    By: pietrushnic
+</li>
+
+<li>
+    <a href=https://blog.swgillespie.me/posts/monorepo-ingredients/ target="_blank">
+        The Ingredients of a Productive Monorepo |
+    </a>
+    By: mifydev
+</li>
+
+<li>
+    <a href=https://aaronson.org/blog/square-theory target="_blank">
+        Square Theory |
+    </a>
+    By: aaaronson
 </li>
 </ol>
