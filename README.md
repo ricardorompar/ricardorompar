@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 30 May 2025</h4>
+<h4>Check the latest news from: Sat 31 May 2025</h4>
 <ol>
 <li>
-    <a href=https://www.chosenplaintext.ca/articles/radix-2-51-trick.html target="_blank">
-        The radix 2^51 trick |
+    <a href=https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments target="_blank">
+        Photos taken inside musical instruments |
     </a>
-    By: blobcode
+    By: worik
 </li>
 
 <li>
-    <a href=https://nostarch.com/practical-sdr target="_blank">
-        Practical SDR: Getting started with software-defined radio |
+    <a href=https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/ target="_blank">
+        Valkey Turns One: Community fork of Redis |
     </a>
-    By: teleforce
+    By: cebert
 </li>
 
 <li>
-    <a href=https://www.nytimes.com/2025/05/29/well/maha-report-citations.html target="_blank">
-        White House releases health report written by LLM, with hallucinated citations |
+    <a href=https://crfm.stanford.edu/2025/05/28/fast-kernels.html target="_blank">
+        Surprisingly fast AI-generated kernels we didn't mean to publish yet |
     </a>
-    By: riffraff
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://weatherstar.netbymatt.com/ target="_blank">
-        WeatherStar 4000+: Weather Channel Simulator |
+    <a href=https://www.bondcap.com/reports/tai target="_blank">
+        Mary Meeker's first Trends report since 2019, focused on AI |
     </a>
-    By: adam_gyroscope
+    By: kjhughes
 </li>
 
+<p>
+Text: See also <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2025&#x2F;05&#x2F;30&#x2F;mary-meeker-trends-report-openai" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2025&#x2F;05&#x2F;30&#x2F;mary-meeker-trends-report-o...</a>. </br>
+</p>
+
 <li>
-    <a href=https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing target="_blank">
-        Player Piano Rolls |
+    <a href=https://github.com/wzhudev/reverse-linear-sync-engine target="_blank">
+        Reverse engineering of Linear's sync engine |
     </a>
-    By: brudgers
+    By: flashblaze
 </li>
 </ol>
