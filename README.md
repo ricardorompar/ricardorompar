@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 31 May 2025</h4>
+<h4>Check the latest news from: Sun 01 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments target="_blank">
-        Photos taken inside musical instruments |
+    <a href=https://microsoft.github.io/renderformer/ target="_blank">
+        RenderFormer: Neural rendering of triangle meshes with global illumination |
     </a>
-    By: worik
+    By: klavinski
 </li>
 
 <li>
-    <a href=https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/ target="_blank">
-        Valkey Turns One: Community fork of Redis |
+    <a href=https://overreacted.io/progressive-json/ target="_blank">
+        Progressive JSON |
     </a>
-    By: cebert
+    By: kacesensitive
 </li>
 
 <li>
-    <a href=https://crfm.stanford.edu/2025/05/28/fast-kernels.html target="_blank">
-        Surprisingly fast AI-generated kernels we didn't mean to publish yet |
+    <a href=https://github.com/breuleux/ovld target="_blank">
+        Ovld – Efficient and featureful multiple dispatch for Python |
     </a>
-    By: mfiguiere
+    By: breuleux
 </li>
 
 <li>
-    <a href=https://www.bondcap.com/reports/tai target="_blank">
-        Mary Meeker's first Trends report since 2019, focused on AI |
+    <a href=https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the target="_blank">
+        Georgists Valued Land in the 1900s |
     </a>
-    By: kjhughes
+    By: surprisetalk
 </li>
 
-<p>
-Text: See also <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2025&#x2F;05&#x2F;30&#x2F;mary-meeker-trends-report-openai" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2025&#x2F;05&#x2F;30&#x2F;mary-meeker-trends-report-o...</a>. </br>
-</p>
-
 <li>
-    <a href=https://github.com/wzhudev/reverse-linear-sync-engine target="_blank">
-        Reverse engineering of Linear's sync engine |
+    <a href=https://mitxela.com/projects/precision_clock_mk_iv target="_blank">
+        Precision Clock Mk IV |
     </a>
-    By: flashblaze
+    By: ahlCVA
 </li>
 </ol>
