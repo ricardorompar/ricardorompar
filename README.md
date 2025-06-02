@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 01 Jun 2025</h4>
+<h4>Check the latest news from: Mon 02 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://microsoft.github.io/renderformer/ target="_blank">
-        RenderFormer: Neural rendering of triangle meshes with global illumination |
+    <a href=https://github.com/MubarakNative/MBCompass target="_blank">
+        Show HN: MBCompass – Android Compass App |
     </a>
-    By: klavinski
+    By: nativeforks
 </li>
 
-<li>
-    <a href=https://overreacted.io/progressive-json/ target="_blank">
-        Progressive JSON |
-    </a>
-    By: kacesensitive
-</li>
+<p>
+Text: Hey HN,<p>I built MBCompass, a lightweight, privacy-friendly compass app for Android. It works fully offline, doesn’t ask for unnecessary permissions (no GPS, no internet), and is open source.<p>Most compass apps out there are bloated or ad-heavy. I wanted something clean, fast, and featurish. So I made this!<p>It’s only ~1.7 in size and uses a low-pass filter to smooth sensor readings.<p>I’d love feedback or thoughts – especially from others building simple, privacy-first apps!<p><a href="https:&#x2F;&#x2F;f-droid.org&#x2F;packages&#x2F;com.mubarak.mbcompass&#x2F;" rel="nofollow">https:&#x2F;&#x2F;f-droid.org&#x2F;packages&#x2F;com.mubarak.mbcompass&#x2F;</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;MubarakNative&#x2F;MBCompass">https:&#x2F;&#x2F;github.com&#x2F;MubarakNative&#x2F;MBCompass</a> </br>
+</p>
 
 <li>
-    <a href=https://github.com/breuleux/ovld target="_blank">
-        Ovld – Efficient and featureful multiple dispatch for Python |
-    </a>
-    By: breuleux
-</li>
-
-<li>
-    <a href=https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the target="_blank">
-        Georgists Valued Land in the 1900s |
+    <a href=https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code target="_blank">
+        The Princeton INTERCAL Compiler's source code |
     </a>
     By: surprisetalk
 </li>
 
 <li>
-    <a href=https://mitxela.com/projects/precision_clock_mk_iv target="_blank">
-        Precision Clock Mk IV |
+    <a href=https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack target="_blank">
+        The Visual World of 'Samurai Jack' |
     </a>
-    By: ahlCVA
+    By: ani_obsessive
+</li>
+
+<li>
+    <a href=https://stefan-gloor.ch/yomani-hack target="_blank">
+        Root shell on a credit card terminal |
+    </a>
+    By: stgl
+</li>
+
+<li>
+    <a href=https://milofultz.com/2025-05-27-i-made-a-chair.html target="_blank">
+        I made a chair |
+    </a>
+    By: surprisetalk
 </li>
 </ol>
