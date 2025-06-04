@@ -45,45 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 03 Jun 2025</h4>
+<h4>Check the latest news from: Wed 04 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://resobscura.substack.com/p/ai-makes-the-humanities-more-important target="_blank">
-        AI makes the humanities more important, but also weirder |
+    <a href=https://diffx.org/ target="_blank">
+        DiffX – Next-Generation Extensible Diff Format |
     </a>
-    By: findhorn
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://fly.io/blog/youre-all-nuts/ target="_blank">
-        My AI skeptic friends are all nuts |
+    <a href=https://merlin.allaboutbirds.org/ target="_blank">
+        Merlin Bird ID |
     </a>
-    By: tabletcorry
+    By: twitchard
 </li>
 
 <li>
-    <a href=https://github.com/cloudflare/workers-oauth-provider/ target="_blank">
-        Cloudlflare builds OAuth with Claude and publishes all the prompts |
+    <a href=https://www.preciousplastic.com//news/problems-in-precious-plastic target="_blank">
+        Precious Plastic is in trouble |
     </a>
-    By: gregorywegory
+    By: diggan
+</li>
+
+<li>
+    <a href=https://wordle.chengeric.com/ target="_blank">
+        Binary Wordle |
+    </a>
+    By: eh8
 </li>
 
 <p>
-Text: Please state the location and include REMOTE for remote work, REMOTE (US)
-or similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. One post per company. If it isn&#x27;t a household name,
-explain what your company does.<p>Please only post if you are actively filling a position and are committed
-to responding to applicants.<p>Commenters: please don&#x27;t reply to job posts to complain about
-something. It&#x27;s off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href="https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;dheerajck.github.io&#x2F;hnwhoishiring&#x2F;</a>, <a href="https:&#x2F;&#x2F;amber-williams.github.io&#x2F;hackernews-whos-hiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;amber-williams.github.io&#x2F;hackernews-whos-hiring&#x2F;</a>, <a href="http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;" rel="nofollow">http:&#x2F;&#x2F;nchelluri.github.io&#x2F;hnjobs&#x2F;</a>, <a href="https:&#x2F;&#x2F;hnresumetojobs.com" rel="nofollow">https:&#x2F;&#x2F;hnresumetojobs.com</a>,
-<a href="https:&#x2F;&#x2F;hnhired.fly.dev" rel="nofollow">https:&#x2F;&#x2F;hnhired.fly.dev</a>, <a href="https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kennytilton.github.io&#x2F;whoishiring&#x2F;</a>,
-<a href="https:&#x2F;&#x2F;hnjobs.emilburzo.com" rel="nofollow">https:&#x2F;&#x2F;hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:
-<a href="https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow">https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;hn-hiring-pro&#x2F;mpfal...</a>.<p>Don&#x27;t miss these other fine threads:<p><i>Who wants to be hired?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44159525">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44159525</a><p><i>Freelancer? Seeking freelancer?</i> <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44159527">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44159527</a> </br>
+Text: Wouldn&#x27;t this basically give us Google Books and searchable Scihub at the same time?<p>What would it cost? </br>
 </p>
-
-<li>
-    <a href=https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market target="_blank">
-        IT workers struggling in New Zealand's tight job market |
-    </a>
-    By: MarcoDewey
-</li>
 </ol>
