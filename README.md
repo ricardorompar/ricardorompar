@@ -45,37 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 04 Jun 2025</h4>
+<h4>Check the latest news from: Thu 05 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://diffx.org/ target="_blank">
-        DiffX – Next-Generation Extensible Diff Format |
+    <a href=https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public target="_blank">
+        Engineer Fixes and Re-Installs Old Payphones, Provides Free Calls to the Public |
     </a>
-    By: todsacerdoti
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://merlin.allaboutbirds.org/ target="_blank">
-        Merlin Bird ID |
+    <a href=https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects target="_blank">
+        Show HN: I made a 3D SVG Renderer that projects textures without rasterization |
     </a>
-    By: twitchard
+    By: seveibar
 </li>
 
 <li>
-    <a href=https://www.preciousplastic.com//news/problems-in-precious-plastic target="_blank">
-        Precious Plastic is in trouble |
+    <a href=https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift target="_blank">
+        Want to Model a Land Value Tax Shift in Your City? |
     </a>
-    By: diggan
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://wordle.chengeric.com/ target="_blank">
-        Binary Wordle |
+    <a href=https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00 target="_blank">
+        FFmpeg merges WebRTC support |
     </a>
-    By: eh8
+    By: Sean-Der
 </li>
 
-<p>
-Text: Wouldn&#x27;t this basically give us Google Books and searchable Scihub at the same time?<p>What would it cost? </br>
-</p>
+<li>
+    <a href=https://github.com/explainers-by-googlers/local-network-access target="_blank">
+        A proposal to restrict sites from accessing a users’ local network |
+    </a>
+    By: doener
+</li>
 </ol>
