@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 05 Jun 2025</h4>
+<h4>Check the latest news from: Fri 06 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public target="_blank">
-        Engineer Fixes and Re-Installs Old Payphones, Provides Free Calls to the Public |
+    <a href=https://scalingintelligence.stanford.edu/blogs/tokasaurus/ target="_blank">
+        Tokasaurus: An LLM inference engine for high-throughput workloads |
     </a>
-    By: surprisetalk
+    By: rsehrlich
 </li>
 
 <li>
-    <a href=https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects target="_blank">
-        Show HN: I made a 3D SVG Renderer that projects textures without rasterization |
+    <a href=https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/ target="_blank">
+        The impossible predicament of the death newts |
     </a>
-    By: seveibar
+    By: bdr
 </li>
 
 <li>
-    <a href=https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift target="_blank">
-        Want to Model a Land Value Tax Shift in Your City? |
+    <a href=https://openai.com/index/response-to-nyt-data-demands/ target="_blank">
+        How we’re responding to The NYT’s data demands in order to protect user privacy |
     </a>
-    By: surprisetalk
+    By: BUFU
 </li>
 
 <li>
-    <a href=https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00 target="_blank">
-        FFmpeg merges WebRTC support |
+    <a href=https://github.com/possibilities/claude-composer target="_blank">
+        Show HN: Claude Composer |
     </a>
-    By: Sean-Der
+    By: mikebannister
 </li>
 
+<p>
+Text: Central feature is a something like &quot;yolo mode&quot; but with fine grained controls over how yolo you&#x27;re feeling. Also makes it easy to use &quot;presets&quot; of tools and permissions.<p>Let me know if you have any questions and feel free to contact me on X at <a href="https:&#x2F;&#x2F;x.com&#x2F;possibilities" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;possibilities</a> </br>
+</p>
+
 <li>
-    <a href=https://github.com/explainers-by-googlers/local-network-access target="_blank">
-        A proposal to restrict sites from accessing a users’ local network |
+    <a href=https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim target="_blank">
+        What a developer needs to know about SCIM |
     </a>
-    By: doener
+    By: noleary
 </li>
 </ol>
