@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 06 Jun 2025</h4>
+<h4>Check the latest news from: Sat 07 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://scalingintelligence.stanford.edu/blogs/tokasaurus/ target="_blank">
-        Tokasaurus: An LLM inference engine for high-throughput workloads |
+    <a href=https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/ target="_blank">
+        Researchers develop ‘transparent paper’ as alternative to plastics |
     </a>
-    By: rsehrlich
+    By: anigbrowl
 </li>
 
 <li>
-    <a href=https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/ target="_blank">
-        The impossible predicament of the death newts |
+    <a href=https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502 target="_blank">
+        The time bomb in the tax code that's fueling mass tech layoffs |
     </a>
-    By: bdr
+    By: booleanbetrayal
 </li>
 
 <li>
-    <a href=https://openai.com/index/response-to-nyt-data-demands/ target="_blank">
-        How we’re responding to The NYT’s data demands in order to protect user privacy |
+    <a href=https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html target="_blank">
+        A year of funded FreeBSD development |
     </a>
-    By: BUFU
+    By: cperciva
 </li>
 
 <li>
-    <a href=https://github.com/possibilities/claude-composer target="_blank">
-        Show HN: Claude Composer |
+    <a href=https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/ target="_blank">
+        Falsehoods programmers believe about aviation |
     </a>
-    By: mikebannister
+    By: cratermoon
 </li>
 
-<p>
-Text: Central feature is a something like &quot;yolo mode&quot; but with fine grained controls over how yolo you&#x27;re feeling. Also makes it easy to use &quot;presets&quot; of tools and permissions.<p>Let me know if you have any questions and feel free to contact me on X at <a href="https:&#x2F;&#x2F;x.com&#x2F;possibilities" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;possibilities</a> </br>
-</p>
-
 <li>
-    <a href=https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim target="_blank">
-        What a developer needs to know about SCIM |
+    <a href=https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/ target="_blank">
+        How we decreased GitLab repo backup times from 48 hours to 41 minutes |
     </a>
-    By: noleary
+    By: immortaljoe
 </li>
 </ol>
