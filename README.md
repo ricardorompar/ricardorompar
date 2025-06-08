@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 07 Jun 2025</h4>
+<h4>Check the latest news from: Sun 08 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/ target="_blank">
-        Researchers develop ‘transparent paper’ as alternative to plastics |
+    <a href=https://danq.me/2020/11/11/blink-and-marquee/ target="_blank">
+        <Blink> and <Marquee> (2020) |
     </a>
-    By: anigbrowl
+    By: ghssds
 </li>
 
 <li>
-    <a href=https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502 target="_blank">
-        The time bomb in the tax code that's fueling mass tech layoffs |
+    <a href=https://www.folklore.org/Joining_Apple_Computer.html target="_blank">
+        Joining Apple Computer (2018) |
     </a>
-    By: booleanbetrayal
+    By: tosh
 </li>
 
 <li>
-    <a href=https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html target="_blank">
-        A year of funded FreeBSD development |
+    <a href=https://gazs.github.io/canvas-atkinson-dither/ target="_blank">
+        Convert photos to Atkinson dithering |
     </a>
-    By: cperciva
+    By: nvahalik
 </li>
 
 <li>
-    <a href=https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/ target="_blank">
-        Falsehoods programmers believe about aviation |
+    <a href=https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip target="_blank">
+        Bill Atkinson has died |
     </a>
-    By: cratermoon
+    By: romanhn
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;facebook.com&#x2F;story.php?story_fbid=10238073579963378&amp;id=1378467145" rel="nofollow">https:&#x2F;&#x2F;facebook.com&#x2F;story.php?story_fbid=10238073579963378&amp;...</a> </br>
+</p>
+
 <li>
-    <a href=https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/ target="_blank">
-        How we decreased GitLab repo backup times from 48 hours to 41 minutes |
+    <a href=https://www.ssp.sh/blog/self-host-self-independence/ target="_blank">
+        Self-Host and Tech Independence: The Joy of Building Your Own |
     </a>
-    By: immortaljoe
+    By: articsputnik
 </li>
 </ol>
