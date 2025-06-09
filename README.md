@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 08 Jun 2025</h4>
+<h4>Check the latest news from: Mon 09 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://danq.me/2020/11/11/blink-and-marquee/ target="_blank">
-        <Blink> and <Marquee> (2020) |
+    <a href=https://kagi.com/stats?stat=members target="_blank">
+        Kagi Reaches 50k Users |
     </a>
-    By: ghssds
+    By: tigroferoce
 </li>
 
 <li>
-    <a href=https://www.folklore.org/Joining_Apple_Computer.html target="_blank">
-        Joining Apple Computer (2018) |
+    <a href=https://blog.freespeechextremist.com/blog/fse-vs-fbi.html target="_blank">
+        FSE meets the FBI |
     </a>
-    By: tosh
+    By: 1337p337
 </li>
 
 <li>
-    <a href=https://gazs.github.io/canvas-atkinson-dither/ target="_blank">
-        Convert photos to Atkinson dithering |
+    <a href=https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet target="_blank">
+        Scientists Show Reforestation Helps Cool the Planet Even More Than Thought |
     </a>
-    By: nvahalik
+    By: m463
 </li>
 
 <li>
-    <a href=https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip target="_blank">
-        Bill Atkinson has died |
+    <a href=https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/ target="_blank">
+        Why Android can't use CDC Ethernet (2023) |
     </a>
-    By: romanhn
+    By: goodburb
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;facebook.com&#x2F;story.php?story_fbid=10238073579963378&amp;id=1378467145" rel="nofollow">https:&#x2F;&#x2F;facebook.com&#x2F;story.php?story_fbid=10238073579963378&amp;...</a> </br>
-</p>
-
 <li>
-    <a href=https://www.ssp.sh/blog/self-host-self-independence/ target="_blank">
-        Self-Host and Tech Independence: The Joy of Building Your Own |
+    <a href=https://aavetis.github.io/ai-pr-watcher/ target="_blank">
+        Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance |
     </a>
-    By: articsputnik
+    By: HiPHInch
 </li>
 </ol>
