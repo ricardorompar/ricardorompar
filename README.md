@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 09 Jun 2025</h4>
+<h4>Check the latest news from: Tue 10 Jun 2025</h4>
 <ol>
+<p>
+Text: Companies building software in the US were hit hard a few years ago when the tax code stopped allowing deduction of software dev expenses. Now they have to be amortized over several years.<p>HN has had many discussions about this, including <i>The time bomb in the tax code that&#x27;s fueling mass tech layoffs</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44180533">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44180533</a> - (927 comments) a few days ago. Other threads are listed at <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44203869">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44203869</a>.<p>There&#x27;s currently a major effort to get this change reversed. One of the people working on it is YC&#x27;s Luther Lowe (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=itsluther">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=itsluther</a>). Luther has been organizing YC alumni to urge lawmakers to support this reversal. I asked him if we could do that on Hacker News too. He said yes—hence this thread :)<p>If you&#x27;re a US taxpayer and if you agree that software dev expenses should be deductible like they used to be, please sign this letter to the relevant committee members: <a href="https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;1DkRGeef2e_tU2xf3TyEyd2JLlmZH8sGs6hhuVkokgpw&#x2F;viewform?edit_requested=true" rel="nofollow">https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;1DkRGeef2e_tU2xf3TyEyd2JLlmZ...</a>.<p>(If you&#x27;re not a US person, please don&#x27;t sign the letter, since lawmakers will only listen to feedback from taxpayers and we don&#x27;t want to dilute the signal.)<p>I&#x27;m sure not everyone here agrees with us—HN is a big community, there&#x27;s no total agreement on anything—but this issue has as close to a community consensus as HN gets, so I think it makes sense to add our voices too.<p>Luther will be around to answer questions and hopefully HN can contribute to getting this done! </br>
+</p>
+
 <li>
-    <a href=https://kagi.com/stats?stat=members target="_blank">
-        Kagi Reaches 50k Users |
+    <a href=https://github.com/apple/containerization target="_blank">
+        Containerization is a Swift package for running Linux containers on macOS |
     </a>
-    By: tigroferoce
+    By: gok
 </li>
 
 <li>
-    <a href=https://blog.freespeechextremist.com/blog/fse-vs-fbi.html target="_blank">
-        FSE meets the FBI |
+    <a href=https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/ target="_blank">
+        Apple announces Foundation Models and Containerization frameworks, etc |
     </a>
-    By: 1337p337
+    By: thm
 </li>
 
 <li>
-    <a href=https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet target="_blank">
-        Scientists Show Reforestation Helps Cool the Planet Even More Than Thought |
+    <a href=https://boston.conman.org/2025/06/09.1 target="_blank">
+        Implementing DOES> in Forth, the entire reason I started this mess |
     </a>
-    By: m463
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/ target="_blank">
-        Why Android can't use CDC Ethernet (2023) |
+    <a href=https://discrete.openmathbooks.org/pdfs/dmoi4.pdf target="_blank">
+        Discrete Mathematics: An Open Introduction [pdf] |
     </a>
-    By: goodburb
-</li>
-
-<li>
-    <a href=https://aavetis.github.io/ai-pr-watcher/ target="_blank">
-        Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance |
-    </a>
-    By: HiPHInch
+    By: simonpure
 </li>
 </ol>
