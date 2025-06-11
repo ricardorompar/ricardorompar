@@ -45,37 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 10 Jun 2025</h4>
+<h4>Check the latest news from: Wed 11 Jun 2025</h4>
 <ol>
 <p>
-Text: Companies building software in the US were hit hard a few years ago when the tax code stopped allowing deduction of software dev expenses. Now they have to be amortized over several years.<p>HN has had many discussions about this, including <i>The time bomb in the tax code that&#x27;s fueling mass tech layoffs</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44180533">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44180533</a> - (927 comments) a few days ago. Other threads are listed at <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44203869">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44203869</a>.<p>There&#x27;s currently a major effort to get this change reversed. One of the people working on it is YC&#x27;s Luther Lowe (<a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=itsluther">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=itsluther</a>). Luther has been organizing YC alumni to urge lawmakers to support this reversal. I asked him if we could do that on Hacker News too. He said yes—hence this thread :)<p>If you&#x27;re a US taxpayer and if you agree that software dev expenses should be deductible like they used to be, please sign this letter to the relevant committee members: <a href="https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;1DkRGeef2e_tU2xf3TyEyd2JLlmZH8sGs6hhuVkokgpw&#x2F;viewform?edit_requested=true" rel="nofollow">https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;1DkRGeef2e_tU2xf3TyEyd2JLlmZ...</a>.<p>(If you&#x27;re not a US person, please don&#x27;t sign the letter, since lawmakers will only listen to feedback from taxpayers and we don&#x27;t want to dilute the signal.)<p>I&#x27;m sure not everyone here agrees with us—HN is a big community, there&#x27;s no total agreement on anything—but this issue has as close to a community consensus as HN gets, so I think it makes sense to add our voices too.<p>Luther will be around to answer questions and hopefully HN can contribute to getting this done! </br>
+Text: Hi HN — I’m Charles from Vassar Robotics (<a href="https:&#x2F;&#x2F;vassarrobotics.com&#x2F;">https:&#x2F;&#x2F;vassarrobotics.com&#x2F;</a> - not much there but you can order the robot at <a href="https:&#x2F;&#x2F;shop.vassarrobotics.com&#x2F;products&#x2F;navrim-robot-that-learns-skills-in-30-minutes">https:&#x2F;&#x2F;shop.vassarrobotics.com&#x2F;products&#x2F;navrim-robot-that-l...</a>)<p>Edit: the entire run sold out thanks to HN today—thank you all! And sorry to anyone who missed out. We&#x27;ll add something for preorders shortly.<p>We are bringing an upgraded version of the long beloved SO-101 robot arms to a $219 price point with improved mechanical design and added intelligence. See what it can do here: <a href="https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;xNyPKJZI400" rel="nofollow">https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;xNyPKJZI400</a> (demos are sped up as shown in the video)<p>I’ve spent a few years building RC planes (<a href="https:&#x2F;&#x2F;cyo.ng&#x2F;hangar&#x2F;" rel="nofollow">https:&#x2F;&#x2F;cyo.ng&#x2F;hangar&#x2F;</a>) and micro gas turbines (<a href="https:&#x2F;&#x2F;set.mit.edu" rel="nofollow">https:&#x2F;&#x2F;set.mit.edu</a>), and I’ve always wished hardware were cheaper so more people could experiment.<p>I’m now launching a $219 desktop robot-arm kit that keeps LeRobot SO-101’s kinematics, swaps key parts for sturdier, more precise SLA prints, and adds two integrated 480 p cameras. After plenty of supplier haggling, the whole kit costs less than the twelve servos alone. I’ll release the updated mechanical design under an MIT license by June 30.<p>On the software side, I&#x27;ll also release an MIT-licensed MCP server by June 30 that exposes the local robot policy as tools for agentic LLMs (Opus 4, o3, etc.) to use in long-horizon tasks. Here&#x27;s how it works: You can teach the robot new skills through teleoperation. During inference, you simply talk to the agentic LLM using natural language instructions. The LLM then calls the local robot policy through MCP, automatically decomposing your high-level requests into executable robot commands.<p>Thanks to the LeRobot community for making such an amazing robot accessible. If you’ve contributed to the LeRobot GitHub repo, email hello@vassarrobotics.com for a 20% discount coupon as a small thank-you.<p>I’d love your feedback! Beyond manufacturing, cleaning up the codebase, and writing docs, I’m considering: a force-controlled gripper, a parallel-jaw gripper, an extra wrist DOF (matching the new Trossen and ARX arms), full force feedback on the leader arm (though that may triple the price), a more affordable version with lower resolution each joint, and a longer-reach variant. Which of these—or something else—would be most useful to you?<p>You can order it here if you want: <a href="https:&#x2F;&#x2F;shop.vassarrobotics.com&#x2F;products&#x2F;navrim-robot-that-learns-skills-in-30-minutes">https:&#x2F;&#x2F;shop.vassarrobotics.com&#x2F;products&#x2F;navrim-robot-that-l...</a>. (Edit: sold out! Adding something for pre-orders shortly. I hope we can have your business in the future.)<p>Looking forward to any and all comments!<p>---<p>Edit: A quick explanation regarding shipping times (as stated on our shop page):<p>• The first batch of 20 units, which will be shipped by June 30, is sold out.<p>• The second batch of 100 units will be shipped by July 15 (unassembled kits) and July 21 (assembled units). The order limit is to ensure we can ship on time and maintain high quality.<p>For those who have already placed orders: I will reach out individually to ask if you would like to receive weekly progress updates from now until the shipping date. </br>
 </p>
 
 <li>
-    <a href=https://github.com/apple/containerization target="_blank">
-        Containerization is a Swift package for running Linux containers on macOS |
+    <a href=https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine target="_blank">
+        It's the end of observability as we know it (and I feel fine) |
     </a>
-    By: gok
+    By: gpi
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/ target="_blank">
-        Apple announces Foundation Models and Containerization frameworks, etc |
+    <a href=https://mistral.ai/news/magistral target="_blank">
+        Magistral — the first reasoning model by Mistral AI |
     </a>
-    By: thm
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://boston.conman.org/2025/06/09.1 target="_blank">
-        Implementing DOES> in Forth, the entire reason I started this mess |
+    <a href=https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can target="_blank">
+        Show HN: I made a 3D printed VTOL drone |
     </a>
-    By: todsacerdoti
+    By: tsungxu
 </li>
 
+<p>
+Text: I made this 130 mile capable VTOL drone in only 90 days. It can fly for 3 hours on a single charge. That would make it one of the longest range and endurance 3D printed VTOLs in the world.<p>This is the thing I&#x27;m most proud of building to date!<p>Before this project, I was a total CAD, 3D printing and aerodynamic modeling beginner. I had only built and flown one VTOL before.<p>SPECS<p>Wingspan: 3.9 ft (1200 mm)
+Length: 2.5 ft (770 mm)
+Weight: 5.6 lb (2.55kg)<p>Airframe: foaming PLA (Bambu PLA-Aero) and PETG structural parts printed on A1 printer, CFRP booms and spars<p>Battery: Li-ion silicon anode Amprius SA08 cells, 6s2p pack by Upgrade Energy
+Motors: 2807 AOS for lift and cruise (unoptimized)
+Lifting ESCs: 4 in 1 Holybro Tekko32 F4 45A 
+Cruise ESC: Flycolor Raptor 5 45A
+Lifting and cruise props: 7042 Gemfan (unoptimized)<p>Flight controller: Speedybee F405 Wing
+GPS: M10<p>Firmware: Ardupilot 4.6.0<p>---<p>This video edit ended up shorter than I planned. Being my first Youtube video with significant post production effort, I underestimated the work required to make a longer in-depth video with voiceover, edited footage, etc. </br>
+</p>
+
 <li>
-    <a href=https://discrete.openmathbooks.org/pdfs/dmoi4.pdf target="_blank">
-        Discrete Mathematics: An Open Introduction [pdf] |
+    <a href=https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html target="_blank">
+        Low-background Steel: content without AI contamination |
     </a>
-    By: simonpure
+    By: jgrahamc
 </li>
 </ol>
