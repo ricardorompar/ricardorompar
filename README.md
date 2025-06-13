@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 12 Jun 2025</h4>
+<h4>Check the latest news from: Fri 13 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/resemble-ai/chatterbox target="_blank">
-        Chatterbox TTS |
+    <a href=https://jasone.github.io/2025/06/12/jemalloc-postmortem/ target="_blank">
+        Jemalloc Postmortem |
     </a>
-    By: pinter69
+    By: jasone
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=iWknov3Xpts target="_blank">
-        Expanding Racks [video] |
+    <a href=https://github.com/piyushgupta53/go-torrent-client target="_blank">
+        Show HN: I wrote a BitTorrent Client from scratch |
     </a>
-    By: doctoboggan
-</li>
-
-<li>
-    <a href=https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/ target="_blank">
-        Microsoft Office migration from Source Depot to Git |
-    </a>
-    By: dshacker
-</li>
-
-<li>
-    <a href=https://blog.andykhau.com/blog/eyesite target="_blank">
-        Show HN: Eyesite - experimental website combining computer vision and web design |
-    </a>
-    By: akchro
+    By: piyushgupta53
 </li>
 
 <p>
-Text: I wanted Apple Vision Pros, but I don’t have $3,500 in my back pocket. So I made Apple Vision Pros at home.<p>This was just a fun little project I made. Currently, the website doesn&#x27;t work on screens less than 1200x728 (Sorry mobile users!) It also might struggle on lower end devices.<p>For best results, have a webcam pointing right at you. I tested my website with a MacBook camera.<p>Any comments, questions, or suggestions are greatly appreciated!<p>blog: <a href="https:&#x2F;&#x2F;blog.andykhau.com&#x2F;blog&#x2F;eyesite" rel="nofollow">https:&#x2F;&#x2F;blog.andykhau.com&#x2F;blog&#x2F;eyesite</a><p>check it out: <a href="https:&#x2F;&#x2F;eyesite.andykhau.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;eyesite.andykhau.com&#x2F;</a><p>github: <a href="https:&#x2F;&#x2F;github.com&#x2F;akchro&#x2F;eyesite">https:&#x2F;&#x2F;github.com&#x2F;akchro&#x2F;eyesite</a> </br>
+Text: I picked up programming in late 2023 and been enjoying it now. Wanted to challenge myself and set a stretch goal, so set out to build a bittorrent client. </br>
 </p>
 
 <li>
-    <a href=https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole target="_blank">
-        Research suggests Big Bang may have taken place inside a black hole |
+    <a href=https://tailscale.com/blog/frequent-reath-security target="_blank">
+        Frequent reauth doesn't make you more secure |
     </a>
-    By: zaik
+    By: ingve
+</li>
+
+<li>
+    <a href=https://osor.io/text target="_blank">
+        Rendering Crispy Text on the GPU |
+    </a>
+    By: ibobev
+</li>
+
+<li>
+    <a href=https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html target="_blank">
+        Slow and Steady, This Poem Will Win Your Heart |
+    </a>
+    By: mrholme
 </li>
 </ol>
