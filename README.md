@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 13 Jun 2025</h4>
+<h4>Check the latest news from: Sat 14 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://jasone.github.io/2025/06/12/jemalloc-postmortem/ target="_blank">
-        Jemalloc Postmortem |
+    <a href=https://github.com/rajivharlalka/filedb target="_blank">
+        Filedb: Disk Based Key-Value Store Inspired by Bitcask |
     </a>
-    By: jasone
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://github.com/piyushgupta53/go-torrent-client target="_blank">
-        Show HN: I wrote a BitTorrent Client from scratch |
+    <a href=http://0x80.pl/notesen/2016-11-28-simd-strfind.html target="_blank">
+        SIMD-friendly algorithms for substring searching |
     </a>
-    By: piyushgupta53
+    By: Rendello
+</li>
+
+<li>
+    <a href=https://btmc.substack.com/p/implementing-logic-programming target="_blank">
+        Implementing Logic Programming |
+    </a>
+    By: sirwhinesalot
+</li>
+
+<li>
+    <a href=https://developer.apple.com/videos/play/wwdc2025/219 target="_blank">
+        Liquid Glass – WWDC25 [video] |
+    </a>
+    By: lnrd
+</li>
+
+<li>
+    <a href=https://arxiv.org/abs/2506.10943 target="_blank">
+        Self-Adapting Language Models |
+    </a>
+    By: archon1410
 </li>
 
 <p>
-Text: I picked up programming in late 2023 and been enjoying it now. Wanted to challenge myself and set a stretch goal, so set out to build a bittorrent client. </br>
+Text: <a href="https:&#x2F;&#x2F;jyopari.github.io&#x2F;posts&#x2F;seal" rel="nofollow">https:&#x2F;&#x2F;jyopari.github.io&#x2F;posts&#x2F;seal</a> </br>
 </p>
-
-<li>
-    <a href=https://tailscale.com/blog/frequent-reath-security target="_blank">
-        Frequent reauth doesn't make you more secure |
-    </a>
-    By: ingve
-</li>
-
-<li>
-    <a href=https://osor.io/text target="_blank">
-        Rendering Crispy Text on the GPU |
-    </a>
-    By: ibobev
-</li>
-
-<li>
-    <a href=https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html target="_blank">
-        Slow and Steady, This Poem Will Win Your Heart |
-    </a>
-    By: mrholme
-</li>
 </ol>
