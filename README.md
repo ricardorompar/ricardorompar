@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 14 Jun 2025</h4>
+<h4>Check the latest news from: Sun 15 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/rajivharlalka/filedb target="_blank">
-        Filedb: Disk Based Key-Value Store Inspired by Bitcask |
+    <a href=https://seohong.me/blog/q-learning-is-not-yet-scalable/ target="_blank">
+        Q-learning is not yet scalable |
     </a>
-    By: todsacerdoti
+    By: jxmorris12
 </li>
 
 <li>
-    <a href=http://0x80.pl/notesen/2016-11-28-simd-strfind.html target="_blank">
-        SIMD-friendly algorithms for substring searching |
+    <a href=https://www.mathpages.com/home/kmath668/kmath668.htm target="_blank">
+        Infinite Grid of Resistors |
     </a>
-    By: Rendello
+    By: niklasbuschmann
 </li>
 
 <li>
-    <a href=https://btmc.substack.com/p/implementing-logic-programming target="_blank">
-        Implementing Logic Programming |
+    <a href=https://github.com/yousef-rafat/miniDiffusion target="_blank">
+        I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch |
     </a>
-    By: sirwhinesalot
+    By: yousef_g
 </li>
 
 <li>
-    <a href=https://developer.apple.com/videos/play/wwdc2025/219 target="_blank">
-        Liquid Glass – WWDC25 [video] |
+    <a href=https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios target="_blank">
+        AMD's AI Future Is Rack Scale 'Helios' |
     </a>
-    By: lnrd
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2506.10943 target="_blank">
-        Self-Adapting Language Models |
+    <a href=https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611 target="_blank">
+        Have a damaged painting? Restore it in just hours with an AI-generated "mask" |
     </a>
-    By: archon1410
+    By: WithinReason
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;jyopari.github.io&#x2F;posts&#x2F;seal" rel="nofollow">https:&#x2F;&#x2F;jyopari.github.io&#x2F;posts&#x2F;seal</a> </br>
-</p>
 </ol>
