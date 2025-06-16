@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 15 Jun 2025</h4>
+<h4>Check the latest news from: Mon 16 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://seohong.me/blog/q-learning-is-not-yet-scalable/ target="_blank">
-        Q-learning is not yet scalable |
+    <a href=https://arxiv.org/abs/2506.08872 target="_blank">
+        Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task |
     </a>
-    By: jxmorris12
+    By: stephen_g
 </li>
 
 <li>
-    <a href=https://www.mathpages.com/home/kmath668/kmath668.htm target="_blank">
-        Infinite Grid of Resistors |
+    <a href=https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual target="_blank">
+        Let's Talk About ChatGPT-Induced Spiritual Psychosis |
     </a>
-    By: niklasbuschmann
+    By: greenie_beans
 </li>
 
 <li>
-    <a href=https://github.com/yousef-rafat/miniDiffusion target="_blank">
-        I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch |
+    <a href=https://lisp-stat.dev/about/ target="_blank">
+        Lisp-stat: Lisp environment for statistical computing |
     </a>
-    By: yousef_g
+    By: oumua_don17
 </li>
 
 <li>
-    <a href=https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios target="_blank">
-        AMD's AI Future Is Rack Scale 'Helios' |
+    <a href=https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/ target="_blank">
+        Modifying an HDMI dummy plug's EDID using a Raspberry Pi |
     </a>
-    By: rbanffy
+    By: zdw
 </li>
 
 <li>
-    <a href=https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611 target="_blank">
-        Have a damaged painting? Restore it in just hours with an AI-generated "mask" |
+    <a href=https://github.com/cosmos72/twin target="_blank">
+        Twin – A Textmode WINdow Environment |
     </a>
-    By: WithinReason
+    By: kim_rutherford
 </li>
 </ol>
