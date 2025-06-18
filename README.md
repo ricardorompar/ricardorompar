@@ -45,63 +45,58 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 17 Jun 2025</h4>
+<h4>Check the latest news from: Wed 18 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://nautil.us/clergy-blown-away-by-psilocybin-1217112/ target="_blank">
-        What happens when clergy take psilocybin |
+    <a href=https://grugbrain.dev/ target="_blank">
+        The Grug Brained Developer (2022) |
     </a>
-    By: bookofjoe
+    By: smartmic
 </li>
 
 <li>
-    <a href=https://chawan.net/news/chawan-0-2-0.html target="_blank">
-        Show HN: Chawan TUI web browser |
+    <a href=https://github.com/bgreenwell/lstr target="_blank">
+        Show HN: Lstr – A modern, interactive tree command written in Rust |
     </a>
-    By: shiomiru
+    By: w108bmg
 </li>
 
 <p>
-Text: A terminal-based web browser in Nim.[1]  Has acceptable (YMMV) CSS
-rendering, some JS support, and inline images (sixel&#x2F;kitty).  It can
-also use various protocols other than http(s) such as (s)ftp, gopher,
-gemini, ...<p>Chawan started out as a w3m clone, and the UI still resembles it.
-However, the architecture has turned out quite different, with pages
-loaded in separate processes, and protocol&#x2F;file type handling separated
-out into external binaries.  An interesting result is that you can even
-register decoders for custom inline image formats, although practical
-use cases of this are rather minimal.<p>There is a gallery showcasing some websites being rendered here:
-<a href="https:&#x2F;&#x2F;chawan.net&#x2F;gallery&#x2F;index.html" rel="nofollow">https:&#x2F;&#x2F;chawan.net&#x2F;gallery&#x2F;index.html</a><p>[1]: <a href="https:&#x2F;&#x2F;nim-lang.org" rel="nofollow">https:&#x2F;&#x2F;nim-lang.org</a> </br>
+Text: Hi HN,<p>(First time poster!)<p>I&#x27;m the author of `lstr`. I&#x27;ve always loved the classic Linux `tree` command for its simplicity, but I often found myself wanting more modern features like interactivity and Git integration. So, I decided to build my own version in Rust with a philosophy of being fast, minimalist, and interactive. It was also an excuse to help learn more about Rust\!<p>Here&#x27;s a quick look at the interactive mode:<p><a href="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bgreenwell&#x2F;lstr&#x2F;main&#x2F;assets&#x2F;lstr-demo.gif" rel="nofollow">https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bgreenwell&#x2F;lstr&#x2F;main&#x2F;asset...</a><p>I&#x27;ve just released v0.2.0 with some features I think this community might find useful:<p><pre><code>  * **Interactive TUI Mode:** You can launch it with `lstr interactive`. It allows for keyboard-driven navigation, expanding&#x2F;collapsing directories, and opening files in your default editor.
+  * **Git Status Integration:** Using the `-G` flag, `lstr` will show the Git status of every file and directory right in the tree output.
+  * **Shell Integration:** This is my favorite feature. In interactive mode, you can press `Ctrl+s` to quit and have `lstr` print the selected path to stdout. This lets you pipe it into other commands or use it as a visual `cd`. For example, you can add this function to your `.bashrc`&#x2F;`.zshrc`:
+    ```bash
+    lcd() {
+        local selected_path
+        selected_path=&quot;$(lstr interactive -gG)&quot;
+        if [[ -n &quot;$selected_path&quot; &amp;&amp; -d &quot;$selected_path&quot; ]]; then
+            cd &quot;$selected_path&quot;
+        fi
+    }
+    ```
+    Then just run `lcd` to visually pick a directory and jump to it.
+</code></pre>
+It also supports file-type icons (via Nerd Fonts), file sizes, permissions, and respects your `.gitignore`.<p>The project is open-source and I would love to get your feedback.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;bgreenwell&#x2F;lstr">https:&#x2F;&#x2F;github.com&#x2F;bgreenwell&#x2F;lstr</a><p>Crates.io: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;lstr" rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;lstr</a><p>Thanks for checking it out! </br>
 </p>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=lvEO4IaEJlw target="_blank">
-        How Frogger 2’s source code was recovered from a destroyed tape [video] |
+    <a href=https://global.honda/en/topics/2025/c_2025-06-17ceng.html target="_blank">
+        Honda conducts successful launch and landing of experimental reusable rocket |
     </a>
-    By: perching_aix
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/ target="_blank">
-        Selfish reasons for building accessible UIs |
+    <a href=https://www.tigerdata.com/blog/timescale-becomes-tigerdata target="_blank">
+        Timescale Is Now TigerData |
     </a>
-    By: feross
+    By: pbowyer
 </li>
 
 <li>
-    <a href=https://github.com/czhu12/canine target="_blank">
-        Show HN: Canine – A Heroku alternative built on Kubernetes |
+    <a href=https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html target="_blank">
+        Resurrecting a dead torrent tracker and finding 3M peers |
     </a>
-    By: czhu12
+    By: k-ian
 </li>
-
-<p>
-Text: Hello HN!<p>I&#x27;ve been working on Canine for about a year now. It started when I was sick of paying the overhead of using stuff like Heroku, Render, Fly, etc to host some web apps that I&#x27;ve built. At one point I was paying over $400 a month for hosting these in the cloud. Last year I moved all my stuff to Hetzner.<p>For a 4GB machine, the cost of various providers:<p>Heroku = $260
-Fly.io = $65
-Render = $85
-Hetzner = $4<p>(This problem gets a lot worse when you need &gt; 4GB)<p>The only downside of using Hetzner is that there isn’t a super straightforward way to do stuff like:<p>- DNS management &#x2F; SSL certificate management
-- Team management
-- Github integration<p>But I figured it should be easy to quickly build something like Heroku for my Hetzner instance. Turns out it was a bit harder than expected, but after a year, I’ve made some good progress<p>The best part of Canine, is that it also makes it trivial to host any helm chart, which is available for basically any open source project, so everything from databases (e.g. Postgres, Redis), to random stuff like torrent tracking servers, VPN’s endpoints, etc.<p>Open source: <a href="https:&#x2F;&#x2F;github.com&#x2F;czhu12&#x2F;canine">https:&#x2F;&#x2F;github.com&#x2F;czhu12&#x2F;canine</a>
-Cloud hosted version is: <a href="https:&#x2F;&#x2F;canine.sh" rel="nofollow">https:&#x2F;&#x2F;canine.sh</a> </br>
-</p>
 </ol>
