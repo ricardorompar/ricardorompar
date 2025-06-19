@@ -45,58 +45,50 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 18 Jun 2025</h4>
+<h4>Check the latest news from: Thu 19 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://grugbrain.dev/ target="_blank">
-        The Grug Brained Developer (2022) |
+    <a href=https://www.youtube.com/watch?v=LCEmiRjPEtQ target="_blank">
+        Andrej Karpathy: Software in the era of AI [video] |
     </a>
-    By: smartmic
+    By: sandslash
 </li>
 
 <li>
-    <a href=https://github.com/bgreenwell/lstr target="_blank">
-        Show HN: Lstr – A modern, interactive tree command written in Rust |
+    <a href=https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html target="_blank">
+        TI to invest $60B to manufacture foundational semiconductors in the U.S. |
     </a>
-    By: w108bmg
+    By: TMWNN
 </li>
 
 <p>
-Text: Hi HN,<p>(First time poster!)<p>I&#x27;m the author of `lstr`. I&#x27;ve always loved the classic Linux `tree` command for its simplicity, but I often found myself wanting more modern features like interactivity and Git integration. So, I decided to build my own version in Rust with a philosophy of being fast, minimalist, and interactive. It was also an excuse to help learn more about Rust\!<p>Here&#x27;s a quick look at the interactive mode:<p><a href="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bgreenwell&#x2F;lstr&#x2F;main&#x2F;assets&#x2F;lstr-demo.gif" rel="nofollow">https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bgreenwell&#x2F;lstr&#x2F;main&#x2F;asset...</a><p>I&#x27;ve just released v0.2.0 with some features I think this community might find useful:<p><pre><code>  * **Interactive TUI Mode:** You can launch it with `lstr interactive`. It allows for keyboard-driven navigation, expanding&#x2F;collapsing directories, and opening files in your default editor.
-  * **Git Status Integration:** Using the `-G` flag, `lstr` will show the Git status of every file and directory right in the tree output.
-  * **Shell Integration:** This is my favorite feature. In interactive mode, you can press `Ctrl+s` to quit and have `lstr` print the selected path to stdout. This lets you pipe it into other commands or use it as a visual `cd`. For example, you can add this function to your `.bashrc`&#x2F;`.zshrc`:
-    ```bash
-    lcd() {
-        local selected_path
-        selected_path=&quot;$(lstr interactive -gG)&quot;
-        if [[ -n &quot;$selected_path&quot; &amp;&amp; -d &quot;$selected_path&quot; ]]; then
-            cd &quot;$selected_path&quot;
-        fi
-    }
-    ```
-    Then just run `lcd` to visually pick a directory and jump to it.
-</code></pre>
-It also supports file-type icons (via Nerd Fonts), file sizes, permissions, and respects your `.gitignore`.<p>The project is open-source and I would love to get your feedback.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;bgreenwell&#x2F;lstr">https:&#x2F;&#x2F;github.com&#x2F;bgreenwell&#x2F;lstr</a><p>Crates.io: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;lstr" rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;lstr</a><p>Thanks for checking it out! </br>
+Text: See also <a href="https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;06&#x2F;18&#x2F;texas-instruments-plans-60-billion-us-investment.html" rel="nofollow">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;06&#x2F;18&#x2F;texas-instruments-plans-60-b...</a> </br>
 </p>
 
 <li>
-    <a href=https://global.honda/en/topics/2025/c_2025-06-17ceng.html target="_blank">
-        Honda conducts successful launch and landing of experimental reusable rocket |
+    <a href=https://github.com/psviderski/unregistry target="_blank">
+        Show HN: Unregistry – “docker push” directly to servers without a registry |
     </a>
-    By: LorenDB
+    By: psviderski
+</li>
+
+<p>
+Text: I got tired of the push-to-registry&#x2F;pull-from-registry dance every time I needed to deploy a Docker image.<p>In certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there&#x27;s already a form of registry present on any of your Docker-enabled hosts — the Docker&#x27;s own image storage.<p>So I built Unregistry [1] that exposes Docker&#x27;s (containerd) image storage through a standard registry API. It adds a `docker pussh` command that pushes images directly to remote Docker daemons over SSH. It transfers only the missing layers, making it fast and efficient.<p><pre><code>  docker pussh myapp:latest user@server
+</code></pre>
+Under the hood, it starts a temporary unregistry container on the remote host, pushes to it through an SSH tunnel, and cleans up when done.<p>I&#x27;ve built it as a byproduct while working on Uncloud [2], a tool for deploying containers across a network of Docker hosts, and figured it&#x27;d be useful as a standalone project.<p>Would love to hear your thoughts and use cases!<p>[1]: <a href="https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;unregistry">https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;unregistry</a><p>[2]: <a href="https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;uncloud">https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;uncloud</a> </br>
+</p>
+
+<li>
+    <a href=https://elliptic-curves.art/ target="_blank">
+        Elliptic Curves as Art |
+    </a>
+    By: nill0
 </li>
 
 <li>
-    <a href=https://www.tigerdata.com/blog/timescale-becomes-tigerdata target="_blank">
-        Timescale Is Now TigerData |
+    <a href=https://zed.dev/blog/debugger target="_blank">
+        The Zed Debugger Is Here |
     </a>
-    By: pbowyer
-</li>
-
-<li>
-    <a href=https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html target="_blank">
-        Resurrecting a dead torrent tracker and finding 3M peers |
-    </a>
-    By: k-ian
+    By: SupremumLimit
 </li>
 </ol>
