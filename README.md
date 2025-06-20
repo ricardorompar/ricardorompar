@@ -45,50 +45,49 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 19 Jun 2025</h4>
+<h4>Check the latest news from: Fri 20 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://www.youtube.com/watch?v=LCEmiRjPEtQ target="_blank">
-        Andrej Karpathy: Software in the era of AI [video] |
+    <a href=https://github.com/Orange-OpenSource/hurl target="_blank">
+        Hurl: Run and test HTTP requests with plain text |
     </a>
-    By: sandslash
+    By: flykespice
 </li>
 
 <li>
-    <a href=https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html target="_blank">
-        TI to invest $60B to manufacture foundational semiconductors in the U.S. |
+    <a href=https://github.com/Dahrkael/ExTracker target="_blank">
+        Show HN: I wrote a new BitTorrent tracker in Elixir |
     </a>
-    By: TMWNN
+    By: dahrkael
 </li>
 
 <p>
-Text: See also <a href="https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;06&#x2F;18&#x2F;texas-instruments-plans-60-billion-us-investment.html" rel="nofollow">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2025&#x2F;06&#x2F;18&#x2F;texas-instruments-plans-60-b...</a> </br>
+Text: Hello everyone!<p>I&#x27;m currently in a journey to learn and improve my Elixir and Go skills (my daily job uses C++) and looking through my backlog for projects to take on I decided Elixir is the perfect language to write a highly-parallel BitTorrent tracker.
+So I have spent my free time these last 3 months writing one! Now I think it has enough features to present it to the world (and a docker image to give it a quick try).<p>I know some people see trackers as relics of the past now that DHT and PEX are common but I think they still serve a purpose in today&#x27;s Internet (purely talking about public trackers). That said there is not a lot going on in terms of new developments since everyone just throws opentracker in a vps a calls it a day (honorable exceptions: aquatic and torrust).<p>I plan to continue development for the foreseeable future and add some (optional) esoteric features along the way so if anyone currently operates a tracker please give a try and enjoy the lack of crashes.<p>note: only swarm_printout.ex has been vibe coded, the rest has all been written by hand. </br>
 </p>
 
 <li>
-    <a href=https://github.com/psviderski/unregistry target="_blank">
-        Show HN: Unregistry – “docker push” directly to servers without a registry |
+    <a href=https://blog.persistent.info/2025/03/infinite-mac-os-x.html target="_blank">
+        Infinite Mac OS X |
     </a>
-    By: psviderski
+    By: kristianp
+</li>
+
+<li>
+    <a href=https://public.resource.org/ntis.gov/index.html target="_blank">
+        FedFlix — Public Domain Stock Footage Library |
+    </a>
+    By: bookofjoe
+</li>
+
+<li>
+    <a href=https://github.com/edverma/git-smart-squash target="_blank">
+        Show HN: Tool to Automatically Create Organized Commits for PRs |
+    </a>
+    By: edverma2
 </li>
 
 <p>
-Text: I got tired of the push-to-registry&#x2F;pull-from-registry dance every time I needed to deploy a Docker image.<p>In certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there&#x27;s already a form of registry present on any of your Docker-enabled hosts — the Docker&#x27;s own image storage.<p>So I built Unregistry [1] that exposes Docker&#x27;s (containerd) image storage through a standard registry API. It adds a `docker pussh` command that pushes images directly to remote Docker daemons over SSH. It transfers only the missing layers, making it fast and efficient.<p><pre><code>  docker pussh myapp:latest user@server
-</code></pre>
-Under the hood, it starts a temporary unregistry container on the remote host, pushes to it through an SSH tunnel, and cleans up when done.<p>I&#x27;ve built it as a byproduct while working on Uncloud [2], a tool for deploying containers across a network of Docker hosts, and figured it&#x27;d be useful as a standalone project.<p>Would love to hear your thoughts and use cases!<p>[1]: <a href="https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;unregistry">https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;unregistry</a><p>[2]: <a href="https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;uncloud">https:&#x2F;&#x2F;github.com&#x2F;psviderski&#x2F;uncloud</a> </br>
+Text: I&#x27;ve found it helps PR reviewers when they can look through a set of commits with clear messages and logically organized changes. Typically reviewers prefer a larger quantity of smaller changes versus a smaller quantity of larger changes. Sometimes it gets really messy to break up a change into sufficiently small PRs, so thoughtful commits are a great way of further subdividing changes in PRs. It can be pretty time consuming to do this though, so this tool automates the process with the help of AI.<p>The tool sends the diff of your git branch against a base branch to an LLM provider. The LLM provider responds with a set of suggested commits with sensible commit messages, change groupings, and descriptions. When you explicitly accept the proposed changes, the tool re-writes the commit history on your branch to match the LLM&#x27;s suggestion. Then you can force push your branch to your remote to make it match.<p>The default AI provider is your locally running Ollama server. Cloud providers can be explicitly configured via CLI argument or in a config file, but keeping local models as the default helps to protect against unintentional data sharing. The tool always creates a backup branch in case you need to easily revert in case of changing your mind or an error in commit re-writing. Note that re-writing commit history to a remote branch requires a force push, which is something your team&#x2F;org will need to be ok with. As long as you are working on a feature branch this is usually fine, but it&#x27;s always worth checking if you are not sure. </br>
 </p>
-
-<li>
-    <a href=https://elliptic-curves.art/ target="_blank">
-        Elliptic Curves as Art |
-    </a>
-    By: nill0
-</li>
-
-<li>
-    <a href=https://zed.dev/blog/debugger target="_blank">
-        The Zed Debugger Is Here |
-    </a>
-    By: SupremumLimit
-</li>
 </ol>
