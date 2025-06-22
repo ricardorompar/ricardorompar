@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 21 Jun 2025</h4>
+<h4>Check the latest news from: Sun 22 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/ target="_blank">
-        Samsung Embeds IronSource Spyware App on Phones Across WANA |
+    <a href=https://henryhmko.github.io/posts/tpu/tpu.html target="_blank">
+        TPU (Tensor Processing Unit) Deep Dive |
     </a>
-    By: the-anarchist
+    By: transpute
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2506.11440 target="_blank">
-        AbsenceBench: Language models can't tell what's missing |
+    <a href=https://github.com/lfnoise/sapf target="_blank">
+        Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth |
     </a>
-    By: JnBrymn
+    By: mindcrime
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FY2WYXOdXoM" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FY2WYXOdXoM</a> </br>
+</p>
+
+<li>
+    <a href=https://briefer.cloud/blog/posts/p-hacking/ target="_blank">
+        P-Hacking in Startups |
+    </a>
+    By: thaisstein
 </li>
 
 <li>
-    <a href=https://fly.io/blog/phoenix-new-the-remote-ai-runtime/ target="_blank">
-        Phoenix.new – Remote AI Runtime for Phoenix |
+    <a href=https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start target="_blank">
+        LaborBerlin: State-of-the-Art 16mm Projector |
     </a>
-    By: wut42
+    By: audionerd
 </li>
 
 <li>
-    <a href=https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/ target="_blank">
-        Tiny Undervalued Hardware Companions (2024) |
+    <a href=https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html target="_blank">
+        The bad boy of bar charts: William Playfair (2023) |
     </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://writewithharper.com target="_blank">
-        Harper – an open-source alternative to Grammarly |
-    </a>
-    By: ReadCarlBarks
+    By: bryanrasmussen
 </li>
 </ol>
