@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 22 Jun 2025</h4>
+<h4>Check the latest news from: Mon 23 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://henryhmko.github.io/posts/tpu/tpu.html target="_blank">
-        TPU (Tensor Processing Unit) Deep Dive |
+    <a href=https://fellerts.no/projects/epoch.html target="_blank">
+        Mechanical Watch: Exploded View |
     </a>
-    By: transpute
+    By: fellerts
 </li>
 
 <li>
-    <a href=https://github.com/lfnoise/sapf target="_blank">
-        Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth |
+    <a href=https://leetsys.dev target="_blank">
+        LeetCode for System Design |
     </a>
-    By: mindcrime
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FY2WYXOdXoM" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FY2WYXOdXoM</a> </br>
-</p>
-
-<li>
-    <a href=https://briefer.cloud/blog/posts/p-hacking/ target="_blank">
-        P-Hacking in Startups |
-    </a>
-    By: thaisstein
+    By: rbajp
 </li>
 
 <li>
-    <a href=https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start target="_blank">
-        LaborBerlin: State-of-the-Art 16mm Projector |
+    <a href=https://koaning.io/posts/giving-mojo-a-spin/ target="_blank">
+        Python can run Mojo now |
     </a>
-    By: audionerd
+    By: cantdutchthis
 </li>
 
 <li>
-    <a href=https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html target="_blank">
-        The bad boy of bar charts: William Playfair (2023) |
+    <a href=https://fransskarman.com/phd_thesis_in_typst.html target="_blank">
+        I wrote my PhD Thesis in Typst |
     </a>
-    By: bryanrasmussen
+    By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://www.romanklasen.com/blog/beating-brainrot-by-button/ target="_blank">
+        Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot |
+    </a>
+    By: remuskaos
 </li>
 </ol>
