@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 23 Jun 2025</h4>
+<h4>Check the latest news from: Tue 24 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://fellerts.no/projects/epoch.html target="_blank">
-        Mechanical Watch: Exploded View |
+    <a href=https://plus.excalidraw.com/blog/excalidraw-soc2 target="_blank">
+        Excalidraw+ Is Now SoC 2 Certified |
     </a>
-    By: fellerts
+    By: gmays
 </li>
 
 <li>
-    <a href=https://leetsys.dev target="_blank">
-        LeetCode for System Design |
+    <a href=https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest target="_blank">
+        Vera C. Rubin Observatory first images |
     </a>
-    By: rbajp
+    By: phsilva
 </li>
 
 <li>
-    <a href=https://koaning.io/posts/giving-mojo-a-spin/ target="_blank">
-        Python can run Mojo now |
+    <a href=https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto target="_blank">
+        Backyard Coffee and Jazz in Kyoto |
     </a>
-    By: cantdutchthis
+    By: wyclif
 </li>
 
 <li>
-    <a href=https://fransskarman.com/phd_thesis_in_typst.html target="_blank">
-        I wrote my PhD Thesis in Typst |
+    <a href=https://www.bbc.com/news/articles/cy8dzv3vp5jo target="_blank">
+        'Dragon prince' dinosaur discovery 'rewrites' T.rex family tree |
     </a>
-    By: todsacerdoti
+    By: gmays
 </li>
 
 <li>
-    <a href=https://www.romanklasen.com/blog/beating-brainrot-by-button/ target="_blank">
-        Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot |
+    <a href=https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/ target="_blank">
+        Is Mathematics Mostly Chaos or Mostly Order? |
     </a>
-    By: remuskaos
+    By: baruchel
 </li>
 </ol>
