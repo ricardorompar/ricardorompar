@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 24 Jun 2025</h4>
+<h4>Check the latest news from: Wed 25 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://plus.excalidraw.com/blog/excalidraw-soc2 target="_blank">
-        Excalidraw+ Is Now SoC 2 Certified |
+    <a href=https://www.theclimatebrink.com/p/how-renewables-are-saving-texans target="_blank">
+        How renewables are saving Texans billions |
     </a>
-    By: gmays
+    By: adrianN
 </li>
 
 <li>
-    <a href=https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest target="_blank">
-        Vera C. Rubin Observatory first images |
+    <a href=https://www.programmax.net/articles/png-is-back/ target="_blank">
+        PNG Is Back |
     </a>
-    By: phsilva
+    By: tbillington
 </li>
 
 <li>
-    <a href=https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto target="_blank">
-        Backyard Coffee and Jazz in Kyoto |
+    <a href=https://blog.google/technology/developers/introducing-gemini-cli/ target="_blank">
+        Gemini CLI: your open-source AI agent |
     </a>
-    By: wyclif
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cy8dzv3vp5jo target="_blank">
-        'Dragon prince' dinosaur discovery 'rewrites' T.rex family tree |
+    <a href=https://github.com/microsoft/edit target="_blank">
+        Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust |
     </a>
-    By: gmays
+    By: ethanpil
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/ target="_blank">
-        Is Mathematics Mostly Chaos or Mostly Order? |
+    <a href=https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723 target="_blank">
+        Fun with uv and PEP 723 |
     </a>
-    By: baruchel
+    By: deepakjois
 </li>
 </ol>
