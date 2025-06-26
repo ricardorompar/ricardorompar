@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 25 Jun 2025</h4>
+<h4>Check the latest news from: Thu 26 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://www.theclimatebrink.com/p/how-renewables-are-saving-texans target="_blank">
-        How renewables are saving Texans billions |
+    <a href=https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/ target="_blank">
+        A new pyramid-like shape always lands the same side up |
     </a>
-    By: adrianN
+    By: robinhouston
 </li>
 
 <li>
-    <a href=https://www.programmax.net/articles/png-is-back/ target="_blank">
-        PNG Is Back |
+    <a href=https://www.alexkesin.com/p/the-hollow-men-of-hims target="_blank">
+        The Hollow Men of Hims |
     </a>
-    By: tbillington
+    By: quadrin
 </li>
 
 <li>
-    <a href=https://blog.google/technology/developers/introducing-gemini-cli/ target="_blank">
-        Gemini CLI: your open-source AI agent |
+    <a href=https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/ target="_blank">
+        Gemini CLI |
     </a>
-    By: meetpateltech
+    By: sync
+</li>
+
+<p>
+Text: GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;google-gemini&#x2F;gemini-cli">https:&#x2F;&#x2F;github.com&#x2F;google-gemini&#x2F;gemini-cli</a> </br>
+</p>
+
+<li>
+    <a href=https://spectrum.ieee.org/puerto-rico-solar-microgrids target="_blank">
+        Puerto Rico's Solar Microgrids Beat Blackout |
+    </a>
+    By: ohjeez
 </li>
 
 <li>
-    <a href=https://github.com/microsoft/edit target="_blank">
-        Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust |
+    <a href=https://www.folklore.org/Negative_2000_Lines_Of_Code.html target="_blank">
+        -2000 Lines of code |
     </a>
-    By: ethanpil
-</li>
-
-<li>
-    <a href=https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723 target="_blank">
-        Fun with uv and PEP 723 |
-    </a>
-    By: deepakjois
+    By: xeonmc
 </li>
 </ol>
