@@ -45,44 +45,39 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 26 Jun 2025</h4>
+<h4>Check the latest news from: Fri 27 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/ target="_blank">
-        A new pyramid-like shape always lands the same side up |
+    <a href=https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html target="_blank">
+        Biomolecular shifts occur in our 40s and 60s |
     </a>
-    By: robinhouston
+    By: fzliu
 </li>
 
 <li>
-    <a href=https://www.alexkesin.com/p/the-hollow-men-of-hims target="_blank">
-        The Hollow Men of Hims |
+    <a href=https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/ target="_blank">
+        A lumberjack created more than 200 sculptures in Wisconsin's Northwoods |
     </a>
-    By: quadrin
+    By: noleary
 </li>
 
 <li>
-    <a href=https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/ target="_blank">
-        Gemini CLI |
+    <a href=https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/ target="_blank">
+        AlphaGenome: AI for better understanding the genome |
     </a>
-    By: sync
+    By: i_love_limes
+</li>
+
+<li>
+    <a href=https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/ target="_blank">
+        Apple Research unearthed forgotten AI technique and using it to generate images |
+    </a>
+    By: celias
 </li>
 
 <p>
-Text: GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;google-gemini&#x2F;gemini-cli">https:&#x2F;&#x2F;github.com&#x2F;google-gemini&#x2F;gemini-cli</a> </br>
+Text: Hey HN, we&#x27;re Mariano and Anton from ISSEN (<a href="https:&#x2F;&#x2F;issen.com">https:&#x2F;&#x2F;issen.com</a>), a foreign language voice tutor app that adapts to your interests, goals, and needs.<p>Demo: <a href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;a78e713d46934857a2dc88aed1bb100d?sid=ec4dc1f3-1a4f-4d75-8e87-efbb3d2b2e90" rel="nofollow">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;a78e713d46934857a2dc88aed1bb100d?...</a><p>We started this company after struggling to find great tools to practice speaking Japanese and French. Having a tutor can be awesome, but there are downsides: they can be expensive (since you pay by the hour), difficult to schedule, and have a high upfront cost (finding a tutor you like often forces you to cycle through a few that you don’t).<p>We wanted something that would talk with us — realistically, in full conversations — and actually help us improve. So we built it ourselves.
+The app relies on a custom voice AI pipeline combining STT (speech-to-text), TTS (text-to-speech), LLMs, long term memory, interruptions, turn-taking, etc. Getting speech-to-text to work well for learners was one of the hardest parts — especially with accents, multi-lingual sentences, and noisy environments. We now combine Gemini Flash, Whisper, Scribe, and GPT-4o-transcribe to minimize errors and keep the conversation flowing.<p>We didn’t want to focus too much on gamification. In our experience, that leads to users performing well in the app, achieving long streaks and so on, without actually getting fluent in the language you&#x27;re wanting to learn.<p>With ISSEN you instantly speak and immerse yourself in the language, which, while not easy, is a much more efficient way to learn.<p>We combine this with a word bank and SRS flashcards for new words learned in the AI voice chats, which allows very rapid improvement in both vocabulary and speaking skills. We also create custom curriculums for each student based on goals, interests, and preferences, and fully customizable settings like speed, turn taking, formality, etc.<p>App: <a href="https:&#x2F;&#x2F;issen.com">https:&#x2F;&#x2F;issen.com</a> (works on web, iOS, Android)
+Pricing: 20 min free trial, $20–29&#x2F;month (depending on duration and specific geography)<p>We’d love your feedback — on the tech, the UX, or what you’d wish from a tool like this. Thanks! </br>
 </p>
-
-<li>
-    <a href=https://spectrum.ieee.org/puerto-rico-solar-microgrids target="_blank">
-        Puerto Rico's Solar Microgrids Beat Blackout |
-    </a>
-    By: ohjeez
-</li>
-
-<li>
-    <a href=https://www.folklore.org/Negative_2000_Lines_Of_Code.html target="_blank">
-        -2000 Lines of code |
-    </a>
-    By: xeonmc
-</li>
 </ol>
