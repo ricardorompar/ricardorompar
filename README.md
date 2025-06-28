@@ -45,39 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 27 Jun 2025</h4>
+<h4>Check the latest news from: Sat 28 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://med.stanford.edu/news/all-news/2024/08/massive-biomolecular-shifts-occur-in-our-40s-and-60s--stanford-m.html target="_blank">
-        Biomolecular shifts occur in our 40s and 60s |
+    <a href=https://jameshard.ing/pilot target="_blank">
+        Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights |
     </a>
-    By: fzliu
-</li>
-
-<li>
-    <a href=https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/ target="_blank">
-        A lumberjack created more than 200 sculptures in Wisconsin's Northwoods |
-    </a>
-    By: noleary
-</li>
-
-<li>
-    <a href=https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/ target="_blank">
-        AlphaGenome: AI for better understanding the genome |
-    </a>
-    By: i_love_limes
-</li>
-
-<li>
-    <a href=https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/ target="_blank">
-        Apple Research unearthed forgotten AI technique and using it to generate images |
-    </a>
-    By: celias
+    By: jamesharding
 </li>
 
 <p>
-Text: Hey HN, we&#x27;re Mariano and Anton from ISSEN (<a href="https:&#x2F;&#x2F;issen.com">https:&#x2F;&#x2F;issen.com</a>), a foreign language voice tutor app that adapts to your interests, goals, and needs.<p>Demo: <a href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;a78e713d46934857a2dc88aed1bb100d?sid=ec4dc1f3-1a4f-4d75-8e87-efbb3d2b2e90" rel="nofollow">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;a78e713d46934857a2dc88aed1bb100d?...</a><p>We started this company after struggling to find great tools to practice speaking Japanese and French. Having a tutor can be awesome, but there are downsides: they can be expensive (since you pay by the hour), difficult to schedule, and have a high upfront cost (finding a tutor you like often forces you to cycle through a few that you don’t).<p>We wanted something that would talk with us — realistically, in full conversations — and actually help us improve. So we built it ourselves.
-The app relies on a custom voice AI pipeline combining STT (speech-to-text), TTS (text-to-speech), LLMs, long term memory, interruptions, turn-taking, etc. Getting speech-to-text to work well for learners was one of the hardest parts — especially with accents, multi-lingual sentences, and noisy environments. We now combine Gemini Flash, Whisper, Scribe, and GPT-4o-transcribe to minimize errors and keep the conversation flowing.<p>We didn’t want to focus too much on gamification. In our experience, that leads to users performing well in the app, achieving long streaks and so on, without actually getting fluent in the language you&#x27;re wanting to learn.<p>With ISSEN you instantly speak and immerse yourself in the language, which, while not easy, is a much more efficient way to learn.<p>We combine this with a word bank and SRS flashcards for new words learned in the AI voice chats, which allows very rapid improvement in both vocabulary and speaking skills. We also create custom curriculums for each student based on goals, interests, and preferences, and fully customizable settings like speed, turn taking, formality, etc.<p>App: <a href="https:&#x2F;&#x2F;issen.com">https:&#x2F;&#x2F;issen.com</a> (works on web, iOS, Android)
-Pricing: 20 min free trial, $20–29&#x2F;month (depending on duration and specific geography)<p>We’d love your feedback — on the tech, the UX, or what you’d wish from a tool like this. Thanks! </br>
+Text: Hey HN!<p>Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.<p>This globe is probably my favourite so far: <a href="https:&#x2F;&#x2F;jameshard.ing&#x2F;pilot&#x2F;globes&#x2F;all" rel="nofollow">https:&#x2F;&#x2F;jameshard.ing&#x2F;pilot&#x2F;globes&#x2F;all</a><p>If you’ve got ideas for other graphs or ways to show this kind of data, I’d love to hear them! </br>
 </p>
+
+<li>
+    <a href=https://www.mossplanet.news/p/why-does-kars4kids-sends-most-of target="_blank">
+        Why Does Kars4Kids Sends Most of Its Money to One Town in New Jersey? (2023) |
+    </a>
+    By: myballshurt
+</li>
+
+<li>
+    <a href=https://machinelearning.apple.com/research/normalizing-flows target="_blank">
+        Normalizing Flows Are Capable Generative Models |
+    </a>
+    By: danboarder
+</li>
+
+<li>
+    <a href=https://ocaml-sf.org/learn-ocaml-public/#activity=exercises target="_blank">
+        Learn OCaml |
+    </a>
+    By: smartmic
+</li>
+
+<li>
+    <a href=https://github.com/kign/c4wa target="_blank">
+        C compiler for Web Assembly (c4wa) |
+    </a>
+    By: 90s_dev
+</li>
 </ol>
