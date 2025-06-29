@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 28 Jun 2025</h4>
+<h4>Check the latest news from: Sun 29 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://jameshard.ing/pilot target="_blank">
-        Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights |
+    <a href=https://deno.com/blog/deno-v-oracle4 target="_blank">
+        JavaScript Trademark Update |
     </a>
-    By: jamesharding
-</li>
-
-<p>
-Text: Hey HN!<p>Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.<p>This globe is probably my favourite so far: <a href="https:&#x2F;&#x2F;jameshard.ing&#x2F;pilot&#x2F;globes&#x2F;all" rel="nofollow">https:&#x2F;&#x2F;jameshard.ing&#x2F;pilot&#x2F;globes&#x2F;all</a><p>If you’ve got ideas for other graphs or ways to show this kind of data, I’d love to hear them! </br>
-</p>
-
-<li>
-    <a href=https://www.mossplanet.news/p/why-does-kars4kids-sends-most-of target="_blank">
-        Why Does Kars4Kids Sends Most of Its Money to One Town in New Jersey? (2023) |
-    </a>
-    By: myballshurt
+    By: thebeardisred
 </li>
 
 <li>
-    <a href=https://machinelearning.apple.com/research/normalizing-flows target="_blank">
-        Normalizing Flows Are Capable Generative Models |
+    <a href=https://jameshaydon.github.io/passport/ target="_blank">
+        Solving `Passport Application` with Haskell |
     </a>
-    By: danboarder
+    By: jameshh
 </li>
 
 <li>
-    <a href=https://ocaml-sf.org/learn-ocaml-public/#activity=exercises target="_blank">
-        Learn OCaml |
+    <a href=https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin target="_blank">
+        MCP: An (Accidentally) Universal Plugin System |
     </a>
-    By: smartmic
+    By: Stwerner
 </li>
 
 <li>
-    <a href=https://github.com/kign/c4wa target="_blank">
-        C compiler for Web Assembly (c4wa) |
+    <a href=https://thewalrus.ca/the-death-of-the-middle-class-musician/ target="_blank">
+        The Death of the Middle-Class Musician |
     </a>
-    By: 90s_dev
+    By: pseudolus
+</li>
+
+<li>
+    <a href=https://masonyarbrough.substack.com/p/engineered-addictions target="_blank">
+        Addictions Are Being Engineered |
+    </a>
+    By: echollama
 </li>
 </ol>
