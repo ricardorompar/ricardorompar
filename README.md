@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 29 Jun 2025</h4>
+<h4>Check the latest news from: Mon 30 Jun 2025</h4>
 <ol>
 <li>
-    <a href=https://deno.com/blog/deno-v-oracle4 target="_blank">
-        JavaScript Trademark Update |
+    <a href=https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/ target="_blank">
+        Bought an Ampere Altra System |
     </a>
-    By: thebeardisred
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://jameshaydon.github.io/passport/ target="_blank">
-        Solving `Passport Application` with Haskell |
+    <a href=https://github.com/BitFunnel/NativeJIT target="_blank">
+        NativeJIT: A C++ expression –> x64 JIT |
     </a>
-    By: jameshh
+    By: nateb2022
 </li>
 
 <li>
-    <a href=https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin target="_blank">
-        MCP: An (Accidentally) Universal Plugin System |
+    <a href=https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html target="_blank">
+        I made my VM think it has a CPU fan |
     </a>
-    By: Stwerner
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://thewalrus.ca/the-death-of-the-middle-class-musician/ target="_blank">
-        The Death of the Middle-Class Musician |
+    <a href=https://thebookofshaders.com/ target="_blank">
+        The Book of Shaders |
     </a>
-    By: pseudolus
+    By: max_
 </li>
 
 <li>
-    <a href=https://masonyarbrough.substack.com/p/engineered-addictions target="_blank">
-        Addictions Are Being Engineered |
+    <a href=https://gridfinity.xyz/ target="_blank">
+        Gridfinity: The modular, open-source grid storage system |
     </a>
-    By: echollama
+    By: nateb2022
 </li>
 </ol>
