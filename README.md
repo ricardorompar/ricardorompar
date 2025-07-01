@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 30 Jun 2025</h4>
+<h4>Check the latest news from: Tue 01 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/ target="_blank">
-        Bought an Ampere Altra System |
+    <a href=https://www.xfinity.com/support/articles/wifi-motion target="_blank">
+        Xfinity using WiFi signals in your house to detect motion |
     </a>
-    By: pabs3
+    By: bearsyankees
 </li>
 
 <li>
-    <a href=https://github.com/BitFunnel/NativeJIT target="_blank">
-        NativeJIT: A C++ expression –> x64 JIT |
+    <a href=https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/ target="_blank">
+        Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits |
     </a>
-    By: nateb2022
+    By: blitzpoet
 </li>
 
 <li>
-    <a href=https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html target="_blank">
-        I made my VM think it has a CPU fan |
+    <a href=https://proton.me/blog/apple-lawsuit target="_blank">
+        Proton joins suit against Apple for practices that harm developers and consumers |
+    </a>
+    By: moose44
+</li>
+
+<li>
+    <a href=https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/ target="_blank">
+        I write type-safe generic data structures in C |
     </a>
     By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://thebookofshaders.com/ target="_blank">
-        The Book of Shaders |
+    <a href=https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only target="_blank">
+        There are no new ideas in AI only new datasets |
     </a>
-    By: max_
-</li>
-
-<li>
-    <a href=https://gridfinity.xyz/ target="_blank">
-        Gridfinity: The modular, open-source grid storage system |
-    </a>
-    By: nateb2022
+    By: bilsbie
 </li>
 </ol>
