@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 01 Jul 2025</h4>
+<h4>Check the latest news from: Wed 02 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.xfinity.com/support/articles/wifi-motion target="_blank">
-        Xfinity using WiFi signals in your house to detect motion |
+    <a href=https://calvin.sh/blog/fed-lie/ target="_blank">
+        The Fed says this is a cube of $1M. They're off by half a million |
     </a>
-    By: bearsyankees
+    By: c249709
 </li>
 
 <li>
-    <a href=https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/ target="_blank">
-        Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits |
+    <a href=https://www.figma.com/blog/s1-public/ target="_blank">
+        Figma files for proposed IPO |
     </a>
-    By: blitzpoet
+    By: kualto
 </li>
 
 <li>
-    <a href=https://proton.me/blog/apple-lawsuit target="_blank">
-        Proton joins suit against Apple for practices that harm developers and consumers |
+    <a href=https://blog.truestar.pro/fakespot-shuts-down/ target="_blank">
+        Fakespot shuts down today after 9 years of detecting fake product reviews |
     </a>
-    By: moose44
+    By: doppio19
 </li>
 
 <li>
-    <a href=https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/ target="_blank">
-        I write type-safe generic data structures in C |
+    <a href=https://nureti.com/blog/things-you-did-not-know-eu-time-directive/ target="_blank">
+        Working too much? EU law says you're entitled to more rest.:) |
     </a>
-    By: todsacerdoti
+    By: viggoblum
 </li>
 
 <li>
-    <a href=https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only target="_blank">
-        There are no new ideas in AI only new datasets |
+    <a href=https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/ target="_blank">
+        Why Do Swallows Fly to the Korean DMZ? |
     </a>
-    By: bilsbie
+    By: gaws
 </li>
 </ol>
