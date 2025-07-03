@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 02 Jul 2025</h4>
+<h4>Check the latest news from: Thu 03 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://calvin.sh/blog/fed-lie/ target="_blank">
-        The Fed says this is a cube of $1M. They're off by half a million |
+    <a href=https://www.jamesbayroad.com/ttr/index.html target="_blank">
+        Trans-Taiga Road (2004) |
     </a>
-    By: c249709
+    By: jason_pomerleau
 </li>
 
 <li>
-    <a href=https://www.figma.com/blog/s1-public/ target="_blank">
-        Figma files for proposed IPO |
+    <a href=https://www.youtube.com/watch?v=_PioN-CpOP0 target="_blank">
+        Fei-Fei Li: Spatial intelligence is the next frontier in AI [video] |
     </a>
-    By: kualto
+    By: sandslash
 </li>
 
 <li>
-    <a href=https://blog.truestar.pro/fakespot-shuts-down/ target="_blank">
-        Fakespot shuts down today after 9 years of detecting fake product reviews |
+    <a href=https://www.nature.com/articles/s41586-025-09195-5 target="_blank">
+        Whole-genome ancestry of an Old Kingdom Egyptian |
     </a>
-    By: doppio19
+    By: A_D_E_P_T
 </li>
 
 <li>
-    <a href=https://nureti.com/blog/things-you-did-not-know-eu-time-directive/ target="_blank">
-        Working too much? EU law says you're entitled to more rest.:) |
+    <a href=https://blog.mgdproductions.com/ikko-activebuds/ target="_blank">
+        Exploiting the IKKO Activebuds “AI powered” earbuds (2024) |
     </a>
-    By: viggoblum
+    By: ajdude
 </li>
 
 <li>
-    <a href=https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/ target="_blank">
-        Why Do Swallows Fly to the Korean DMZ? |
+    <a href=https://minorplanetcenter.net/mpec/K25/K25N12.html target="_blank">
+        Third Interstellar Object Discovered |
     </a>
-    By: gaws
+    By: gammarator
 </li>
 </ol>
