@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 05 Jul 2025</h4>
+<h4>Check the latest news from: Sun 06 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature target="_blank">
-        OBBB signed: Reinstates immediate expensing for U.S.-based R&D |
+    <a href=https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability target="_blank">
+        Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability |
     </a>
-    By: tareqak
+    By: cxr
 </li>
 
 <li>
-    <a href=https://fi-le.net/baba/ target="_blank">
-        Baba Is Eval |
+    <a href=https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/ target="_blank">
+        July 5, 1687: When Newton Explained Why You Don't Float Away |
     </a>
-    By: fi-le
+    By: TMEHpodcast
 </li>
 
 <li>
-    <a href=https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form target="_blank">
-        Being too ambitious is a clever form of self-sabotage |
+    <a href=https://simonwillison.net/2025/Jul/5/cgi-bin-performance/ target="_blank">
+        Serving 200M requests per day with a CGI-bin |
     </a>
-    By: alihm
+    By: mustache_kimono
 </li>
 
 <li>
-    <a href=https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip target="_blank">
-        Mini NASes marry NVMe to Intel's efficient chip |
+    <a href=https://www.inkandswitch.com/essay/local-first/ target="_blank">
+        Local-first software (2019) |
     </a>
-    By: ingve
+    By: gasull
 </li>
 
 <li>
-    <a href=https://www.reddit.com/r/AO3/s/67nQid89MW target="_blank">
-        Why AO3 Was Down |
+    <a href=https://thedailywtf.com/articles/Injection_Rejection target="_blank">
+        Injection Rejection (2006) |
     </a>
-    By: danso
+    By: dontTREATonme
 </li>
 </ol>
