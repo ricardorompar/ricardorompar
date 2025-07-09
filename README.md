@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 08 Jul 2025</h4>
+<h4>Check the latest news from: Wed 09 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://t2tmud.org/ target="_blank">
-        The Two Towers MUD |
+    <a href=https://github.com/CyberTimon/RapidRAW target="_blank">
+        RapidRAW: A non-destructive and GPU-accelerated RAW image editor |
     </a>
-    By: astronads
+    By: l8rlump
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/ target="_blank">
-        New sphere-packing record stems from an unexpected source |
+    <a href=https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding target="_blank">
+        Bootstrapping a side project into a profitable seven-figure business |
     </a>
-    By: pseudolus
+    By: jonkuipers
 </li>
 
 <li>
-    <a href=https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/ target="_blank">
-        LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping |
+    <a href=https://greatwavetoday.com/ target="_blank">
+        Where can I see Hokusai's Great Wave today? |
     </a>
-    By: jw1224
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=B3AZay43688" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=B3AZay43688</a> </br>
-</p>
-
-<li>
-    <a href=https://arxiv.org/abs/2506.17298 target="_blank">
-        Mercury: Ultra-fast language models based on diffusion |
-    </a>
-    By: PaulHoule
+    By: colinprince
 </li>
 
 <li>
-    <a href=https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long target="_blank">
-        The chemical secrets that help keep honey fresh for so long |
+    <a href=https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384 target="_blank">
+        Breaking Git with a carriage return and cloning RCE |
     </a>
-    By: bookofjoe
+    By: dgl
+</li>
+
+<li>
+    <a href=https://aresluna.org/frame-of-preference/ target="_blank">
+        Frame of preference A history of Mac settings, 1984–2004 |
+    </a>
+    By: K7PJP
 </li>
 </ol>
