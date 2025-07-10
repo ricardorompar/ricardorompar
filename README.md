@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 09 Jul 2025</h4>
+<h4>Check the latest news from: Thu 10 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/CyberTimon/RapidRAW target="_blank">
-        RapidRAW: A non-destructive and GPU-accelerated RAW image editor |
+    <a href=https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/ target="_blank">
+        A Virginia public library is fighting off a takeover by private equity |
     </a>
-    By: l8rlump
+    By: sharkweek
 </li>
 
 <li>
-    <a href=https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding target="_blank">
-        Bootstrapping a side project into a profitable seven-figure business |
+    <a href=https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html target="_blank">
+        Tree Borrows |
     </a>
-    By: jonkuipers
+    By: zdw
 </li>
 
 <li>
-    <a href=https://greatwavetoday.com/ target="_blank">
-        Where can I see Hokusai's Great Wave today? |
+    <a href=https://mcp-b.ai/ target="_blank">
+        MCP-B: A Protocol for AI Browser Automation |
     </a>
-    By: colinprince
+    By: bustodisgusto
 </li>
 
 <li>
-    <a href=https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384 target="_blank">
-        Breaking Git with a carriage return and cloning RCE |
+    <a href=https://github.com/snap-stanford/Biomni target="_blank">
+        Biomni: A General-Purpose Biomedical AI Agent |
     </a>
-    By: dgl
+    By: GavCo
 </li>
 
 <li>
-    <a href=https://aresluna.org/frame-of-preference/ target="_blank">
-        Frame of preference A history of Mac settings, 1984–2004 |
+    <a href=https://dchp.arts.ubc.ca/how-to-use target="_blank">
+        A Typology of Canadianisms |
     </a>
-    By: K7PJP
+    By: gnabgib
 </li>
+
+<p>
+Text: <i>A Dictionary of Canadianisms on Historical Principles</i> <a href="https:&#x2F;&#x2F;dchp.arts.ubc.ca&#x2F;" rel="nofollow">https:&#x2F;&#x2F;dchp.arts.ubc.ca&#x2F;</a> </br>
+</p>
 </ol>
