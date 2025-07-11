@@ -45,44 +45,70 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 10 Jul 2025</h4>
+<h4>Check the latest news from: Fri 11 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/ target="_blank">
-        A Virginia public library is fighting off a takeover by private equity |
+    <a href=https://github.com/fosrl/pangolin target="_blank">
+        Show HN: Pangolin – Open source alternative to Cloudflare Tunnels |
     </a>
-    By: sharkweek
-</li>
-
-<li>
-    <a href=https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html target="_blank">
-        Tree Borrows |
-    </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://mcp-b.ai/ target="_blank">
-        MCP-B: A Protocol for AI Browser Automation |
-    </a>
-    By: bustodisgusto
-</li>
-
-<li>
-    <a href=https://github.com/snap-stanford/Biomni target="_blank">
-        Biomni: A General-Purpose Biomedical AI Agent |
-    </a>
-    By: GavCo
-</li>
-
-<li>
-    <a href=https://dchp.arts.ubc.ca/how-to-use target="_blank">
-        A Typology of Canadianisms |
-    </a>
-    By: gnabgib
+    By: miloschwartz
 </li>
 
 <p>
-Text: <i>A Dictionary of Canadianisms on Historical Principles</i> <a href="https:&#x2F;&#x2F;dchp.arts.ubc.ca&#x2F;" rel="nofollow">https:&#x2F;&#x2F;dchp.arts.ubc.ca&#x2F;</a> </br>
+Text: Pangolin is an open source self-hosted tunneled reverse proxy management server with identity and access control, designed to securely expose private resources through encrypted WireGuard tunnels running in user space.<p>We made Pangolin so you retain full control over your infrastructure while providing a user-friendly and feature-rich solution for managing proxies, authentication, and access, all with a clean and simple dashboard web UI.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin">https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin</a><p>Deployment takes about 5 minutes on a VPS: <a href="https:&#x2F;&#x2F;docs.fossorial.io&#x2F;Getting%20Started&#x2F;quick-install" rel="nofollow">https:&#x2F;&#x2F;docs.fossorial.io&#x2F;Getting%20Started&#x2F;quick-install</a><p>Demo by Lawrence Systems (YouTube): <a href="https:&#x2F;&#x2F;youtu.be&#x2F;g5qOpxhhS7M?si=M1XTWLGLUZW0WzTv&amp;t=723" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;g5qOpxhhS7M?si=M1XTWLGLUZW0WzTv&amp;t=723</a><p>Some use cases:<p><pre><code>  - Grant users access to your apps from anywhere using just a web-browser
+
+  - Proxy behind CGNAT
+
+  - One application load balancer across multiple clouds and on-premises
+
+  - Easily expose services on IoT and edge devices for field monitoring
+
+  - Bring localhost online for easy access
+</code></pre>
+A few key features:<p><pre><code>  - No port forwarding and hide your public IP for self-hosting
+
+  - Create proxies to multiple different private networks
+
+  - OAuth2&#x2F;OIDC identity providers
+
+  - Role-based access control
+
+  - Raw TCP and UDP support
+
+  - Resource-specific pin codes, passwords, email OTP
+
+  - Self-destructing shareable links
+
+  - API for automation
+
+  - WAF with CrowdSec and Geoblocking</code></pre> </br>
 </p>
+
+<li>
+    <a href=https://www.recall.ai/blog/postgres-listen-notify-does-not-scale target="_blank">
+        Postgres LISTEN/NOTIFY does not scale |
+    </a>
+    By: davidgu
+</li>
+
+<li>
+    <a href=https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/ target="_blank">
+        Batch Mode in the Gemini API: Process More for Less |
+    </a>
+    By: xnx
+</li>
+
+<li>
+    <a href=https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256 target="_blank">
+        Australia is quietly introducing age checks for search engines like Google |
+    </a>
+    By: ahonhn
+</li>
+
+<li>
+    <a href=https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use target="_blank">
+        The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use |
+    </a>
+    By: surprisetalk
+</li>
 </ol>
