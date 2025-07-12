@@ -45,70 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 11 Jul 2025</h4>
+<h4>Check the latest news from: Sat 12 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/fosrl/pangolin target="_blank">
-        Show HN: Pangolin – Open source alternative to Cloudflare Tunnels |
+    <a href=https://www.theverge.com/openai/705999/google-windsurf-ceo-openai target="_blank">
+        OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google |
     </a>
-    By: miloschwartz
+    By: rcchen
+</li>
+
+<li>
+    <a href=https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html target="_blank">
+        ETH Zurich and EPFL to release a LLM developed on public infrastructure |
+    </a>
+    By: andy99
+</li>
+
+<li>
+    <a href=https://eprint.iacr.org/2025/1237.pdf target="_blank">
+        Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf] |
+    </a>
+    By: sebgan
+</li>
+
+<li>
+    <a href=https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/ target="_blank">
+        Faking a JPEG |
+    </a>
+    By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://www.bbc.co.uk/news/live/cx20p2x9093t target="_blank">
+        Preliminary report into Air India crash released |
+    </a>
+    By: cjr
 </li>
 
 <p>
-Text: Pangolin is an open source self-hosted tunneled reverse proxy management server with identity and access control, designed to securely expose private resources through encrypted WireGuard tunnels running in user space.<p>We made Pangolin so you retain full control over your infrastructure while providing a user-friendly and feature-rich solution for managing proxies, authentication, and access, all with a clean and simple dashboard web UI.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin">https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin</a><p>Deployment takes about 5 minutes on a VPS: <a href="https:&#x2F;&#x2F;docs.fossorial.io&#x2F;Getting%20Started&#x2F;quick-install" rel="nofollow">https:&#x2F;&#x2F;docs.fossorial.io&#x2F;Getting%20Started&#x2F;quick-install</a><p>Demo by Lawrence Systems (YouTube): <a href="https:&#x2F;&#x2F;youtu.be&#x2F;g5qOpxhhS7M?si=M1XTWLGLUZW0WzTv&amp;t=723" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;g5qOpxhhS7M?si=M1XTWLGLUZW0WzTv&amp;t=723</a><p>Some use cases:<p><pre><code>  - Grant users access to your apps from anywhere using just a web-browser
-
-  - Proxy behind CGNAT
-
-  - One application load balancer across multiple clouds and on-premises
-
-  - Easily expose services on IoT and edge devices for field monitoring
-
-  - Bring localhost online for easy access
-</code></pre>
-A few key features:<p><pre><code>  - No port forwarding and hide your public IP for self-hosting
-
-  - Create proxies to multiple different private networks
-
-  - OAuth2&#x2F;OIDC identity providers
-
-  - Role-based access control
-
-  - Raw TCP and UDP support
-
-  - Resource-specific pin codes, passwords, email OTP
-
-  - Self-destructing shareable links
-
-  - API for automation
-
-  - WAF with CrowdSec and Geoblocking</code></pre> </br>
+Text: Report: <a href="https:&#x2F;&#x2F;aaib.gov.in&#x2F;What%27s%20New%20Assets&#x2F;Preliminary%20Report%20VT-ANB.pdf" rel="nofollow">https:&#x2F;&#x2F;aaib.gov.in&#x2F;What%27s%20New%20Assets&#x2F;Preliminary%20Re...</a> </br>
 </p>
-
-<li>
-    <a href=https://www.recall.ai/blog/postgres-listen-notify-does-not-scale target="_blank">
-        Postgres LISTEN/NOTIFY does not scale |
-    </a>
-    By: davidgu
-</li>
-
-<li>
-    <a href=https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/ target="_blank">
-        Batch Mode in the Gemini API: Process More for Less |
-    </a>
-    By: xnx
-</li>
-
-<li>
-    <a href=https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256 target="_blank">
-        Australia is quietly introducing age checks for search engines like Google |
-    </a>
-    By: ahonhn
-</li>
-
-<li>
-    <a href=https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use target="_blank">
-        The ChompSaw: A Benchtop Power Tool That's Safe for Kids to Use |
-    </a>
-    By: surprisetalk
-</li>
 </ol>
