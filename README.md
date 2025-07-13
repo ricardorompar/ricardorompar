@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 12 Jul 2025</h4>
+<h4>Check the latest news from: Sun 13 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.theverge.com/openai/705999/google-windsurf-ceo-openai target="_blank">
-        OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google |
+    <a href=https://0x44.xyz/blog/web-request-blocking/ target="_blank">
+        Bypassing Google's big anti-adblock update |
     </a>
-    By: rcchen
+    By: deryilz
 </li>
 
 <li>
-    <a href=https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html target="_blank">
-        ETH Zurich and EPFL to release a LLM developed on public infrastructure |
+    <a href=https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html target="_blank">
+        Hacking Coroutines into C |
     </a>
-    By: andy99
+    By: jmillikin
 </li>
 
 <li>
-    <a href=https://eprint.iacr.org/2025/1237.pdf target="_blank">
-        Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf] |
+    <a href=https://timsh.org/claude-inside-docker/ target="_blank">
+        Switching to Claude Code and VSCode Inside Docker |
     </a>
-    By: sebgan
+    By: timsh
 </li>
 
 <li>
-    <a href=https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/ target="_blank">
-        Faking a JPEG |
+    <a href=https://github.com/MoonshotAI/Kimi-K2 target="_blank">
+        Kimi k2 largest open source SOTA model? |
     </a>
-    By: todsacerdoti
+    By: ConteMascetti71
 </li>
 
 <li>
-    <a href=https://www.bbc.co.uk/news/live/cx20p2x9093t target="_blank">
-        Preliminary report into Air India crash released |
+    <a href=https://blog.decryption.net.au/posts/macpaint.html target="_blank">
+        MacPaint Art from the Mid-80s Still Looks Great Today |
     </a>
-    By: cjr
+    By: decryption
 </li>
-
-<p>
-Text: Report: <a href="https:&#x2F;&#x2F;aaib.gov.in&#x2F;What%27s%20New%20Assets&#x2F;Preliminary%20Report%20VT-ANB.pdf" rel="nofollow">https:&#x2F;&#x2F;aaib.gov.in&#x2F;What%27s%20New%20Assets&#x2F;Preliminary%20Re...</a> </br>
-</p>
 </ol>
