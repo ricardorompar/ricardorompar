@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 13 Jul 2025</h4>
+<h4>Check the latest news from: Mon 14 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://0x44.xyz/blog/web-request-blocking/ target="_blank">
-        Bypassing Google's big anti-adblock update |
+    <a href=https://gpfault.net/posts/asm-tut-0.txt.html target="_blank">
+        Let's Learn x86-64 Assembly (2020) |
     </a>
-    By: deryilz
+    By: 90s_dev
 </li>
 
 <li>
-    <a href=https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html target="_blank">
-        Hacking Coroutines into C |
+    <a href=https://github.com/OpenCut-app/OpenCut target="_blank">
+        OpenCut: The open-source CapCut alternative |
     </a>
-    By: jmillikin
+    By: nateb2022
 </li>
 
 <li>
-    <a href=https://timsh.org/claude-inside-docker/ target="_blank">
-        Switching to Claude Code and VSCode Inside Docker |
+    <a href=https://arxiv.org/abs/2502.17424 target="_blank">
+        Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs |
     </a>
-    By: timsh
+    By: martythemaniak
 </li>
 
 <li>
-    <a href=https://github.com/MoonshotAI/Kimi-K2 target="_blank">
-        Kimi k2 largest open source SOTA model? |
+    <a href=https://nodaysoff.run target="_blank">
+        Show HN: Ten years of running every day, visualized |
     </a>
-    By: ConteMascetti71
+    By: friggeri
 </li>
 
+<p>
+Text: Today marks ten years, 3653 consecutive days, of running at least one mile every day under the USRSA rules [1]. To celebrate, I built an interactive dashboard that turns a decade of GPX files into charts you can explore.<p>Running has truly changed my life: I&#x27;ve made lifelong friends, explored beautiful places, and more importantly invested into my own health and fitness, which I&#x27;m starting to see the positive benefits as I get older.<p>The stack is pretty simple: a NextJS app, with a Postgres database to keep all my running data, and all the stats are pre-computed and cached in Redis, so I effectively only hit the database once a day when a new run is ingested. On the fronted, I toyed with the idea of using D3 or pre-existing data viz libraries, but ended up rolling my own using SVGs directly, it gave me more control on the visualizations.<p>I used the Strava bulk export to pre-populate the database, and I&#x27;m using their webhook API to do incremental updates. I have to tap into OpenWeatherMap and OpenCageDate to enrich the running data a little bit.<p>Happy to answer anything about the stack, data pipeline, or how I stayed motivated for 10 years!<p>[1] <a href="https:&#x2F;&#x2F;www.runeveryday.com" rel="nofollow">https:&#x2F;&#x2F;www.runeveryday.com</a> Run Streak Association rules: ≥ 1 mile per day </br>
+</p>
+
 <li>
-    <a href=https://blog.decryption.net.au/posts/macpaint.html target="_blank">
-        MacPaint Art from the Mid-80s Still Looks Great Today |
+    <a href=https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods target="_blank">
+        The underground cathedral protecting Tokyo from floods (2018) |
     </a>
-    By: decryption
+    By: barry-cotter
 </li>
 </ol>
