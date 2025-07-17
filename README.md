@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 16 Jul 2025</h4>
+<h4>Check the latest news from: Thu 17 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://geminiprotocol.net/news/2025_06_20.gmi target="_blank">
-        Six Years of Gemini |
+    <a href=https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/ target="_blank">
+        “Reading Rainbow” was created to combat summer reading slumps |
     </a>
-    By: brson
+    By: arbesman
 </li>
 
 <li>
-    <a href=https://github.com/vvaltchev/tilck target="_blank">
-        Tilck: A Tiny Linux-Compatible Kernel |
+    <a href=https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/ target="_blank">
+        Ex-Waymo engineers launch Bedrock Robotics to automate construction |
     </a>
-    By: chubot
+    By: boulos
+</li>
+
+<p>
+Text: Company announcement: <a href="https:&#x2F;&#x2F;bedrockrobotics.com&#x2F;news&#x2F;introducing-bedrock-robotics" rel="nofollow">https:&#x2F;&#x2F;bedrockrobotics.com&#x2F;news&#x2F;introducing-bedrock-robotic...</a> </br>
+</p>
+
+<li>
+    <a href=https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/ target="_blank">
+        Original Xbox Hacks: The A20 CPU Gate |
+    </a>
+    By: mattweinberg
 </li>
 
 <li>
-    <a href=https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/ target="_blank">
-        Cloudflare 1.1.1.1 Incident on July 14, 2025 |
+    <a href=https://smallandroidphone.com/ target="_blank">
+        I want an iPhone Mini-sized Android phone (2022) |
     </a>
-    By: nomaxx117
+    By: asimops
 </li>
 
 <li>
-    <a href=https://gpuhammer.com/ target="_blank">
-        GPUHammer: Rowhammer attacks on GPU memories are practical |
+    <a href=https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/ target="_blank">
+        I was wrong about robots.txt |
     </a>
-    By: jonbaer
-</li>
-
-<li>
-    <a href=https://www.matthieulc.com/posts/shoggoth-mini target="_blank">
-        Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL |
-    </a>
-    By: cataPhil
+    By: EPendragon
 </li>
 </ol>
