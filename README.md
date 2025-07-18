@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 17 Jul 2025</h4>
+<h4>Check the latest news from: Fri 18 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/ target="_blank">
-        “Reading Rainbow” was created to combat summer reading slumps |
+    <a href=https://bozmen.io/fhe target="_blank">
+        Fully homomorphic encryption and the dawn of a private internet |
     </a>
-    By: arbesman
+    By: barisozmen
 </li>
 
 <li>
-    <a href=https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/ target="_blank">
-        Ex-Waymo engineers launch Bedrock Robotics to automate construction |
+    <a href=https://lewiscampbell.tech/blog/250718.html target="_blank">
+        NIH is cheaper than the wrong dependency |
     </a>
-    By: boulos
-</li>
-
-<p>
-Text: Company announcement: <a href="https:&#x2F;&#x2F;bedrockrobotics.com&#x2F;news&#x2F;introducing-bedrock-robotics" rel="nofollow">https:&#x2F;&#x2F;bedrockrobotics.com&#x2F;news&#x2F;introducing-bedrock-robotic...</a> </br>
-</p>
-
-<li>
-    <a href=https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/ target="_blank">
-        Original Xbox Hacks: The A20 CPU Gate |
-    </a>
-    By: mattweinberg
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://smallandroidphone.com/ target="_blank">
-        I want an iPhone Mini-sized Android phone (2022) |
+    <a href=https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/ target="_blank">
+        My favorite use-case for AI is writing logs |
     </a>
-    By: asimops
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/ target="_blank">
-        I was wrong about robots.txt |
+    <a href=https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/ target="_blank">
+        USB-C hubs and my slow descent into madness (2021) |
     </a>
-    By: EPendragon
+    By: pabs3
+</li>
+
+<li>
+    <a href=https://openai.com/index/introducing-chatgpt-agent/ target="_blank">
+        ChatGPT agent: bridging research and action |
+    </a>
+    By: Topfi
 </li>
 </ol>
