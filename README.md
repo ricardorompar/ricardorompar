@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 18 Jul 2025</h4>
+<h4>Check the latest news from: Sat 19 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://bozmen.io/fhe target="_blank">
-        Fully homomorphic encryption and the dawn of a private internet |
+    <a href=https://codecaptured.com/blog/my-ultimate-self-hosting-setup/ target="_blank">
+        My Ultimate Self-Hosting Setup |
     </a>
-    By: barisozmen
+    By: mirdaki
 </li>
 
 <li>
-    <a href=https://lewiscampbell.tech/blog/250718.html target="_blank">
-        NIH is cheaper than the wrong dependency |
+    <a href=https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/ target="_blank">
+        How to write Rust in the Linux kernel: part 3 |
     </a>
-    By: todsacerdoti
+    By: chmaynard
 </li>
 
 <li>
-    <a href=https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/ target="_blank">
-        My favorite use-case for AI is writing logs |
+    <a href=https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/ target="_blank">
+        Valve confirms credit card companies pressured it to delist certain adult games |
     </a>
-    By: todsacerdoti
+    By: freedomben
 </li>
 
 <li>
-    <a href=https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/ target="_blank">
-        USB-C hubs and my slow descent into madness (2021) |
+    <a href=https://kristoff.it/blog/asynchrony-is-not-concurrency/ target="_blank">
+        Asynchrony is not concurrency |
     </a>
-    By: pabs3
+    By: kristoff_it
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-chatgpt-agent/ target="_blank">
-        ChatGPT agent: bridging research and action |
+    <a href=https://www.macintoshrepository.org/44146-mr-browser target="_blank">
+        Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs |
     </a>
-    By: Topfi
+    By: zdw
 </li>
 </ol>
