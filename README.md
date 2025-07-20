@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 19 Jul 2025</h4>
+<h4>Check the latest news from: Sun 20 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://codecaptured.com/blog/my-ultimate-self-hosting-setup/ target="_blank">
-        My Ultimate Self-Hosting Setup |
+    <a href=https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles target="_blank">
+        Hungary's oldest library is fighting to save books from a beetle infestation |
     </a>
-    By: mirdaki
+    By: smollett
 </li>
 
 <li>
-    <a href=https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/ target="_blank">
-        How to write Rust in the Linux kernel: part 3 |
+    <a href=https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/ target="_blank">
+        Make Your Own Backup System – Part 1: Strategy Before Scripts |
     </a>
-    By: chmaynard
+    By: Bogdanp
 </li>
 
 <li>
-    <a href=https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/ target="_blank">
-        Valve confirms credit card companies pressured it to delist certain adult games |
+    <a href=https://evanhahn.com/local-llms-versus-offline-wikipedia/ target="_blank">
+        Local LLMs versus offline Wikipedia |
     </a>
-    By: freedomben
+    By: EvanHahn
 </li>
 
 <li>
-    <a href=https://kristoff.it/blog/asynchrony-is-not-concurrency/ target="_blank">
-        Asynchrony is not concurrency |
+    <a href=https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai target="_blank">
+        Nobody knows how to build with AI yet |
     </a>
-    By: kristoff_it
+    By: Stwerner
 </li>
 
 <li>
-    <a href=https://www.macintoshrepository.org/44146-mr-browser target="_blank">
-        Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs |
+    <a href=https://twitter.com/alexwei_/status/1946477742855532918 target="_blank">
+        OpenAI claims gold-medal performance at IMO 2025 |
     </a>
-    By: zdw
+    By: Davidzheng
 </li>
 </ol>
