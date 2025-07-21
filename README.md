@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 20 Jul 2025</h4>
+<h4>Check the latest news from: Mon 21 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles target="_blank">
-        Hungary's oldest library is fighting to save books from a beetle infestation |
+    <a href=https://www.vidarholen.net/contents/blog/?p=1172 target="_blank">
+        “Dynamic Programming” is not referring to “computer programming” |
     </a>
-    By: smollett
+    By: r4um
 </li>
 
 <li>
-    <a href=https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/ target="_blank">
-        Make Your Own Backup System – Part 1: Strategy Before Scripts |
+    <a href=https://github.com/h2337/connmap target="_blank">
+        Show HN: X11 desktop widget that shows location of your network peers on a map |
     </a>
-    By: Bogdanp
+    By: h2337
 </li>
 
 <li>
-    <a href=https://evanhahn.com/local-llms-versus-offline-wikipedia/ target="_blank">
-        Local LLMs versus offline Wikipedia |
+    <a href=https://xbow.com/blog/alloy-agents/ target="_blank">
+        Agents built from alloys |
     </a>
-    By: EvanHahn
+    By: summarity
 </li>
 
 <li>
-    <a href=https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai target="_blank">
-        Nobody knows how to build with AI yet |
+    <a href=https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling target="_blank">
+        Staying cool without refrigerants: Next-generation Peltier cooling |
     </a>
-    By: Stwerner
+    By: simonebrunozzi
 </li>
 
 <li>
-    <a href=https://twitter.com/alexwei_/status/1946477742855532918 target="_blank">
-        OpenAI claims gold-medal performance at IMO 2025 |
+    <a href=https://gpuopen.com/learn/using_matrix_core_amd_rdna4/ target="_blank">
+        Using the Matrix Cores of AMD RDNA 4 architecture GPUs |
     </a>
-    By: Davidzheng
+    By: ibobev
 </li>
 </ol>
