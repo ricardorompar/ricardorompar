@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 21 Jul 2025</h4>
+<h4>Check the latest news from: Tue 22 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.vidarholen.net/contents/blog/?p=1172 target="_blank">
-        “Dynamic Programming” is not referring to “computer programming” |
+    <a href=https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/ target="_blank">
+        Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say |
     </a>
-    By: r4um
+    By: spenvo
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;Ym2jZ" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;Ym2jZ</a>, <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20250721135933&#x2F;https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;07&#x2F;20&#x2F;microsoft-sharepoint-hack&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20250721135933&#x2F;https:&#x2F;&#x2F;www.washi...</a><p><a href="https:&#x2F;&#x2F;research.eye.security&#x2F;sharepoint-under-siege&#x2F;" rel="nofollow">https:&#x2F;&#x2F;research.eye.security&#x2F;sharepoint-under-siege&#x2F;</a><p><a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2025&#x2F;07&#x2F;microsoft-fix-targets-attacks-on-sharepoint-zero-day&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2025&#x2F;07&#x2F;microsoft-fix-targets-at...</a><p><a href="https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;microsoft&#x2F;microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;microsoft&#x2F;microsoft-re...</a> </br>
+</p>
+
+<li>
+    <a href=https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies target="_blank">
+        Uv: Running a script with dependencies |
+    </a>
+    By: Bluestein
 </li>
 
 <li>
-    <a href=https://github.com/h2337/connmap target="_blank">
-        Show HN: X11 desktop widget that shows location of your network peers on a map |
+    <a href=https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/ target="_blank">
+        AI comes up with bizarre physics experiments, but they work |
     </a>
-    By: h2337
+    By: pseudolus
 </li>
 
 <li>
-    <a href=https://xbow.com/blog/alloy-agents/ target="_blank">
-        Agents built from alloys |
+    <a href=https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks target="_blank">
+        What went wrong inside recalled Anker PowerCore 10000 power banks? |
     </a>
-    By: summarity
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling target="_blank">
-        Staying cool without refrigerants: Next-generation Peltier cooling |
+    <a href=https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/ target="_blank">
+        NASA’s X-59 quiet supersonic aircraft begins taxi tests |
     </a>
-    By: simonebrunozzi
-</li>
-
-<li>
-    <a href=https://gpuopen.com/learn/using_matrix_core_amd_rdna4/ target="_blank">
-        Using the Matrix Cores of AMD RDNA 4 architecture GPUs |
-    </a>
-    By: ibobev
+    By: rbanffy
 </li>
 </ol>
