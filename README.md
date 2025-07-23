@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 22 Jul 2025</h4>
+<h4>Check the latest news from: Wed 23 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/ target="_blank">
-        Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say |
+    <a href=https://qwenlm.github.io/blog/qwen3-coder/ target="_blank">
+        Qwen3-Coder: Agentic coding in the world |
     </a>
-    By: spenvo
+    By: danielhanchen
+</li>
+
+<li>
+    <a href=https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/ target="_blank">
+        Mathematics for Computer Science (2024) |
+    </a>
+    By: vismit2000
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;Ym2jZ" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;Ym2jZ</a>, <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20250721135933&#x2F;https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;07&#x2F;20&#x2F;microsoft-sharepoint-hack&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20250721135933&#x2F;https:&#x2F;&#x2F;www.washi...</a><p><a href="https:&#x2F;&#x2F;research.eye.security&#x2F;sharepoint-under-siege&#x2F;" rel="nofollow">https:&#x2F;&#x2F;research.eye.security&#x2F;sharepoint-under-siege&#x2F;</a><p><a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2025&#x2F;07&#x2F;microsoft-fix-targets-attacks-on-sharepoint-zero-day&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2025&#x2F;07&#x2F;microsoft-fix-targets-at...</a><p><a href="https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;microsoft&#x2F;microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;microsoft&#x2F;microsoft-re...</a> </br>
+Text: Lecture videos:<p><a href="https:&#x2F;&#x2F;ocw.mit.edu&#x2F;courses&#x2F;6-1200j-mathematics-for-computer" rel="nofollow">https:&#x2F;&#x2F;ocw.mit.edu&#x2F;courses&#x2F;6-1200j-mathematics-for-computer</a>...<p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLUl4u3cNGP61VNvICqk2H" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLUl4u3cNGP61VNvICqk2H</a>... </br>
 </p>
 
 <li>
-    <a href=https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies target="_blank">
-        Uv: Running a script with dependencies |
+    <a href=https://github.com/scottvr/wtffmpeg target="_blank">
+        Show HN: WTFfmpeg |
     </a>
-    By: Bluestein
+    By: ycombiredd
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/ target="_blank">
-        AI comes up with bizarre physics experiments, but they work |
+    <a href=https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html target="_blank">
+        The Benefits of Trunk-Based Development |
     </a>
-    By: pseudolus
+    By: gpi
 </li>
 
 <li>
-    <a href=https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks target="_blank">
-        What went wrong inside recalled Anker PowerCore 10000 power banks? |
+    <a href=https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/ target="_blank">
+        AI coding agents are removing programming language barriers |
     </a>
-    By: walterbell
-</li>
-
-<li>
-    <a href=https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/ target="_blank">
-        NASA’s X-59 quiet supersonic aircraft begins taxi tests |
-    </a>
-    By: rbanffy
+    By: Bogdanp
 </li>
 </ol>
