@@ -45,43 +45,47 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 23 Jul 2025</h4>
+<h4>Check the latest news from: Thu 24 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://qwenlm.github.io/blog/qwen3-coder/ target="_blank">
-        Qwen3-Coder: Agentic coding in the world |
+    <a href=https://www.aaedmusa.com/projects/cara target="_blank">
+        CARA – High precision robot dog using rope |
     </a>
-    By: danielhanchen
-</li>
-
-<li>
-    <a href=https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/ target="_blank">
-        Mathematics for Computer Science (2024) |
-    </a>
-    By: vismit2000
+    By: hakonjdjohnsen
 </li>
 
 <p>
-Text: Lecture videos:<p><a href="https:&#x2F;&#x2F;ocw.mit.edu&#x2F;courses&#x2F;6-1200j-mathematics-for-computer" rel="nofollow">https:&#x2F;&#x2F;ocw.mit.edu&#x2F;courses&#x2F;6-1200j-mathematics-for-computer</a>...<p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLUl4u3cNGP61VNvICqk2H" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLUl4u3cNGP61VNvICqk2H</a>... </br>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8s9TjRz01fo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8s9TjRz01fo</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/scottvr/wtffmpeg target="_blank">
-        Show HN: WTFfmpeg |
+    <a href=https://bgp.tools/ target="_blank">
+        BGP.Tools: Browse the Internet Ecosystem |
     </a>
-    By: ycombiredd
+    By: RGBCube
 </li>
 
 <li>
-    <a href=https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html target="_blank">
-        The Benefits of Trunk-Based Development |
+    <a href=https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/ target="_blank">
+        AI overviews cause massive drop in search clicks |
     </a>
-    By: gpi
+    By: jonbaer
 </li>
 
 <li>
-    <a href=https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/ target="_blank">
-        AI coding agents are removing programming language barriers |
+    <a href=https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/ target="_blank">
+        Electric cars produce far less brake dust pollution than combustion-engine cars |
+    </a>
+    By: tzs
+</li>
+
+<p>
+Text: Report: <a href="https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobility-with-non-exhaust-emissions&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobi...</a> </br>
+</p>
+
+<li>
+    <a href=https://tpl.house/ target="_blank">
+        The Promised LAN |
     </a>
     By: Bogdanp
 </li>
