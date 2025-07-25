@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 24 Jul 2025</h4>
+<h4>Check the latest news from: Fri 25 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://www.aaedmusa.com/projects/cara target="_blank">
-        CARA – High precision robot dog using rope |
+    <a href=https://lwn.net/SubscriberLink/1030004/898017c7953c0946/ target="_blank">
+        Graphene OS: a security-enhanced Android build |
     </a>
-    By: hakonjdjohnsen
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8s9TjRz01fo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8s9TjRz01fo</a> </br>
-</p>
-
-<li>
-    <a href=https://bgp.tools/ target="_blank">
-        BGP.Tools: Browse the Internet Ecosystem |
-    </a>
-    By: RGBCube
+    By: madars
 </li>
 
 <li>
-    <a href=https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/ target="_blank">
-        AI overviews cause massive drop in search clicks |
+    <a href=https://asciinema.org target="_blank">
+        Asciinema: Record and share your terminal sessions |
     </a>
-    By: jonbaer
+    By: phendrenad2
 </li>
 
 <li>
-    <a href=https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/ target="_blank">
-        Electric cars produce far less brake dust pollution than combustion-engine cars |
+    <a href=https://positron.posit.co/ target="_blank">
+        Positron – A next-generation data science IDE |
     </a>
-    By: tzs
+    By: amai
 </li>
 
-<p>
-Text: Report: <a href="https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobility-with-non-exhaust-emissions&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.eiturbanmobility.eu&#x2F;knowledge-hub&#x2F;mastering-mobi...</a> </br>
-</p>
+<li>
+    <a href=https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019 target="_blank">
+        Scientists may have found a way to eliminate chromosome linked to Down syndrome |
+    </a>
+    By: MattSayar
+</li>
 
 <li>
-    <a href=https://tpl.house/ target="_blank">
-        The Promised LAN |
+    <a href=https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more target="_blank">
+        AMD CEO sees chips from TSMC's US plant costing 5%-20% more |
     </a>
-    By: Bogdanp
+    By: mfiguiere
 </li>
 </ol>
