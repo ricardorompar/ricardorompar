@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 25 Jul 2025</h4>
+<h4>Check the latest news from: Sat 26 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://lwn.net/SubscriberLink/1030004/898017c7953c0946/ target="_blank">
-        Graphene OS: a security-enhanced Android build |
+    <a href=https://idiallo.com/blog/dont-download-apps target="_blank">
+        Do not download the app, use the website |
     </a>
-    By: madars
+    By: foxfired
 </li>
 
 <li>
-    <a href=https://asciinema.org target="_blank">
-        Asciinema: Record and share your terminal sessions |
+    <a href=https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/ target="_blank">
+        It's time for modern CSS to kill the SPA |
     </a>
-    By: phendrenad2
+    By: tambourine_man
 </li>
 
 <li>
-    <a href=https://positron.posit.co/ target="_blank">
-        Positron – A next-generation data science IDE |
+    <a href=https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/ target="_blank">
+        CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion |
     </a>
-    By: amai
+    By: chrononaut
 </li>
 
 <li>
-    <a href=https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019 target="_blank">
-        Scientists may have found a way to eliminate chromosome linked to Down syndrome |
+    <a href=https://news.sparkfun.com/14298 target="_blank">
+        It's a DE9, not a DB9 (but we know what you mean) |
     </a>
-    By: MattSayar
+    By: jgrahamc
 </li>
 
 <li>
-    <a href=https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more target="_blank">
-        AMD CEO sees chips from TSMC's US plant costing 5%-20% more |
+    <a href=https://www.zachleat.com/web/adventures-in-date-parsing/ target="_blank">
+        Never write your own date parsing library |
     </a>
-    By: mfiguiere
+    By: ulrischa
 </li>
 </ol>
