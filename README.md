@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 26 Jul 2025</h4>
+<h4>Check the latest news from: Sun 27 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://idiallo.com/blog/dont-download-apps target="_blank">
-        Do not download the app, use the website |
+    <a href=https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/ target="_blank">
+        Fast and cheap bulk storage: using LVM to cache HDDs on SSDs |
     </a>
-    By: foxfired
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/ target="_blank">
-        It's time for modern CSS to kill the SPA |
+    <a href=https://spectrum.ieee.org/nmc-battery-aspiring-materials target="_blank">
+        Chemical Process Produces Critical Battery Metals with No Waste |
     </a>
-    By: tambourine_man
+    By: stubish
 </li>
 
 <li>
-    <a href=https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/ target="_blank">
-        CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion |
+    <a href=https://tristanpemble.com/resizable-structs-in-zig/ target="_blank">
+        Resizable structs in Zig |
     </a>
-    By: chrononaut
+    By: rvrb
 </li>
 
 <li>
-    <a href=https://news.sparkfun.com/14298 target="_blank">
-        It's a DE9, not a DB9 (but we know what you mean) |
+    <a href=https://furnacecreek.org/quicktunes/ target="_blank">
+        Show HN: QuickTunes: Apple Music player for Mac with iPod vibes |
     </a>
-    By: jgrahamc
+    By: albertru90
 </li>
 
+<p>
+Text: The slow and bloated nature of the Mac Apple Music app inspired us to create QuickTunes. It is a simple, fast, and native Apple Music player inspired by the simplicity of the iPod. You can use keyboard shortcuts to navigate a simple multi column layout, pick something, and press Play. </br>
+</p>
+
 <li>
-    <a href=https://www.zachleat.com/web/adventures-in-date-parsing/ target="_blank">
-        Never write your own date parsing library |
+    <a href=https://research.eye.security/how-we-rooted-copilot/ target="_blank">
+        How we rooted Copilot |
     </a>
-    By: ulrischa
+    By: uponasmile
 </li>
 </ol>
