@@ -45,53 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 28 Jul 2025</h4>
+<h4>Check the latest news from: Tue 29 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/segmentationf4u1t/trae_telemetry_research target="_blank">
-        Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork |
+    <a href=https://fintechdystopia.com/ target="_blank">
+        Fintech dystopia |
     </a>
-    By: segfault22
-</li>
-
-<p>
-Text: Hi HN,
-I was evaluating IDEs for a personal project and decided to test Trae, ByteDance&#x27;s fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I&#x27;ve written up a full analysis with screenshots, network logs, and data payloads in the linked post.<p>Here are the key findings:<p>1. Extreme Resource Consumption:
-Out of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it&#x27;s still significantly heavier.<p>2. Telemetry Opt-Out Doesn&#x27;t Work (It Makes It Worse):
-I found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn&#x27;t stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry &quot;off&quot; switch appears to be purely cosmetic.<p>3. What&#x27;s Being Sent:
-Even with telemetry &quot;disabled,&quot; Trae sends detailed payloads including:
-Hardware specs (CPU, memory, etc.)
-Persistent user, device, and machine IDs
-OS version, app language, user name
-Granular usage data like time-on-ide, window focus state, and active file types.<p>4. Community Censorship:
-When I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like &quot;track&quot; trigger an automated gag rule, which prevents any real discussion about privacy.<p>I believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions. </br>
-</p>
-
-<li>
-    <a href=https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds target="_blank">
-        Enough AI copilots, we need AI HUDs |
-    </a>
-    By: walterbell
+    By: LasEspuelas
 </li>
 
 <li>
-    <a href=https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/ target="_blank">
-        Big agriculture mislead the public about the benefits of biofuels |
+    <a href=https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken target="_blank">
+        An engineer's perspective: Why everything feels broken and what can we do |
     </a>
-    By: littlexsparkee
+    By: tush726
 </li>
 
 <li>
-    <a href=https://www.dumbpipe.dev/ target="_blank">
-        Dumb Pipe |
+    <a href=https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/ target="_blank">
+        I designed my own fast game streaming video codec – PyroWave |
     </a>
-    By: udev4096
+    By: Bogdanp
 </li>
 
 <li>
-    <a href=https://code.blender.org/2025/07/beyond-mouse-keyboard/ target="_blank">
-        Blender: Beyond Mouse and Keyboard |
+    <a href=https://github.com/9001/copyparty target="_blank">
+        Copyparty – Turn almost any device into a file server |
     </a>
-    By: dagmx
+    By: saint11
+</li>
+
+<li>
+    <a href=https://mathstodon.xyz/@tao/114915604830689046 target="_blank">
+        Tao on “blue team” vs. “red team” LLMs |
+    </a>
+    By: qsort
 </li>
 </ol>
