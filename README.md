@@ -45,40 +45,38 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 29 Jul 2025</h4>
+<h4>Check the latest news from: Wed 30 Jul 2025</h4>
 <ol>
 <li>
-    <a href=https://fintechdystopia.com/ target="_blank">
-        Fintech dystopia |
+    <a href=https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive target="_blank">
+        M8.7 earthquake in Western Pacific, tsunami warning issued |
     </a>
-    By: LasEspuelas
+    By: jandrewrogers
 </li>
 
 <li>
-    <a href=https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken target="_blank">
-        An engineer's perspective: Why everything feels broken and what can we do |
+    <a href=https://openai.com/index/chatgpt-study-mode/ target="_blank">
+        Study mode |
     </a>
-    By: tush726
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/ target="_blank">
-        I designed my own fast game streaming video codec – PyroWave |
+    <a href=https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/ target="_blank">
+        RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession |
     </a>
-    By: Bogdanp
+    By: fidotron
 </li>
 
-<li>
-    <a href=https://github.com/9001/copyparty target="_blank">
-        Copyparty – Turn almost any device into a file server |
-    </a>
-    By: saint11
-</li>
+<p>
+Text: Hi HN! We&#x27;re Yujong, John, Duck, and Sung from Hyprnote (<a href="https:&#x2F;&#x2F;hyprnote.com" rel="nofollow">https:&#x2F;&#x2F;hyprnote.com</a>). We&#x27;re building an open-source, privacy-first AI note-taking app that runs fully on-device. Think of it as an open-source Granola. No Zoom bots, no cloud APIs, no data ever leaves your machine.<p>Source code: <a href="https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote">https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote</a>
+Demo video: <a href="https:&#x2F;&#x2F;hyprnote.com&#x2F;demo" rel="nofollow">https:&#x2F;&#x2F;hyprnote.com&#x2F;demo</a><p>We built Hyprnote because some of our friends told us that their companies banned certain meeting notetakers due to data concerns, or they simply felt uncomfortable sending data to unknown servers. So they went back to manual note-taking - losing focus during meetings and wasting time afterward.<p>We asked: could we build something just as useful, but completely local?<p>Hyprnote is a desktop app that transcribes and summarizes meetings on-device. It captures both your mic input and system audio, so you don&#x27;t need to invite bots. It generates a summary based on the notes you take. Everything runs on local AI models by default, using Whisper and HyprLLM. HyprLLM is our proof-of-concept model fine-tuned from Qwen3 1.7B. We learned that summarizing meetings is a very nuanced task and that a model&#x27;s raw intelligence (or weight) doesn&#x27;t matter THAT much. We&#x27;ll release more details on evaluation and training once we finish the 2nd iteration of the model (still not that good  we can make it a lot better).<p>Whisper inference: <a href="https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;whisper-local&#x2F;src&#x2F;model.rs">https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;whispe...</a><p>AEC inference: <a href="https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;aec&#x2F;src&#x2F;lib.rs">https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;aec&#x2F;sr...</a><p>LLM inference: <a href="https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;llama&#x2F;src&#x2F;lib.rs">https:&#x2F;&#x2F;github.com&#x2F;fastrepl&#x2F;hyprnote&#x2F;blob&#x2F;main&#x2F;crates&#x2F;llama&#x2F;...</a><p>We also learned that for some folks, having full data controllability was as important as privacy. So we support custom endpoints, allowing users to bring in their company&#x27;s internal LLM. For teams that need integrations, collaboration, or admin controls, we&#x27;re working on an optional server component that can be self-hosted. Lastly, we&#x27;re exploring ways to make Hyprnote work like VSCode, so you can install extensions and build your own workflows around your meetings.<p>We believe privacy-first tools, powered by local models, are going to unlock the next wave of real-world AI apps.<p>We&#x27;re here and looking forward to your comments! </br>
+</p>
 
 <li>
-    <a href=https://mathstodon.xyz/@tao/114915604830689046 target="_blank">
-        Tao on “blue team” vs. “red team” LLMs |
+    <a href=https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/ target="_blank">
+        URL-Driven State in HTMX |
     </a>
-    By: qsort
+    By: lorenstewart
 </li>
 </ol>
