@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 31 Jul 2025</h4>
+<h4>Check the latest news from: Fri 01 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.catherinejue.com/fast target="_blank">
-        Fast |
+    <a href=https://michaelnotebook.com/slow/index.html target="_blank">
+        Slow |
     </a>
-    By: gaplong
+    By: calvinfo
 </li>
 
 <li>
-    <a href=https://undeadly.org/cgi?action=article;sid=20250730080301 target="_blank">
-        Classic Common Desktop Environment coming to OpenBSD |
+    <a href=https://mountainofink.com target="_blank">
+        Mountain of Ink |
     </a>
-    By: susam
+    By: neilfrndes
 </li>
 
 <li>
-    <a href=https://www.figma.com/blog/ipo-pricing/ target="_blank">
-        Figma will IPO on July 31 |
+    <a href=https://www.krea.ai/blog/flux-krea-open-source-release target="_blank">
+        Releasing weights for FLUX.1 Krea |
     </a>
-    By: nevir
+    By: vmatsiiako
 </li>
 
 <li>
-    <a href=https://ollama.com/blog/new-app target="_blank">
-        Ollama's new app |
+    <a href=https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing target="_blank">
+        The anti-abundance critique on housing is wrong |
     </a>
-    By: BUFU
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-stargate-norway/ target="_blank">
-        Stargate Norway |
+    <a href=https://lwn.net/Articles/1029851/ target="_blank">
+        QUIC for the kernel |
     </a>
-    By: amrrs
+    By: Bogdanp
 </li>
 </ol>
