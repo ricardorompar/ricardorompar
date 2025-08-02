@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 01 Aug 2025</h4>
+<h4>Check the latest news from: Sat 02 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://michaelnotebook.com/slow/index.html target="_blank">
-        Slow |
+    <a href=https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660 target="_blank">
+        Hardening mode for the compiler |
     </a>
-    By: calvinfo
+    By: vitaut
 </li>
 
 <li>
-    <a href=https://mountainofink.com target="_blank">
-        Mountain of Ink |
+    <a href=https://www.cerebras.ai/blog/introducing-cerebras-code target="_blank">
+        Cerebras Code |
     </a>
-    By: neilfrndes
+    By: d3vr
 </li>
 
 <li>
-    <a href=https://www.krea.ai/blog/flux-krea-open-source-release target="_blank">
-        Releasing weights for FLUX.1 Krea |
+    <a href=https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary target="_blank">
+        Robert Wilson has died |
     </a>
-    By: vmatsiiako
+    By: paulpauper
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;07&#x2F;31&#x2F;theater&#x2F;robert-wilson-dead.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;07&#x2F;31&#x2F;theater&#x2F;robert-wilson-dea...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;VnwA0" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;VnwA0</a>) </br>
+</p>
+
+<li>
+    <a href=https://www.dougmacdowell.com/coffeematic-pc.html target="_blank">
+        Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU |
+    </a>
+    By: dougdude3339
 </li>
 
 <li>
-    <a href=https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing target="_blank">
-        The anti-abundance critique on housing is wrong |
+    <a href=https://rickovercorpus.org/ target="_blank">
+        The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos |
     </a>
-    By: rbanffy
-</li>
-
-<li>
-    <a href=https://lwn.net/Articles/1029851/ target="_blank">
-        QUIC for the kernel |
-    </a>
-    By: Bogdanp
+    By: stmw
 </li>
 </ol>
