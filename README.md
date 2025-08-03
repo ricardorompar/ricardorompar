@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 02 Aug 2025</h4>
+<h4>Check the latest news from: Sun 03 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660 target="_blank">
-        Hardening mode for the compiler |
+    <a href=https://www.ioccc.org/2024/index.html target="_blank">
+        28th International Obfuscated C Code Contest |
     </a>
-    By: vitaut
+    By: mdl_principle
 </li>
 
 <li>
-    <a href=https://www.cerebras.ai/blog/introducing-cerebras-code target="_blank">
-        Cerebras Code |
+    <a href=https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/ target="_blank">
+        C++26 Reflections adventures and compile-time UML |
     </a>
-    By: d3vr
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary target="_blank">
-        Robert Wilson has died |
+    <a href=https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html target="_blank">
+        Helsinki records zero traffic deaths for full year |
     </a>
-    By: paulpauper
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;07&#x2F;31&#x2F;theater&#x2F;robert-wilson-dead.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;07&#x2F;31&#x2F;theater&#x2F;robert-wilson-dea...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;VnwA0" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;VnwA0</a>) </br>
-</p>
-
-<li>
-    <a href=https://www.dougmacdowell.com/coffeematic-pc.html target="_blank">
-        Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU |
-    </a>
-    By: dougdude3339
+    By: DaveZale
 </li>
 
 <li>
-    <a href=https://rickovercorpus.org/ target="_blank">
-        The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos |
+    <a href=https://www.telotrucks.com/ target="_blank">
+        Telo MT1 |
     </a>
-    By: stmw
+    By: turtleyacht
+</li>
+
+<li>
+    <a href=https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ target="_blank">
+        6 weeks of Claude Code |
+    </a>
+    By: mike1o1
 </li>
 </ol>
