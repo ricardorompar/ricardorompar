@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 03 Aug 2025</h4>
+<h4>Check the latest news from: Mon 04 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.ioccc.org/2024/index.html target="_blank">
-        28th International Obfuscated C Code Contest |
+    <a href=https://kashw1n.com/blog/nodejs-2025/ target="_blank">
+        Modern Node.js Patterns |
     </a>
-    By: mdl_principle
+    By: eustoria
 </li>
 
 <li>
-    <a href=https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/ target="_blank">
-        C++26 Reflections adventures and compile-time UML |
+    <a href=https://grantslatton.com/how-to-design-document target="_blank">
+        Writing a good design document |
     </a>
-    By: ibobev
+    By: kiyanwang
 </li>
 
 <li>
-    <a href=https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html target="_blank">
-        Helsinki records zero traffic deaths for full year |
+    <a href=https://eliot-jones.com/2025/8/pdf-parsing-xref target="_blank">
+        So you want to parse a PDF? |
     </a>
-    By: DaveZale
+    By: UglyToad
 </li>
 
 <li>
-    <a href=https://www.telotrucks.com/ target="_blank">
-        Telo MT1 |
+    <a href=https://www.anthropic.com/research/persona-vectors target="_blank">
+        Persona vectors: Monitoring and controlling character traits in language models |
     </a>
-    By: turtleyacht
+    By: itchyjunk
 </li>
 
 <li>
-    <a href=https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ target="_blank">
-        6 weeks of Claude Code |
+    <a href=https://github.com/easrng/tsints target="_blank">
+        A parser for TypeScript types, written in TypeScript types |
     </a>
-    By: mike1o1
+    By: todsacerdoti
 </li>
 </ol>
