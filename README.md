@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 04 Aug 2025</h4>
+<h4>Check the latest news from: Tue 05 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://kashw1n.com/blog/nodejs-2025/ target="_blank">
-        Modern Node.js Patterns |
+    <a href=https://frigate.video/ target="_blank">
+        Monitor your security cameras with locally processed AI |
     </a>
-    By: eustoria
+    By: zakki
 </li>
 
 <li>
-    <a href=https://grantslatton.com/how-to-design-document target="_blank">
-        Writing a good design document |
+    <a href=https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/ target="_blank">
+        PHP 8.5 Adds Pipe Operator: What it means |
     </a>
-    By: kiyanwang
+    By: lemper
 </li>
 
 <li>
-    <a href=https://eliot-jones.com/2025/8/pdf-parsing-xref target="_blank">
-        So you want to parse a PDF? |
+    <a href=https://benholmen.com/blog/kilopixel/ target="_blank">
+        Show HN: I spent 6 years building a ridiculous wooden pixel display |
     </a>
-    By: UglyToad
+    By: benholmen
 </li>
 
-<li>
-    <a href=https://www.anthropic.com/research/persona-vectors target="_blank">
-        Persona vectors: Monitoring and controlling character traits in language models |
-    </a>
-    By: itchyjunk
-</li>
+<p>
+Text: I built the world&#x27;s most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.<p><a href="https:&#x2F;&#x2F;kilopx.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kilopx.com&#x2F;</a> </br>
+</p>
 
 <li>
-    <a href=https://github.com/easrng/tsints target="_blank">
-        A parser for TypeScript types, written in TypeScript types |
+    <a href=https://qwenlm.github.io/blog/qwen-image/ target="_blank">
+        Qwen-Image: Crafting with native text rendering |
     </a>
-    By: todsacerdoti
+    By: meetpateltech
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen-Image" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen-Image</a><p><a href="https:&#x2F;&#x2F;qianwen-res.oss-cn-beijing.aliyuncs.com&#x2F;Qwen-Image&#x2F;Qwen_Image.pdf" rel="nofollow">https:&#x2F;&#x2F;qianwen-res.oss-cn-beijing.aliyuncs.com&#x2F;Qwen-Image&#x2F;Q...</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/crbnos/carbon target="_blank">
+        Show HN: I've been building an ERP for manufacturing for the last 3 years |
+    </a>
+    By: barbinbrad
 </li>
 </ol>
