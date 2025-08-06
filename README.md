@@ -45,48 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 05 Aug 2025</h4>
+<h4>Check the latest news from: Wed 06 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://frigate.video/ target="_blank">
-        Monitor your security cameras with locally processed AI |
+    <a href=https://github.com/KittenML/KittenTTS target="_blank">
+        Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model |
     </a>
-    By: zakki
-</li>
-
-<li>
-    <a href=https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/ target="_blank">
-        PHP 8.5 Adds Pipe Operator: What it means |
-    </a>
-    By: lemper
-</li>
-
-<li>
-    <a href=https://benholmen.com/blog/kilopixel/ target="_blank">
-        Show HN: I spent 6 years building a ridiculous wooden pixel display |
-    </a>
-    By: benholmen
+    By: divamgupta
 </li>
 
 <p>
-Text: I built the world&#x27;s most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.<p><a href="https:&#x2F;&#x2F;kilopx.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;kilopx.com&#x2F;</a> </br>
+Text: Kitten TTS is an open-source series of tiny and expressive text-to-speech models for on-device applications. We are excited to launch a preview of our smallest model, which is less than 25 MB. This model has 15M parameters.<p>We&#x27;re releasing the preview just to give early users a sense of the latency and voices that will be available in our next release (hopefully next week). We&#x27;d love feedback! Just FYI, this model is an early checkpoint trained on less than 10% of our total data.<p>We started working on this because existing expressive OSS models require big GPUs to run them on-device and the cloud alternatives are too expensive for high frequency use. We think there&#x27;s a need for frontier open-source models that are tiny enough to run on edge devices! </br>
 </p>
 
 <li>
-    <a href=https://qwenlm.github.io/blog/qwen-image/ target="_blank">
-        Qwen-Image: Crafting with native text rendering |
+    <a href=https://openai.com/open-models/ target="_blank">
+        Open models by OpenAI |
     </a>
-    By: meetpateltech
+    By: lackoftactics
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen-Image" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen-Image</a><p><a href="https:&#x2F;&#x2F;qianwen-res.oss-cn-beijing.aliyuncs.com&#x2F;Qwen-Image&#x2F;Qwen_Image.pdf" rel="nofollow">https:&#x2F;&#x2F;qianwen-res.oss-cn-beijing.aliyuncs.com&#x2F;Qwen-Image&#x2F;Q...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-oss&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-oss&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/crbnos/carbon target="_blank">
-        Show HN: I've been building an ERP for manufacturing for the last 3 years |
+    <a href=https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/ target="_blank">
+        Marines now have an official drone-fighting handbook |
     </a>
-    By: barbinbrad
+    By: Gaishan
+</li>
+
+<li>
+    <a href=https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language target="_blank">
+        The Amaranth hardware description language |
+    </a>
+    By: pabs3
+</li>
+
+<li>
+    <a href=https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/ target="_blank">
+        Genie 3: A new frontier for world models |
+    </a>
+    By: bradleyg223
 </li>
 </ol>
