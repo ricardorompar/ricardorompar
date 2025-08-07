@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 06 Aug 2025</h4>
+<h4>Check the latest news from: Thu 07 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/KittenML/KittenTTS target="_blank">
-        Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model |
+    <a href=https://github.com/manzaltu/claude-code-ide.el target="_blank">
+        Claude Code IDE integration for Emacs |
     </a>
-    By: divamgupta
-</li>
-
-<p>
-Text: Kitten TTS is an open-source series of tiny and expressive text-to-speech models for on-device applications. We are excited to launch a preview of our smallest model, which is less than 25 MB. This model has 15M parameters.<p>We&#x27;re releasing the preview just to give early users a sense of the latency and voices that will be available in our next release (hopefully next week). We&#x27;d love feedback! Just FYI, this model is an early checkpoint trained on less than 10% of our total data.<p>We started working on this because existing expressive OSS models require big GPUs to run them on-device and the cloud alternatives are too expensive for high frequency use. We think there&#x27;s a need for frontier open-source models that are tiny enough to run on edge devices! </br>
-</p>
-
-<li>
-    <a href=https://openai.com/open-models/ target="_blank">
-        Open models by OpenAI |
-    </a>
-    By: lackoftactics
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-oss&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;introducing-gpt-oss&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/ target="_blank">
-        Marines now have an official drone-fighting handbook |
-    </a>
-    By: Gaishan
+    By: kgwgk
 </li>
 
 <li>
-    <a href=https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language target="_blank">
-        The Amaranth hardware description language |
+    <a href=https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/ target="_blank">
+        Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs |
     </a>
-    By: pabs3
+    By: philipkiely
 </li>
 
 <li>
-    <a href=https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/ target="_blank">
-        Genie 3: A new frontier for world models |
+    <a href=https://founders.archives.gov/documents/Franklin/01-20-02-0213 target="_blank">
+        Rules by which a great empire may be reduced to a small one (1773) |
     </a>
-    By: bradleyg223
+    By: freediver
+</li>
+
+<li>
+    <a href=https://www.projecthyperion.org target="_blank">
+        Project Hyperion: Interstellar ship design competition |
+    </a>
+    By: codeulike
+</li>
+
+<li>
+    <a href=https://arxiv.org/abs/2508.03814 target="_blank">
+        A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A |
+    </a>
+    By: pinewurst
 </li>
 </ol>
