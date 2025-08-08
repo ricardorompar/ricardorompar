@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 07 Aug 2025</h4>
+<h4>Check the latest news from: Fri 08 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/manzaltu/claude-code-ide.el target="_blank">
-        Claude Code IDE integration for Emacs |
+    <a href=https://openai.com/gpt-5/ target="_blank">
+        GPT-5 |
     </a>
-    By: kgwgk
+    By: rd
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0Uu_VJeVVfo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0Uu_VJeVVfo</a> </br>
+</p>
+
+<li>
+    <a href=https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7 target="_blank">
+        GPT-5 leaked system prompt |
+    </a>
+    By: maoxiaoke
 </li>
 
 <li>
-    <a href=https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/ target="_blank">
-        Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs |
+    <a href=https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/ target="_blank">
+        Flipper Zero dark web firmware bypasses rolling code security |
     </a>
-    By: philipkiely
+    By: lq9AJ8yrfs
+</li>
+
+<p>
+Text: flipper zero implementation of a variant [1] of the rolljam [2] attack<p>[1] <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2210.11923" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2210.11923</a><p>[2] <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10018934">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10018934</a> </br>
+</p>
+
+<li>
+    <a href=https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html target="_blank">
+        Writing a storage engine for Postgres: An in-memory table access method (2023) |
+    </a>
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://founders.archives.gov/documents/Franklin/01-20-02-0213 target="_blank">
-        Rules by which a great empire may be reduced to a small one (1773) |
+    <a href=https://www.historicaltechtree.com/ target="_blank">
+        Historical Tech Tree |
     </a>
-    By: freediver
-</li>
-
-<li>
-    <a href=https://www.projecthyperion.org target="_blank">
-        Project Hyperion: Interstellar ship design competition |
-    </a>
-    By: codeulike
-</li>
-
-<li>
-    <a href=https://arxiv.org/abs/2508.03814 target="_blank">
-        A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A |
-    </a>
-    By: pinewurst
+    By: louisfd94
 </li>
 </ol>
