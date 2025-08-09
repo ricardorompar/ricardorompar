@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 08 Aug 2025</h4>
+<h4>Check the latest news from: Sat 09 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://openai.com/gpt-5/ target="_blank">
-        GPT-5 |
+    <a href=https://instavm.io/blog/building-my-offline-ai-workspace target="_blank">
+        I want everything local – Building my offline AI workspace |
     </a>
-    By: rd
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0Uu_VJeVVfo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0Uu_VJeVVfo</a> </br>
-</p>
-
-<li>
-    <a href=https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7 target="_blank">
-        GPT-5 leaked system prompt |
-    </a>
-    By: maoxiaoke
+    By: mkagenius
 </li>
 
 <li>
-    <a href=https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/ target="_blank">
-        Flipper Zero dark web firmware bypasses rolling code security |
+    <a href=https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/ target="_blank">
+        I bought a £16 smartwatch just because it used USB-C |
     </a>
-    By: lq9AJ8yrfs
-</li>
-
-<p>
-Text: flipper zero implementation of a variant [1] of the rolljam [2] attack<p>[1] <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2210.11923" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2210.11923</a><p>[2] <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10018934">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10018934</a> </br>
-</p>
-
-<li>
-    <a href=https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html target="_blank">
-        Writing a storage engine for Postgres: An in-memory table access method (2023) |
-    </a>
-    By: ibobev
+    By: blenderob
 </li>
 
 <li>
-    <a href=https://www.historicaltechtree.com/ target="_blank">
-        Historical Tech Tree |
+    <a href=https://github.com/Nicholas-L-Johnson/flip-card target="_blank">
+        Ultrathin business card runs a fluid simulation |
     </a>
-    By: louisfd94
+    By: wompapumpum
+</li>
+
+<li>
+    <a href=https://ethanding.substack.com/p/windsurf-gets-margin-called target="_blank">
+        What the windsurf sale means for the AI coding ecosystem |
+    </a>
+    By: whoami_nr
+</li>
+
+<li>
+    <a href=https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use target="_blank">
+        Engineer restores pay phones for free public use |
+    </a>
+    By: andsoitis
 </li>
 </ol>
