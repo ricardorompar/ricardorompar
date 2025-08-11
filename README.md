@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 10 Aug 2025</h4>
+<h4>Check the latest news from: Mon 11 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://wuu73.org/blog/aiguide1.html target="_blank">
-        How I code with AI on a budget/free |
+    <a href=http://techno-fandom.org/~hobbit/cars/ev/offnet.html target="_blank">
+        Vanishing from Hyundai’s data network |
     </a>
-    By: indigodaddy
+    By: pilingual
 </li>
 
 <li>
-    <a href=https://research.eye.security/consent-and-compromise/ target="_blank">
-        Abusing Entra OAuth for fun and access to internal Microsoft applications |
+    <a href=https://squadrick.dev/journal/going-faster-than-memcpy target="_blank">
+        Going Faster Than Memcpy |
     </a>
-    By: the1bernard
+    By: snihalani
 </li>
 
 <li>
-    <a href=https://sky.dlazaro.ca target="_blank">
-        Show HN: The current sky at your approximate location, as a CSS gradient |
+    <a href=https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf target="_blank">
+        Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf] |
     </a>
-    By: dlazaro
-</li>
-
-<p>
-Text: For HTML Day 2025 [1], I made a web service that displays the current sky at your approximate location as a CSS gradient. Colours are simulated on-demand using atmospheric absorption and scattering coefficients. Updates every minute, without the use of client-side JavaScript.<p>Source code and additional information is available on GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;dnlzro&#x2F;horizon" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;dnlzro&#x2F;horizon</a><p>[1] <a href="https:&#x2F;&#x2F;html.energy&#x2F;html-day&#x2F;2025&#x2F;index.html" rel="nofollow">https:&#x2F;&#x2F;html.energy&#x2F;html-day&#x2F;2025&#x2F;index.html</a> </br>
-</p>
-
-<li>
-    <a href=https://simonwillison.net/2025/Aug/9/bay-area-ai/ target="_blank">
-        My Lethal Trifecta talk at the Bay Area AI Security Meetup |
-    </a>
-    By: vismit2000
+    By: mlerner
 </li>
 
 <li>
-    <a href=https://twitter.com/jxmnop/status/1953899426075816164 target="_blank">
-        Curious about the training data of OpenAI's new GPT-OSS models? I was too |
+    <a href=https://bernsteinbear.com/blog/compiling-a-lisp-12/ target="_blank">
+        Compiling a Lisp: Lambda lifting |
     </a>
-    By: flabber
+    By: azhenley
+</li>
+
+<li>
+    <a href=https://ygdp.yale.edu/phenomena/try-and target="_blank">
+        Try and |
+    </a>
+    By: treetalker
 </li>
 </ol>
