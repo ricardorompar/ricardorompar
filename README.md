@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 11 Aug 2025</h4>
+<h4>Check the latest news from: Tue 12 Aug 2025</h4>
 <ol>
 <li>
-    <a href=http://techno-fandom.org/~hobbit/cars/ev/offnet.html target="_blank">
-        Vanishing from Hyundai’s data network |
+    <a href=https://www.arxiv.org/pdf/2508.06471 target="_blank">
+        GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] |
     </a>
-    By: pilingual
+    By: SerCe
 </li>
 
 <li>
-    <a href=https://squadrick.dev/journal/going-faster-than-memcpy target="_blank">
-        Going Faster Than Memcpy |
+    <a href=https://www.apple1registry.com/en/list.html target="_blank">
+        All known 49-year-old Apple-1 computer |
     </a>
-    By: snihalani
+    By: elvis70
 </li>
 
 <li>
-    <a href=https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf target="_blank">
-        Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf] |
+    <a href=https://www.bbc.com/news/articles/cjr11qqvvwlo target="_blank">
+        Wikipedia loses challenge against Online Safety Act |
     </a>
-    By: mlerner
+    By: phlummox
 </li>
 
 <li>
-    <a href=https://bernsteinbear.com/blog/compiling-a-lisp-12/ target="_blank">
-        Compiling a Lisp: Lambda lifting |
+    <a href=https://www.al3rez.com/todo-txt-journey target="_blank">
+        I tried every todo app and ended up with a .txt file |
     </a>
-    By: azhenley
+    By: al3rez
 </li>
 
 <li>
-    <a href=https://ygdp.yale.edu/phenomena/try-and target="_blank">
-        Try and |
+    <a href=https://lwn.net/SubscriberLink/1032732/3334850da49689e1/ target="_blank">
+        StarDict sends X11 clipboard to remote servers |
     </a>
-    By: treetalker
+    By: pabs3
 </li>
 </ol>
