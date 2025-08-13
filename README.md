@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 12 Aug 2025</h4>
+<h4>Check the latest news from: Wed 13 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.arxiv.org/pdf/2508.06471 target="_blank">
-        GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf] |
+    <a href=https://www.anthropic.com/news/1m-context target="_blank">
+        Claude Sonnet 4 now supports 1M tokens of context |
     </a>
-    By: SerCe
+    By: adocomplete
 </li>
 
 <li>
-    <a href=https://www.apple1registry.com/en/list.html target="_blank">
-        All known 49-year-old Apple-1 computer |
+    <a href=https://www.alltext.nyc/ target="_blank">
+        Search all text in New York City |
     </a>
-    By: elvis70
+    By: Kortaggio
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;pudding.cool&#x2F;2025&#x2F;07&#x2F;street-view&#x2F;" rel="nofollow">https:&#x2F;&#x2F;pudding.cool&#x2F;2025&#x2F;07&#x2F;street-view&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/ target="_blank">
+        Fennel libraries as single files (2023) |
+    </a>
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cjr11qqvvwlo target="_blank">
-        Wikipedia loses challenge against Online Safety Act |
+    <a href=https://graphite.rs/libraries/bezier-rs/ target="_blank">
+        Bezier-rs – algorithms for Bézier segments and shapes |
     </a>
-    By: phlummox
+    By: jarek-foksa
 </li>
 
 <li>
-    <a href=https://www.al3rez.com/todo-txt-journey target="_blank">
-        I tried every todo app and ended up with a .txt file |
+    <a href=https://ashet.computer/ target="_blank">
+        Ashet Home Computer |
     </a>
-    By: al3rez
-</li>
-
-<li>
-    <a href=https://lwn.net/SubscriberLink/1032732/3334850da49689e1/ target="_blank">
-        StarDict sends X11 clipboard to remote servers |
-    </a>
-    By: pabs3
+    By: todsacerdoti
 </li>
 </ol>
