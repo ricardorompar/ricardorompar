@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 13 Aug 2025</h4>
+<h4>Check the latest news from: Thu 14 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/1m-context target="_blank">
-        Claude Sonnet 4 now supports 1M tokens of context |
+    <a href=https://astral.sh/blog/introducing-pyx target="_blank">
+        PYX: The next step in Python packaging |
     </a>
-    By: adocomplete
+    By: the_mitsuhiko
 </li>
 
 <li>
-    <a href=https://www.alltext.nyc/ target="_blank">
-        Search all text in New York City |
+    <a href=https://github.com/trvon/yams target="_blank">
+        Show HN: Yet another memory system for LLMs |
     </a>
-    By: Kortaggio
+    By: blackmanta
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;pudding.cool&#x2F;2025&#x2F;07&#x2F;street-view&#x2F;" rel="nofollow">https:&#x2F;&#x2F;pudding.cool&#x2F;2025&#x2F;07&#x2F;street-view&#x2F;</a> </br>
+Text: Built this for my LLM workflows - needed searchable, persistent memory that wouldn&#x27;t blow up storage costs. I also wanted to use it locally for my research. It&#x27;s a content-addressed storage system with block-level deduplication (saves 30-40% on typical codebases). I have integrated the CLI tool into most of my workflows in Zed, Claude Code, and Cursor, and I provide the prompt I&#x27;m currently using in the repo.<p>The project is in C++ and the build system is rough around the edges but is tested on  macOS and Ubuntu 24.04. </br>
 </p>
 
 <li>
-    <a href=https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/ target="_blank">
-        Fennel libraries as single files (2023) |
+    <a href=https://blog.nginx.org/blog/native-support-for-acme-protocol target="_blank">
+        Nginx introduces native support for ACME protocol |
     </a>
-    By: todsacerdoti
+    By: phickey
 </li>
 
 <li>
-    <a href=https://graphite.rs/libraries/bezier-rs/ target="_blank">
-        Bezier-rs – algorithms for Bézier segments and shapes |
+    <a href=https://zenobiapay.com/blog/open-source-payments target="_blank">
+        Zenobia Pay – A mission to build an alternative to high-fee card networks |
     </a>
-    By: jarek-foksa
+    By: pranay01
 </li>
 
 <li>
-    <a href=https://ashet.computer/ target="_blank">
-        Ashet Home Computer |
+    <a href=https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b target="_blank">
+        FFmpeg 8.0 adds Whisper support |
     </a>
-    By: todsacerdoti
+    By: rilawa
 </li>
 </ol>
