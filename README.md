@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 14 Aug 2025</h4>
+<h4>Check the latest news from: Fri 15 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://astral.sh/blog/introducing-pyx target="_blank">
-        PYX: The next step in Python packaging |
+    <a href=https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/ target="_blank">
+        Blurry rendering of games on Mac |
     </a>
-    By: the_mitsuhiko
+    By: bangonkeyboard
 </li>
 
 <li>
-    <a href=https://github.com/trvon/yams target="_blank">
-        Show HN: Yet another memory system for LLMs |
+    <a href=https://developers.googleblog.com/en/introducing-gemma-3-270m/ target="_blank">
+        Gemma 3 270M: Compact model for hyper-efficient AI |
     </a>
-    By: blackmanta
-</li>
-
-<p>
-Text: Built this for my LLM workflows - needed searchable, persistent memory that wouldn&#x27;t blow up storage costs. I also wanted to use it locally for my research. It&#x27;s a content-addressed storage system with block-level deduplication (saves 30-40% on typical codebases). I have integrated the CLI tool into most of my workflows in Zed, Claude Code, and Cursor, and I provide the prompt I&#x27;m currently using in the repo.<p>The project is in C++ and the build system is rough around the edges but is tested on  macOS and Ubuntu 24.04. </br>
-</p>
-
-<li>
-    <a href=https://blog.nginx.org/blog/native-support-for-acme-protocol target="_blank">
-        Nginx introduces native support for ACME protocol |
-    </a>
-    By: phickey
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://zenobiapay.com/blog/open-source-payments target="_blank">
-        Zenobia Pay – A mission to build an alternative to high-fee card networks |
+    <a href=https://mitchellh.com/writing/ghostty-gtk-rewrite target="_blank">
+        We rewrote the Ghostty GTK application |
     </a>
-    By: pranay01
+    By: tosh
 </li>
 
 <li>
-    <a href=https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b target="_blank">
-        FFmpeg 8.0 adds Whisper support |
+    <a href=https://mark.stosberg.com/universal-copy-paste/ target="_blank">
+        Progress towards universal Copy/Paste shortcuts on Linux |
     </a>
-    By: rilawa
+    By: uncircle
+</li>
+
+<li>
+    <a href=https://www.cfr.org/blog/time-end-roundtripping-big-pharma target="_blank">
+        Time to End Roundtripping by Big Pharma |
+    </a>
+    By: luu
 </li>
 </ol>
