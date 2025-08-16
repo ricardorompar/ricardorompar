@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 15 Aug 2025</h4>
+<h4>Check the latest news from: Sat 16 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/ target="_blank">
-        Blurry rendering of games on Mac |
+    <a href=https://putty.software/ target="_blank">
+        PuTTY has a new website |
     </a>
-    By: bangonkeyboard
+    By: GalaxySnail
 </li>
 
 <li>
-    <a href=https://developers.googleblog.com/en/introducing-gemma-3-270m/ target="_blank">
-        Gemma 3 270M: Compact model for hyper-efficient AI |
+    <a href=https://tylercipriani.com/blog/2025/08/15/git-lfs/ target="_blank">
+        The future of large files in Git is Git |
     </a>
-    By: meetpateltech
+    By: thcipriani
 </li>
 
 <li>
-    <a href=https://mitchellh.com/writing/ghostty-gtk-rewrite target="_blank">
-        We rewrote the Ghostty GTK application |
+    <a href=https://www.antirez.com/news/155 target="_blank">
+        AI is different |
     </a>
-    By: tosh
+    By: grep_it
 </li>
 
 <li>
-    <a href=https://mark.stosberg.com/universal-copy-paste/ target="_blank">
-        Progress towards universal Copy/Paste shortcuts on Linux |
+    <a href=https://userjot.com/blog/best-practices-building-agentic-ai-systems target="_blank">
+        Best Practices for Building Agentic AI Systems |
     </a>
-    By: uncircle
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://www.cfr.org/blog/time-end-roundtripping-big-pharma target="_blank">
-        Time to End Roundtripping by Big Pharma |
+    <a href=https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/ target="_blank">
+        I accidentally became PureGym’s unofficial Apple Wallet developer |
     </a>
-    By: luu
+    By: valzevul
 </li>
 </ol>
