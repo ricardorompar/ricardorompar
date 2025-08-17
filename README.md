@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 16 Aug 2025</h4>
+<h4>Check the latest news from: Sun 17 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://putty.software/ target="_blank">
-        PuTTY has a new website |
+    <a href=https://www.x-cmd.com/ target="_blank">
+        In one command use 500 open source tools |
     </a>
-    By: GalaxySnail
+    By: jcbhmr
 </li>
 
 <li>
-    <a href=https://tylercipriani.com/blog/2025/08/15/git-lfs/ target="_blank">
-        The future of large files in Git is Git |
+    <a href=https://code.ffmpeg.org/FFmpeg/FFmpeg target="_blank">
+        FFmpeg moves to Forgejo |
     </a>
-    By: thcipriani
+    By: whataguy
 </li>
 
 <li>
-    <a href=https://www.antirez.com/news/155 target="_blank">
-        AI is different |
+    <a href=https://treeform.github.io/devcompas/ target="_blank">
+        Dev Compass – Programming Philosophy Quiz |
     </a>
-    By: grep_it
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://userjot.com/blog/best-practices-building-agentic-ai-systems target="_blank">
-        Best Practices for Building Agentic AI Systems |
+    <a href=https://www.guidsmash.com target="_blank">
+        Visualising how close random GUIDs come to being the same |
     </a>
-    By: vinhnx
+    By: nugzbunny
 </li>
 
 <li>
-    <a href=https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/ target="_blank">
-        I accidentally became PureGym’s unofficial Apple Wallet developer |
+    <a href=https://jeclark.net/articles/tcp-initcwnd/?tag=performance target="_blank">
+        An Argument for Increasing TCP's Initial Congestion Window Again |
     </a>
-    By: valzevul
+    By: cyb0rg0
 </li>
 </ol>
