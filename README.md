@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 17 Aug 2025</h4>
+<h4>Check the latest news from: Mon 18 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.x-cmd.com/ target="_blank">
-        In one command use 500 open source tools |
+    <a href=https://clojure.github.io/core.async/flow-guide.html target="_blank">
+        Clojure Async Flow Guide |
     </a>
-    By: jcbhmr
+    By: simonpure
 </li>
 
 <li>
-    <a href=https://code.ffmpeg.org/FFmpeg/FFmpeg target="_blank">
-        FFmpeg moves to Forgejo |
+    <a href=https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia target="_blank">
+        Google admits anti-competitive conduct involving Google Search in Australia |
     </a>
-    By: whataguy
+    By: Improvement
 </li>
 
 <li>
-    <a href=https://treeform.github.io/devcompas/ target="_blank">
-        Dev Compass – Programming Philosophy Quiz |
+    <a href=https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/ target="_blank">
+        A gigantic jet caught on camera: A spritacular moment for NASA astronaut |
     </a>
-    By: todsacerdoti
+    By: acossta
 </li>
 
 <li>
-    <a href=https://www.guidsmash.com target="_blank">
-        Visualising how close random GUIDs come to being the same |
+    <a href=https://claudiacode.com/ target="_blank">
+        Claudia – Desktop companion for Claude code |
     </a>
-    By: nugzbunny
+    By: zerealshadowban
 </li>
 
 <li>
-    <a href=https://jeclark.net/articles/tcp-initcwnd/?tag=performance target="_blank">
-        An Argument for Increasing TCP's Initial Congestion Window Again |
+    <a href=https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement target="_blank">
+        NUMA Is the New Network: Reshaping Per-Socket Microservice Placement |
     </a>
-    By: cyb0rg0
+    By: signa11
 </li>
 </ol>
