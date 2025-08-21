@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 20 Aug 2025</h4>
+<h4>Check the latest news from: Thu 21 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://agents.md/ target="_blank">
-        AGENTS.md – Open format for guiding coding agents |
+    <a href=https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/ target="_blank">
+        Code review can be better |
     </a>
-    By: ghuntley
+    By: sealeck
 </li>
 
 <li>
-    <a href=https://pistachioapp.com/blog/copilot-broke-your-audit-log target="_blank">
-        Copilot broke audit logs, but Microsoft won't tell customers |
+    <a href=https://visualrambling.space/moving-objects-in-3d/ target="_blank">
+        Show HN: I was curious about spherical helix, ended up making this visualization |
     </a>
-    By: Sayrus
+    By: damarberlari
+</li>
+
+<p>
+Text: I was wondering how I can arrange objects along a spherical helix path, and read some articles on it.<p>I ended up learning about parametric equations again, and make this visualization to document what I learned:<p><a href="https:&#x2F;&#x2F;visualrambling.space&#x2F;moving-objects-in-3d&#x2F;" rel="nofollow">https:&#x2F;&#x2F;visualrambling.space&#x2F;moving-objects-in-3d&#x2F;</a><p>feel free to visit and let me know what you think! </br>
+</p>
+
+<li>
+    <a href=https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834 target="_blank">
+        SK hynix dethrones Samsung as world’s top DRAM maker |
+    </a>
+    By: ksec
 </li>
 
 <li>
-    <a href=https://muffinman.io/blog/invaders/ target="_blank">
-        How to Draw a Space Invader |
+    <a href=https://mw.rat.bz/MX-80/ target="_blank">
+        Epson MX-80 Fonts |
     </a>
-    By: abdusco
+    By: m_walden
 </li>
 
 <li>
-    <a href=https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/ target="_blank">
-        How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos |
+    <a href=https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable target="_blank">
+        A statistical analysis of Rotten Tomatoes |
     </a>
-    By: spiridow
-</li>
-
-<li>
-    <a href=https://nautil.us/a-rogue-new-life-form-1232095/ target="_blank">
-        Tiny microbe challenges the definition of cellular life |
-    </a>
-    By: jnord
+    By: m463
 </li>
 </ol>
