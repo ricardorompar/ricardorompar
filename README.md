@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 21 Aug 2025</h4>
+<h4>Check the latest news from: Fri 22 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/ target="_blank">
-        Code review can be better |
+    <a href=https://www.begaydocrime.com/ target="_blank">
+        Control shopping cart wheels with your phone (2021) |
     </a>
-    By: sealeck
-</li>
-
-<li>
-    <a href=https://visualrambling.space/moving-objects-in-3d/ target="_blank">
-        Show HN: I was curious about spherical helix, ended up making this visualization |
-    </a>
-    By: damarberlari
+    By: mystraline
 </li>
 
 <p>
-Text: I was wondering how I can arrange objects along a spherical helix path, and read some articles on it.<p>I ended up learning about parametric equations again, and make this visualization to document what I learned:<p><a href="https:&#x2F;&#x2F;visualrambling.space&#x2F;moving-objects-in-3d&#x2F;" rel="nofollow">https:&#x2F;&#x2F;visualrambling.space&#x2F;moving-objects-in-3d&#x2F;</a><p>feel free to visit and let me know what you think! </br>
+Text: Original DEF CON 29 (2021) talk: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=fBICDODmCPI" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=fBICDODmCPI</a> </br>
 </p>
 
 <li>
-    <a href=https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834 target="_blank">
-        SK hynix dethrones Samsung as world’s top DRAM maker |
+    <a href=https://api-docs.deepseek.com/news/news250821 target="_blank">
+        DeepSeek-v3.1 |
     </a>
-    By: ksec
+    By: wertyk
 </li>
 
 <li>
-    <a href=https://mw.rat.bz/MX-80/ target="_blank">
-        Epson MX-80 Fonts |
+    <a href=https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html target="_blank">
+        Io_uring, kTLS and Rust for zero syscall HTTPS server |
     </a>
-    By: m_walden
+    By: guntars
 </li>
 
 <li>
-    <a href=https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable target="_blank">
-        A statistical analysis of Rotten Tomatoes |
+    <a href=https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/ target="_blank">
+        Uv format: Code Formatting Comes to uv (experimentally) |
     </a>
-    By: m463
+    By: tanelpoder
 </li>
+
+<li>
+    <a href=https://www.fertrevino.com/docs/gpt5_medhelm.pdf target="_blank">
+        From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf] |
+    </a>
+    By: fertrevino
+</li>
+
+<p>
+Text: I recently worked on running a thorough healthcare eval on GPT-5. The results show a (slight) regression in GPT-5 performance compared to GPT-4 era models.<p>I found this to be an interesting finding. Here are the detailed results: <a href="https:&#x2F;&#x2F;www.fertrevino.com&#x2F;docs&#x2F;gpt5_medhelm.pdf" rel="nofollow">https:&#x2F;&#x2F;www.fertrevino.com&#x2F;docs&#x2F;gpt5_medhelm.pdf</a> </br>
+</p>
 </ol>
