@@ -45,48 +45,65 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 22 Aug 2025</h4>
+<h4>Check the latest news from: Sat 23 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.begaydocrime.com/ target="_blank">
-        Control shopping cart wheels with your phone (2021) |
+    <a href=https://creao.ai/ target="_blank">
+        Show HN: Creao – Vibe coding product for founders |
     </a>
-    By: mystraline
+    By: north_creao
 </li>
 
 <p>
-Text: Original DEF CON 29 (2021) talk: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=fBICDODmCPI" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=fBICDODmCPI</a> </br>
+Text: Hi HN! I&#x27;m North, DevRel from the CREAO team. We are a 15-20 person startup, and we spent a couple of months building this vibe coding product. We&#x27;ve been exploring the possibilities of how agents should assist people&#x27;s work for productivity in various scenarios.<p>Three months ago, we noticed that all small teams and companies are struggling with subscribing to multiple SaaS tools that never fit their exact needs. Pretty much all founders and SMB professionals need customized productivity tools that fit their daily work routines, but they don&#x27;t have developers to build these lightweight tools for them. So we thought we needed to build a vibe coding product that allows them to ship their own tools in minutes and get rid of these SaaS subscriptions.<p>For our product features, we built it differently from all the other vibe coding products. We want our users to build something actually useful instead of just a product prototype. But the current well-known code agents are performing poorly at building complex data schemas and integrating APIs. So we fine-tuned a small model for the following features:<p>1.Automatically builds complex relational data schemas<p>2.Automated MCP&#x2F;API connections with existing systems<p>With these core capabilities, our code agent can then build internal tools that connect with existing systems with state persistence. For example, I built a dashboard to track my X engagement and export results to a CSV file.<p><a href="https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FBBOdrtonlj_56jgQuAoPpGnABB-pvt2&#x2F;view?usp=sharing" rel="nofollow">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FBBOdrtonlj_56jgQuAoPpGnABB...</a><p>This productivity boost is specifically designed for small team founders—you can build your own CRM workflows, data dashboards, revenue tracking, etc. Each of these could cost you $20-50&#x2F;month in SaaS subscriptions.<p>We are still in the early stage and improving our user experience. Our team is delivering new features pretty much every week, and we would love to hear from HN to give us some suggestions on how we can do better. You can always reach me at north@creao.ai. I love to shape the product together with community users. I hope you can find our work very helpful for your productivity.<p>Thanks! </br>
 </p>
 
 <li>
-    <a href=https://api-docs.deepseek.com/news/news250821 target="_blank">
-        DeepSeek-v3.1 |
+    <a href=http://www.malsmith.net/blog/visual-c-visual-history/ target="_blank">
+        A visual history of Visual C++ (2017) |
     </a>
-    By: wertyk
+    By: rayanboulares
 </li>
 
 <li>
-    <a href=https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html target="_blank">
-        Io_uring, kTLS and Rust for zero syscall HTTPS server |
+    <a href=https://github.com/Evidlo/xsl-website target="_blank">
+        Show HN: JavaScript-free (X)HTML Includes |
     </a>
-    By: guntars
-</li>
-
-<li>
-    <a href=https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/ target="_blank">
-        Uv format: Code Formatting Comes to uv (experimentally) |
-    </a>
-    By: tanelpoder
-</li>
-
-<li>
-    <a href=https://www.fertrevino.com/docs/gpt5_medhelm.pdf target="_blank">
-        From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf] |
-    </a>
-    By: fertrevino
+    By: Evidlo
 </li>
 
 <p>
-Text: I recently worked on running a thorough healthcare eval on GPT-5. The results show a (slight) regression in GPT-5 performance compared to GPT-4 era models.<p>I found this to be an interesting finding. Here are the detailed results: <a href="https:&#x2F;&#x2F;www.fertrevino.com&#x2F;docs&#x2F;gpt5_medhelm.pdf" rel="nofollow">https:&#x2F;&#x2F;www.fertrevino.com&#x2F;docs&#x2F;gpt5_medhelm.pdf</a> </br>
+Text: (spoiler: its XSLT)<p>I&#x27;ve been working on a little demo for how to avoid copy-pasting header&#x2F;footer boilerplate on a simple static webpage. My goal is to approximate the experience of Jekyll&#x2F;Hugo but eliminate the need for a build step before publishing. This demo shows how to get basic templating features with XSL so you could write a blog post which looks like<p><pre><code>  &lt;?xml version=&quot;1.0&quot;?&gt;
+  &lt;?xml-stylesheet type=&quot;text&#x2F;xsl&quot; href=&quot;&#x2F;template.xsl&quot;?&gt;
+  &lt;page&gt;
+      &lt;title&gt;My Article&lt;&#x2F;title&gt;
+      &lt;content&gt;
+          some content
+          &lt;ul&gt;
+              &lt;li&gt;hello&lt;&#x2F;li&gt;
+              &lt;li&gt;hello&lt;&#x2F;li&gt;
+          &lt;&#x2F;ul&gt;
+      &lt;&#x2F;content&gt;
+  &lt;&#x2F;page&gt;
+</code></pre>
+Some properties which set this approach apart from other methods:<p><pre><code>  - no build step (no need to setup Jekyll on the client or configure Github&#x2F;Gitlab actions)
+  - works on any webserver (e.g. as opposed to server-side includes, actions)
+  - normal looking URLs (e.g. `example.com&#x2F;foobar` as opposed to `example.com&#x2F;#page=foobar`)
+</code></pre>
+There&#x27;s been some talk about removing XSLT support from the HTML spec [0], so I figured I would show this proof of concept while it still works.<p>[0]: <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44952185">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44952185</a><p>See also: grug-brain XSLT <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44393817">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44393817</a> </br>
 </p>
+
+<li>
+    <a href=https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf target="_blank">
+        The theory and practice of selling the Aga cooker (1935) [pdf] |
+    </a>
+    By: phpnode
+</li>
+
+<li>
+    <a href=https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/ target="_blank">
+        Google says it dropped the energy cost of AI queries by 33x in one year |
+    </a>
+    By: ksec
+</li>
 </ol>
