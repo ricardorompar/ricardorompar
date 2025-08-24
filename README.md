@@ -45,65 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 23 Aug 2025</h4>
+<h4>Check the latest news from: Sun 24 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://creao.ai/ target="_blank">
-        Show HN: Creao – Vibe coding product for founders |
+    <a href=https://ghuntley.com/agent/ target="_blank">
+        Show HN: How to Build a Coding Agent (free workshop) |
     </a>
-    By: north_creao
-</li>
-
-<p>
-Text: Hi HN! I&#x27;m North, DevRel from the CREAO team. We are a 15-20 person startup, and we spent a couple of months building this vibe coding product. We&#x27;ve been exploring the possibilities of how agents should assist people&#x27;s work for productivity in various scenarios.<p>Three months ago, we noticed that all small teams and companies are struggling with subscribing to multiple SaaS tools that never fit their exact needs. Pretty much all founders and SMB professionals need customized productivity tools that fit their daily work routines, but they don&#x27;t have developers to build these lightweight tools for them. So we thought we needed to build a vibe coding product that allows them to ship their own tools in minutes and get rid of these SaaS subscriptions.<p>For our product features, we built it differently from all the other vibe coding products. We want our users to build something actually useful instead of just a product prototype. But the current well-known code agents are performing poorly at building complex data schemas and integrating APIs. So we fine-tuned a small model for the following features:<p>1.Automatically builds complex relational data schemas<p>2.Automated MCP&#x2F;API connections with existing systems<p>With these core capabilities, our code agent can then build internal tools that connect with existing systems with state persistence. For example, I built a dashboard to track my X engagement and export results to a CSV file.<p><a href="https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FBBOdrtonlj_56jgQuAoPpGnABB-pvt2&#x2F;view?usp=sharing" rel="nofollow">https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1FBBOdrtonlj_56jgQuAoPpGnABB...</a><p>This productivity boost is specifically designed for small team founders—you can build your own CRM workflows, data dashboards, revenue tracking, etc. Each of these could cost you $20-50&#x2F;month in SaaS subscriptions.<p>We are still in the early stage and improving our user experience. Our team is delivering new features pretty much every week, and we would love to hear from HN to give us some suggestions on how we can do better. You can always reach me at north@creao.ai. I love to shape the product together with community users. I hope you can find our work very helpful for your productivity.<p>Thanks! </br>
-</p>
-
-<li>
-    <a href=http://www.malsmith.net/blog/visual-c-visual-history/ target="_blank">
-        A visual history of Visual C++ (2017) |
-    </a>
-    By: rayanboulares
+    By: ghuntley
 </li>
 
 <li>
-    <a href=https://github.com/Evidlo/xsl-website target="_blank">
-        Show HN: JavaScript-free (X)HTML Includes |
+    <a href=https://webkit.org/blog/17285/rolling-the-dice-with-css-random/ target="_blank">
+        Rolling the dice with CSS random() |
     </a>
-    By: Evidlo
-</li>
-
-<p>
-Text: (spoiler: its XSLT)<p>I&#x27;ve been working on a little demo for how to avoid copy-pasting header&#x2F;footer boilerplate on a simple static webpage. My goal is to approximate the experience of Jekyll&#x2F;Hugo but eliminate the need for a build step before publishing. This demo shows how to get basic templating features with XSL so you could write a blog post which looks like<p><pre><code>  &lt;?xml version=&quot;1.0&quot;?&gt;
-  &lt;?xml-stylesheet type=&quot;text&#x2F;xsl&quot; href=&quot;&#x2F;template.xsl&quot;?&gt;
-  &lt;page&gt;
-      &lt;title&gt;My Article&lt;&#x2F;title&gt;
-      &lt;content&gt;
-          some content
-          &lt;ul&gt;
-              &lt;li&gt;hello&lt;&#x2F;li&gt;
-              &lt;li&gt;hello&lt;&#x2F;li&gt;
-          &lt;&#x2F;ul&gt;
-      &lt;&#x2F;content&gt;
-  &lt;&#x2F;page&gt;
-</code></pre>
-Some properties which set this approach apart from other methods:<p><pre><code>  - no build step (no need to setup Jekyll on the client or configure Github&#x2F;Gitlab actions)
-  - works on any webserver (e.g. as opposed to server-side includes, actions)
-  - normal looking URLs (e.g. `example.com&#x2F;foobar` as opposed to `example.com&#x2F;#page=foobar`)
-</code></pre>
-There&#x27;s been some talk about removing XSLT support from the HTML spec [0], so I figured I would show this proof of concept while it still works.<p>[0]: <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44952185">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44952185</a><p>See also: grug-brain XSLT <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44393817">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44393817</a> </br>
-</p>
-
-<li>
-    <a href=https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf target="_blank">
-        The theory and practice of selling the Aga cooker (1935) [pdf] |
-    </a>
-    By: phpnode
+    By: zdw
 </li>
 
 <li>
-    <a href=https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/ target="_blank">
-        Google says it dropped the energy cost of AI queries by 33x in one year |
+    <a href=https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html target="_blank">
+        The cost of interrupted work (2023) |
     </a>
-    By: ksec
+    By: _vaporwave_
+</li>
+
+<li>
+    <a href=https://github.com/kagehq/port-kill target="_blank">
+        I built a tiny mac app to monitor and manage my development processes |
+    </a>
+    By: lexokoh
+</li>
+
+<li>
+    <a href=https://daniel.lawrence.lu/blog/y2025m09d21/ target="_blank">
+        Line scan camera image processing for train photography |
+    </a>
+    By: dllu
 </li>
 </ol>
