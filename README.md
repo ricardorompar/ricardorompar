@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 24 Aug 2025</h4>
+<h4>Check the latest news from: Mon 25 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://ghuntley.com/agent/ target="_blank">
-        Show HN: How to Build a Coding Agent (free workshop) |
+    <a href=https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html target="_blank">
+        Why is choral music harder to appreciate? |
     </a>
-    By: ghuntley
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://webkit.org/blog/17285/rolling-the-dice-with-css-random/ target="_blank">
-        Rolling the dice with CSS random() |
+    <a href=https://dseltzer.gitlab.io/sping/docs/ target="_blank">
+        Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye |
     </a>
-    By: zdw
+    By: zorlack
+</li>
+
+<p>
+Text: I&#x27;ve frequently found myself using [nvitop](<a href="https:&#x2F;&#x2F;github.com&#x2F;XuehaiPan&#x2F;nvitop" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;XuehaiPan&#x2F;nvitop</a>) to diagnose GPU&#x2F;CPU contention issues.<p>The two best things about it are:<p>- It&#x27;s easy to install if I can access pip in the container<p>- It makes a compelling screenshot (which helps me communicate with coworkers.)<p>With those two lessons in mind: Here is Sping!<p>Purpose: Help observe and diagnose latency issues at layer 4+ (TCP&#x2F;HTTP&#x2F;HTTPS)<p>Two good things about it:<p>- It&#x27;s easy to install if you have pip. (Available at [service-ping-sping](<a href="https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;service-ping-sping&#x2F;" rel="nofollow">https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;service-ping-sping&#x2F;</a>) on PyPi)<p>- It makes a compelling screenshot.<p>Not sure if this is the kind of thing that anyone else would be interested in. But I&#x27;ve enjoyed making it and intend to keep using it. </br>
+</p>
+
+<li>
+    <a href=https://git-annex.branchable.com/ target="_blank">
+        Git-Annex |
+    </a>
+    By: keepamovin
 </li>
 
 <li>
-    <a href=https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html target="_blank">
-        The cost of interrupted work (2023) |
+    <a href=https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/ target="_blank">
+        Busy beaver hunters reach numbers that overwhelm ordinary math |
     </a>
-    By: _vaporwave_
+    By: defrost
 </li>
 
 <li>
-    <a href=https://github.com/kagehq/port-kill target="_blank">
-        I built a tiny mac app to monitor and manage my development processes |
+    <a href=https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc target="_blank">
+        From Hackathon to YC |
     </a>
-    By: lexokoh
-</li>
-
-<li>
-    <a href=https://daniel.lawrence.lu/blog/y2025m09d21/ target="_blank">
-        Line scan camera image processing for train photography |
-    </a>
-    By: dllu
+    By: rmason
 </li>
 </ol>
