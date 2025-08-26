@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 25 Aug 2025</h4>
+<h4>Check the latest news from: Tue 26 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html target="_blank">
-        Why is choral music harder to appreciate? |
+    <a href=https://9to5google.com/2025/08/25/android-apps-developer-verification/ target="_blank">
+        Google will allow only apps from verified developers to be installed on Android |
     </a>
-    By: surprisetalk
-</li>
-
-<li>
-    <a href=https://dseltzer.gitlab.io/sping/docs/ target="_blank">
-        Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye |
-    </a>
-    By: zorlack
+    By: kotaKat
 </li>
 
 <p>
-Text: I&#x27;ve frequently found myself using [nvitop](<a href="https:&#x2F;&#x2F;github.com&#x2F;XuehaiPan&#x2F;nvitop" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;XuehaiPan&#x2F;nvitop</a>) to diagnose GPU&#x2F;CPU contention issues.<p>The two best things about it are:<p>- It&#x27;s easy to install if I can access pip in the container<p>- It makes a compelling screenshot (which helps me communicate with coworkers.)<p>With those two lessons in mind: Here is Sping!<p>Purpose: Help observe and diagnose latency issues at layer 4+ (TCP&#x2F;HTTP&#x2F;HTTPS)<p>Two good things about it:<p>- It&#x27;s easy to install if you have pip. (Available at [service-ping-sping](<a href="https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;service-ping-sping&#x2F;" rel="nofollow">https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;service-ping-sping&#x2F;</a>) on PyPi)<p>- It makes a compelling screenshot.<p>Not sure if this is the kind of thing that anyone else would be interested in. But I&#x27;ve enjoyed making it and intend to keep using it. </br>
+Text: Also <a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-developer-verification-for-android-apps-outside-the-play-store&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-develo...</a> (from merged thread)<p>Official announcement 1: <a href="https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-android-security.html" rel="nofollow">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-...</a><p>Official announcement 2: <a href="https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification" rel="nofollow">https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification</a><p>Play Console Help: <a href="https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answer&#x2F;16471116" rel="nofollow">https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answ...</a> </br>
 </p>
 
 <li>
-    <a href=https://git-annex.branchable.com/ target="_blank">
-        Git-Annex |
+    <a href=https://becca.ooo/blog/macos-dotfiles/ target="_blank">
+        macOS dotfiles should not go in –/Library/Application Support |
     </a>
-    By: keepamovin
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/ target="_blank">
-        Busy beaver hunters reach numbers that overwhelm ordinary math |
+    <a href=https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips target="_blank">
+        Google's Liquid Cooling |
     </a>
-    By: defrost
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc target="_blank">
-        From Hackathon to YC |
+    <a href=https://scottstuff.net/posts/2025/05/19/ntp-limits/ target="_blank">
+        The Limits of NTP Accuracy on Linux |
     </a>
-    By: rmason
+    By: signa11
+</li>
+
+<li>
+    <a href=https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/ target="_blank">
+        When a Bug Saved the Company |
+    </a>
+    By: ingve
 </li>
 </ol>
