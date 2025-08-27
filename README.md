@@ -45,44 +45,49 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 26 Aug 2025</h4>
+<h4>Check the latest news from: Wed 27 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://9to5google.com/2025/08/25/android-apps-developer-verification/ target="_blank">
-        Google will allow only apps from verified developers to be installed on Android |
+    <a href=https://www.anthropic.com/news/claude-for-chrome target="_blank">
+        Claude for Chrome |
     </a>
-    By: kotaKat
+    By: davidbarker
 </li>
 
 <p>
-Text: Also <a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-developer-verification-for-android-apps-outside-the-play-store&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;25&#x2F;google-will-require-develo...</a> (from merged thread)<p>Official announcement 1: <a href="https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-android-security.html" rel="nofollow">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2025&#x2F;08&#x2F;elevating-...</a><p>Official announcement 2: <a href="https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification" rel="nofollow">https:&#x2F;&#x2F;developer.android.com&#x2F;developer-verification</a><p>Play Console Help: <a href="https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answer&#x2F;16471116" rel="nofollow">https:&#x2F;&#x2F;support.google.com&#x2F;googleplay&#x2F;android-developer&#x2F;answ...</a> </br>
+Text: See also <a href="https:&#x2F;&#x2F;claude.ai&#x2F;chrome" rel="nofollow">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a> </br>
 </p>
 
 <li>
-    <a href=https://becca.ooo/blog/macos-dotfiles/ target="_blank">
-        macOS dotfiles should not go in –/Library/Application Support |
+    <a href=https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257 target="_blank">
+        Light pollution prolongs avian activity |
     </a>
-    By: zdw
+    By: gmays
 </li>
 
 <li>
-    <a href=https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips target="_blank">
-        Google's Liquid Cooling |
+    <a href=https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/ target="_blank">
+        Gemini 2.5 Flash Image |
     </a>
-    By: giuliomagnifico
+    By: meetpateltech
+</li>
+
+<p>
+Text: Also: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;</a>, 
+<a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-model-gets-a-bananas-upgrade&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-mo...</a> </br>
+</p>
+
+<li>
+    <a href=https://rosenzweig.io/blog/asahi-gpu-part-n.html target="_blank">
+        Dissecting the Apple M1 GPU, the end |
+    </a>
+    By: alsetmusic
 </li>
 
 <li>
-    <a href=https://scottstuff.net/posts/2025/05/19/ntp-limits/ target="_blank">
-        The Limits of NTP Accuracy on Linux |
+    <a href=https://artanis.dev/index.html target="_blank">
+        GNU Artanis – A fast web application framework for Scheme |
     </a>
-    By: signa11
-</li>
-
-<li>
-    <a href=https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/ target="_blank">
-        When a Bug Saved the Company |
-    </a>
-    By: ingve
+    By: smartmic
 </li>
 </ol>
