@@ -45,49 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 27 Aug 2025</h4>
+<h4>Check the latest news from: Thu 28 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/claude-for-chrome target="_blank">
-        Claude for Chrome |
+    <a href=https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411 target="_blank">
+        Altered states of consciousness induced by breathwork accompanied by music |
     </a>
-    By: davidbarker
+    By: gnabgib
+</li>
+
+<li>
+    <a href=https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon target="_blank">
+        The Deletion of Docker.io/Bitnami |
+    </a>
+    By: zdkaster
+</li>
+
+<li>
+    <a href=https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf target="_blank">
+        Canaries in the Coal Mine? Recent Employment Effects of AI [pdf] |
+    </a>
+    By: p1esk
+</li>
+
+<li>
+    <a href=https://yamanot.es/ target="_blank">
+        Yamanot.es: A music box of train station melodies from the JR Yamanote Line |
+    </a>
+    By: zdw
+</li>
+
+<li>
+    <a href=https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c target="_blank">
+        Malicious versions of Nx and some supporting plugins were published |
+    </a>
+    By: longcat
 </li>
 
 <p>
-Text: See also <a href="https:&#x2F;&#x2F;claude.ai&#x2F;chrome" rel="nofollow">https:&#x2F;&#x2F;claude.ai&#x2F;chrome</a> </br>
+Text: See also:<p><a href="https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware" rel="nofollow">https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert...</a><p><a href="https:&#x2F;&#x2F;semgrep.dev&#x2F;blog&#x2F;2025&#x2F;security-alert-nx-compromised-to-steal-wallets-and-credentials&#x2F;" rel="nofollow">https:&#x2F;&#x2F;semgrep.dev&#x2F;blog&#x2F;2025&#x2F;security-alert-nx-compromised-...</a> </br>
 </p>
-
-<li>
-    <a href=https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257 target="_blank">
-        Light pollution prolongs avian activity |
-    </a>
-    By: gmays
-</li>
-
-<li>
-    <a href=https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/ target="_blank">
-        Gemini 2.5 Flash Image |
-    </a>
-    By: meetpateltech
-</li>
-
-<p>
-Text: Also: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;image&#x2F;</a>, 
-<a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-model-gets-a-bananas-upgrade&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2025&#x2F;08&#x2F;26&#x2F;google-geminis-ai-image-mo...</a> </br>
-</p>
-
-<li>
-    <a href=https://rosenzweig.io/blog/asahi-gpu-part-n.html target="_blank">
-        Dissecting the Apple M1 GPU, the end |
-    </a>
-    By: alsetmusic
-</li>
-
-<li>
-    <a href=https://artanis.dev/index.html target="_blank">
-        GNU Artanis – A fast web application framework for Scheme |
-    </a>
-    By: smartmic
-</li>
 </ol>
