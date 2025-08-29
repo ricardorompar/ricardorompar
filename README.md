@@ -45,44 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 28 Aug 2025</h4>
+<h4>Check the latest news from: Fri 29 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411 target="_blank">
-        Altered states of consciousness induced by breathwork accompanied by music |
+    <a href=https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes target="_blank">
+        Claude Sonnet will ship in Xcode |
     </a>
-    By: gnabgib
+    By: zora_goron
 </li>
 
 <li>
-    <a href=https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon target="_blank">
-        The Deletion of Docker.io/Bitnami |
+    <a href=https://sites.google.com/site/oh6dccw/strangecwkeys target="_blank">
+        Strange CW Keys |
     </a>
-    By: zdkaster
-</li>
-
-<li>
-    <a href=https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf target="_blank">
-        Canaries in the Coal Mine? Recent Employment Effects of AI [pdf] |
-    </a>
-    By: p1esk
-</li>
-
-<li>
-    <a href=https://yamanot.es/ target="_blank">
-        Yamanot.es: A music box of train station melodies from the JR Yamanote Line |
-    </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c target="_blank">
-        Malicious versions of Nx and some supporting plugins were published |
-    </a>
-    By: longcat
+    By: austinallegro
 </li>
 
 <p>
-Text: See also:<p><a href="https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware" rel="nofollow">https:&#x2F;&#x2F;www.stepsecurity.io&#x2F;blog&#x2F;supply-chain-security-alert...</a><p><a href="https:&#x2F;&#x2F;semgrep.dev&#x2F;blog&#x2F;2025&#x2F;security-alert-nx-compromised-to-steal-wallets-and-credentials&#x2F;" rel="nofollow">https:&#x2F;&#x2F;semgrep.dev&#x2F;blog&#x2F;2025&#x2F;security-alert-nx-compromised-...</a> </br>
+Text: Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter &amp; Discord knowing news spread mainly through those channels. Usually we can use Cloudflare&#x27;s WARP to avoid it, but just today they blocked the access as well. What alternative should we use? </br>
 </p>
+
+<li>
+    <a href=https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/ target="_blank">
+        A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it |
+    </a>
+    By: shaunpud
+</li>
+
+<li>
+    <a href=https://martinfowler.com/articles/202508-ai-thoughts.html target="_blank">
+        Some thoughts on LLMs and software development |
+    </a>
+    By: floverfelt
+</li>
 </ol>
