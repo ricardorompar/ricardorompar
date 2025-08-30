@@ -45,37 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 29 Aug 2025</h4>
+<h4>Check the latest news from: Sat 30 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes target="_blank">
-        Claude Sonnet will ship in Xcode |
+    <a href=https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/ target="_blank">
+        Do the simplest thing that could possibly work |
     </a>
-    By: zora_goron
+    By: dondraper36
 </li>
 
 <li>
-    <a href=https://sites.google.com/site/oh6dccw/strangecwkeys target="_blank">
-        Strange CW Keys |
+    <a href=https://www.nature.com/articles/s41377-025-01916-9 target="_blank">
+        15-Fold increase in solar thermoelectric generator performance |
     </a>
-    By: austinallegro
+    By: bookofjoe
+</li>
+
+<li>
+    <a href=https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/ target="_blank">
+        OpenAI tackling life extension with LLMs |
+    </a>
+    By: oskarpearson
+</li>
+
+<li>
+    <a href=https://twitter.com/ID_AA_Carmack/status/1961172409920491849 target="_blank">
+        John Carmack's arguments against building a custom XR OS at Meta |
+    </a>
+    By: OlympicMarmoto
 </li>
 
 <p>
-Text: Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter &amp; Discord knowing news spread mainly through those channels. Usually we can use Cloudflare&#x27;s WARP to avoid it, but just today they blocked the access as well. What alternative should we use? </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a> </br>
 </p>
 
 <li>
-    <a href=https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/ target="_blank">
-        A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it |
+    <a href=https://andre.arko.net/2025/06/30/you-should-delete-tests/ target="_blank">
+        Delete Tests |
     </a>
-    By: shaunpud
-</li>
-
-<li>
-    <a href=https://martinfowler.com/articles/202508-ai-thoughts.html target="_blank">
-        Some thoughts on LLMs and software development |
-    </a>
-    By: floverfelt
+    By: mooreds
 </li>
 </ol>
