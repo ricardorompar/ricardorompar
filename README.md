@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 30 Aug 2025</h4>
+<h4>Check the latest news from: Sun 31 Aug 2025</h4>
 <ol>
 <li>
-    <a href=https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/ target="_blank">
-        Do the simplest thing that could possibly work |
+    <a href=https://github.com/zakirullin/cognitive-load target="_blank">
+        Cognitive load is what matters |
     </a>
-    By: dondraper36
+    By: nromiun
 </li>
 
 <li>
-    <a href=https://www.nature.com/articles/s41377-025-01916-9 target="_blank">
-        15-Fold increase in solar thermoelectric generator performance |
+    <a href=https://sheafification.com/the-fast-track/ target="_blank">
+        Sheafification - The optimal path to mathematical mastery |
     </a>
-    By: bookofjoe
+    By: atomicnature
 </li>
 
 <li>
-    <a href=https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/ target="_blank">
-        OpenAI tackling life extension with LLMs |
+    <a href=https://sydneyreviewofbooks.com/reviews/just-a-little-longer target="_blank">
+        Why did books start being divided into chapters? A new history |
     </a>
-    By: oskarpearson
+    By: cacher
 </li>
 
 <li>
-    <a href=https://twitter.com/ID_AA_Carmack/status/1961172409920491849 target="_blank">
-        John Carmack's arguments against building a custom XR OS at Meta |
+    <a href=https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/ target="_blank">
+        Running our Docker registry on-prem with Harbor |
     </a>
-    By: OlympicMarmoto
+    By: airblade
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;1961172409920491849</a> </br>
-</p>
-
 <li>
-    <a href=https://andre.arko.net/2025/06/30/you-should-delete-tests/ target="_blank">
-        Delete Tests |
+    <a href=https://mitchellh.com/writing/feel-it target="_blank">
+        You Have to Feel It |
     </a>
-    By: mooreds
+    By: tosh
 </li>
 </ol>
