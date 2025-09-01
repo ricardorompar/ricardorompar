@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 31 Aug 2025</h4>
+<h4>Check the latest news from: Mon 01 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/zakirullin/cognitive-load target="_blank">
-        Cognitive load is what matters |
+    <a href=https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html target="_blank">
+        We should have the ability to run any code we want on hardware we own |
     </a>
-    By: nromiun
+    By: K0nserv
 </li>
 
 <li>
-    <a href=https://sheafification.com/the-fast-track/ target="_blank">
-        Sheafification - The optimal path to mathematical mastery |
+    <a href=https://yoavg.github.io/eternal/ target="_blank">
+        Eternal Struggle |
     </a>
-    By: atomicnature
+    By: yurivish
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a> </br>
+</p>
+
+<li>
+    <a href=https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock target="_blank">
+        Nintendo Switch 2 Dock USB-C Compatibility |
+    </a>
+    By: croes
 </li>
 
 <li>
-    <a href=https://sydneyreviewofbooks.com/reviews/just-a-little-longer target="_blank">
-        Why did books start being divided into chapters? A new history |
+    <a href=https://github.com/therepanic/spotilyrics target="_blank">
+        Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code |
     </a>
-    By: cacher
+    By: therepanic
 </li>
 
 <li>
-    <a href=https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/ target="_blank">
-        Running our Docker registry on-prem with Harbor |
+    <a href=https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone target="_blank">
+        “This telegram must be closely paraphrased before being communicated to anyone” |
     </a>
-    By: airblade
-</li>
-
-<li>
-    <a href=https://mitchellh.com/writing/feel-it target="_blank">
-        You Have to Feel It |
-    </a>
-    By: tosh
+    By: azeemba
 </li>
 </ol>
