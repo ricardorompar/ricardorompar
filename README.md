@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 01 Sep 2025</h4>
+<h4>Check the latest news from: Tue 02 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html target="_blank">
-        We should have the ability to run any code we want on hardware we own |
+    <a href=https://github.com/woheller69/FreeDroidWarn target="_blank">
+        FreeDroidWarn |
     </a>
-    By: K0nserv
+    By: josephcsible
 </li>
 
 <li>
-    <a href=https://yoavg.github.io/eternal/ target="_blank">
-        Eternal Struggle |
+    <a href=https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d target="_blank">
+        Stone Age settlement found under the sea in Denmark |
     </a>
-    By: yurivish
+    By: isaacfrond
+</li>
+
+<li>
+    <a href=https://www.youtube.com/watch?v=Unzc731iCUY target="_blank">
+        Patrick Winston: How to Speak (2018) [video] |
+    </a>
+    By: tosh
+</li>
+
+<li>
+    <a href=https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8 target="_blank">
+        Amazon has mostly sat out the AI talent war |
+    </a>
+    By: ripe
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;yoavg&#x2F;yoavg.github.io&#x2F;tree&#x2F;main&#x2F;eternal</a> </br>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;ed8WJ" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;ed8WJ</a> </br>
 </p>
 
 <li>
-    <a href=https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock target="_blank">
-        Nintendo Switch 2 Dock USB-C Compatibility |
+    <a href=https://aresluna.org/the-day-return-became-enter/ target="_blank">
+        The day Return became Enter (2023) |
     </a>
-    By: croes
-</li>
-
-<li>
-    <a href=https://github.com/therepanic/spotilyrics target="_blank">
-        Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code |
-    </a>
-    By: therepanic
-</li>
-
-<li>
-    <a href=https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone target="_blank">
-        “This telegram must be closely paraphrased before being communicated to anyone” |
-    </a>
-    By: azeemba
+    By: sohkamyung
 </li>
 </ol>
