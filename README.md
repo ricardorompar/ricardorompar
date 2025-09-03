@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 02 Sep 2025</h4>
+<h4>Check the latest news from: Wed 03 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/woheller69/FreeDroidWarn target="_blank">
-        FreeDroidWarn |
+    <a href=https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html target="_blank">
+        Google can keep its Chrome browser but will be barred from exclusive contracts |
     </a>
-    By: josephcsible
-</li>
-
-<li>
-    <a href=https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d target="_blank">
-        Stone Age settlement found under the sea in Denmark |
-    </a>
-    By: isaacfrond
-</li>
-
-<li>
-    <a href=https://www.youtube.com/watch?v=Unzc731iCUY target="_blank">
-        Patrick Winston: How to Speak (2018) [video] |
-    </a>
-    By: tosh
-</li>
-
-<li>
-    <a href=https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8 target="_blank">
-        Amazon has mostly sat out the AI talent war |
-    </a>
-    By: ripe
+    By: colesantiago
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;ed8WJ" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;ed8WJ</a> </br>
+Text: <a href="https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223205&#x2F;gov.uscourts.dcd.223205.1436.0_1.pdf" rel="nofollow">https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223...</a> </br>
 </p>
 
 <li>
-    <a href=https://aresluna.org/the-day-return-became-enter/ target="_blank">
-        The day Return became Enter (2023) |
+    <a href=https://www.brendanlong.com/cpu-utilization-is-a-lie.html target="_blank">
+        %CPU utilization is a lie |
     </a>
-    By: sohkamyung
+    By: BrendanLong
+</li>
+
+<li>
+    <a href=https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664 target="_blank">
+        10-20x Faster LLVM -O0 Back-End – Code Generation |
+    </a>
+    By: mpweiher
+</li>
+
+<li>
+    <a href=https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/ target="_blank">
+        This blog is running on a recycled Google Pixel 5 (2024) |
+    </a>
+    By: indigodaddy
+</li>
+
+<li>
+    <a href=https://github.com/krig/LISP target="_blank">
+        Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C) |
+    </a>
+    By: PaulHoule
 </li>
 </ol>
