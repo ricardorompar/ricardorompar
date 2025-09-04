@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 03 Sep 2025</h4>
+<h4>Check the latest news from: Thu 04 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html target="_blank">
-        Google can keep its Chrome browser but will be barred from exclusive contracts |
+    <a href=http://etoileos.com/ target="_blank">
+        Étoilé – desktop built on GNUStep |
     </a>
-    By: colesantiago
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223205&#x2F;gov.uscourts.dcd.223205.1436.0_1.pdf" rel="nofollow">https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.dcd.223...</a> </br>
-</p>
-
-<li>
-    <a href=https://www.brendanlong.com/cpu-utilization-is-a-lie.html target="_blank">
-        %CPU utilization is a lie |
-    </a>
-    By: BrendanLong
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664 target="_blank">
-        10-20x Faster LLVM -O0 Back-End – Code Generation |
+    <a href=https://neovim.io/doc/user/pack.html#vim.pack target="_blank">
+        Neovim Pack |
     </a>
-    By: mpweiher
+    By: k2enemy
 </li>
 
 <li>
-    <a href=https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/ target="_blank">
-        This blog is running on a recycled Google Pixel 5 (2024) |
+    <a href=https://jfloren.net/b/2025/8/28/0 target="_blank">
+        Reverse engineering Solos smart glasses |
     </a>
-    By: indigodaddy
+    By: floren
 </li>
 
 <li>
-    <a href=https://github.com/krig/LISP target="_blank">
-        Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C) |
+    <a href=https://oscarcunningham.com/792/minesweeper-thermodynamics/ target="_blank">
+        Minesweeper thermodynamics |
     </a>
-    By: PaulHoule
+    By: robinhouston
+</li>
+
+<li>
+    <a href=https://zed.dev/blog/claude-code-via-acp target="_blank">
+        Claude Code: Now in Beta in Zed |
+    </a>
+    By: meetpateltech
 </li>
 </ol>
