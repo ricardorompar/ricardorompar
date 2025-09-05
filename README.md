@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 04 Sep 2025</h4>
+<h4>Check the latest news from: Fri 05 Sep 2025</h4>
 <ol>
 <li>
-    <a href=http://etoileos.com/ target="_blank">
-        Étoilé – desktop built on GNUStep |
+    <a href=https://fil-c.org/fugc target="_blank">
+        Fil's Unbelievable Garbage Collector |
     </a>
-    By: pabs3
+    By: pizlonator
 </li>
 
 <li>
-    <a href=https://neovim.io/doc/user/pack.html#vim.pack target="_blank">
-        Neovim Pack |
+    <a href=https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/ target="_blank">
+        What Is the Fourier Transform? |
     </a>
-    By: k2enemy
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://jfloren.net/b/2025/8/28/0 target="_blank">
-        Reverse engineering Solos smart glasses |
+    <a href=https://github.com/mindbrix/Rasterizer target="_blank">
+        Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC |
     </a>
-    By: floren
+    By: mindbrix
 </li>
 
 <li>
-    <a href=https://oscarcunningham.com/792/minesweeper-thermodynamics/ target="_blank">
-        Minesweeper thermodynamics |
+    <a href=https://tempo.xyz target="_blank">
+        Stripe Launches L1 Blockchain: Tempo |
     </a>
-    By: robinhouston
+    By: _nvs
 </li>
 
 <li>
-    <a href=https://zed.dev/blog/claude-code-via-acp target="_blank">
-        Claude Code: Now in Beta in Zed |
+    <a href=https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf target="_blank">
+        Evolving the OCaml Programming Language (2025) [pdf] |
     </a>
-    By: meetpateltech
+    By: matt_d
 </li>
 </ol>
