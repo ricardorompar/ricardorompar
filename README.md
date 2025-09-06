@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 05 Sep 2025</h4>
+<h4>Check the latest news from: Sat 06 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://fil-c.org/fugc target="_blank">
-        Fil's Unbelievable Garbage Collector |
+    <a href=https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share target="_blank">
+        Anthropic agrees to pay $1.5B to settle lawsuit with book authors |
     </a>
-    By: pizlonator
+    By: acomjean
+</li>
+
+<p>
+Text: Also <a href="https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;09&#x2F;05&#x2F;anthropic-book-authors-copyright-settlement&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;09&#x2F;05&#x2F;anthrop...</a>, <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;sustainability&#x2F;boards-policy-regulation&#x2F;anthropic-agrees-pay-15-billion-settle-author-class-action-2025-09-05&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;sustainability&#x2F;boards-policy-regulat...</a> </br>
+</p>
+
+<li>
+    <a href=https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/ target="_blank">
+        Speeding up Unreal Editor launch by not spawning 38000 tooltips |
+    </a>
+    By: samspenc
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/ target="_blank">
-        What Is the Fourier Transform? |
+    <a href=https://www.wedesoft.de/software/2025/09/05/clojure-game/ target="_blank">
+        Developing a Space Flight Simulator in Clojure |
     </a>
-    By: rbanffy
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://github.com/mindbrix/Rasterizer target="_blank">
-        Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC |
+    <a href=https://docs.z.ai/guides/llm/glm-4.5 target="_blank">
+        GLM 4.5 with Claude Code |
     </a>
-    By: mindbrix
+    By: vincirufus
 </li>
 
 <li>
-    <a href=https://tempo.xyz target="_blank">
-        Stripe Launches L1 Blockchain: Tempo |
+    <a href=https://blog.frost.kiwi/dual-kawase/ target="_blank">
+        Video Game Blurs (and how the best one works) |
     </a>
-    By: _nvs
-</li>
-
-<li>
-    <a href=https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf target="_blank">
-        Evolving the OCaml Programming Language (2025) [pdf] |
-    </a>
-    By: matt_d
+    By: todsacerdoti
 </li>
 </ol>
