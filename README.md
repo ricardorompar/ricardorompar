@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 06 Sep 2025</h4>
+<h4>Check the latest news from: Sun 07 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share target="_blank">
-        Anthropic agrees to pay $1.5B to settle lawsuit with book authors |
+    <a href=https://mitchivin.com/ target="_blank">
+        Show HN: I recreated Windows XP as my portfolio |
     </a>
-    By: acomjean
+    By: mitchivin
 </li>
 
 <p>
-Text: Also <a href="https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;09&#x2F;05&#x2F;anthropic-book-authors-copyright-settlement&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.washingtonpost.com&#x2F;technology&#x2F;2025&#x2F;09&#x2F;05&#x2F;anthrop...</a>, <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;sustainability&#x2F;boards-policy-regulation&#x2F;anthropic-agrees-pay-15-billion-settle-author-class-action-2025-09-05&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;sustainability&#x2F;boards-policy-regulat...</a> </br>
+Text: Years ago I stumbled across a basic version of this concept and it stuck with me. I knew if I was ever going to take on such a project, it would need to be flawless, but without coding experience it was just another idea that would never happen. By the end of 2024, as AI coding tools exploded everywhere, I finally had a way to make it real.<p>I started from zero knowledge and spent months collaborating with AI agents as a learning experience. Every pixel and every function went through me. The AI translated what I asked for into code, but every decision was human. I didn&#x27;t use existing OS frameworks because the goal was learning how basic coding languages worked while also developing my skills with AI collaboration. Apart from basic libraries like xp.css and paint.js, it&#x27;s all original code.<p>The result is a fully functional Windows XP recreation running in your browser. Complete experience with sounds, animations, and working applications. Even works properly on mobile, which required rebuilding everything to maintain the authentic feel without becoming unusable on touchscreens.<p>This project taught me more about coding and AI collaboration than I ever expected. Would love to hear your thoughts on the execution and any feedback on the technical approach. </br>
 </p>
 
 <li>
-    <a href=https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/ target="_blank">
-        Speeding up Unreal Editor launch by not spawning 38000 tooltips |
+    <a href=https://stlab.cc/tips/about-mvc.html target="_blank">
+        The key to getting MVC correct is understanding what models are |
     </a>
-    By: samspenc
+    By: csb6
 </li>
 
 <li>
-    <a href=https://www.wedesoft.de/software/2025/09/05/clojure-game/ target="_blank">
-        Developing a Space Flight Simulator in Clojure |
+    <a href=https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html target="_blank">
+        A Navajo weaving of an integrated circuit: the 555 timer |
     </a>
-    By: todsacerdoti
+    By: defrost
 </li>
 
 <li>
-    <a href=https://docs.z.ai/guides/llm/glm-4.5 target="_blank">
-        GLM 4.5 with Claude Code |
+    <a href=https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/ target="_blank">
+        How the “Kim” dump exposed North Korea's credential theft playbook |
     </a>
-    By: vincirufus
+    By: notmine1337
 </li>
 
 <li>
-    <a href=https://blog.frost.kiwi/dual-kawase/ target="_blank">
-        Video Game Blurs (and how the best one works) |
+    <a href=https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/ target="_blank">
+        The math of shuffling cards almost brought down an online poker empire |
     </a>
-    By: todsacerdoti
+    By: indigodaddy
 </li>
 </ol>
