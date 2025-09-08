@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 07 Sep 2025</h4>
+<h4>Check the latest news from: Mon 08 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://mitchivin.com/ target="_blank">
-        Show HN: I recreated Windows XP as my portfolio |
+    <a href=https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver target="_blank">
+        Using Claude Code to modernize a 25-year-old kernel driver |
     </a>
-    By: mitchivin
+    By: dmitrybrant
+</li>
+
+<li>
+    <a href=https://twitter.com/samhenrigold/status/1964428927159382261 target="_blank">
+        The MacBook has a sensor that knows the exact angle of the screen hinge |
+    </a>
+    By: leephillips
 </li>
 
 <p>
-Text: Years ago I stumbled across a basic version of this concept and it stuck with me. I knew if I was ever going to take on such a project, it would need to be flawless, but without coding experience it was just another idea that would never happen. By the end of 2024, as AI coding tools exploded everywhere, I finally had a way to make it real.<p>I started from zero knowledge and spent months collaborating with AI agents as a learning experience. Every pixel and every function went through me. The AI translated what I asked for into code, but every decision was human. I didn&#x27;t use existing OS frameworks because the goal was learning how basic coding languages worked while also developing my skills with AI collaboration. Apart from basic libraries like xp.css and paint.js, it&#x27;s all original code.<p>The result is a fully functional Windows XP recreation running in your browser. Complete experience with sounds, animations, and working applications. Even works properly on mobile, which required rebuilding everything to maintain the authentic feel without becoming unusable on touchscreens.<p>This project taught me more about coding and AI collaboration than I ever expected. Would love to hear your thoughts on the execution and any feedback on the technical approach. </br>
+Text: Alts: <a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@samhenrigold&#x2F;115159295473019599" rel="nofollow">https:&#x2F;&#x2F;hachyderm.io&#x2F;@samhenrigold&#x2F;115159295473019599</a>, <a href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;samhenri.gold&#x2F;post&#x2F;3ly7252lx422d" rel="nofollow">https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;samhenri.gold&#x2F;post&#x2F;3ly7252lx422d</a><p>Theremin Mode: <a href="https:&#x2F;&#x2F;twitter.com&#x2F;samhenrigold&#x2F;status&#x2F;1964464940049453153" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;samhenrigold&#x2F;status&#x2F;1964464940049453153</a><p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;samhenrigold&#x2F;LidAngleSensor" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;samhenrigold&#x2F;LidAngleSensor</a> </br>
 </p>
 
 <li>
-    <a href=https://stlab.cc/tips/about-mvc.html target="_blank">
-        The key to getting MVC correct is understanding what models are |
+    <a href=https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/ target="_blank">
+        Everything from 1991 Radio Shack ad I now do with my phone (2014) |
     </a>
-    By: csb6
+    By: vinnyglennon
 </li>
 
 <li>
-    <a href=https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html target="_blank">
-        A Navajo weaving of an integrated circuit: the 555 timer |
+    <a href=https://maxleiter.com/blog/formatting target="_blank">
+        Formatting code should be unnecessary |
     </a>
-    By: defrost
+    By: MaxLeiter
 </li>
 
 <li>
-    <a href=https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/ target="_blank">
-        How the “Kim” dump exposed North Korea's credential theft playbook |
+    <a href=https://simonwillison.net/2025/Sep/6/research-goblin/ target="_blank">
+        GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search |
     </a>
-    By: notmine1337
+    By: simonw
 </li>
 
-<li>
-    <a href=https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/ target="_blank">
-        The math of shuffling cards almost brought down an online poker empire |
-    </a>
-    By: indigodaddy
-</li>
+<p>
+Text: Related: <i>Google&#x27;s new AI mode is good, actually</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45158586">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45158586</a> - Sept 2025 (31 comments) </br>
+</p>
 </ol>
