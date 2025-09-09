@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 08 Sep 2025</h4>
+<h4>Check the latest news from: Tue 09 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver target="_blank">
-        Using Claude Code to modernize a 25-year-old kernel driver |
+    <a href=https://maurycyz.com/misc/ads/ target="_blank">
+        No adblocker detected |
     </a>
-    By: dmitrybrant
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://twitter.com/samhenrigold/status/1964428927159382261 target="_blank">
-        The MacBook has a sensor that knows the exact angle of the screen hinge |
+    <a href=https://news.artnet.com/market/intelligence-report-storm-2025-2684512 target="_blank">
+        The art world is in a precarious state |
     </a>
-    By: leephillips
-</li>
-
-<p>
-Text: Alts: <a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@samhenrigold&#x2F;115159295473019599" rel="nofollow">https:&#x2F;&#x2F;hachyderm.io&#x2F;@samhenrigold&#x2F;115159295473019599</a>, <a href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;samhenri.gold&#x2F;post&#x2F;3ly7252lx422d" rel="nofollow">https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;samhenri.gold&#x2F;post&#x2F;3ly7252lx422d</a><p>Theremin Mode: <a href="https:&#x2F;&#x2F;twitter.com&#x2F;samhenrigold&#x2F;status&#x2F;1964464940049453153" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;samhenrigold&#x2F;status&#x2F;1964464940049453153</a><p>Github: <a href="https:&#x2F;&#x2F;github.com&#x2F;samhenrigold&#x2F;LidAngleSensor" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;samhenrigold&#x2F;LidAngleSensor</a> </br>
-</p>
-
-<li>
-    <a href=https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/ target="_blank">
-        Everything from 1991 Radio Shack ad I now do with my phone (2014) |
-    </a>
-    By: vinnyglennon
+    By: onecommentman
 </li>
 
 <li>
-    <a href=https://maxleiter.com/blog/formatting target="_blank">
-        Formatting code should be unnecessary |
+    <a href=https://signal.org/blog/introducing-secure-backups/ target="_blank">
+        Signal Secure Backups |
     </a>
-    By: MaxLeiter
+    By: keyboardJones
 </li>
 
 <li>
-    <a href=https://simonwillison.net/2025/Sep/6/research-goblin/ target="_blank">
-        GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search |
+    <a href=https://stopa.io/post/297 target="_blank">
+        iPhone dumbphone |
     </a>
-    By: simonw
+    By: joshmanders
 </li>
 
-<p>
-Text: Related: <i>Google&#x27;s new AI mode is good, actually</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45158586">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45158586</a> - Sept 2025 (31 comments) </br>
-</p>
+<li>
+    <a href=https://kube.io/blog/liquid-glass-css-svg/ target="_blank">
+        Liquid Glass in the Browser: Refraction with CSS and SVG |
+    </a>
+    By: Sateeshm
+</li>
 </ol>
