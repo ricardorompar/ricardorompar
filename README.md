@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 09 Sep 2025</h4>
+<h4>Check the latest news from: Wed 10 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://maurycyz.com/misc/ads/ target="_blank">
-        No adblocker detected |
+    <a href=https://joshfonseca.com/blogs/animal-crossing-llm target="_blank">
+        I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory |
     </a>
-    By: LorenDB
+    By: vuciv
 </li>
 
 <li>
-    <a href=https://news.artnet.com/market/intelligence-report-storm-2025-2684512 target="_blank">
-        The art world is in a precarious state |
+    <a href=https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/ target="_blank">
+        iPhone Air |
     </a>
-    By: onecommentman
+    By: excerionsforte
 </li>
 
 <li>
-    <a href=https://signal.org/blog/introducing-secure-backups/ target="_blank">
-        Signal Secure Backups |
+    <a href=https://mahesh-hegde.github.io/posts/what_debugger_can/ target="_blank">
+        Things you can do with a debugger but not with print debugging |
     </a>
-    By: keyboardJones
+    By: never_inline
 </li>
 
 <li>
-    <a href=https://stopa.io/post/297 target="_blank">
-        iPhone dumbphone |
+    <a href=https://spectrum.ieee.org/e-paper-display-modos target="_blank">
+        E-paper display reaches the realm of LCD screens |
     </a>
-    By: joshmanders
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://kube.io/blog/liquid-glass-css-svg/ target="_blank">
-        Liquid Glass in the Browser: Refraction with CSS and SVG |
+    <a href=https://www.sciencedaily.com/releases/2025/08/250831112449.htm target="_blank">
+        NASA finds Titan's lakes may be creating vesicles with primitive cell walls |
     </a>
-    By: Sateeshm
+    By: Gaishan
 </li>
 </ol>
