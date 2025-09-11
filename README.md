@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 10 Sep 2025</h4>
+<h4>Check the latest news from: Thu 11 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://joshfonseca.com/blogs/animal-crossing-llm target="_blank">
-        I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory |
+    <a href=https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/ target="_blank">
+        KDE launches its own distribution |
     </a>
-    By: vuciv
+    By: Bogdanp
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/ target="_blank">
-        iPhone Air |
+    <a href=https://ironicsans.ghost.io/doomscrolling-the-game/ target="_blank">
+        DOOMscrolling: The Game |
     </a>
-    By: excerionsforte
+    By: jfil
 </li>
 
 <li>
-    <a href=https://mahesh-hegde.github.io/posts/what_debugger_can/ target="_blank">
-        Things you can do with a debugger but not with print debugging |
+    <a href=https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/ target="_blank">
+        Court rejects Verizon claim that selling location data without consent is legal |
     </a>
-    By: never_inline
+    By: nobody9999
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/e-paper-display-modos target="_blank">
-        E-paper display reaches the realm of LCD screens |
+    <a href=https://github.com/mmulet/term.everything target="_blank">
+        Show HN: Term.everything – Run any GUI app in the terminal |
     </a>
-    By: rbanffy
+    By: mmulet
 </li>
 
+<p>
+Text: I made a built-from scratch Wayland Compositor to display any GUI app* in the terminal! I think there is a lot of unexplored potential in custom Wayland compositors, a lot of really cool things you can embed existing applications into! So, I started with embedding apps into the terminal because that is the easiest input&#x2F;output (output is just utf-8 and I use the great `chafa` library for that, and I just read from stdin for the input).<p>If you have any other ideas for cool Wayland compositors, let me know. I purposedly wrote 80% the app in Typescript to appeal to the most developers and attract cool contributions (I do all drawing with the familiar Canvas2D api, so if there is interest, I can also fork this out into a cool Terminal canvas, let me know!)<p>I have a blog post here about how I did it, but it’s pretty high level and non technical, so please ask if you have any questions.<p>[How I Did It](&lt;<a href="https:&#x2F;&#x2F;github.com&#x2F;mmulet&#x2F;term.everything&#x2F;blob&#x2F;main&#x2F;resources&#x2F;HowIDidIt.md" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;mmulet&#x2F;term.everything&#x2F;blob&#x2F;main&#x2F;resource...</a>&gt;)<p>*technically only Wayland apps and x11 apps with Xwayland. But on Linux that’s mostly everything. </br>
+</p>
+
 <li>
-    <a href=https://www.sciencedaily.com/releases/2025/08/250831112449.htm target="_blank">
-        NASA finds Titan's lakes may be creating vesicles with primitive cell walls |
+    <a href=https://platform.openai.com/docs/guides/developer-mode target="_blank">
+        ChatGPT Developer Mode: Full MCP client access |
     </a>
-    By: Gaishan
+    By: meetpateltech
 </li>
 </ol>
