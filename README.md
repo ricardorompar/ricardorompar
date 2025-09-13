@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 12 Sep 2025</h4>
+<h4>Check the latest news from: Sat 13 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://swiss.social/@swaldorff/115186445638788782 target="_blank">
-        Danish supermarket chain is setting up "Emergency Stores" |
+    <a href=https://ma.tt/2025/09/legal-win/ target="_blank">
+        Legal win |
     </a>
-    By: sohkamyung
+    By: pentagrama
 </li>
 
 <li>
-    <a href=https://posthog.com/blog/why-os target="_blank">
-        Why our website looks like an operating system |
+    <a href=https://iamvishnu.com/posts/utf8-is-brilliant-design target="_blank">
+        UTF-8 is a brilliant design |
     </a>
-    By: bnc319
+    By: vishnuharidas
 </li>
 
 <li>
-    <a href=https://github.com/SWE-bench/SWE-bench/issues/465 target="_blank">
-        Top model scores may be skewed by Git history leaks in SWE-bench |
+    <a href=https://github.com/qgis/QGIS target="_blank">
+        QGIS is a free, open-source, cross platform geographical information system |
     </a>
-    By: mustaphah
+    By: rcarmo
 </li>
 
 <li>
-    <a href=https://float.exposed/ target="_blank">
-        Float Exposed |
+    <a href=https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/ target="_blank">
+        Many hard LeetCode problems are easy constraint problems |
     </a>
-    By: SomaticPirate
+    By: mpweiher
 </li>
 
 <li>
-    <a href=https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md target="_blank">
-        Nano Banana image examples |
+    <a href=https://ffglitch.org/gallery/ target="_blank">
+        FFglitch, FFmpeg fork for glitch art |
     </a>
-    By: SweetSoftPillow
+    By: captain_bender
 </li>
 </ol>
