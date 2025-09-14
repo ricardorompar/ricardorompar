@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 13 Sep 2025</h4>
+<h4>Check the latest news from: Sun 14 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://ma.tt/2025/09/legal-win/ target="_blank">
-        Legal win |
+    <a href=https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease target="_blank">
+        Myocardial infarction may be an infectious disease |
     </a>
-    By: pentagrama
+    By: DaveZale
+</li>
+
+<p>
+Text: Paper: <a href="https:&#x2F;&#x2F;www.ahajournals.org&#x2F;doi&#x2F;10.1161&#x2F;JAHA.125.041521" rel="nofollow">https:&#x2F;&#x2F;www.ahajournals.org&#x2F;doi&#x2F;10.1161&#x2F;JAHA.125.041521</a> </br>
+</p>
+
+<li>
+    <a href=https://www.passwordstore.org/ target="_blank">
+        Pass: Unix Password Manager |
+    </a>
+    By: Bogdanp
 </li>
 
 <li>
-    <a href=https://iamvishnu.com/posts/utf8-is-brilliant-design target="_blank">
-        UTF-8 is a brilliant design |
+    <a href=https://joefatula.com/twoslice.html target="_blank">
+        Two Slice, a font that's only 2px tall |
     </a>
-    By: vishnuharidas
+    By: JdeBP
 </li>
 
 <li>
-    <a href=https://github.com/qgis/QGIS target="_blank">
-        QGIS is a free, open-source, cross platform geographical information system |
+    <a href=https://anycrap.shop/ target="_blank">
+        Show HN: A store that generates products from anything you type in search |
     </a>
-    By: rcarmo
+    By: kafked
 </li>
 
 <li>
-    <a href=https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/ target="_blank">
-        Many hard LeetCode problems are easy constraint problems |
+    <a href=https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin target="_blank">
+        Why you’d issue a branded stablecoin |
     </a>
-    By: mpweiher
-</li>
-
-<li>
-    <a href=https://ffglitch.org/gallery/ target="_blank">
-        FFglitch, FFmpeg fork for glitch art |
-    </a>
-    By: captain_bender
+    By: krrishd
 </li>
 </ol>
