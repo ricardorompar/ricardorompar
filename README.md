@@ -45,44 +45,54 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 14 Sep 2025</h4>
+<h4>Check the latest news from: Mon 15 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease target="_blank">
-        Myocardial infarction may be an infectious disease |
+    <a href=https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem target="_blank">
+        Grapevine canes can be converted into plastic-like material that will decompose |
     </a>
-    By: DaveZale
+    By: westurner
+</li>
+
+<li>
+    <a href=https://revoked-isrgrootx1.letsencrypt.org/ target="_blank">
+        Not all browsers perform revocation checking |
+    </a>
+    By: sugarpimpdorsey
+</li>
+
+<li>
+    <a href=https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058 target="_blank">
+        Betty Crocker broke recipes by shrinking boxes |
+    </a>
+    By: Avshalom
+</li>
+
+<li>
+    <a href=https://arxiv.org/abs/2503.20821 target="_blank">
+        "Hello, Is This Anna?": Unpacking the Lifecycle of Pig-Butchering Scams |
+    </a>
+    By: stmw
+</li>
+
+<li>
+    <a href=https://daggerjs.org target="_blank">
+        Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework |
+    </a>
+    By: TonyPeakman
 </li>
 
 <p>
-Text: Paper: <a href="https:&#x2F;&#x2F;www.ahajournals.org&#x2F;doi&#x2F;10.1161&#x2F;JAHA.125.041521" rel="nofollow">https:&#x2F;&#x2F;www.ahajournals.org&#x2F;doi&#x2F;10.1161&#x2F;JAHA.125.041521</a> </br>
+Text: TL;DR: dagger.js is a buildless, runtime-only micro-framework that plays nicely with native Web Components. It uses HTML-first directives (e.g. +click, +load) so you can ship a page by dropping a single &lt;script&gt; from a CDN—no bundlers, no compile step.<p>Why I built it
+Modern stacks are powerful but often heavy: bundlers, compile steps, framework DSLs, local CLIs. For internal tools, small apps, and edge&#x2F;serverless deployments, I wanted something you can view-source, paste into a page, and ship.<p>What it is:<p>Runtime-only: no build or VDOM compile; hydrate behaviors directly on HTML.
+HTML directives: e.g. +click, lifecycle +load &#x2F; +loaded &#x2F; +unload &#x2F; +unloaded.
+Zero APIs: dagger.js works in pure declarative mode, modules and directives provide everything you need to build your application.
+Web-Components-first: works alongside Custom Elements; keep concerns local.
+Distributed modules: load small, focused script modules via CDN.
+Progressive enhancement: the page renders without a build step.<p>Use cases:<p>Admin panels &amp; dashboards that don’t warrant a full toolchain
+Embed widgets, docs-sites with interactive bits
+Edge&#x2F;serverless apps where cold start and simplicity matter<p>Links<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;dagger8224&#x2F;dagger.js" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;dagger8224&#x2F;dagger.js</a>
+Docs&#x2F;Guide: <a href="https:&#x2F;&#x2F;daggerjs.org" rel="nofollow">https:&#x2F;&#x2F;daggerjs.org</a>
+Examples: <a href="https:&#x2F;&#x2F;codepen.io&#x2F;dagger8224&#x2F;pens" rel="nofollow">https:&#x2F;&#x2F;codepen.io&#x2F;dagger8224&#x2F;pens</a><p>I’d love feedback on edge-cases, and where it breaks. Happy to answer tough questions here. </br>
 </p>
-
-<li>
-    <a href=https://www.passwordstore.org/ target="_blank">
-        Pass: Unix Password Manager |
-    </a>
-    By: Bogdanp
-</li>
-
-<li>
-    <a href=https://joefatula.com/twoslice.html target="_blank">
-        Two Slice, a font that's only 2px tall |
-    </a>
-    By: JdeBP
-</li>
-
-<li>
-    <a href=https://anycrap.shop/ target="_blank">
-        Show HN: A store that generates products from anything you type in search |
-    </a>
-    By: kafked
-</li>
-
-<li>
-    <a href=https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin target="_blank">
-        Why you’d issue a branded stablecoin |
-    </a>
-    By: krrishd
-</li>
 </ol>
