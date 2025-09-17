@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 16 Sep 2025</h4>
+<h4>Check the latest news from: Wed 17 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://mccue.dev/pages/9-16-25-psvm target="_blank">
-        Public static void main(String[] args) is dead |
+    <a href=https://midnight-commander.org/ target="_blank">
+        GNU Midnight Commander |
     </a>
-    By: charles_irl
+    By: pykello
 </li>
 
 <li>
-    <a href=https://bogdanthegeek.github.io/blog/projects/vapeserver/ target="_blank">
-        Hosting a website on a disposable vape |
+    <a href=https://blinry.org/50-things-with-sdr/ target="_blank">
+        Things you can do with a Software Defined Radio (2024) |
     </a>
-    By: BogdanTheGeek
+    By: mihau
 </li>
 
 <li>
-    <a href=http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html target="_blank">
-        William Gibson Reads Neuromancer (2004) |
+    <a href=https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive target="_blank">
+        The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation |
     </a>
-    By: exvi
+    By: signa11
 </li>
 
 <li>
-    <a href=https://gaultier.github.io/blog/x11_x64.html target="_blank">
-        Learn x86-64 assembly by writing a GUI from scratch |
+    <a href=https://support.apple.com/en-us/125142 target="_blank">
+        About the security content of iOS 15.8.5 and iPadOS 15.8.5 |
     </a>
-    By: ibobev
+    By: jerlam
 </li>
 
 <li>
-    <a href=https://www.lorenstew.art/blog/react-won-by-default/ target="_blank">
-        React is winning by default and slowing innovation |
+    <a href=https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter target="_blank">
+        How to make the Framework Desktop run even quieter |
     </a>
-    By: dbushell
+    By: lwhsiao
 </li>
 </ol>
