@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 17 Sep 2025</h4>
+<h4>Check the latest news from: Thu 18 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://midnight-commander.org/ target="_blank">
-        GNU Midnight Commander |
+    <a href=https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/ target="_blank">
+        Meta Ray-Ban Display |
     </a>
-    By: pykello
+    By: martpie
 </li>
 
 <li>
-    <a href=https://blinry.org/50-things-with-sdr/ target="_blank">
-        Things you can do with a Software Defined Radio (2024) |
+    <a href=https://webassembly.org/news/2025-09-17-wasm-3.0/ target="_blank">
+        WASM 3.0 Completed |
     </a>
-    By: mihau
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive target="_blank">
-        The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation |
+    <a href=https://unscreenshottable.vercel.app/?text=Hello target="_blank">
+        Show HN: The text disappears when you screenshot it |
     </a>
-    By: signa11
+    By: zikero
 </li>
 
 <li>
-    <a href=https://support.apple.com/en-us/125142 target="_blank">
-        About the security content of iOS 15.8.5 and iPadOS 15.8.5 |
+    <a href=https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/ target="_blank">
+        Apple Photos app corrupts images |
     </a>
-    By: jerlam
+    By: pattyj
 </li>
 
 <li>
-    <a href=https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter target="_blank">
-        How to make the Framework Desktop run even quieter |
+    <a href=https://skyfall.dev/posts/slack target="_blank">
+        Slack has raised our charges by $195k per year |
     </a>
-    By: lwhsiao
+    By: JustSkyfall
 </li>
 </ol>
