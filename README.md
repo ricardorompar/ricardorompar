@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 18 Sep 2025</h4>
+<h4>Check the latest news from: Fri 19 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/ target="_blank">
-        Meta Ray-Ban Display |
+    <a href=https://phishyurl.com/ target="_blank">
+        Want to piss off your IT department? Are the links not malicious looking enough? |
     </a>
-    By: martpie
+    By: jordigh
 </li>
 
 <li>
-    <a href=https://webassembly.org/news/2025-09-17-wasm-3.0/ target="_blank">
-        WASM 3.0 Completed |
+    <a href=https://lenowo.org/viewtopic.php?t=5 target="_blank">
+        Playing “Minecraft” without Minecraft (2024) |
     </a>
-    By: todsacerdoti
+    By: coolcoder613
 </li>
 
 <li>
-    <a href=https://unscreenshottable.vercel.app/?text=Hello target="_blank">
-        Show HN: The text disappears when you screenshot it |
+    <a href=https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale target="_blank">
+        David Lynch LA House |
     </a>
-    By: zikero
+    By: ewf
 </li>
 
 <li>
-    <a href=https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/ target="_blank">
-        Apple Photos app corrupts images |
+    <a href=https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html target="_blank">
+        Apple: SSH and FileVault |
     </a>
-    By: pattyj
+    By: ingve
 </li>
 
 <li>
-    <a href=https://skyfall.dev/posts/slack target="_blank">
-        Slack has raised our charges by $195k per year |
+    <a href=https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch target="_blank">
+        The Sagrada Família takes its final shape |
     </a>
-    By: JustSkyfall
+    By: pseudolus
 </li>
 </ol>
