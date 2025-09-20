@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 19 Sep 2025</h4>
+<h4>Check the latest news from: Sat 20 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://phishyurl.com/ target="_blank">
-        Want to piss off your IT department? Are the links not malicious looking enough? |
+    <a href=https://obsidian.md/blog/less-is-safer/ target="_blank">
+        Less is safer: How Obsidian reduces the risk of supply chain attacks |
     </a>
-    By: jordigh
+    By: saeedesmaili
 </li>
 
 <li>
-    <a href=https://lenowo.org/viewtopic.php?t=5 target="_blank">
-        Playing “Minecraft” without Minecraft (2024) |
+    <a href=https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/ target="_blank">
+        Things managers do that leaders never would |
     </a>
-    By: coolcoder613
+    By: 9x39
 </li>
 
 <li>
-    <a href=https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale target="_blank">
-        David Lynch LA House |
+    <a href=https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo target="_blank">
+        If all the world were a monorepo |
     </a>
-    By: ewf
+    By: sebg
 </li>
 
 <li>
-    <a href=https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html target="_blank">
-        Apple: SSH and FileVault |
+    <a href=https://www.codeintegrity.ai/blog/notion target="_blank">
+        Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration |
     </a>
-    By: ingve
+    By: abirag
 </li>
 
 <li>
-    <a href=https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch target="_blank">
-        The Sagrada Família takes its final shape |
+    <a href=https://feedmaker.fly.dev target="_blank">
+        Feedmaker: URL + CSS selectors = RSS feed |
     </a>
-    By: pseudolus
+    By: mustaphah
 </li>
 </ol>
