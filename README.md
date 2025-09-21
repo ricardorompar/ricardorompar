@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 20 Sep 2025</h4>
+<h4>Check the latest news from: Sun 21 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://obsidian.md/blog/less-is-safer/ target="_blank">
-        Less is safer: How Obsidian reduces the risk of supply chain attacks |
+    <a href=https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/ target="_blank">
+        $2 WeAct Display FS adds a 0.96-inch USB information display to your computer |
     </a>
-    By: saeedesmaili
+    By: smartmic
 </li>
 
 <li>
-    <a href=https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/ target="_blank">
-        Things managers do that leaders never would |
+    <a href=https://www.ifixit.com/News/113171/iphone-air-teardown target="_blank">
+        iFixit iPhone Air teardown |
     </a>
-    By: 9x39
+    By: zdw
 </li>
 
 <li>
-    <a href=https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo target="_blank">
-        If all the world were a monorepo |
+    <a href=https://seattleultrasonics.com/ target="_blank">
+        Ultrasonic Chef's Knife |
     </a>
-    By: sebg
+    By: hemloc_io
 </li>
 
 <li>
-    <a href=https://www.codeintegrity.ai/blog/notion target="_blank">
-        Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration |
+    <a href=https://43081j.com/2025/09/bloat-of-edge-case-libraries target="_blank">
+        The bloat of edge-case first libraries |
     </a>
-    By: abirag
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://feedmaker.fly.dev target="_blank">
-        Feedmaker: URL + CSS selectors = RSS feed |
+    <a href=https://hyperion.rs/ target="_blank">
+        Hyperion: Minecraft game engine for custom events |
     </a>
-    By: mustaphah
+    By: cjcuddy
 </li>
 </ol>
