@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 21 Sep 2025</h4>
+<h4>Check the latest news from: Mon 22 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/ target="_blank">
-        $2 WeAct Display FS adds a 0.96-inch USB information display to your computer |
+    <a href=https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true target="_blank">
+        DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024) |
     </a>
-    By: smartmic
+    By: rendx
 </li>
 
 <li>
-    <a href=https://www.ifixit.com/News/113171/iphone-air-teardown target="_blank">
-        iFixit iPhone Air teardown |
+    <a href=https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668 target="_blank">
+        The US Is Tracking 14 Potential Rabies Outbreaks in 20 States |
     </a>
-    By: zdw
+    By: treasure2seek
 </li>
 
 <li>
-    <a href=https://seattleultrasonics.com/ target="_blank">
-        Ultrasonic Chef's Knife |
+    <a href=https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf target="_blank">
+        Privacy and Security Risks in the eSIM Ecosystem [pdf] |
     </a>
-    By: hemloc_io
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://43081j.com/2025/09/bloat-of-edge-case-libraries target="_blank">
-        The bloat of edge-case first libraries |
+    <a href=https://github.com/rxi/sj.h target="_blank">
+        Sj.h: A tiny little JSON parsing library in ~150 lines of C99 |
     </a>
-    By: PaulHoule
+    By: simonpure
 </li>
 
 <li>
-    <a href=https://hyperion.rs/ target="_blank">
-        Hyperion: Minecraft game engine for custom events |
+    <a href=https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/ target="_blank">
+        Why is Venus hell and Earth an Eden? |
     </a>
-    By: cjcuddy
+    By: pseudolus
 </li>
 </ol>
