@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 22 Sep 2025</h4>
+<h4>Check the latest news from: Tue 23 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true target="_blank">
-        DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024) |
+    <a href=http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf target="_blank">
+        9 Things I Learned in 90 Years – From the Creator of Choose Your Own Adventure [pdf] |
     </a>
-    By: rendx
+    By: coderintherye
 </li>
 
 <li>
-    <a href=https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668 target="_blank">
-        The US Is Tracking 14 Potential Rabies Outbreaks in 20 States |
+    <a href=https://www.explorefall.com/fall-foliage-map target="_blank">
+        Fall Foliage Map 2025 |
     </a>
-    By: treasure2seek
+    By: rappatic
 </li>
 
 <li>
-    <a href=https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf target="_blank">
-        Privacy and Security Risks in the eSIM Ecosystem [pdf] |
+    <a href=https://github.com/QwenLM/Qwen3-Omni target="_blank">
+        Qwen3-Omni: Native Omni AI model for text, image and video |
     </a>
-    By: walterbell
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://github.com/rxi/sj.h target="_blank">
-        Sj.h: A tiny little JSON parsing library in ~150 lines of C99 |
+    <a href=https://arxiv.org/abs/2509.06917 target="_blank">
+        Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents |
     </a>
-    By: simonpure
+    By: Gaishan
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/ target="_blank">
-        Why is Venus hell and Earth an Eden? |
+    <a href=https://github.com/SheafificationOfG/based-cpp target="_blank">
+        Based C++ |
     </a>
-    By: pseudolus
+    By: phamtrongthang
 </li>
 </ol>
