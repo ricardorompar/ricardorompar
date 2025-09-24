@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 23 Sep 2025</h4>
+<h4>Check the latest news from: Wed 24 Sep 2025</h4>
 <ol>
 <li>
-    <a href=http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf target="_blank">
-        9 Things I Learned in 90 Years – From the Creator of Choose Your Own Adventure [pdf] |
+    <a href=https://larian.com/support/faqs/steam-deck-native-version_121 target="_blank">
+        Baldur's Gate 3 Steam Deck – Native Version |
     </a>
-    By: coderintherye
+    By: _JamesA_
 </li>
 
 <li>
-    <a href=https://www.explorefall.com/fall-foliage-map target="_blank">
-        Fall Foliage Map 2025 |
+    <a href=https://walzr.com/sf-parking/ target="_blank">
+        Find SF parking cops |
     </a>
-    By: rappatic
+    By: alazsengul
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;walzr.com&#x2F;sf-parking&#x2F;about&#x2F;" rel="nofollow">https:&#x2F;&#x2F;walzr.com&#x2F;sf-parking&#x2F;about&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://mitchellh.com/writing/libghostty-is-coming target="_blank">
+        Libghostty is coming |
+    </a>
+    By: kingori
 </li>
 
 <li>
-    <a href=https://github.com/QwenLM/Qwen3-Omni target="_blank">
-        Qwen3-Omni: Native Omni AI model for text, image and video |
+    <a href=https://github.com/logannye/space-efficient-zero-knowledge-proofs target="_blank">
+        Quadratic memory reductions for Zero-knowledge Proofs |
     </a>
-    By: meetpateltech
+    By: logannyeMD
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2509.06917 target="_blank">
-        Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents |
+    <a href=https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list target="_blank">
+        Qwen3-VL |
     </a>
-    By: Gaishan
-</li>
-
-<li>
-    <a href=https://github.com/SheafificationOfG/based-cpp target="_blank">
-        Based C++ |
-    </a>
-    By: phamtrongthang
+    By: natrys
 </li>
 </ol>
