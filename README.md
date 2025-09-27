@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 26 Sep 2025</h4>
+<h4>Check the latest news from: Sat 27 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/ target="_blank">
-        My Deus Ex lipsyncing fix mod |
+    <a href=https://github.com/apple/ml-simplefold target="_blank">
+        SimpleFold: Folding proteins is simpler than you think |
     </a>
-    By: jonny_eh
+    By: kevlened
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480</a> </br>
+</p>
+
+<li>
+    <a href=https://overreacted.io/open-social/ target="_blank">
+        Open Social |
+    </a>
+    By: knowtheory
 </li>
 
 <li>
-    <a href=https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/ target="_blank">
-        Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access |
+    <a href=https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/ target="_blank">
+        New math revives geometry's oldest problems |
     </a>
-    By: ptk
+    By: pykello
 </li>
 
 <li>
-    <a href=https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/ target="_blank">
-        Improved Gemini 2.5 Flash and Flash-Lite |
+    <a href=https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming target="_blank">
+        The Beauty of Programming (2001) |
     </a>
-    By: meetpateltech
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/ target="_blank">
-        Redis is fast – I'll cache in Postgres |
+    <a href=https://moondream.ai/blog/moondream-3-preview target="_blank">
+        Moondream 3 Preview: Frontier-level reasoning at a blazing speed |
     </a>
-    By: redbell
-</li>
-
-<li>
-    <a href=https://openai.com/index/introducing-chatgpt-pulse/ target="_blank">
-        ChatGPT Pulse |
-    </a>
-    By: meetpateltech
+    By: kristianp
 </li>
 </ol>
