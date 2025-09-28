@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 27 Sep 2025</h4>
+<h4>Check the latest news from: Sun 28 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/apple/ml-simplefold target="_blank">
-        SimpleFold: Folding proteins is simpler than you think |
+    <a href=https://messenger.abeto.co/ target="_blank">
+        A WebGL game where you deliver messages on a tiny planet |
     </a>
-    By: kevlened
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480</a> </br>
-</p>
-
-<li>
-    <a href=https://overreacted.io/open-social/ target="_blank">
-        Open Social |
-    </a>
-    By: knowtheory
+    By: thecupisblue
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/ target="_blank">
-        New math revives geometry's oldest problems |
+    <a href=https://www.nature.com/articles/d41586-025-02851-w target="_blank">
+        Man still alive six months after pig kidney transplant |
     </a>
-    By: pykello
+    By: signa11
 </li>
 
 <li>
-    <a href=https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming target="_blank">
-        The Beauty of Programming (2001) |
+    <a href=https://online-go.com/learn-to-play-go target="_blank">
+        Learn to play Go |
     </a>
-    By: andsoitis
+    By: kqr
 </li>
 
 <li>
-    <a href=https://moondream.ai/blog/moondream-3-preview target="_blank">
-        Moondream 3 Preview: Frontier-level reasoning at a blazing speed |
+    <a href=https://www.linspyre.com/ecoholics/temps.html target="_blank">
+        Do not do this unless you want magic black smoke |
     </a>
-    By: kristianp
+    By: behnamoh
+</li>
+
+<li>
+    <a href=https://github.com/francoismichel/ssh3 target="_blank">
+        SSH3: Faster and rich secure shell using HTTP/3 |
+    </a>
+    By: tempaccount420
 </li>
 </ol>
