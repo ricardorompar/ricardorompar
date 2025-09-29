@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 28 Sep 2025</h4>
+<h4>Check the latest news from: Mon 29 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://messenger.abeto.co/ target="_blank">
-        A WebGL game where you deliver messages on a tiny planet |
+    <a href=https://www.zeroasic.com/blog/wildebeest-launch target="_blank">
+        Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool |
     </a>
-    By: thecupisblue
+    By: stefanpie
 </li>
 
 <li>
-    <a href=https://www.nature.com/articles/d41586-025-02851-w target="_blank">
-        Man still alive six months after pig kidney transplant |
+    <a href=https://f-droid.org/2025/09/29/google-developer-registration-decree.html target="_blank">
+        F-Droid and Google's Developer Registration Decree |
     </a>
-    By: signa11
+    By: gumby271
 </li>
 
 <li>
-    <a href=https://online-go.com/learn-to-play-go target="_blank">
-        Learn to play Go |
+    <a href=https://demian.ferrei.ro/snake/ target="_blank">
+        Play snake in the URL address bar |
     </a>
-    By: kqr
+    By: macote
 </li>
 
 <li>
-    <a href=https://www.linspyre.com/ecoholics/temps.html target="_blank">
-        Do not do this unless you want magic black smoke |
+    <a href=https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/ target="_blank">
+        Reader Response to "AI Overinvestment" |
     </a>
-    By: behnamoh
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://github.com/francoismichel/ssh3 target="_blank">
-        SSH3: Faster and rich secure shell using HTTP/3 |
+    <a href=https://privacybadger.org/ target="_blank">
+        Privacy Badger is a free browser extension made by EFF to stop spying |
     </a>
-    By: tempaccount420
+    By: doener
 </li>
 </ol>
