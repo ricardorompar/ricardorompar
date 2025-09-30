@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 29 Sep 2025</h4>
+<h4>Check the latest news from: Tue 30 Sep 2025</h4>
 <ol>
 <li>
-    <a href=https://www.zeroasic.com/blog/wildebeest-launch target="_blank">
-        Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool |
+    <a href=https://www.anthropic.com/news/claude-sonnet-4-5 target="_blank">
+        Claude Sonnet 4.5 |
     </a>
-    By: stefanpie
+    By: adocomplete
+</li>
+
+<p>
+Text: System card: <a href="https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;12f214efcc2f457a&#x2F;original&#x2F;Claude-Sonnet-4-5-System-Card.pdf" rel="nofollow">https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;12f214efcc2f457a&#x2F;original&#x2F;Cla...</a> </br>
+</p>
+
+<li>
+    <a href=https://sharif.io/28-ideas-2025 target="_blank">
+        AI tools I wish existed |
+    </a>
+    By: Poleris
 </li>
 
 <li>
-    <a href=https://f-droid.org/2025/09/29/google-developer-registration-decree.html target="_blank">
-        F-Droid and Google's Developer Registration Decree |
+    <a href=https://www.npmjs.com/package/@anthropic-ai/claude-code target="_blank">
+        Claude Code 2.0 |
     </a>
-    By: gumby271
+    By: polyrand
 </li>
 
 <li>
-    <a href=https://demian.ferrei.ro/snake/ target="_blank">
-        Play snake in the URL address bar |
+    <a href=https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies target="_blank">
+        Hiring only senior engineers is killing companies |
     </a>
-    By: macote
+    By: mooreds
 </li>
 
 <li>
-    <a href=https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/ target="_blank">
-        Reader Response to "AI Overinvestment" |
+    <a href=https://github.com/cfenollosa/os-tutorial target="_blank">
+        How to create an OS from scratch |
     </a>
-    By: walterbell
-</li>
-
-<li>
-    <a href=https://privacybadger.org/ target="_blank">
-        Privacy Badger is a free browser extension made by EFF to stop spying |
-    </a>
-    By: doener
+    By: pykello
 </li>
 </ol>
