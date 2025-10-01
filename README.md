@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 30 Sep 2025</h4>
+<h4>Check the latest news from: Wed 01 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/claude-sonnet-4-5 target="_blank">
-        Claude Sonnet 4.5 |
+    <a href=https://github.com/google/cdc-file-transfer target="_blank">
+        CDC File Transfer |
     </a>
-    By: adocomplete
+    By: GalaxySnail
+</li>
+
+<li>
+    <a href=https://openai.com/index/sora-2/ target="_blank">
+        Sora 2 |
+    </a>
+    By: skilled
 </li>
 
 <p>
-Text: System card: <a href="https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;12f214efcc2f457a&#x2F;original&#x2F;Claude-Sonnet-4-5-System-Card.pdf" rel="nofollow">https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;12f214efcc2f457a&#x2F;original&#x2F;Cla...</a> </br>
+Text: Video: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU</a><p>System card: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;sora-2-system-card&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;sora-2-system-card&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://sharif.io/28-ideas-2025 target="_blank">
-        AI tools I wish existed |
+    <a href=https://blog.dshr.org/2025/09/the-gaslit-asset-class.html target="_blank">
+        The gaslit asset class |
     </a>
-    By: Poleris
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.npmjs.com/package/@anthropic-ai/claude-code target="_blank">
-        Claude Code 2.0 |
+    <a href=https://prison.josh.mn/ target="_blank">
+        An informational website about why I went to prison |
     </a>
-    By: polyrand
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies target="_blank">
-        Hiring only senior engineers is killing companies |
+    <a href=https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489 target="_blank">
+        NJ theme park puts animatronic dinosaurs on Facebook Marketplace |
     </a>
-    By: mooreds
-</li>
-
-<li>
-    <a href=https://github.com/cfenollosa/os-tutorial target="_blank">
-        How to create an OS from scratch |
-    </a>
-    By: pykello
+    By: ohjeez
 </li>
 </ol>
