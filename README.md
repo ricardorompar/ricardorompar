@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 01 Oct 2025</h4>
+<h4>Check the latest news from: Thu 02 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/google/cdc-file-transfer target="_blank">
-        CDC File Transfer |
+    <a href=https://www.typepad.com target="_blank">
+        Typepad Is Closed for Business |
     </a>
-    By: GalaxySnail
+    By: saaspirant
 </li>
 
 <li>
-    <a href=https://openai.com/index/sora-2/ target="_blank">
-        Sora 2 |
+    <a href=https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/ target="_blank">
+        Cormac McCarthy's personal library |
     </a>
-    By: skilled
-</li>
-
-<p>
-Text: Video: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=gzneGhpXwjU</a><p>System card: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;sora-2-system-card&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;sora-2-system-card&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://blog.dshr.org/2025/09/the-gaslit-asset-class.html target="_blank">
-        The gaslit asset class |
-    </a>
-    By: zdw
+    By: bigflern
 </li>
 
 <li>
-    <a href=https://prison.josh.mn/ target="_blank">
-        An informational website about why I went to prison |
+    <a href=https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf target="_blank">
+        F3: Open-source data file format for the future [pdf] |
+    </a>
+    By: eatonphil
+</li>
+
+<li>
+    <a href=https://www.inkandswitch.com/keyhive/notebook/ target="_blank">
+        Keyhive – Local-first access control |
+    </a>
+    By: dannyobrien
+</li>
+
+<li>
+    <a href=https://github.com/tvlabs/edge264 target="_blank">
+        Edge264 – Minimalist, high-performance software decoder for H.264/AVC video |
     </a>
     By: andsoitis
-</li>
-
-<li>
-    <a href=https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489 target="_blank">
-        NJ theme park puts animatronic dinosaurs on Facebook Marketplace |
-    </a>
-    By: ohjeez
 </li>
 </ol>
