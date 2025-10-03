@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 02 Oct 2025</h4>
+<h4>Check the latest news from: Fri 03 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.typepad.com target="_blank">
-        Typepad Is Closed for Business |
+    <a href=https://github.com/FyshOS/fynedesk target="_blank">
+        FyneDesk: A full desktop environment for Linux written in Go |
     </a>
-    By: saaspirant
+    By: xk3
 </li>
 
 <li>
-    <a href=https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/ target="_blank">
-        Cormac McCarthy's personal library |
+    <a href=https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/ target="_blank">
+        I spent the day teaching seniors how to use an iPhone |
     </a>
-    By: bigflern
+    By: dabinat
 </li>
 
 <li>
-    <a href=https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf target="_blank">
-        F3: Open-source data file format for the future [pdf] |
+    <a href=https://entropicthoughts.com/you-want-technology-with-warts target="_blank">
+        You Want Technology with Warts |
     </a>
-    By: eatonphil
+    By: tartoran
 </li>
 
 <li>
-    <a href=https://www.inkandswitch.com/keyhive/notebook/ target="_blank">
-        Keyhive – Local-first access control |
+    <a href=https://signal.org/blog/spqr/ target="_blank">
+        Signal Protocol and Post-Quantum Ratchets |
     </a>
-    By: dannyobrien
+    By: pluto_modadic
 </li>
 
 <li>
-    <a href=https://github.com/tvlabs/edge264 target="_blank">
-        Edge264 – Minimalist, high-performance software decoder for H.264/AVC video |
+    <a href=https://lwn.net/Articles/1036262/ target="_blank">
+        Blender 4.5 brings big changes |
     </a>
-    By: andsoitis
+    By: pykello
 </li>
 </ol>
