@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 03 Oct 2025</h4>
+<h4>Check the latest news from: Sat 04 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/FyshOS/fynedesk target="_blank">
-        FyneDesk: A full desktop environment for Linux written in Go |
+    <a href=https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/ target="_blank">
+        Offline card payments should be possible no later than 1 July 2026 |
     </a>
-    By: xk3
+    By: sebiw
 </li>
 
 <li>
-    <a href=https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/ target="_blank">
-        I spent the day teaching seniors how to use an iPhone |
+    <a href=https://mitchellh.com/writing/zig-builds-getting-faster target="_blank">
+        Zig builds are getting faster |
     </a>
-    By: dabinat
+    By: emschwartz
 </li>
 
 <li>
-    <a href=https://entropicthoughts.com/you-want-technology-with-warts target="_blank">
-        You Want Technology with Warts |
+    <a href=https://overreacted.io/where-its-at/ target="_blank">
+        Where it's at:// |
     </a>
-    By: tartoran
+    By: steveklabnik
 </li>
 
 <li>
-    <a href=https://signal.org/blog/spqr/ target="_blank">
-        Signal Protocol and Post-Quantum Ratchets |
+    <a href=https://avarayr.github.io/shamelectron/ target="_blank">
+        Track which Electron apps slow down macOS 26 Tahoe |
     </a>
-    By: pluto_modadic
+    By: mikamika83
 </li>
 
 <li>
-    <a href=https://lwn.net/Articles/1036262/ target="_blank">
-        Blender 4.5 brings big changes |
+    <a href=https://chiuhans111.github.io/fluidglass/ target="_blank">
+        Fluid Glass |
     </a>
-    By: pykello
+    By: memalign
 </li>
 </ol>
