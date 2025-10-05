@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 04 Oct 2025</h4>
+<h4>Check the latest news from: Sun 05 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/ target="_blank">
-        Offline card payments should be possible no later than 1 July 2026 |
+    <a href=https://github.com/DebarghaG/proofofthought target="_blank">
+        ProofOfThought: LLM-based reasoning using Z3 theorem proving |
     </a>
-    By: sebiw
+    By: barthelomew
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2409.17270" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2409.17270</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md target="_blank">
+        A comparison of Ada and Rust, using solutions to the Advent of Code |
+    </a>
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://mitchellh.com/writing/zig-builds-getting-faster target="_blank">
-        Zig builds are getting faster |
+    <a href=https://github.com/newton-physics/newton target="_blank">
+        Newton: physics simulation engine built upon NVIDIA Warp |
     </a>
-    By: emschwartz
+    By: skilled
 </li>
 
 <li>
-    <a href=https://overreacted.io/where-its-at/ target="_blank">
-        Where it's at:// |
+    <a href=https://blogfeeds.net target="_blank">
+        Blog Feeds |
     </a>
-    By: steveklabnik
+    By: stevedsimkins
 </li>
 
 <li>
-    <a href=https://avarayr.github.io/shamelectron/ target="_blank">
-        Track which Electron apps slow down macOS 26 Tahoe |
+    <a href=https://richardsapperdesign.com/products/mod-5140/ target="_blank">
+        Mod. 5140 - IBM's First Laptop Computer |
     </a>
-    By: mikamika83
-</li>
-
-<li>
-    <a href=https://chiuhans111.github.io/fluidglass/ target="_blank">
-        Fluid Glass |
-    </a>
-    By: memalign
+    By: jumpocelot
 </li>
 </ol>
