@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 05 Oct 2025</h4>
+<h4>Check the latest news from: Mon 06 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/DebarghaG/proofofthought target="_blank">
-        ProofOfThought: LLM-based reasoning using Z3 theorem proving |
+    <a href=https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936 target="_blank">
+        Fire destroys S. Korean government's cloud storage system, no backups available |
     </a>
-    By: barthelomew
+    By: ksec
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2409.17270" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2409.17270</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.chosun.com&#x2F;english&#x2F;national-en&#x2F;2025&#x2F;10&#x2F;02&#x2F;FPWGFSXMLNCFPIEGWKZF3BOQ3M&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.chosun.com&#x2F;english&#x2F;national-en&#x2F;2025&#x2F;10&#x2F;02&#x2F;FPWGFS...</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md target="_blank">
-        A comparison of Ada and Rust, using solutions to the Advent of Code |
+    <a href=https://vgel.me/posts/seahorse/ target="_blank">
+        Why do LLMs freak out over the seahorse emoji? |
     </a>
-    By: andsoitis
+    By: nyxt
 </li>
 
 <li>
-    <a href=https://github.com/newton-physics/newton target="_blank">
-        Newton: physics simulation engine built upon NVIDIA Warp |
+    <a href=https://magic-wormhole.readthedocs.io/en/latest/welcome.html target="_blank">
+        Magic Wormhole: Get things from one computer to another, safely |
     </a>
-    By: skilled
+    By: xd1936
 </li>
 
 <li>
-    <a href=https://blogfeeds.net target="_blank">
-        Blog Feeds |
+    <a href=https://www.srb2.org/ target="_blank">
+        Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame |
     </a>
-    By: stevedsimkins
+    By: __grob
 </li>
 
 <li>
-    <a href=https://richardsapperdesign.com/products/mod-5140/ target="_blank">
-        Mod. 5140 - IBM's First Laptop Computer |
+    <a href=https://blog.archive.org/trillion/ target="_blank">
+        Celebrating 1 Trillion Web Pages Archived |
     </a>
-    By: jumpocelot
+    By: pabs3
 </li>
 </ol>
