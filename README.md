@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 06 Oct 2025</h4>
+<h4>Check the latest news from: Tue 07 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936 target="_blank">
-        Fire destroys S. Korean government's cloud storage system, no backups available |
+    <a href=https://thecascade.dev/article/least-amount-of-css/ target="_blank">
+        The least amount of CSS for a decent looking site (2023) |
     </a>
-    By: ksec
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.chosun.com&#x2F;english&#x2F;national-en&#x2F;2025&#x2F;10&#x2F;02&#x2F;FPWGFSXMLNCFPIEGWKZF3BOQ3M&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.chosun.com&#x2F;english&#x2F;national-en&#x2F;2025&#x2F;10&#x2F;02&#x2F;FPWGFS...</a> </br>
-</p>
-
-<li>
-    <a href=https://vgel.me/posts/seahorse/ target="_blank">
-        Why do LLMs freak out over the seahorse emoji? |
-    </a>
-    By: nyxt
+    By: loughnane
 </li>
 
 <li>
-    <a href=https://magic-wormhole.readthedocs.io/en/latest/welcome.html target="_blank">
-        Magic Wormhole: Get things from one computer to another, safely |
+    <a href=https://pdoc.dev/ target="_blank">
+        Pdoc – Generate API documentation for Python projects |
     </a>
-    By: xd1936
+    By: joshdavham
 </li>
 
 <li>
-    <a href=https://www.srb2.org/ target="_blank">
-        Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame |
+    <a href=https://developers.openai.com/apps-sdk/ target="_blank">
+        Apps SDK |
     </a>
-    By: __grob
+    By: alvis
 </li>
 
 <li>
-    <a href=https://blog.archive.org/trillion/ target="_blank">
-        Celebrating 1 Trillion Web Pages Archived |
+    <a href=https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles target="_blank">
+        Why did Crunchyroll's subtitles just get worse? |
     </a>
-    By: pabs3
+    By: zdw
+</li>
+
+<li>
+    <a href=https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine target="_blank">
+        Using Deno as my game engine |
+    </a>
+    By: phaser
 </li>
 </ol>
