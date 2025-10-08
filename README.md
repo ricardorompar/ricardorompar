@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 07 Oct 2025</h4>
+<h4>Check the latest news from: Wed 08 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://thecascade.dev/article/least-amount-of-css/ target="_blank">
-        The least amount of CSS for a decent looking site (2023) |
+    <a href=https://blog.google/technology/google-deepmind/gemini-computer-use-model/ target="_blank">
+        Gemini 2.5 Computer Use model |
     </a>
-    By: loughnane
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://pdoc.dev/ target="_blank">
-        Pdoc – Generate API documentation for Python projects |
+    <a href=https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i target="_blank">
+        Qualcomm to acquire Arduino |
     </a>
-    By: joshdavham
+    By: janjongboom
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;arstechnica.com&#x2F;gadgets&#x2F;2025&#x2F;10&#x2F;arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm&#x2F;" rel="nofollow">https:&#x2F;&#x2F;arstechnica.com&#x2F;gadgets&#x2F;2025&#x2F;10&#x2F;arduino-retains-its-...</a><p><a href="https:&#x2F;&#x2F;www.electronicdesign.com&#x2F;technologies&#x2F;embedded&#x2F;article&#x2F;55321526&#x2F;electronic-design-qualcomms-acquires-arduino-arduino-uno-q-runs-ai-llm-code-from-inexperienced-programmer-prompts-performs-signal-processing-and-runs-linux-and-zephyr-os" rel="nofollow">https:&#x2F;&#x2F;www.electronicdesign.com&#x2F;technologies&#x2F;embedded&#x2F;artic...</a> </br>
+</p>
+
+<li>
+    <a href=https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/ target="_blank">
+        TiVo exiting legacy DVR business |
+    </a>
+    By: TMWNN
 </li>
 
 <li>
-    <a href=https://developers.openai.com/apps-sdk/ target="_blank">
-        Apps SDK |
+    <a href=https://kau.sh/blog/usbi/ target="_blank">
+        A terminal command that tells you if your USB-C cable is bad |
     </a>
-    By: alvis
+    By: freetonik
 </li>
 
 <li>
-    <a href=https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles target="_blank">
-        Why did Crunchyroll's subtitles just get worse? |
+    <a href=https://www.seangoedecke.com/seeing-like-a-software-company/ target="_blank">
+        Seeing like a software company |
     </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine target="_blank">
-        Using Deno as my game engine |
-    </a>
-    By: phaser
+    By: praptak
 </li>
 </ol>
