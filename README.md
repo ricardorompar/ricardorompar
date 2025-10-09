@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 08 Oct 2025</h4>
+<h4>Check the latest news from: Thu 09 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.google/technology/google-deepmind/gemini-computer-use-model/ target="_blank">
-        Gemini 2.5 Computer Use model |
+    <a href=https://therecord.media/california-signs-law-opt-out-browsers target="_blank">
+        California enacts law enabling people to universally opt out of data sharing |
     </a>
-    By: mfiguiere
+    By: thm
 </li>
 
 <li>
-    <a href=https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i target="_blank">
-        Qualcomm to acquire Arduino |
+    <a href=https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html target="_blank">
+        Designing a Low Latency 10G Ethernet Core (2023) |
     </a>
-    By: janjongboom
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;arstechnica.com&#x2F;gadgets&#x2F;2025&#x2F;10&#x2F;arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm&#x2F;" rel="nofollow">https:&#x2F;&#x2F;arstechnica.com&#x2F;gadgets&#x2F;2025&#x2F;10&#x2F;arduino-retains-its-...</a><p><a href="https:&#x2F;&#x2F;www.electronicdesign.com&#x2F;technologies&#x2F;embedded&#x2F;article&#x2F;55321526&#x2F;electronic-design-qualcomms-acquires-arduino-arduino-uno-q-runs-ai-llm-code-from-inexperienced-programmer-prompts-performs-signal-processing-and-runs-linux-and-zephyr-os" rel="nofollow">https:&#x2F;&#x2F;www.electronicdesign.com&#x2F;technologies&#x2F;embedded&#x2F;artic...</a> </br>
-</p>
-
-<li>
-    <a href=https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/ target="_blank">
-        TiVo exiting legacy DVR business |
-    </a>
-    By: TMWNN
+    By: picture
 </li>
 
 <li>
-    <a href=https://kau.sh/blog/usbi/ target="_blank">
-        A terminal command that tells you if your USB-C cable is bad |
+    <a href=https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/ target="_blank">
+        We found a bug in Go's ARM64 compiler |
     </a>
-    By: freetonik
+    By: jgrahamc
 </li>
 
 <li>
-    <a href=https://www.seangoedecke.com/seeing-like-a-software-company/ target="_blank">
-        Seeing like a software company |
+    <a href=https://www.winboat.app/ target="_blank">
+        WinBoat: Windows apps on Linux with seamless integration |
     </a>
-    By: praptak
+    By: nateb2022
+</li>
+
+<li>
+    <a href=https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/ target="_blank">
+        Starlink is burning up one or two satellites a day in Earth's atmosphere |
+    </a>
+    By: damethos
 </li>
 </ol>
