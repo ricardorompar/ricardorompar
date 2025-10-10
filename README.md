@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 09 Oct 2025</h4>
+<h4>Check the latest news from: Fri 10 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://therecord.media/california-signs-law-opt-out-browsers target="_blank">
-        California enacts law enabling people to universally opt out of data sharing |
+    <a href=https://www.anthropic.com/research/small-samples-poison target="_blank">
+        A small number of samples can poison LLMs of any size |
     </a>
-    By: thm
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html target="_blank">
-        Designing a Low Latency 10G Ethernet Core (2023) |
+    <a href=https://mitchellh.com/writing/building-large-technical-projects target="_blank">
+        My approach to building large technical projects (2023) |
     </a>
-    By: picture
+    By: mad2021
 </li>
 
 <li>
-    <a href=https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/ target="_blank">
-        We found a bug in Go's ARM64 compiler |
+    <a href=https://arxiv.org/abs/2505.20296 target="_blank">
+        Reasoning LLMs are wandering solution explorers |
     </a>
-    By: jgrahamc
+    By: Surreal4434
 </li>
 
 <li>
-    <a href=https://www.winboat.app/ target="_blank">
-        WinBoat: Windows apps on Linux with seamless integration |
+    <a href=https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it target="_blank">
+        Python 3.14 is here. How fast is it? |
     </a>
-    By: nateb2022
+    By: pjmlp
 </li>
 
 <li>
-    <a href=https://www.theregister.com/2025/10/06/starlink_vaporizes_satellites_daily/ target="_blank">
-        Starlink is burning up one or two satellites a day in Earth's atmosphere |
+    <a href=https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/ target="_blank">
+        A beginner's guide to deploying LLMs with AMD on Windows using PyTorch |
     </a>
-    By: damethos
+    By: beckford
 </li>
 </ol>
