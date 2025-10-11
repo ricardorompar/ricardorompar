@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 10 Oct 2025</h4>
+<h4>Check the latest news from: Sat 11 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/research/small-samples-poison target="_blank">
-        A small number of samples can poison LLMs of any size |
+    <a href=https://fulghum.io/album-cards target="_blank">
+        I built physical album cards with NFC tags to teach my son music discovery |
     </a>
-    By: meetpateltech
+    By: jordanf
 </li>
 
 <li>
-    <a href=https://mitchellh.com/writing/building-large-technical-projects target="_blank">
-        My approach to building large technical projects (2023) |
+    <a href=https://ericmigi.com/blog/re-introducing-the-pebble-appstore/ target="_blank">
+        (Re)Introducing the Pebble Appstore |
     </a>
-    By: mad2021
+    By: duck
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2505.20296 target="_blank">
-        Reasoning LLMs are wandering solution explorers |
+    <a href=https://nga.demo.mixedbread.com/ target="_blank">
+        Show HN: Semantic search over the National Gallery of Art |
     </a>
-    By: Surreal4434
+    By: breadislove
 </li>
 
 <li>
-    <a href=https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it target="_blank">
-        Python 3.14 is here. How fast is it? |
+    <a href=https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html target="_blank">
+        Synthetic aperture radar autofocus and calibration |
     </a>
-    By: pjmlp
+    By: nbernard
 </li>
 
 <li>
-    <a href=https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/ target="_blank">
-        A beginner's guide to deploying LLMs with AMD on Windows using PyTorch |
+    <a href=https://orb.net/blog/does-speed-make-wifi-suck target="_blank">
+        Does our “need for speed” make our wi-fi suck? |
     </a>
-    By: beckford
+    By: jamies
 </li>
 </ol>
