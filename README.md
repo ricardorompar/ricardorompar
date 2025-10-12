@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 11 Oct 2025</h4>
+<h4>Check the latest news from: Sun 12 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://fulghum.io/album-cards target="_blank">
-        I built physical album cards with NFC tags to teach my son music discovery |
+    <a href=https://paddedinputs.substack.com/p/meta-superintelligences-surprising target="_blank">
+        Meta Superintelligence's surprising first paper |
     </a>
-    By: jordanf
+    By: skadamat
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.01092" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.01092</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/acsandmann/rift target="_blank">
+        Show HN: Rift – A tiling window manager for macOS |
+    </a>
+    By: atticus_
 </li>
 
 <li>
-    <a href=https://ericmigi.com/blog/re-introducing-the-pebble-appstore/ target="_blank">
-        (Re)Introducing the Pebble Appstore |
+    <a href=https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf target="_blank">
+        Vancouver Stock Exchange: Scam capital of the world (1989) [pdf] |
     </a>
-    By: duck
+    By: thomassmith65
 </li>
 
 <li>
-    <a href=https://nga.demo.mixedbread.com/ target="_blank">
-        Show HN: Semantic search over the National Gallery of Art |
+    <a href=https://justismills.substack.com/p/heroin-addicts-often-seem-normal target="_blank">
+        Heroin addicts often seem normal |
     </a>
-    By: breadislove
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html target="_blank">
-        Synthetic aperture radar autofocus and calibration |
+    <a href=https://dayvster.com/blog/is-odin-just-a-more-boring-c/ target="_blank">
+        Is Odin just a more boring C? |
     </a>
-    By: nbernard
-</li>
-
-<li>
-    <a href=https://orb.net/blog/does-speed-make-wifi-suck target="_blank">
-        Does our “need for speed” make our wi-fi suck? |
-    </a>
-    By: jamies
+    By: birdculture
 </li>
 </ol>
