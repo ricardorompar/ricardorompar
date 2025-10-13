@@ -45,44 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 12 Oct 2025</h4>
+<h4>Check the latest news from: Mon 13 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://paddedinputs.substack.com/p/meta-superintelligences-surprising target="_blank">
-        Meta Superintelligence's surprising first paper |
+    <a href=https://www.atlasobscura.com/articles/history-of-korean-food target="_blank">
+        For centuries massive meals amazed visitors to Korea (2019) |
     </a>
-    By: skadamat
+    By: carabiner
+</li>
+
+<li>
+    <a href=https://github.com/chili-chips-ba/wireguard-fpga target="_blank">
+        Wireguard FPGA |
+    </a>
+    By: hasheddan
+</li>
+
+<li>
+    <a href=https://github.com/pytauri/pytauri target="_blank">
+        Tauri binding for Python through Pyo3 |
+    </a>
+    By: 0x1997
+</li>
+
+<li>
+    <a href=https://micropythonos.com target="_blank">
+        MicroPythonOS – An Android-like OS for microcontrollers |
+    </a>
+    By: alefnula
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.01092" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.01092</a> </br>
+Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
 </p>
-
-<li>
-    <a href=https://github.com/acsandmann/rift target="_blank">
-        Show HN: Rift – A tiling window manager for macOS |
-    </a>
-    By: atticus_
-</li>
-
-<li>
-    <a href=https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf target="_blank">
-        Vancouver Stock Exchange: Scam capital of the world (1989) [pdf] |
-    </a>
-    By: thomassmith65
-</li>
-
-<li>
-    <a href=https://justismills.substack.com/p/heroin-addicts-often-seem-normal target="_blank">
-        Heroin addicts often seem normal |
-    </a>
-    By: surprisetalk
-</li>
-
-<li>
-    <a href=https://dayvster.com/blog/is-odin-just-a-more-boring-c/ target="_blank">
-        Is Odin just a more boring C? |
-    </a>
-    By: birdculture
-</li>
 </ol>
