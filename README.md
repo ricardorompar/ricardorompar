@@ -45,37 +45,52 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 13 Oct 2025</h4>
+<h4>Check the latest news from: Tue 14 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.atlasobscura.com/articles/history-of-korean-food target="_blank">
-        For centuries massive meals amazed visitors to Korea (2019) |
+    <a href=https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf target="_blank">
+        Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf] |
     </a>
-    By: carabiner
+    By: dweekly
 </li>
 
 <li>
-    <a href=https://github.com/chili-chips-ba/wireguard-fpga target="_blank">
-        Wireguard FPGA |
+    <a href=https://github.com/karpathy/nanochat target="_blank">
+        NanoChat – The best ChatGPT that $100 can buy |
     </a>
-    By: hasheddan
-</li>
-
-<li>
-    <a href=https://github.com/pytauri/pytauri target="_blank">
-        Tauri binding for Python through Pyo3 |
-    </a>
-    By: 0x1997
-</li>
-
-<li>
-    <a href=https://micropythonos.com target="_blank">
-        MicroPythonOS – An Android-like OS for microcontrollers |
-    </a>
-    By: alefnula
+    By: huseyinkeles
 </li>
 
 <p>
-Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;1977755427569111362" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;1977755427569111362</a> </br>
+</p>
+
+<li>
+    <a href=https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/ target="_blank">
+        Palisades Fire suspect's ChatGPT history to be used as evidence |
+    </a>
+    By: quuxplusone
+</li>
+
+<li>
+    <a href=https://shellzine.net/casio-f-series-mods/ target="_blank">
+        Modifying a Casio F-Series Digital Watch (2020) |
+    </a>
+    By: camtarn
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210309193244&#x2F;https:&#x2F;&#x2F;shellzine.net&#x2F;casio-f-series-mods&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210309193244&#x2F;https:&#x2F;&#x2F;shellzine...</a> </br>
+</p>
+
+<li>
+    <a href=https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html target="_blank">
+        Dutch government takes control of Chinese-owned chipmaker Nexperia |
+    </a>
+    By: piskov
+</li>
+
+<p>
+Text: Related: https:&#x2F;&#x2F;www.scmp.com&#x2F;news&#x2F;china&#x2F;diplomacy&#x2F;article&#x2F;3328726&#x2F;chinas-wingtech-says-dutch-court-freezes-control-nexperia-amid-national-security-dispute </br>
 </p>
 </ol>
