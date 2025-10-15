@@ -45,52 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 14 Oct 2025</h4>
+<h4>Check the latest news from: Wed 15 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf target="_blank">
-        Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf] |
+    <a href=https://www.fsf.org/news/librephone-project target="_blank">
+        FSF announces Librephone project |
     </a>
-    By: dweekly
+    By: g-b-r
 </li>
 
 <li>
-    <a href=https://github.com/karpathy/nanochat target="_blank">
-        NanoChat – The best ChatGPT that $100 can buy |
+    <a href=https://boydkane.com/essays/boss target="_blank">
+        Beliefs that are true for regular software but false when applied to AI |
     </a>
-    By: huseyinkeles
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;1977755427569111362" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;karpathy&#x2F;status&#x2F;1977755427569111362</a> </br>
-</p>
-
-<li>
-    <a href=https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/ target="_blank">
-        Palisades Fire suspect's ChatGPT history to be used as evidence |
-    </a>
-    By: quuxplusone
+    By: beyarkay
 </li>
 
 <li>
-    <a href=https://shellzine.net/casio-f-series-mods/ target="_blank">
-        Modifying a Casio F-Series Digital Watch (2020) |
+    <a href=https://chipsandcheese.com/p/interviewing-intels-chief-architect target="_blank">
+        Interviewing Intel's Chief Architect of x86 Cores |
     </a>
-    By: camtarn
+    By: ryandotsmith
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210309193244&#x2F;https:&#x2F;&#x2F;shellzine.net&#x2F;casio-f-series-mods&#x2F;" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210309193244&#x2F;https:&#x2F;&#x2F;shellzine...</a> </br>
-</p>
 
 <li>
-    <a href=https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html target="_blank">
-        Dutch government takes control of Chinese-owned chipmaker Nexperia |
+    <a href=https://www.alexedwards.net/blog/preventing-csrf-in-go target="_blank">
+        A modern approach to preventing CSRF in Go |
     </a>
-    By: piskov
+    By: todsacerdoti
 </li>
 
-<p>
-Text: Related: https:&#x2F;&#x2F;www.scmp.com&#x2F;news&#x2F;china&#x2F;diplomacy&#x2F;article&#x2F;3328726&#x2F;chinas-wingtech-says-dutch-court-freezes-control-nexperia-amid-national-security-dispute </br>
-</p>
+<li>
+    <a href=https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/ target="_blank">
+        Nvidia DGX Spark: great hardware, early days for the ecosystem |
+    </a>
+    By: GavinAnderegg
+</li>
 </ol>
