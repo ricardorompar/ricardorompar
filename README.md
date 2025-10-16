@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 15 Oct 2025</h4>
+<h4>Check the latest news from: Thu 16 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.fsf.org/news/librephone-project target="_blank">
-        FSF announces Librephone project |
+    <a href=https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/ target="_blank">
+        Apple M5 chip |
     </a>
-    By: g-b-r
+    By: mihau
 </li>
 
 <li>
-    <a href=https://boydkane.com/essays/boss target="_blank">
-        Beliefs that are true for regular software but false when applied to AI |
+    <a href=https://www.anthropic.com/news/claude-haiku-4-5 target="_blank">
+        Claude Haiku 4.5 |
     </a>
-    By: beyarkay
+    By: adocomplete
+</li>
+
+<p>
+Text: System card: <a href="https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;99128ddd009bdcb&#x2F;original&#x2F;Claude-Haiku-4-5-System-Card.pdf" rel="nofollow">https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;99128ddd009bdcb&#x2F;original&#x2F;Clau...</a> </br>
+</p>
+
+<li>
+    <a href=https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1 target="_blank">
+        Build a Superscalar 8-Bit CPU (YouTube Playlist) [video] |
+    </a>
+    By: lrsjng
 </li>
 
 <li>
-    <a href=https://chipsandcheese.com/p/interviewing-intels-chief-architect target="_blank">
-        Interviewing Intel's Chief Architect of x86 Cores |
+    <a href=https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html target="_blank">
+        Free applicatives, the handle pattern, and remote systems |
     </a>
-    By: ryandotsmith
+    By: _jackdk_
 </li>
 
 <li>
-    <a href=https://www.alexedwards.net/blog/preventing-csrf-in-go target="_blank">
-        A modern approach to preventing CSRF in Go |
+    <a href=https://zed.dev/blog/zed-for-windows-is-here target="_blank">
+        Zed is now available on Windows |
     </a>
-    By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/ target="_blank">
-        Nvidia DGX Spark: great hardware, early days for the ecosystem |
-    </a>
-    By: GavinAnderegg
+    By: meetpateltech
 </li>
 </ol>
