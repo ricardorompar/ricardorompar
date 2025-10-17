@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 16 Oct 2025</h4>
+<h4>Check the latest news from: Fri 17 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/ target="_blank">
-        Apple M5 chip |
+    <a href=https://blog.torproject.org/2025-fundraiser-donations-matched/ target="_blank">
+        Free the Internet: The Tor Project's annual fundraiser |
     </a>
-    By: mihau
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/claude-haiku-4-5 target="_blank">
-        Claude Haiku 4.5 |
+    <a href=https://blog.pixelmelt.dev/kindle-web-drm/ target="_blank">
+        How I bypassed Amazon's Kindle web DRM |
     </a>
-    By: adocomplete
+    By: pixelmelt
+</li>
+
+<li>
+    <a href=https://www.anthropic.com/news/skills target="_blank">
+        Claude Skills |
+    </a>
+    By: meetpateltech
 </li>
 
 <p>
-Text: System card: <a href="https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;99128ddd009bdcb&#x2F;original&#x2F;Claude-Haiku-4-5-System-Card.pdf" rel="nofollow">https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;99128ddd009bdcb&#x2F;original&#x2F;Clau...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.anthropic.com&#x2F;engineering&#x2F;equipping-agents-for-the-real-world-with-agent-skills" rel="nofollow">https:&#x2F;&#x2F;www.anthropic.com&#x2F;engineering&#x2F;equipping-agents-for-t...</a> </br>
 </p>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1 target="_blank">
-        Build a Superscalar 8-Bit CPU (YouTube Playlist) [video] |
+    <a href=https://lwn.net/Articles/1039827/ target="_blank">
+        Next steps for BPF support in the GNU toolchain |
     </a>
-    By: lrsjng
+    By: signa11
 </li>
 
 <li>
-    <a href=https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html target="_blank">
-        Free applicatives, the handle pattern, and remote systems |
+    <a href=https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/ target="_blank">
+        Gemini 3.0 spotted in the wild through A/B testing |
     </a>
-    By: _jackdk_
-</li>
-
-<li>
-    <a href=https://zed.dev/blog/zed-for-windows-is-here target="_blank">
-        Zed is now available on Windows |
-    </a>
-    By: meetpateltech
+    By: ricklamers
 </li>
 </ol>
