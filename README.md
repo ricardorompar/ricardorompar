@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 17 Oct 2025</h4>
+<h4>Check the latest news from: Sat 18 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.torproject.org/2025-fundraiser-donations-matched/ target="_blank">
-        Free the Internet: The Tor Project's annual fundraiser |
+    <a href=https://www.dwarkesh.com/p/andrej-karpathy target="_blank">
+        Andrej Karpathy – It will take a decade to work through the issues with agents |
     </a>
-    By: pabs3
+    By: ctoth
 </li>
 
 <li>
-    <a href=https://blog.pixelmelt.dev/kindle-web-drm/ target="_blank">
-        How I bypassed Amazon's Kindle web DRM |
+    <a href=https://www.thefarside.com/new-stuff target="_blank">
+        New Work by Gary Larson |
     </a>
-    By: pixelmelt
+    By: jkestner
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/skills target="_blank">
-        Claude Skills |
+    <a href=https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf target="_blank">
+        The Unix Executable as a Smalltalk Method [pdf] |
     </a>
-    By: meetpateltech
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.anthropic.com&#x2F;engineering&#x2F;equipping-agents-for-the-real-world-with-agent-skills" rel="nofollow">https:&#x2F;&#x2F;www.anthropic.com&#x2F;engineering&#x2F;equipping-agents-for-t...</a> </br>
-</p>
-
-<li>
-    <a href=https://lwn.net/Articles/1039827/ target="_blank">
-        Next steps for BPF support in the GNU toolchain |
-    </a>
-    By: signa11
+    By: pcfwik
 </li>
 
 <li>
-    <a href=https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/ target="_blank">
-        Gemini 3.0 spotted in the wild through A/B testing |
+    <a href=https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html target="_blank">
+        The pivot |
     </a>
-    By: ricklamers
+    By: AndrewDucker
+</li>
+
+<li>
+    <a href=https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support target="_blank">
+        Exploring PostgreSQL 18's new UUIDv7 support |
+    </a>
+    By: s4i
 </li>
 </ol>
