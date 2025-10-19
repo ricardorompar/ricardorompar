@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 18 Oct 2025</h4>
+<h4>Check the latest news from: Sun 19 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.dwarkesh.com/p/andrej-karpathy target="_blank">
-        Andrej Karpathy – It will take a decade to work through the issues with agents |
+    <a href=https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html target="_blank">
+        Friendship Begins at Home |
     </a>
-    By: ctoth
+    By: herbertl
 </li>
 
 <li>
-    <a href=https://www.thefarside.com/new-stuff target="_blank">
-        New Work by Gary Larson |
+    <a href=https://www.youtube.com/watch?v=CLAt95PrwL4 target="_blank">
+        EQ: A video about all forms of equalizers |
     </a>
-    By: jkestner
+    By: robinhouston
 </li>
 
 <li>
-    <a href=https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf target="_blank">
-        The Unix Executable as a Smalltalk Method [pdf] |
+    <a href=https://yalereview.org/article/crosley-how-sober-should-a-writer-be target="_blank">
+        How sober should a writer be? |
     </a>
-    By: pcfwik
+    By: samclemens
 </li>
 
 <li>
-    <a href=https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html target="_blank">
-        The pivot |
+    <a href=https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html target="_blank">
+        Chen-Ning Yang, Nobel laureate, dies at 103 |
     </a>
-    By: AndrewDucker
+    By: nhatcher
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cdxrzzk02plo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cdxrzzk02plo</a> </br>
+</p>
+
 <li>
-    <a href=https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support target="_blank">
-        Exploring PostgreSQL 18's new UUIDv7 support |
+    <a href=https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/ target="_blank">
+        How does Turbo listen for Turbo Streams |
     </a>
-    By: s4i
+    By: sidk_
 </li>
 </ol>
