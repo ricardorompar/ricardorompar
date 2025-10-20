@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 19 Oct 2025</h4>
+<h4>Check the latest news from: Mon 20 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html target="_blank">
-        Friendship Begins at Home |
+    <a href=https://zenodo.org/records/14179366 target="_blank">
+        Entire Linux Network stack diagram (2024) |
     </a>
-    By: herbertl
+    By: hhutw
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=CLAt95PrwL4 target="_blank">
-        EQ: A video about all forms of equalizers |
+    <a href=https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html target="_blank">
+        Introduction to reverse-engineering vintage synth firmware |
     </a>
-    By: robinhouston
+    By: jmillikin
 </li>
 
 <li>
-    <a href=https://yalereview.org/article/crosley-how-sober-should-a-writer-be target="_blank">
-        How sober should a writer be? |
+    <a href=https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake target="_blank">
+        Novo Nordisk's Canadian Mistake |
     </a>
-    By: samclemens
+    By: jbm
 </li>
 
 <li>
-    <a href=https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html target="_blank">
-        Chen-Ning Yang, Nobel laureate, dies at 103 |
+    <a href=https://ratfactor.com/forth/the_programming_language_that_writes_itself.html target="_blank">
+        Forth: The programming language that writes itself |
     </a>
-    By: nhatcher
+    By: suioir
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cdxrzzk02plo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cdxrzzk02plo</a> </br>
-</p>
-
 <li>
-    <a href=https://ducktypelabs.com/how-does-turbo-listen-for-turbo-streams/ target="_blank">
-        How does Turbo listen for Turbo Streams |
+    <a href=https://cs.stanford.edu/people/karpathy/advice.html target="_blank">
+        Doing well in your courses: Andrej's advice for success (2013) |
     </a>
-    By: sidk_
+    By: peterkshultz
 </li>
 </ol>
