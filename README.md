@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 20 Oct 2025</h4>
+<h4>Check the latest news from: Tue 21 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://zenodo.org/records/14179366 target="_blank">
-        Entire Linux Network stack diagram (2024) |
+    <a href=https://health.aws.amazon.com/health/status?ts=20251020 target="_blank">
+        AWS multiple services outage in us-east-1 |
     </a>
-    By: hhutw
+    By: kondro
 </li>
 
 <li>
-    <a href=https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html target="_blank">
-        Introduction to reverse-engineering vintage synth firmware |
+    <a href=https://www.bbc.com/news/articles/c205g21n1zzo target="_blank">
+        Results from blood test for 50 cancers |
     </a>
-    By: jmillikin
+    By: dabinat
 </li>
 
 <li>
-    <a href=https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake target="_blank">
-        Novo Nordisk's Canadian Mistake |
+    <a href=https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/ target="_blank">
+        60k kids have avoided peanut allergies due to 2015 advice, study finds |
     </a>
-    By: jbm
+    By: zdw
 </li>
 
 <li>
-    <a href=https://ratfactor.com/forth/the_programming_language_that_writes_itself.html target="_blank">
-        Forth: The programming language that writes itself |
+    <a href=https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490 target="_blank">
+        Intel and AMD standardise ChkTag to bring Memory Safety to x86 |
     </a>
-    By: suioir
+    By: ashvardanian
 </li>
 
 <li>
-    <a href=https://cs.stanford.edu/people/karpathy/advice.html target="_blank">
-        Doing well in your courses: Andrej's advice for success (2013) |
+    <a href=https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals target="_blank">
+        Building a message queue with only two UNIX signals |
     </a>
-    By: peterkshultz
+    By: SchwKatze
 </li>
 </ol>
