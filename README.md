@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 21 Oct 2025</h4>
+<h4>Check the latest news from: Wed 22 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://health.aws.amazon.com/health/status?ts=20251020 target="_blank">
-        AWS multiple services outage in us-east-1 |
-    </a>
-    By: kondro
-</li>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/c205g21n1zzo target="_blank">
-        Results from blood test for 50 cancers |
-    </a>
-    By: dabinat
-</li>
-
-<li>
-    <a href=https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/ target="_blank">
-        60k kids have avoided peanut allergies due to 2015 advice, study finds |
+    <a href=https://chipsandcheese.com/p/evaluating-the-infinity-cache-in target="_blank">
+        Evaluating the Infinity Cache in AMD Strix Halo |
     </a>
     By: zdw
 </li>
 
 <li>
-    <a href=https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490 target="_blank">
-        Intel and AMD standardise ChkTag to bring Memory Safety to x86 |
+    <a href=https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h target="_blank">
+        rlsw – Raylib software OpenGL renderer in less than 5k LOC |
     </a>
-    By: ashvardanian
+    By: fschuett
 </li>
 
 <li>
-    <a href=https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals target="_blank">
-        Building a message queue with only two UNIX signals |
+    <a href=https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/ target="_blank">
+        Power over Ethernet (PoE) basics and beyond |
     </a>
-    By: SchwKatze
+    By: voxadam
+</li>
+
+<li>
+    <a href=https://github.com/joouha/modshim target="_blank">
+        Show HN: Modshim – a new alternative to monkey-patching in Python |
+    </a>
+    By: joouha
+</li>
+
+<p>
+Text: I&#x27;ve invented a new alternative to forking &#x2F; vendoring &#x2F; monkey-patching packages in Python.<p>It&#x27;s a bit like OverlayFS for Python modules - it allows you write modifications for a target module (lower) in a new module (upper), and have these combined in a new virtual module (mount).<p>It works by rewriting imports using AST transformations, then running both the lower and upper module&#x27;s code in the new Python module.<p>This prevents polluting the global namespace when monkey-patching, and means if you want to make changes to a third-party package, you don&#x27;t have to take on the maintenance burden of forking, you can package and distribute just your changes. </br>
+</p>
+
+<li>
+    <a href=https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT target="_blank">
+        OpenBSD 7.8 Released |
+    </a>
+    By: paulnpace
 </li>
 </ol>
