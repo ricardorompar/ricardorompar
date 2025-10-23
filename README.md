@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 22 Oct 2025</h4>
+<h4>Check the latest news from: Thu 23 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://chipsandcheese.com/p/evaluating-the-infinity-cache-in target="_blank">
-        Evaluating the Infinity Cache in AMD Strix Halo |
+    <a href=https://immich.app/blog/google-flags-immich-as-dangerous target="_blank">
+        Google flags Immich sites as dangerous |
     </a>
-    By: zdw
+    By: janpio
 </li>
 
 <li>
-    <a href=https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h target="_blank">
-        rlsw – Raylib software OpenGL renderer in less than 5k LOC |
+    <a href=https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/ target="_blank">
+        Run interactive commands in Gemini CLI |
     </a>
-    By: fschuett
+    By: ridruejo
 </li>
 
 <li>
-    <a href=https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/ target="_blank">
-        Power over Ethernet (PoE) basics and beyond |
+    <a href=https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/ target="_blank">
+        Sodium-ion batteries have started to appear in cars and home storage |
     </a>
-    By: voxadam
+    By: xbmcuser
 </li>
 
 <li>
-    <a href=https://github.com/joouha/modshim target="_blank">
-        Show HN: Modshim – a new alternative to monkey-patching in Python |
+    <a href=https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/ target="_blank">
+        Willow quantum chip demonstrates verifiable quantum advantage on hardware |
     </a>
-    By: joouha
+    By: AbhishekParmar
 </li>
 
-<p>
-Text: I&#x27;ve invented a new alternative to forking &#x2F; vendoring &#x2F; monkey-patching packages in Python.<p>It&#x27;s a bit like OverlayFS for Python modules - it allows you write modifications for a target module (lower) in a new module (upper), and have these combined in a new virtual module (mount).<p>It works by rewriting imports using AST transformations, then running both the lower and upper module&#x27;s code in the new Python module.<p>This prevents polluting the global namespace when monkey-patching, and means if you want to make changes to a third-party package, you don&#x27;t have to take on the maintenance burden of forking, you can package and distribute just your changes. </br>
-</p>
-
 <li>
-    <a href=https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT target="_blank">
-        OpenBSD 7.8 Released |
+    <a href=https://github.com/character-ai/Ovi target="_blank">
+        Ovi: Twin backbone cross-modal fusion for audio-video generation |
     </a>
-    By: paulnpace
+    By: montyanderson
 </li>
 </ol>
