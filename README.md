@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 23 Oct 2025</h4>
+<h4>Check the latest news from: Fri 24 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://immich.app/blog/google-flags-immich-as-dangerous target="_blank">
-        Google flags Immich sites as dangerous |
+    <a href=https://roc.camera/ target="_blank">
+        Roc Camera |
     </a>
-    By: janpio
+    By: martialg
 </li>
 
 <li>
-    <a href=https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/ target="_blank">
-        Run interactive commands in Gemini CLI |
+    <a href=https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii target="_blank">
+        Betty White's shoulder bag is a time capsule of World War II (2023) |
     </a>
-    By: ridruejo
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/ target="_blank">
-        Sodium-ion batteries have started to appear in cars and home storage |
+    <a href=https://www.bbc.com/news/articles/cdjrlmd4pmeo target="_blank">
+        US Tariff Negotiations with Canada Terminated over Advertisement |
     </a>
-    By: xbmcuser
+    By: mlhpdx
 </li>
 
 <li>
-    <a href=https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/ target="_blank">
-        Willow quantum chip demonstrates verifiable quantum advantage on hardware |
+    <a href=https://www.anthropic.com/news/memory target="_blank">
+        Claude Memory |
     </a>
-    By: AbhishekParmar
+    By: doppp
 </li>
 
 <li>
-    <a href=https://github.com/character-ai/Ovi target="_blank">
-        Ovi: Twin backbone cross-modal fusion for audio-video generation |
+    <a href=https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/ target="_blank">
+        /dev/null is an ACID compliant database |
     </a>
-    By: montyanderson
+    By: swills
 </li>
 </ol>
