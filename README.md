@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 24 Oct 2025</h4>
+<h4>Check the latest news from: Sat 25 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://roc.camera/ target="_blank">
-        Roc Camera |
+    <a href=https://www.swift.org/blog/nightly-swift-sdk-for-android/ target="_blank">
+        The Swift SDK for Android |
     </a>
-    By: martialg
+    By: gok
 </li>
 
 <li>
-    <a href=https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii target="_blank">
-        Betty White's shoulder bag is a time capsule of World War II (2023) |
+    <a href=https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html target="_blank">
+        Unlocking Free WiFi on British Airways |
     </a>
-    By: thunderbong
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cdjrlmd4pmeo target="_blank">
-        US Tariff Negotiations with Canada Terminated over Advertisement |
+    <a href=https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488 target="_blank">
+        People with blindness can read again after retinal implant and special glasses |
     </a>
-    By: mlhpdx
+    By: 8bitsrule
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-03420-x" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-03420-x</a> </br>
+</p>
+
+<li>
+    <a href=https://valetudo.cloud/ target="_blank">
+        Valetudo: Cloud replacement for vacuum robots enabling local-only operation |
+    </a>
+    By: freetonik
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/memory target="_blank">
-        Claude Memory |
+    <a href=https://mbleigh.dev/posts/context-engineering-with-links/ target="_blank">
+        Context engineering is sleeping on the humble hyperlink |
     </a>
-    By: doppp
-</li>
-
-<li>
-    <a href=https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/ target="_blank">
-        /dev/null is an ACID compliant database |
-    </a>
-    By: swills
+    By: mbleigh
 </li>
 </ol>
