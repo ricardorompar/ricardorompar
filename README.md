@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 25 Oct 2025</h4>
+<h4>Check the latest news from: Sun 26 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://www.swift.org/blog/nightly-swift-sdk-for-android/ target="_blank">
-        The Swift SDK for Android |
+    <a href=https://github.com/apple/pico-banana-400k target="_blank">
+        Pico-Banana-400k |
     </a>
-    By: gok
+    By: dvrp
 </li>
 
 <li>
-    <a href=https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html target="_blank">
-        Unlocking Free WiFi on British Airways |
+    <a href=https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE target="_blank">
+        A worker fell into a nuclear reactor pool |
     </a>
-    By: vinhnx
+    By: nvahalik
 </li>
 
 <li>
-    <a href=https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488 target="_blank">
-        People with blindness can read again after retinal implant and special glasses |
+    <a href=https://www.0xkato.xyz/linux-boot/ target="_blank">
+        The Linux Boot Process: From Power Button to Kernel |
     </a>
-    By: 8bitsrule
+    By: 0xkato
+</li>
+
+<li>
+    <a href=https://github.com/AnasMalas/pcb-edge-usb-c target="_blank">
+        PCB Edge USB C Connector Library |
+    </a>
+    By: walterbell
+</li>
+
+<li>
+    <a href=https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert target="_blank">
+        California invests in battery energy storage, leaving rolling blackouts behind |
+    </a>
+    By: JumpCrisscross
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-03420-x" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-025-03420-x</a> </br>
+Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251025210426&#x2F;https:&#x2F;&#x2F;www.latimes.com&#x2F;environment&#x2F;story&#x2F;2025-10-17&#x2F;california-made-it-through-another-summer-without-a-flex-alert" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251025210426&#x2F;https:&#x2F;&#x2F;www.latim...</a> </br>
 </p>
-
-<li>
-    <a href=https://valetudo.cloud/ target="_blank">
-        Valetudo: Cloud replacement for vacuum robots enabling local-only operation |
-    </a>
-    By: freetonik
-</li>
-
-<li>
-    <a href=https://mbleigh.dev/posts/context-engineering-with-links/ target="_blank">
-        Context engineering is sleeping on the humble hyperlink |
-    </a>
-    By: mbleigh
-</li>
 </ol>
