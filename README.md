@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 28 Oct 2025</h4>
+<h4>Check the latest news from: Wed 29 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://dramforever.github.io/easyriscv/ target="_blank">
-        Easy RISC-V |
+    <a href=http://keepandroidopen.org/ target="_blank">
+        Keep Android Open |
     </a>
-    By: todsacerdoti
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/ target="_blank">
-        10M people watched a YouTuber shim a lock; the lock company sued him – bad idea |
+    <a href=https://f-droid.org/2025/10/28/sideloading.html target="_blank">
+        What we talk about when we talk about sideloading |
     </a>
-    By: Brajeshwar
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;shorts&#x2F;YjzlmKz_MM8" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;shorts&#x2F;YjzlmKz_MM8</a> </br>
-</p>
-
-<li>
-    <a href=https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/ target="_blank">
-        OpenAI says over a million people talk to ChatGPT about suicide weekly |
-    </a>
-    By: jnord
+    By: rom1v
 </li>
 
 <li>
-    <a href=https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate target="_blank">
-        Three tough truths about climate |
+    <a href=https://www.anildash.com//2025/10/22/atlas-anti-web-browser/ target="_blank">
+        ChatGPT's Atlas: The Browser That's Anti-Web |
     </a>
-    By: ezequiel-garzon
+    By: AndrewDucker
 </li>
 
 <li>
-    <a href=https://www.claude.com/claude-for-excel target="_blank">
-        Claude for Excel |
+    <a href=https://eurollm.io/ target="_blank">
+        EuroLLM: LLM made in Europe built to support all 24 official EU languages |
     </a>
-    By: meetpateltech
+    By: NotInOurNames
+</li>
+
+<li>
+    <a href=https://seated.ro/blog/tinkering-a-lost-art target="_blank">
+        Tinkering is a way to acquire good taste |
+    </a>
+    By: jxmorris12
 </li>
 </ol>
