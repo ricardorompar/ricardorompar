@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 29 Oct 2025</h4>
+<h4>Check the latest news from: Thu 30 Oct 2025</h4>
 <ol>
 <li>
-    <a href=http://keepandroidopen.org/ target="_blank">
-        Keep Android Open |
+    <a href=https://emily.space/posts/251023-uv target="_blank">
+        Uv is the best thing to happen to the Python ecosystem in a decade |
     </a>
-    By: LorenDB
+    By: todsacerdoti
+</li>
+
+<p>
+Text: Azure is down for us, we can&#x27;t even access the azure portal. Are other experiencing this? Our services are located in Canada&#x2F;Central and US-East 2<p><a href="https:&#x2F;&#x2F;downdetector.ca&#x2F;status&#x2F;windows-azure&#x2F;" rel="nofollow">https:&#x2F;&#x2F;downdetector.ca&#x2F;status&#x2F;windows-azure&#x2F;</a><p><a href="https:&#x2F;&#x2F;azure.status.microsoft&#x2F;en-gb&#x2F;status" rel="nofollow">https:&#x2F;&#x2F;azure.status.microsoft&#x2F;en-gb&#x2F;status</a> </br>
+</p>
+
+<li>
+    <a href=https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition target="_blank">
+        Minecraft removing obfuscation in Java Edition |
+    </a>
+    By: SteveHawk27
 </li>
 
 <li>
-    <a href=https://f-droid.org/2025/10/28/sideloading.html target="_blank">
-        What we talk about when we talk about sideloading |
+    <a href=https://example.fi/blog/ircd.html target="_blank">
+        IRCd service (2024) |
     </a>
-    By: rom1v
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.anildash.com//2025/10/22/atlas-anti-web-browser/ target="_blank">
-        ChatGPT's Atlas: The Browser That's Anti-Web |
+    <a href=https://worldhistory.substack.com/p/how-ancient-people-saw-themselves target="_blank">
+        How Ancient People Saw Themselves |
     </a>
-    By: AndrewDucker
-</li>
-
-<li>
-    <a href=https://eurollm.io/ target="_blank">
-        EuroLLM: LLM made in Europe built to support all 24 official EU languages |
-    </a>
-    By: NotInOurNames
-</li>
-
-<li>
-    <a href=https://seated.ro/blog/tinkering-a-lost-art target="_blank">
-        Tinkering is a way to acquire good taste |
-    </a>
-    By: jxmorris12
+    By: crescit_eundo
 </li>
 </ol>
