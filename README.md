@@ -45,37 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 30 Oct 2025</h4>
+<h4>Check the latest news from: Fri 31 Oct 2025</h4>
 <ol>
 <li>
-    <a href=https://emily.space/posts/251023-uv target="_blank">
-        Uv is the best thing to happen to the Python ecosystem in a decade |
+    <a href=https://github.com/lemonyte/no-code target="_blank">
+        No Code |
     </a>
-    By: todsacerdoti
+    By: Elliott-Diy
+</li>
+
+<li>
+    <a href=https://www.affinity.studio/get-affinity target="_blank">
+        Affinity Studio now free |
+    </a>
+    By: dagmx
 </li>
 
 <p>
-Text: Azure is down for us, we can&#x27;t even access the azure portal. Are other experiencing this? Our services are located in Canada&#x2F;Central and US-East 2<p><a href="https:&#x2F;&#x2F;downdetector.ca&#x2F;status&#x2F;windows-azure&#x2F;" rel="nofollow">https:&#x2F;&#x2F;downdetector.ca&#x2F;status&#x2F;windows-azure&#x2F;</a><p><a href="https:&#x2F;&#x2F;azure.status.microsoft&#x2F;en-gb&#x2F;status" rel="nofollow">https:&#x2F;&#x2F;azure.status.microsoft&#x2F;en-gb&#x2F;status</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.affinity.studio&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.affinity.studio&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition target="_blank">
-        Minecraft removing obfuscation in Java Edition |
+    <a href=https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/ target="_blank">
+        AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process |
     </a>
-    By: SteveHawk27
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://example.fi/blog/ircd.html target="_blank">
-        IRCd service (2024) |
+    <a href=https://github.com/MoonshotAI/Kimi-Linear target="_blank">
+        Kimi Linear: An Expressive, Efficient Attention Architecture |
     </a>
-    By: pabs3
+    By: blackcat201
 </li>
 
 <li>
-    <a href=https://worldhistory.substack.com/p/how-ancient-people-saw-themselves target="_blank">
-        How Ancient People Saw Themselves |
+    <a href=https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works target="_blank">
+        Phone numbers for use in TV shows, films and creative works |
     </a>
-    By: crescit_eundo
+    By: nomilk
 </li>
 </ol>
