@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 01 Nov 2025</h4>
+<h4>Check the latest news from: Sun 02 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.shashanktomar.com/posts/strange-attractors target="_blank">
-        Show HN: Strange Attractors |
+    <a href=https://visopsys.org/ target="_blank">
+        Visopsys: OS maintained by a single developer since 1997 |
     </a>
-    By: shashanktomar
+    By: kome
+</li>
+
+<li>
+    <a href=https://blog.google/technology/google-labs/pomelli/ target="_blank">
+        Pomelli |
+    </a>
+    By: birriel
 </li>
 
 <p>
-Text: I went down the rabbit hole on a side project and ended up building this: Strange Attractors(<a href="https:&#x2F;&#x2F;blog.shashanktomar.com&#x2F;posts&#x2F;strange-attractors" rel="nofollow">https:&#x2F;&#x2F;blog.shashanktomar.com&#x2F;posts&#x2F;strange-attractors</a>). It’s built with three.js.<p>Working on it reminded me of the little &quot;maths for fun&quot; exercises I used to do while learning programming in early days. Just trying things out, getting fascinated and geeky, and being surprised by the results. I spent way too much time on this, but it was extreme fun.<p>My favorite part: someone pointed me to the Simone Attractor on Threads. It is a 2D attractor and I asked GPT to extrapolate it to 3D, not sure if it’s mathematically correct, but it’s the coolest by far. I have left all the params configurable, so give it a try. I called it Simone (Maybe).<p>If you like math-art experiments, check it out. Would love feedback, especially from folks who know more about the math side. </br>
+Text: <a href="https:&#x2F;&#x2F;labs.google.com&#x2F;pomelli&#x2F;about&#x2F;" rel="nofollow">https:&#x2F;&#x2F;labs.google.com&#x2F;pomelli&#x2F;about&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://linear.app/now/the-profitable-startup target="_blank">
-        The Profitable Startup |
+    <a href=https://github.com/frostyplanet/crossfire-rs target="_blank">
+        Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust |
     </a>
-    By: doppp
+    By: 0x1997
 </li>
 
 <li>
-    <a href=https://github.com/vindar/SARCASM target="_blank">
-        S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine |
+    <a href=https://blog.sshh.io/p/how-i-use-every-claude-code-feature target="_blank">
+        How I use every Claude Code feature |
     </a>
-    By: chris_overseas
+    By: sshh12
 </li>
 
 <li>
-    <a href=https://rfd.shared.oxide.computer/rfd/0609 target="_blank">
-        Futurelock: A subtle risk in async Rust |
+    <a href=https://fxgn.dev/blog/anubis/ target="_blank">
+        You Don't Need Anubis |
     </a>
-    By: bcantrill
-</li>
-
-<p>
-Text: This RFD describes our distillation of a really gnarly issue that we hit in the Oxide control plane.[0]  Not unlike our discovery of the async cancellation issue[1][2][3], this is larger than the issue itself -- and worse, the program that hits futurelock is correct from the programmer&#x27;s point of view.  Fortunately, the surface area here is smaller than that of async cancellation and the conditions required to hit it can be relatively easily mitigated.  Still, this is a pretty deep issue -- and something that took some very seasoned Rust hands quite a while to find.<p>[0] <a href="https:&#x2F;&#x2F;github.com&#x2F;oxidecomputer&#x2F;omicron&#x2F;issues&#x2F;9259" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;oxidecomputer&#x2F;omicron&#x2F;issues&#x2F;9259</a><p>[1] <a href="https:&#x2F;&#x2F;rfd.shared.oxide.computer&#x2F;rfd&#x2F;397" rel="nofollow">https:&#x2F;&#x2F;rfd.shared.oxide.computer&#x2F;rfd&#x2F;397</a><p>[2] <a href="https:&#x2F;&#x2F;rfd.shared.oxide.computer&#x2F;rfd&#x2F;400" rel="nofollow">https:&#x2F;&#x2F;rfd.shared.oxide.computer&#x2F;rfd&#x2F;400</a><p>[3] <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=zrv5Cy1R7r4" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=zrv5Cy1R7r4</a> </br>
-</p>
-
-<li>
-    <a href=https://www.bikeshed.com/ target="_blank">
-        Why Should I Care What Color the Bikeshed Is? |
-    </a>
-    By: program
+    By: flexagoon
 </li>
 </ol>
