@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 02 Nov 2025</h4>
+<h4>Check the latest news from: Mon 03 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://visopsys.org/ target="_blank">
-        Visopsys: OS maintained by a single developer since 1997 |
+    <a href=https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/ target="_blank">
+        Simple trick to increase coverage: Lying to users about signal strength |
     </a>
-    By: kome
+    By: tsujamin
 </li>
 
 <li>
-    <a href=https://blog.google/technology/google-labs/pomelli/ target="_blank">
-        Pomelli |
+    <a href=https://www.atvbt.com/21-facts-about-throwing-good-parties/ target="_blank">
+        Facts about throwing good parties |
     </a>
-    By: birriel
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;labs.google.com&#x2F;pomelli&#x2F;about&#x2F;" rel="nofollow">https:&#x2F;&#x2F;labs.google.com&#x2F;pomelli&#x2F;about&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://github.com/frostyplanet/crossfire-rs target="_blank">
-        Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust |
-    </a>
-    By: 0x1997
+    By: cjbarber
 </li>
 
 <li>
-    <a href=https://blog.sshh.io/p/how-i-use-every-claude-code-feature target="_blank">
-        How I use every Claude Code feature |
+    <a href=https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html target="_blank">
+        Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020) |
     </a>
-    By: sshh12
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://fxgn.dev/blog/anubis/ target="_blank">
-        You Don't Need Anubis |
+    <a href=https://blog.cloudflare.com/introducing-oxy/ target="_blank">
+        Oxy is Cloudflare's Rust-based next generation proxy framework |
     </a>
-    By: flexagoon
+    By: Garbage
+</li>
+
+<li>
+    <a href=https://transformer-circuits.pub/2025/linebreaks/index.html target="_blank">
+        When models manipulate manifolds: The geometry of a counting task |
+    </a>
+    By: vinhnx
 </li>
 </ol>
