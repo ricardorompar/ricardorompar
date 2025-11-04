@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 03 Nov 2025</h4>
+<h4>Check the latest news from: Tue 04 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/ target="_blank">
-        Simple trick to increase coverage: Lying to users about signal strength |
+    <a href=https://lcamtuf.substack.com/p/things-you-can-do-with-diodes target="_blank">
+        Things you can do with diodes |
     </a>
-    By: tsujamin
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.atvbt.com/21-facts-about-throwing-good-parties/ target="_blank">
-        Facts about throwing good parties |
+    <a href=https://www.wreflection.com/p/ai-dial-up-era target="_blank">
+        AI's Dial-Up Era |
     </a>
-    By: cjbarber
+    By: nowflux
 </li>
 
 <li>
-    <a href=https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html target="_blank">
-        Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020) |
+    <a href=https://www.0xkato.xyz/linux-process-memory/ target="_blank">
+        A friendly tour of process memory on Linux |
     </a>
-    By: rbanffy
+    By: 0xkato
 </li>
 
 <li>
-    <a href=https://blog.cloudflare.com/introducing-oxy/ target="_blank">
-        Oxy is Cloudflare's Rust-based next generation proxy framework |
+    <a href=https://animationobsessive.substack.com/p/when-stick-figures-fought target="_blank">
+        When stick figures fought |
     </a>
-    By: Garbage
+    By: ani_obsessive
 </li>
 
 <li>
-    <a href=https://transformer-circuits.pub/2025/linebreaks/index.html target="_blank">
-        When models manipulate manifolds: The geometry of a counting task |
+    <a href=https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html target="_blank">
+        An individual can change an organization |
     </a>
-    By: vinhnx
+    By: zdw
 </li>
 </ol>
