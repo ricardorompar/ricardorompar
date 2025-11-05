@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 04 Nov 2025</h4>
+<h4>Check the latest news from: Wed 05 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://lcamtuf.substack.com/p/things-you-can-do-with-diodes target="_blank">
-        Things you can do with diodes |
+    <a href=https://inventingthefuture.ghost.io/mr-tiff/ target="_blank">
+        Mr Tiff |
     </a>
-    By: zdw
+    By: speckx
 </li>
 
 <li>
-    <a href=https://www.wreflection.com/p/ai-dial-up-era target="_blank">
-        AI's Dial-Up Era |
+    <a href=https://hypothesis.readthedocs.io/en/latest/ target="_blank">
+        Hypothesis: Property-Based Testing for Python |
     </a>
-    By: nowflux
+    By: lwhsiao
 </li>
 
 <li>
-    <a href=https://www.0xkato.xyz/linux-process-memory/ target="_blank">
-        A friendly tour of process memory on Linux |
+    <a href=https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/ target="_blank">
+        Asus Announces October Availability of ProArt Display 8K PA32KCX |
     </a>
-    By: 0xkato
+    By: Roachma
 </li>
 
 <li>
-    <a href=https://animationobsessive.substack.com/p/when-stick-figures-fought target="_blank">
-        When stick figures fought |
+    <a href=https://riscv.org/blog/risc-v-jtc1-pas-submitter/ target="_blank">
+        RISC-V takes first step toward international ISO/IEC standardization |
     </a>
-    By: ani_obsessive
+    By: jrepinc
 </li>
 
 <li>
-    <a href=https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html target="_blank">
-        An individual can change an organization |
+    <a href=https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/ target="_blank">
+        Apple’s Persona technology uses Gaussian splatting to create 3D facial scans |
     </a>
-    By: zdw
+    By: dmarcos
 </li>
 </ol>
