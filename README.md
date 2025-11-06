@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 05 Nov 2025</h4>
+<h4>Check the latest news from: Thu 06 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://inventingthefuture.ghost.io/mr-tiff/ target="_blank">
-        Mr Tiff |
+    <a href=https://support.mozilla.org/en-US/forums/contributors/717446 target="_blank">
+        Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage |
     </a>
-    By: speckx
+    By: phantomathkg
 </li>
 
 <li>
-    <a href=https://hypothesis.readthedocs.io/en/latest/ target="_blank">
-        Hypothesis: Property-Based Testing for Python |
+    <a href=https://climatedrift.substack.com/p/why-solarpunk-is-already-happening target="_blank">
+        Solarpunk is happening in Africa |
     </a>
-    By: lwhsiao
+    By: JoiDegn
 </li>
 
 <li>
-    <a href=https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/ target="_blank">
-        Asus Announces October Availability of ProArt Display 8K PA32KCX |
+    <a href=https://ratatui.rs/showcase/apps/ target="_blank">
+        Rust's TUI Revolution |
     </a>
-    By: Roachma
+    By: AbuAssar
 </li>
 
 <li>
-    <a href=https://riscv.org/blog/risc-v-jtc1-pas-submitter/ target="_blank">
-        RISC-V takes first step toward international ISO/IEC standardization |
+    <a href=https://github.com/dillo-browser/dillo target="_blank">
+        Dillo, a multi-platform graphical web browser |
     </a>
-    By: jrepinc
+    By: nazgulsenpai
 </li>
 
 <li>
-    <a href=https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/ target="_blank">
-        Apple’s Persona technology uses Gaussian splatting to create 3D facial scans |
+    <a href=https://h4x0r.org/big-mac-ro-attack/ target="_blank">
+        Recursive macros in C, demystified (once the ugly crying stops) |
     </a>
-    By: dmarcos
+    By: eatonphil
 </li>
 </ol>
