@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 06 Nov 2025</h4>
+<h4>Check the latest news from: Fri 07 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://support.mozilla.org/en-US/forums/contributors/717446 target="_blank">
-        Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage |
+    <a href=https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac target="_blank">
+        A Fond Farewell from Farmers' Almanac |
     </a>
-    By: phantomathkg
+    By: erhuve
 </li>
 
 <li>
-    <a href=https://climatedrift.substack.com/p/why-solarpunk-is-already-happening target="_blank">
-        Solarpunk is happening in Africa |
+    <a href=https://fly.io/blog/everyone-write-an-agent/ target="_blank">
+        You should write an agent |
     </a>
-    By: JoiDegn
+    By: tabletcorry
 </li>
 
 <li>
-    <a href=https://ratatui.rs/showcase/apps/ target="_blank">
-        Rust's TUI Revolution |
+    <a href=https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/ target="_blank">
+        Two billion email addresses were exposed |
     </a>
-    By: AbuAssar
+    By: esnard
 </li>
 
 <li>
-    <a href=https://github.com/dillo-browser/dillo target="_blank">
-        Dillo, a multi-platform graphical web browser |
+    <a href=https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html target="_blank">
+        Scientists find ways to boost memory in aging brains |
     </a>
-    By: nazgulsenpai
+    By: stevenjgarner
 </li>
 
 <li>
-    <a href=https://h4x0r.org/big-mac-ro-attack/ target="_blank">
-        Recursive macros in C, demystified (once the ugly crying stops) |
+    <a href=https://moonshotai.github.io/Kimi-K2/thinking.html target="_blank">
+        Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model |
     </a>
-    By: eatonphil
+    By: nekofneko
 </li>
 </ol>
