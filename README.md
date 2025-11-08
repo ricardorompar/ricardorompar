@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 07 Nov 2025</h4>
+<h4>Check the latest news from: Sat 08 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac target="_blank">
-        A Fond Farewell from Farmers' Almanac |
+    <a href=https://nilostolte.github.io/tech/articles/ZigCool.html target="_blank">
+        Why is Zig so cool? |
     </a>
-    By: erhuve
+    By: vitalnodo
 </li>
 
 <li>
-    <a href=https://fly.io/blog/everyone-write-an-agent/ target="_blank">
-        You should write an agent |
+    <a href=https://github.com/Snapchat/Valdi target="_blank">
+        Snapchat open-sources Valdi a cross-platform UI framework |
     </a>
-    By: tabletcorry
+    By: yehiaabdelm
 </li>
 
 <li>
-    <a href=https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/ target="_blank">
-        Two billion email addresses were exposed |
+    <a href=https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta target="_blank">
+        Mullvad: Shutting down our search proxy Leta |
     </a>
-    By: esnard
+    By: holysoles
 </li>
 
 <li>
-    <a href=https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html target="_blank">
-        Scientists find ways to boost memory in aging brains |
+    <a href=https://rona.substack.com/p/becoming-a-compiler-engineer target="_blank">
+        Becoming a Compiler Engineer |
     </a>
-    By: stevenjgarner
+    By: lalitkale
 </li>
 
 <li>
-    <a href=https://moonshotai.github.io/Kimi-K2/thinking.html target="_blank">
-        Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model |
+    <a href=https://github.com/sayyadirfanali/Myna target="_blank">
+        Myna: Monospace typeface designed for symbol-heavy programming languages |
     </a>
-    By: nekofneko
+    By: birdculture
 </li>
 </ol>
