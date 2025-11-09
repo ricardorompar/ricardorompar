@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 08 Nov 2025</h4>
+<h4>Check the latest news from: Sun 09 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://nilostolte.github.io/tech/articles/ZigCool.html target="_blank">
-        Why is Zig so cool? |
+    <a href=https://ironclad-os.org/ target="_blank">
+        Ironclad – formally verified, real-time capable, Unix-like OS kernel |
     </a>
     By: vitalnodo
 </li>
 
 <li>
-    <a href=https://github.com/Snapchat/Valdi target="_blank">
-        Snapchat open-sources Valdi a cross-platform UI framework |
+    <a href=https://docs.x.ai/docs/models target="_blank">
+        Grok 4 Fast now has 2M context window |
     </a>
-    By: yehiaabdelm
+    By: hereme888
 </li>
 
 <li>
-    <a href=https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta target="_blank">
-        Mullvad: Shutting down our search proxy Leta |
+    <a href=https://tabloid.vercel.app/ target="_blank">
+        Tabloid: The Clickbait Headline Programming Language |
     </a>
-    By: holysoles
+    By: sadeshmukh
 </li>
 
 <li>
-    <a href=https://rona.substack.com/p/becoming-a-compiler-engineer target="_blank">
-        Becoming a Compiler Engineer |
+    <a href=https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html target="_blank">
+        Boring Company fined nearly $500K after it dumped drilling fluids into manholes |
     </a>
-    By: lalitkale
+    By: eloisius
 </li>
 
 <li>
-    <a href=https://github.com/sayyadirfanali/Myna target="_blank">
-        Myna: Monospace typeface designed for symbol-heavy programming languages |
+    <a href=https://markojs.com/ target="_blank">
+        Marko – A declarative, HTML‑based language |
     </a>
-    By: birdculture
+    By: ulrischa
 </li>
 </ol>
