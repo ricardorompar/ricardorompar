@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 09 Nov 2025</h4>
+<h4>Check the latest news from: Mon 10 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://ironclad-os.org/ target="_blank">
-        Ironclad – formally verified, real-time capable, Unix-like OS kernel |
+    <a href=https://github.com/opencontainers/runc/issues/4990 target="_blank">
+        Open source has a growing problem with LLM generated issues |
     </a>
-    By: vitalnodo
+    By: dropbox_miner
 </li>
 
 <li>
-    <a href=https://docs.x.ai/docs/models target="_blank">
-        Grok 4 Fast now has 2M context window |
+    <a href=https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/ target="_blank">
+        40 years on, Former Nintendo employees reveal what it took to launch the NES |
     </a>
-    By: hereme888
+    By: brandrick
 </li>
 
 <li>
-    <a href=https://tabloid.vercel.app/ target="_blank">
-        Tabloid: The Clickbait Headline Programming Language |
+    <a href=https://willmorrison.net/posts/marble-fountain/ target="_blank">
+        Marble Fountain |
     </a>
-    By: sadeshmukh
+    By: chris_overseas
 </li>
 
-<li>
-    <a href=https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html target="_blank">
-        Boring Company fined nearly $500K after it dumped drilling fluids into manholes |
-    </a>
-    By: eloisius
-</li>
+<p>
+Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
+</p>
 
 <li>
-    <a href=https://markojs.com/ target="_blank">
-        Marko – A declarative, HTML‑based language |
+    <a href=https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/ target="_blank">
+        Montana becomes first state to enshrine 'right to compute' into law |
     </a>
-    By: ulrischa
+    By: bilsbie
 </li>
 </ol>
