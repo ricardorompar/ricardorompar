@@ -45,37 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 10 Nov 2025</h4>
+<h4>Check the latest news from: Tue 11 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/opencontainers/runc/issues/4990 target="_blank">
-        Open source has a growing problem with LLM generated issues |
+    <a href=https://animationobsessive.substack.com/p/the-toy-story-you-remember target="_blank">
+        The 'Toy Story' You Remember |
     </a>
-    By: dropbox_miner
+    By: ani_obsessive
 </li>
 
 <li>
-    <a href=https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/ target="_blank">
-        40 years on, Former Nintendo employees reveal what it took to launch the NES |
+    <a href=https://github.com/LaurenzV/master-thesis/blob/main/main.pdf target="_blank">
+        High-performance 2D graphics rendering on the CPU using sparse strips [pdf] |
     </a>
-    By: brandrick
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://willmorrison.net/posts/marble-fountain/ target="_blank">
-        Marble Fountain |
+    <a href=https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/ target="_blank">
+        When Soviet-made cars roamed Singapore roads |
     </a>
-    By: chris_overseas
+    By: sohkamyung
 </li>
 
-<p>
-Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
-</p>
+<li>
+    <a href=https://bengoldhaber.substack.com/p/unexpected-things-that-are-people target="_blank">
+        Unexpected things that are people |
+    </a>
+    By: lindowe
+</li>
 
 <li>
-    <a href=https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/ target="_blank">
-        Montana becomes first state to enshrine 'right to compute' into law |
+    <a href=https://deepwiki.com/ target="_blank">
+        AI documentation you can talk to, for every repo |
     </a>
-    By: bilsbie
+    By: jicea
 </li>
 </ol>
