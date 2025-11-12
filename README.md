@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 11 Nov 2025</h4>
+<h4>Check the latest news from: Wed 12 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://animationobsessive.substack.com/p/the-toy-story-you-remember target="_blank">
-        The 'Toy Story' You Remember |
+    <a href=https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html target="_blank">
+        X5.1 solar flare, G4 geomagnetic storm watch |
     </a>
-    By: ani_obsessive
+    By: sva_
 </li>
 
 <li>
-    <a href=https://github.com/LaurenzV/master-thesis/blob/main/main.pdf target="_blank">
-        High-performance 2D graphics rendering on the CPU using sparse strips [pdf] |
+    <a href=https://perkeep.org/ target="_blank">
+        Perkeep – Personal storage system for life |
     </a>
-    By: PaulHoule
+    By: nikolay
 </li>
 
 <li>
-    <a href=https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/ target="_blank">
-        When Soviet-made cars roamed Singapore roads |
+    <a href=https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia target="_blank">
+        .NET MAUI is coming to Linux and the browser, powered by Avalonia |
     </a>
-    By: sohkamyung
+    By: vyrotek
 </li>
 
 <li>
-    <a href=https://bengoldhaber.substack.com/p/unexpected-things-that-are-people target="_blank">
-        Unexpected things that are people |
+    <a href=https://stickertop.art/main/ target="_blank">
+        Laptops adorned with creative stickers |
     </a>
-    By: lindowe
+    By: z303
 </li>
 
 <li>
-    <a href=https://deepwiki.com/ target="_blank">
-        AI documentation you can talk to, for every repo |
+    <a href=https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/ target="_blank">
+        I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours |
     </a>
-    By: jicea
+    By: jamesbelchamber
 </li>
 </ol>
