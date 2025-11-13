@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 12 Nov 2025</h4>
+<h4>Check the latest news from: Thu 13 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html target="_blank">
-        X5.1 solar flare, G4 geomagnetic storm watch |
+    <a href=https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html target="_blank">
+        Google will allow users to sideload Android apps without verification |
     </a>
-    By: sva_
+    By: erohead
 </li>
 
 <li>
-    <a href=https://perkeep.org/ target="_blank">
-        Perkeep – Personal storage system for life |
+    <a href=https://store.steampowered.com/sale/steammachine target="_blank">
+        Steam Machine |
     </a>
-    By: nikolay
+    By: davikr
 </li>
 
 <li>
-    <a href=https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia target="_blank">
-        .NET MAUI is coming to Linux and the browser, powered by Avalonia |
+    <a href=https://store.steampowered.com/sale/steamframe target="_blank">
+        Steam Frame |
     </a>
-    By: vyrotek
+    By: Philpax
 </li>
 
 <li>
-    <a href=https://stickertop.art/main/ target="_blank">
-        Laptops adorned with creative stickers |
+    <a href=https://grapheneos.social/@GrapheneOS/115533432439509433 target="_blank">
+        Android 16 QPR1 is being pushed to the Android Open Source Project |
     </a>
-    By: z303
+    By: uneven9434
 </li>
 
 <li>
-    <a href=https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/ target="_blank">
-        I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours |
+    <a href=https://www.cnn.com/2025/11/12/business/last-penny-minted target="_blank">
+        The last-ever penny will be minted today in Philadelphia |
     </a>
-    By: jamesbelchamber
+    By: andrewl
 </li>
 </ol>
