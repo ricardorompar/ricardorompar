@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 15 Nov 2025</h4>
+<h4>Check the latest news from: Sun 16 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://henrikgerdes.me/blog/2025-11-grafana-mess/ target="_blank">
-        I can't recommend Grafana anymore |
+    <a href=https://github.com/kavishdevar/librepods target="_blank">
+        AirPods libreated from Apple's ecosystem |
     </a>
-    By: gpi
+    By: moonleay
 </li>
 
 <li>
-    <a href=https://clocks.brianmoore.com/ target="_blank">
-        AI World Clocks |
+    <a href=https://codeberg.org/IDEmacs/IDEmacs target="_blank">
+        IDEmacs: A Visual Studio Code clone for Emacs |
     </a>
-    By: waxpancake
-</li>
-
-<p>
-Text: &quot;Every minute, a new clock is rendered by nine different AI models.&quot; </br>
-</p>
-
-<li>
-    <a href=https://ssl-config.mozilla.org/ target="_blank">
-        SSL Configuration Generator |
-    </a>
-    By: smartmic
+    By: nogajun
 </li>
 
 <li>
-    <a href=https://modzero.com/en/blog/no-leak-no-problem/ target="_blank">
-        No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE |
+    <a href=https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html target="_blank">
+        Our investigation into the suspicious pressure on Archive.today |
+    </a>
+    By: immibis
+</li>
+
+<li>
+    <a href=https://libwifi.so/ target="_blank">
+        libwifi: an 802.11 frame parsing and generation library written in C |
+    </a>
+    By: vitalnodo
+</li>
+
+<li>
+    <a href=https://www.owl.is/blogg/blocking-crawlers-without-javascript/ target="_blank">
+        Blocking LLM crawlers without JavaScript |
     </a>
     By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://generativehistory.substack.com/p/has-google-quietly-solved-two-of target="_blank">
-        Has Google solved two of AI’s oldest problems? |
-    </a>
-    By: scrlk
 </li>
 </ol>
