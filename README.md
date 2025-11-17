@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 16 Nov 2025</h4>
+<h4>Check the latest news from: Mon 17 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/kavishdevar/librepods target="_blank">
-        AirPods libreated from Apple's ecosystem |
+    <a href=https://www.zigbook.net target="_blank">
+        Open-source Zig book |
     </a>
-    By: moonleay
+    By: rudedogg
 </li>
 
 <li>
-    <a href=https://codeberg.org/IDEmacs/IDEmacs target="_blank">
-        IDEmacs: A Visual Studio Code clone for Emacs |
+    <a href=https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents target="_blank">
+        A new chapter begins for EV batteries with the expiry of key LFP patents |
     </a>
-    By: nogajun
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html target="_blank">
-        Our investigation into the suspicious pressure on Archive.today |
-    </a>
-    By: immibis
-</li>
-
-<li>
-    <a href=https://libwifi.so/ target="_blank">
-        libwifi: an 802.11 frame parsing and generation library written in C |
-    </a>
-    By: vitalnodo
-</li>
-
-<li>
-    <a href=https://www.owl.is/blogg/blocking-crawlers-without-javascript/ target="_blank">
-        Blocking LLM crawlers without JavaScript |
+    <a href=https://landaire.net/a-file-format-uncracked-for-20-years/ target="_blank">
+        A File Format Uncracked for 20 Years |
     </a>
     By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://minivac.greg.technology/ target="_blank">
+        A 1961 Relay Computer Running in the Browser |
+    </a>
+    By: vaibhavsagar
+</li>
+
+<li>
+    <a href=https://github.com/p-e-w/heretic target="_blank">
+        Heretic: Automatic censorship removal for language models |
+    </a>
+    By: melded
 </li>
 </ol>
