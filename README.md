@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 17 Nov 2025</h4>
+<h4>Check the latest news from: Tue 18 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://www.zigbook.net target="_blank">
-        Open-source Zig book |
+    <a href=https://32bits.substack.com/p/under-the-microscope-ncaa-basketball target="_blank">
+        The marriage proposal that's hidden in two 1990s PlayStation games |
     </a>
-    By: rudedogg
+    By: bbayles
 </li>
 
 <li>
-    <a href=https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents target="_blank">
-        A new chapter begins for EV batteries with the expiry of key LFP patents |
+    <a href=https://bitsnpieces.dev/posts/a-synth-for-my-daughter/ target="_blank">
+        Show HN: I built a synth for my daughter |
     </a>
-    By: toomuchtodo
+    By: random_moonwalk
 </li>
 
 <li>
-    <a href=https://landaire.net/a-file-format-uncracked-for-20-years/ target="_blank">
-        A File Format Uncracked for 20 Years |
+    <a href=https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language target="_blank">
+        Compiling Ruby to machine language |
     </a>
     By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://minivac.greg.technology/ target="_blank">
-        A 1961 Relay Computer Running in the Browser |
+    <a href=https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/ target="_blank">
+        Azure hit by 15 Tbps DDoS attack using 500k IP addresses |
     </a>
-    By: vaibhavsagar
+    By: speckx
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;azureinfrastructureblog&#x2F;defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack&#x2F;4470422" rel="nofollow">https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;azureinfrastructure...</a> </br>
+</p>
+
 <li>
-    <a href=https://github.com/p-e-w/heretic target="_blank">
-        Heretic: Automatic censorship removal for language models |
+    <a href=https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html target="_blank">
+        Core Devices keeps stealing our work |
     </a>
-    By: melded
+    By: jdauriemma
 </li>
 </ol>
