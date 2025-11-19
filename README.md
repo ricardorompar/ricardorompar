@@ -45,44 +45,61 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 18 Nov 2025</h4>
+<h4>Check the latest news from: Wed 19 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://32bits.substack.com/p/under-the-microscope-ncaa-basketball target="_blank">
-        The marriage proposal that's hidden in two 1990s PlayStation games |
+    <a href=https://blog.cloudflare.com/18-november-2025-outage/ target="_blank">
+        Cloudflare outage on November 18, 2025 post mortem |
     </a>
-    By: bbayles
-</li>
-
-<li>
-    <a href=https://bitsnpieces.dev/posts/a-synth-for-my-daughter/ target="_blank">
-        Show HN: I built a synth for my daughter |
-    </a>
-    By: random_moonwalk
-</li>
-
-<li>
-    <a href=https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language target="_blank">
-        Compiling Ruby to machine language |
-    </a>
-    By: todsacerdoti
-</li>
-
-<li>
-    <a href=https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/ target="_blank">
-        Azure hit by 15 Tbps DDoS attack using 500k IP addresses |
-    </a>
-    By: speckx
+    By: eastdakota
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;azureinfrastructureblog&#x2F;defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack&#x2F;4470422" rel="nofollow">https:&#x2F;&#x2F;techcommunity.microsoft.com&#x2F;blog&#x2F;azureinfrastructure...</a> </br>
+Text: Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45963780">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45963780</a> - Nov 2025 (1580 comments) </br>
 </p>
 
 <li>
-    <a href=https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html target="_blank">
-        Core Devices keeps stealing our work |
+    <a href=https://blog.google/products/gemini/gemini-3/ target="_blank">
+        Gemini 3 |
     </a>
-    By: jdauriemma
+    By: preek
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;gemini-3-developers&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;gemini-3-developer...</a><p><a href="https:&#x2F;&#x2F;aistudio.google.com&#x2F;prompts&#x2F;new_chat?model=gemini-3-pro-preview" rel="nofollow">https:&#x2F;&#x2F;aistudio.google.com&#x2F;prompts&#x2F;new_chat?model=gemini-3-...</a> </br>
+</p>
+
+<li>
+    <a href=https://antigravity.google/ target="_blank">
+        Google Antigravity |
+    </a>
+    By: Fysi
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;antigravity.google&#x2F;blog&#x2F;introducing-google-antigravity" rel="nofollow">https:&#x2F;&#x2F;antigravity.google&#x2F;blog&#x2F;introducing-google-antigravi...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nTOVIGsqCuY" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nTOVIGsqCuY</a> </br>
+</p>
+
+<li>
+    <a href=https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670 target="_blank">
+        Show HN: Browser-based interactive 3D Three-Body problem simulator |
+    </a>
+    By: jgchaos
+</li>
+
+<p>
+Text: Features include:<p><pre><code>  - Several preset periodic orbits: the classic Figure-8, plus newly discovered 3D solutions from Li and Liao&#x27;s recent database of 10,000+ orbits (https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2508.08568v1)
+  - Full 3D camera controls (rotate&#x2F;pan&#x2F;zoom) with body-following mode
+  - Force and velocity vector visualization
+  - Timeline scrubbing to explore the full orbital period
+</code></pre>
+The 3D presets are particularly interesting. Try &quot;O₂(1.2)&quot; or &quot;Piano O₆(0.6)&quot; from the Load Presets menu to see configurations where bodies weave in and out of the orbital plane. Most browser simulators I&#x27;ve seen have been 2D.<p>Built with Three.js. Open to suggestions for additional presets or features! </br>
+</p>
+
+<li>
+    <a href=https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/ target="_blank">
+        Pebble, Rebble, and a path forward |
+    </a>
+    By: phoronixrly
 </li>
 </ol>
