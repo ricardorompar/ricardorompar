@@ -45,61 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 19 Nov 2025</h4>
+<h4>Check the latest news from: Thu 20 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.cloudflare.com/18-november-2025-outage/ target="_blank">
-        Cloudflare outage on November 18, 2025 post mortem |
+    <a href=https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/ target="_blank">
+        Verifying your Matrix devices is becoming mandatory |
     </a>
-    By: eastdakota
+    By: LorenDB
 </li>
 
-<p>
-Text: Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45963780">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45963780</a> - Nov 2025 (1580 comments) </br>
-</p>
-
 <li>
-    <a href=https://blog.google/products/gemini/gemini-3/ target="_blank">
-        Gemini 3 |
+    <a href=https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise target="_blank">
+        A surprise with how '#!' handles its program argument in practice |
     </a>
-    By: preek
+    By: SeenNotHeard
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;gemini-3-developers&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;gemini-3-developer...</a><p><a href="https:&#x2F;&#x2F;aistudio.google.com&#x2F;prompts&#x2F;new_chat?model=gemini-3-pro-preview" rel="nofollow">https:&#x2F;&#x2F;aistudio.google.com&#x2F;prompts&#x2F;new_chat?model=gemini-3-...</a> </br>
-</p>
-
 <li>
-    <a href=https://antigravity.google/ target="_blank">
-        Google Antigravity |
+    <a href=https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx target="_blank">
+        Loose wire leads to blackout, contact with Francis Scott Key bridge |
     </a>
-    By: Fysi
+    By: DamnInteresting
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;antigravity.google&#x2F;blog&#x2F;introducing-google-antigravity" rel="nofollow">https:&#x2F;&#x2F;antigravity.google&#x2F;blog&#x2F;introducing-google-antigravi...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nTOVIGsqCuY" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=nTOVIGsqCuY</a> </br>
-</p>
-
 <li>
-    <a href=https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670 target="_blank">
-        Show HN: Browser-based interactive 3D Three-Body problem simulator |
+    <a href=https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes target="_blank">
+        Europe is scaling back GDPR and relaxing AI laws |
     </a>
-    By: jgchaos
+    By: ksec
 </li>
 
-<p>
-Text: Features include:<p><pre><code>  - Several preset periodic orbits: the classic Figure-8, plus newly discovered 3D solutions from Li and Liao&#x27;s recent database of 10,000+ orbits (https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2508.08568v1)
-  - Full 3D camera controls (rotate&#x2F;pan&#x2F;zoom) with body-following mode
-  - Force and velocity vector visualization
-  - Timeline scrubbing to explore the full orbital period
-</code></pre>
-The 3D presets are particularly interesting. Try &quot;O₂(1.2)&quot; or &quot;Piano O₆(0.6)&quot; from the Load Presets menu to see configurations where bodies weave in and out of the orbital plane. Most browser simulators I&#x27;ve seen have been 2D.<p>Built with Three.js. Open to suggestions for additional presets or features! </br>
-</p>
-
 <li>
-    <a href=https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/ target="_blank">
-        Pebble, Rebble, and a path forward |
+    <a href=https://darwin-online.org.uk/ target="_blank">
+        The Complete Work of Charles Darwin Online |
     </a>
-    By: phoronixrly
+    By: bookofjoe
 </li>
 </ol>
