@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 20 Nov 2025</h4>
+<h4>Check the latest news from: Fri 21 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/ target="_blank">
-        Verifying your Matrix devices is becoming mandatory |
+    <a href=https://blog.google/technology/ai/nano-banana-pro/ target="_blank">
+        Nano Banana Pro |
     </a>
-    By: LorenDB
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise target="_blank">
-        A surprise with how '#!' handles its program argument in practice |
+    <a href=https://blog.google/products/android/quick-share-airdrop/ target="_blank">
+        Android and iPhone users can now share files, starting with the Pixel 10 |
     </a>
-    By: SeenNotHeard
+    By: abraham
 </li>
 
 <li>
-    <a href=https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx target="_blank">
-        Loose wire leads to blackout, contact with Francis Scott Key bridge |
+    <a href=https://fex-emu.com/ target="_blank">
+        FEX-emu – Run x86 applications on ARM64 Linux devices |
     </a>
-    By: DamnInteresting
+    By: open-paren
 </li>
 
 <li>
-    <a href=https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes target="_blank">
-        Europe is scaling back GDPR and relaxing AI laws |
+    <a href=https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/ target="_blank">
+        Why top firms fire good workers |
     </a>
-    By: ksec
+    By: hhs
 </li>
 
 <li>
-    <a href=https://darwin-online.org.uk/ target="_blank">
-        The Complete Work of Charles Darwin Online |
+    <a href=https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance target="_blank">
+        New Glenn Update |
     </a>
-    By: bookofjoe
+    By: rbanffy
 </li>
 </ol>
