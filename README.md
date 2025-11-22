@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 21 Nov 2025</h4>
+<h4>Check the latest news from: Sat 22 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://blog.google/technology/ai/nano-banana-pro/ target="_blank">
-        Nano Banana Pro |
+    <a href=https://scienceclock.com/moss-survives-9-months-in-space-vacuum/ target="_blank">
+        Moss Survives 9 Months in Space Vacuum |
     </a>
-    By: meetpateltech
+    By: ashishgupta2209
 </li>
 
 <li>
-    <a href=https://blog.google/products/android/quick-share-airdrop/ target="_blank">
-        Android and iPhone users can now share files, starting with the Pixel 10 |
+    <a href=https://disassociated.com/personal-blogs-back-niche-blogs-next/ target="_blank">
+        Personal blogs are back, should niche blogs be next? |
     </a>
-    By: abraham
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://fex-emu.com/ target="_blank">
-        FEX-emu – Run x86 applications on ARM64 Linux devices |
+    <a href=https://www.igalia.com/2025/11/helpingvalve.html target="_blank">
+        Helping Valve to power up Steam devices |
     </a>
-    By: open-paren
+    By: TingPing
 </li>
 
 <li>
-    <a href=https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/ target="_blank">
-        Why top firms fire good workers |
+    <a href=https://drobinin.com/posts/apples-problem-with-bodies/ target="_blank">
+        Apple's Problem with Bodies |
     </a>
-    By: hhs
+    By: valzevul
 </li>
 
 <li>
-    <a href=https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance target="_blank">
-        New Glenn Update |
+    <a href=https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/ target="_blank">
+        Samsung's 60% DRAM price hike signals a new phase of global memory tightening |
     </a>
-    By: rbanffy
+    By: redohmy
 </li>
 </ol>
