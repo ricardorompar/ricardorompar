@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 22 Nov 2025</h4>
+<h4>Check the latest news from: Sun 23 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://scienceclock.com/moss-survives-9-months-in-space-vacuum/ target="_blank">
-        Moss Survives 9 Months in Space Vacuum |
+    <a href=https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html target="_blank">
+        GCC SC approves inclusion of Algol 68 Front End |
     </a>
-    By: ashishgupta2209
+    By: edelsohn
 </li>
 
 <li>
-    <a href=https://disassociated.com/personal-blogs-back-niche-blogs-next/ target="_blank">
-        Personal blogs are back, should niche blogs be next? |
+    <a href=https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html target="_blank">
+        Unusual circuits in the Intel 386's standard cell logic |
     </a>
-    By: gnabgib
+    By: Stratoscope
 </li>
 
 <li>
-    <a href=https://www.igalia.com/2025/11/helpingvalve.html target="_blank">
-        Helping Valve to power up Steam devices |
+    <a href=https://sacbear.com/xfinity-wont-fix-internet/ target="_blank">
+        A monopoly ISP refuses to fix upstream infrastructure |
     </a>
-    By: TingPing
+    By: vedmed
 </li>
 
 <li>
-    <a href=https://drobinin.com/posts/apples-problem-with-bodies/ target="_blank">
-        Apple's Problem with Bodies |
+    <a href=https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf target="_blank">
+        NTSB report: Decryption of images from the Titan submersible camera [pdf] |
     </a>
-    By: valzevul
+    By: bmurray7jhu
 </li>
 
 <li>
-    <a href=https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/ target="_blank">
-        Samsung's 60% DRAM price hike signals a new phase of global memory tightening |
+    <a href=https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/ target="_blank">
+        WorldGen – Text to Immersive 3D Worlds |
     </a>
-    By: redohmy
+    By: smusamashah
 </li>
 </ol>
