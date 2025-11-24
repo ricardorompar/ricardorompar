@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 23 Nov 2025</h4>
+<h4>Check the latest news from: Mon 24 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html target="_blank">
-        GCC SC approves inclusion of Algol 68 Front End |
+    <a href=https://computer.rip/2025-11-22-RuBee.html target="_blank">
+        RuBee |
     </a>
-    By: edelsohn
+    By: Sniffnoy
 </li>
 
 <li>
-    <a href=https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html target="_blank">
-        Unusual circuits in the Intel 386's standard cell logic |
+    <a href=https://emilysneddon.com/fran-sans-essay target="_blank">
+        Fran Sans – font inspired by San Francisco light rail displays |
     </a>
-    By: Stratoscope
+    By: ChrisArchitect
 </li>
 
 <li>
-    <a href=https://sacbear.com/xfinity-wont-fix-internet/ target="_blank">
-        A monopoly ISP refuses to fix upstream infrastructure |
+    <a href=https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048 target="_blank">
+        The Cloudflare outage was a good thing |
     </a>
-    By: vedmed
+    By: radeeyate
 </li>
 
 <li>
-    <a href=https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf target="_blank">
-        NTSB report: Decryption of images from the Titan submersible camera [pdf] |
+    <a href=https://lalitm.com/fixits-are-good-for-the-soul/ target="_blank">
+        We stopped roadmap work for a week and fixed 189 bugs |
     </a>
-    By: bmurray7jhu
+    By: signa11
 </li>
 
 <li>
-    <a href=https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/ target="_blank">
-        WorldGen – Text to Immersive 3D Worlds |
+    <a href=https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf target="_blank">
+        Native Secure Enclave backed SSH keys on macOS |
     </a>
-    By: smusamashah
+    By: arianvanp
 </li>
 </ol>
