@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 27 Nov 2025</h4>
+<h4>Check the latest news from: Fri 28 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://ziglang.org/news/migrating-from-github-to-codeberg/ target="_blank">
-        Migrating the main Zig repository from GitHub to Codeberg |
+    <a href=https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy target="_blank">
+        How Charles M Schulz created Charlie Brown and Snoopy (2024) |
     </a>
-    By: todsacerdoti
+    By: 1659447091
 </li>
 
 <li>
-    <a href=https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html target="_blank">
-        DIY NAS: 2026 Edition |
+    <a href=https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support target="_blank">
+        Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 |
     </a>
-    By: sashk
+    By: mfilion
 </li>
 
 <li>
-    <a href=https://github.com/penpot/penpot target="_blank">
-        Penpot: The Open-Source Figma |
+    <a href=https://pocketbase.io/ target="_blank">
+        Pocketbase – open-source realtime back end in 1 file |
     </a>
-    By: selvan
+    By: modinfo
 </li>
 
 <li>
-    <a href=https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/ target="_blank">
-        Voyager 1 is about to reach one light-day from Earth |
+    <a href=https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/ target="_blank">
+        250MWh 'Sand Battery' to start construction in Finland |
     </a>
-    By: ashishgupta2209
+    By: doener
 </li>
 
 <li>
-    <a href=https://nyansatan.github.io/run-unsupported-ios/ target="_blank">
-        Running Unsupported iOS on Deprecated Devices |
+    <a href=https://vsora.com/products/jotunn-8/ target="_blank">
+        Vsora Jotunn-8 5nm European inference chip |
     </a>
-    By: OuterVale
+    By: rdg42
 </li>
 </ol>
