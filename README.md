@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 28 Nov 2025</h4>
+<h4>Check the latest news from: Sat 29 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy target="_blank">
-        How Charles M Schulz created Charlie Brown and Snoopy (2024) |
+    <a href=https://macos9lives.com/smforum/index.php?topic=7711.0 target="_blank">
+        System 7 natively boots on the Mac mini G4 |
     </a>
-    By: 1659447091
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support target="_blank">
-        Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 |
+    <a href=https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action target="_blank">
+        Airbus A320 – intense solar radiation may corrupt data critical for flight |
     </a>
-    By: mfilion
+    By: pyrophoenix
 </li>
 
 <li>
-    <a href=https://pocketbase.io/ target="_blank">
-        Pocketbase – open-source realtime back end in 1 file |
+    <a href=https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/ target="_blank">
+        A triangle whose interior angles sum to zero |
     </a>
-    By: modinfo
+    By: tzury
 </li>
 
 <li>
-    <a href=https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/ target="_blank">
-        250MWh 'Sand Battery' to start construction in Finland |
+    <a href=https://blog.tymscar.com/posts/imgurukproxy/ target="_blank">
+        Imgur geo-blocked the UK, so I geo-unblocked my network |
     </a>
-    By: doener
+    By: tymscar
 </li>
 
 <li>
-    <a href=https://vsora.com/products/jotunn-8/ target="_blank">
-        Vsora Jotunn-8 5nm European inference chip |
+    <a href=https://molly.im/ target="_blank">
+        Molly: An Improved Signal App |
     </a>
-    By: rdg42
+    By: dtj1123
 </li>
 </ol>
