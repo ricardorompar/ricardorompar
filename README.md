@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 29 Nov 2025</h4>
+<h4>Check the latest news from: Sun 30 Nov 2025</h4>
 <ol>
 <li>
-    <a href=https://macos9lives.com/smforum/index.php?topic=7711.0 target="_blank">
-        System 7 natively boots on the Mac mini G4 |
+    <a href=https://bazzite.gg/ target="_blank">
+        Bazzite: The next generation of Linux gaming |
     </a>
-    By: ibobev
+    By: doener
 </li>
 
 <li>
-    <a href=https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action target="_blank">
-        Airbus A320 – intense solar radiation may corrupt data critical for flight |
+    <a href=https://boing.greg.technology/ target="_blank">
+        Show HN: Boing |
     </a>
-    By: pyrophoenix
+    By: gregsadetsky
 </li>
 
 <li>
-    <a href=https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/ target="_blank">
-        A triangle whose interior angles sum to zero |
+    <a href=https://zigtools.org/blog/zigbook-plagiarizing-playground/ target="_blank">
+        Zigbook Is Plagiarizing the Zigtools Playground |
     </a>
-    By: tzury
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://blog.tymscar.com/posts/imgurukproxy/ target="_blank">
-        Imgur geo-blocked the UK, so I geo-unblocked my network |
+    <a href=https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/ target="_blank">
+        All it takes is for one to work out |
     </a>
-    By: tymscar
+    By: herbertl
 </li>
 
 <li>
-    <a href=https://molly.im/ target="_blank">
-        Molly: An Improved Signal App |
+    <a href=https://meshtastic.org/ target="_blank">
+        Meshtastic |
     </a>
-    By: dtj1123
+    By: debo_
 </li>
 </ol>
