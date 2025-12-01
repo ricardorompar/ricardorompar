@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 30 Nov 2025</h4>
+<h4>Check the latest news from: Mon 01 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://bazzite.gg/ target="_blank">
-        Bazzite: The next generation of Linux gaming |
+    <a href=https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4 target="_blank">
+        'A full-blown crisis': Americans brace for a surge in healthcare costs |
     </a>
-    By: doener
+    By: mmarian
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;archive.is&#x2F;UwqzL" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;UwqzL</a> </br>
+</p>
+
+<li>
+    <a href=https://tegabrain.com/Slop-Evader target="_blank">
+        Search tool that only returns content created before ChatGPT's public release |
+    </a>
+    By: dmitrygr
 </li>
 
 <li>
-    <a href=https://boing.greg.technology/ target="_blank">
-        Show HN: Boing |
+    <a href=https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/ target="_blank">
+        A Love Letter to FreeBSD |
     </a>
-    By: gregsadetsky
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://zigtools.org/blog/zigbook-plagiarizing-playground/ target="_blank">
-        Zigbook Is Plagiarizing the Zigtools Playground |
+    <a href=https://sadservers.com/advent target="_blank">
+        Advent of Sysadmin 2025 |
     </a>
-    By: todsacerdoti
+    By: lazyant
 </li>
 
 <li>
-    <a href=https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/ target="_blank">
-        All it takes is for one to work out |
+    <a href=https://adventofcode.com/2025/about target="_blank">
+        Advent of Code 2025 |
     </a>
-    By: herbertl
-</li>
-
-<li>
-    <a href=https://meshtastic.org/ target="_blank">
-        Meshtastic |
-    </a>
-    By: debo_
+    By: vismit2000
 </li>
 </ol>
