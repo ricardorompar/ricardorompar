@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 01 Dec 2025</h4>
+<h4>Check the latest news from: Tue 02 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4 target="_blank">
-        'A full-blown crisis': Americans brace for a surge in healthcare costs |
+    <a href=https://publicdomainreview.org/features/entering-the-public-domain/2026/ target="_blank">
+        What will enter the public domain in 2026? |
     </a>
-    By: mmarian
+    By: herbertl
+</li>
+
+<li>
+    <a href=https://beej.us/guide/bglcs/html/split/ target="_blank">
+        Beej's Guide to Learning Computer Science |
+    </a>
+    By: intelkishan
+</li>
+
+<li>
+    <a href=https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf target="_blank">
+        DeepSeek-v3.2: Pushing the frontier of open large language models [pdf] |
+    </a>
+    By: pretext
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.is&#x2F;UwqzL" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;UwqzL</a> </br>
+Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V3.2" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V3.2</a><p><a href="https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news251201" rel="nofollow">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news251201</a> </br>
 </p>
 
 <li>
-    <a href=https://tegabrain.com/Slop-Evader target="_blank">
-        Search tool that only returns content created before ChatGPT's public release |
+    <a href=https://www.bbc.com/news/articles/c74xe49q7vlo target="_blank">
+        Tom Stoppard has died |
     </a>
-    By: dmitrygr
+    By: mstep
 </li>
 
-<li>
-    <a href=https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/ target="_blank">
-        A Love Letter to FreeBSD |
-    </a>
-    By: rbanffy
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.theguardian.com&#x2F;stage&#x2F;2025&#x2F;nov&#x2F;29&#x2F;tom-stoppard-playwright-of-dazzling-wit-and-playful-erudition-dies-aged-88" rel="nofollow">https:&#x2F;&#x2F;www.theguardian.com&#x2F;stage&#x2F;2025&#x2F;nov&#x2F;29&#x2F;tom-stoppard-p...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;11&#x2F;29&#x2F;theater&#x2F;tom-stoppard-dead.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;11&#x2F;29&#x2F;theater&#x2F;tom-stoppard-dead...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;XDP9p" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;XDP9p</a>) </br>
+</p>
 
 <li>
-    <a href=https://sadservers.com/advent target="_blank">
-        Advent of Sysadmin 2025 |
+    <a href=https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/ target="_blank">
+        India orders smartphone makers to preload state-owned cyber safety app |
     </a>
-    By: lazyant
-</li>
-
-<li>
-    <a href=https://adventofcode.com/2025/about target="_blank">
-        Advent of Code 2025 |
-    </a>
-    By: vismit2000
+    By: jmsflknr
 </li>
 </ol>
