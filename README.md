@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 02 Dec 2025</h4>
+<h4>Check the latest news from: Wed 03 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://publicdomainreview.org/features/entering-the-public-domain/2026/ target="_blank">
-        What will enter the public domain in 2026? |
+    <a href=https://bun.com/blog/bun-joins-anthropic target="_blank">
+        Anthropic acquires Bun |
     </a>
-    By: herbertl
+    By: ryanvogel
 </li>
 
 <li>
-    <a href=https://beej.us/guide/bglcs/html/split/ target="_blank">
-        Beej's Guide to Learning Computer Science |
+    <a href=https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000 target="_blank">
+        Japanese game devs face font dilemma as license increases from $380 to $20k |
     </a>
-    By: intelkishan
+    By: zdw
 </li>
 
 <li>
-    <a href=https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf target="_blank">
-        DeepSeek-v3.2: Pushing the frontier of open large language models [pdf] |
+    <a href=https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12 target="_blank">
+        IBM CEO says there is 'no way' spending on AI data centers will pay off |
     </a>
-    By: pretext
+    By: nabla9
+</li>
+
+<li>
+    <a href=https://pagedout.institute target="_blank">
+        Paged Out |
+    </a>
+    By: varjag
+</li>
+
+<li>
+    <a href=https://avidthinker.github.io/2025/11/28/understanding-ecdsa/ target="_blank">
+        Understanding ECDSA |
+    </a>
+    By: avidthinker
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V3.2" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V3.2</a><p><a href="https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news251201" rel="nofollow">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news251201</a> </br>
+Text: This article is basically an exercise in understanding ECDSA (Elliptic Curve Digital Signature Algorithm) from scratch. All I assume is some basic math and a willingness to pick up a bit of abstract math along the way. I try to explain everything as intuitively as possible, but, despite that, the article still demands some serious effort from the reader.<p>When I analyzed the Extended Euclidean Algorithm, one thing led to another, and I ended up writing a little intro to generating functions. You can even jump to that part and ignore the rest, if you want! Other readers may instead choose to skip that section altogether, as it&#x27;s self-contained. </br>
 </p>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/c74xe49q7vlo target="_blank">
-        Tom Stoppard has died |
-    </a>
-    By: mstep
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.theguardian.com&#x2F;stage&#x2F;2025&#x2F;nov&#x2F;29&#x2F;tom-stoppard-playwright-of-dazzling-wit-and-playful-erudition-dies-aged-88" rel="nofollow">https:&#x2F;&#x2F;www.theguardian.com&#x2F;stage&#x2F;2025&#x2F;nov&#x2F;29&#x2F;tom-stoppard-p...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;11&#x2F;29&#x2F;theater&#x2F;tom-stoppard-dead.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;11&#x2F;29&#x2F;theater&#x2F;tom-stoppard-dead...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;XDP9p" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;XDP9p</a>) </br>
-</p>
-
-<li>
-    <a href=https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/ target="_blank">
-        India orders smartphone makers to preload state-owned cyber safety app |
-    </a>
-    By: jmsflknr
-</li>
 </ol>
