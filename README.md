@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 03 Dec 2025</h4>
+<h4>Check the latest news from: Thu 04 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://bun.com/blog/bun-joins-anthropic target="_blank">
-        Anthropic acquires Bun |
+    <a href=https://mitchellh.com/writing/ghostty-non-profit target="_blank">
+        Ghostty is now non-profit |
     </a>
-    By: ryanvogel
+    By: vrnvu
 </li>
 
 <li>
-    <a href=https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000 target="_blank">
-        Japanese game devs face font dilemma as license increases from $380 to $20k |
+    <a href=https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais target="_blank">
+        Valve reveals it’s the architect behind a push to bring Windows games to Arm |
     </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12 target="_blank">
-        IBM CEO says there is 'no way' spending on AI data centers will pay off |
-    </a>
-    By: nabla9
-</li>
-
-<li>
-    <a href=https://pagedout.institute target="_blank">
-        Paged Out |
-    </a>
-    By: varjag
-</li>
-
-<li>
-    <a href=https://avidthinker.github.io/2025/11/28/understanding-ecdsa/ target="_blank">
-        Understanding ECDSA |
-    </a>
-    By: avidthinker
+    By: evolve2k
 </li>
 
 <p>
-Text: This article is basically an exercise in understanding ECDSA (Elliptic Curve Digital Signature Algorithm) from scratch. All I assume is some basic math and a willingness to pick up a bit of abstract math along the way. I try to explain everything as intuitively as possible, but, despite that, the article still demands some serious effort from the reader.<p>When I analyzed the Extended Euclidean Algorithm, one thing led to another, and I ended up writing a little intro to generating functions. You can even jump to that part and ignore the rest, if you want! Other readers may instead choose to skip that section altogether, as it&#x27;s self-contained. </br>
+Text: <a href="https:&#x2F;&#x2F;archive.is&#x2F;AKhTr" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;AKhTr</a> </br>
 </p>
+
+<li>
+    <a href=https://www.bbc.com/news/articles/c0mpr1mvwj3o target="_blank">
+        New homes in London were delayed by 'energy-hungry' data centres |
+    </a>
+    By: 1659447091
+</li>
+
+<li>
+    <a href=https://pcpartpicker.com/trends/price/memory/ target="_blank">
+        Average DRAM price in USD over last 18 months |
+    </a>
+    By: zekrioca
+</li>
+
+<li>
+    <a href=https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k target="_blank">
+        Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files |
+    </a>
+    By: bearsyankees
+</li>
 </ol>
