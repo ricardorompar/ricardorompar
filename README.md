@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 04 Dec 2025</h4>
+<h4>Check the latest news from: Fri 05 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://mitchellh.com/writing/ghostty-non-profit target="_blank">
-        Ghostty is now non-profit |
+    <a href=https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80 target="_blank">
+        AV1: A Modern, Open Codec |
     </a>
-    By: vrnvu
+    By: CharlesW
 </li>
 
 <li>
-    <a href=https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais target="_blank">
-        Valve reveals it’s the architect behind a push to bring Windows games to Arm |
+    <a href=https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/ target="_blank">
+        BMW PHEV: Safety fuse replacement is extremely expensive |
     </a>
-    By: evolve2k
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;archive.is&#x2F;AKhTr" rel="nofollow">https:&#x2F;&#x2F;archive.is&#x2F;AKhTr</a> </br>
-</p>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/c0mpr1mvwj3o target="_blank">
-        New homes in London were delayed by 'energy-hungry' data centres |
-    </a>
-    By: 1659447091
+    By: mikelabatt
 </li>
 
 <li>
-    <a href=https://pcpartpicker.com/trends/price/memory/ target="_blank">
-        Average DRAM price in USD over last 18 months |
+    <a href=https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history target="_blank">
+        I have been writing a niche history blog for 15 years |
     </a>
-    By: zekrioca
+    By: benbreen
 </li>
 
 <li>
-    <a href=https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k target="_blank">
-        Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files |
+    <a href=https://lyra.horse/blog/2025/12/svg-clickjacking/ target="_blank">
+        Trick users and bypass warnings – Modern SVG Clickjacking attacks |
     </a>
-    By: bearsyankees
+    By: spartanatreyu
+</li>
+
+<li>
+    <a href=https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/ target="_blank">
+        NeurIPS 2025 Best Paper Awards |
+    </a>
+    By: ivansavz
 </li>
 </ol>
