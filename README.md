@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 05 Dec 2025</h4>
+<h4>Check the latest news from: Sat 06 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80 target="_blank">
-        AV1: A Modern, Open Codec |
+    <a href=https://www.ud2.rip/blog/enigma-protector/ target="_blank">
+        I cracked a $200 software protection with xcopy |
     </a>
-    By: CharlesW
+    By: vmfunc
 </li>
 
 <li>
-    <a href=https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/ target="_blank">
-        BMW PHEV: Safety fuse replacement is extremely expensive |
+    <a href=https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/ target="_blank">
+        Self-hosting my photos with Immich |
     </a>
-    By: mikelabatt
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history target="_blank">
-        I have been writing a niche history blog for 15 years |
+    <a href=https://browsewithnook.com target="_blank">
+        Nook Browser |
     </a>
-    By: benbreen
+    By: ray__
 </li>
 
 <li>
-    <a href=https://lyra.horse/blog/2025/12/svg-clickjacking/ target="_blank">
-        Trick users and bypass warnings – Modern SVG Clickjacking attacks |
+    <a href=https://blog.cloudflare.com/5-december-2025-outage/ target="_blank">
+        Cloudflare outage on December 5, 2025 |
     </a>
-    By: spartanatreyu
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/ target="_blank">
-        NeurIPS 2025 Best Paper Awards |
+    <a href=https://haveibeenflocked.com/ target="_blank">
+        Have I been Flocked? – Check if your license plate is being watched |
     </a>
-    By: ivansavz
+    By: pkaeding
 </li>
 </ol>
