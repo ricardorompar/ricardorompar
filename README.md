@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 06 Dec 2025</h4>
+<h4>Check the latest news from: Sun 07 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://www.ud2.rip/blog/enigma-protector/ target="_blank">
-        I cracked a $200 software protection with xcopy |
+    <a href=https://rfd.shared.oxide.computer/rfd/0576 target="_blank">
+        Using LLMs at Oxide |
     </a>
-    By: vmfunc
+    By: steveklabnik
 </li>
 
 <li>
-    <a href=https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/ target="_blank">
-        Self-hosting my photos with Immich |
+    <a href=https://www.youtube.com/watch?v=TK2N99BDw7A target="_blank">
+        Kilauea erupts, destroying webcam [video] |
     </a>
-    By: birdculture
+    By: zdw
 </li>
 
 <li>
-    <a href=https://browsewithnook.com target="_blank">
-        Nook Browser |
+    <a href=https://sam.zeloof.xyz/second-ic/ target="_blank">
+        Z2 – Lithographically fabricated IC in a garage fab |
     </a>
-    By: ray__
+    By: embedding-shape
 </li>
 
 <li>
-    <a href=https://blog.cloudflare.com/5-december-2025-outage/ target="_blank">
-        Cloudflare outage on December 5, 2025 |
+    <a href=https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/ target="_blank">
+        Screenshots from developers: 2002 vs. 2015 (2015) |
     </a>
-    By: meetpateltech
+    By: turrini
 </li>
 
 <li>
-    <a href=https://haveibeenflocked.com/ target="_blank">
-        Have I been Flocked? – Check if your license plate is being watched |
+    <a href=https://jonathan.protzenko.fr/2025/10/28/eurydice.html target="_blank">
+        Eurydice: a Rust to C compiler (yes) |
     </a>
-    By: pkaeding
+    By: todsacerdoti
 </li>
 </ol>
