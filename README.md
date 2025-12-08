@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 07 Dec 2025</h4>
+<h4>Check the latest news from: Mon 08 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://rfd.shared.oxide.computer/rfd/0576 target="_blank">
-        Using LLMs at Oxide |
+    <a href=https://turtletoy.net/ target="_blank">
+        Turtletoy |
     </a>
-    By: steveklabnik
+    By: ustad
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=TK2N99BDw7A target="_blank">
-        Kilauea erupts, destroying webcam [video] |
+    <a href=https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/ target="_blank">
+        I failed to recreate the 1996 Space Jam website with Claude |
     </a>
-    By: zdw
+    By: thecr0w
 </li>
 
 <li>
-    <a href=https://sam.zeloof.xyz/second-ic/ target="_blank">
-        Z2 – Lithographically fabricated IC in a garage fab |
+    <a href=https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us target="_blank">
+        Bag of words, have mercy on us |
     </a>
-    By: embedding-shape
+    By: ntnbr
 </li>
 
 <li>
-    <a href=https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/ target="_blank">
-        Screenshots from developers: 2002 vs. 2015 (2015) |
+    <a href=https://www.science.org/doi/10.1126/sciadv.adw6833 target="_blank">
+        Mechanical power generation using Earth's ambient radiation |
     </a>
-    By: turrini
+    By: defrost
 </li>
 
 <li>
-    <a href=https://jonathan.protzenko.fr/2025/10/28/eurydice.html target="_blank">
-        Eurydice: a Rust to C compiler (yes) |
+    <a href=https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs target="_blank">
+        Dollar-stores overcharge customers while promising low prices |
     </a>
-    By: todsacerdoti
+    By: bookofjoe
 </li>
 </ol>
