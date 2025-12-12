@@ -45,48 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 11 Dec 2025</h4>
+<h4>Check the latest news from: Fri 12 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://neal.fun/size-of-life/ target="_blank">
-        Size of Life |
+    <a href=https://openai.com/index/introducing-gpt-5-2/ target="_blank">
+        GPT-5.2 |
     </a>
-    By: eatonphil
-</li>
-
-<li>
-    <a href=https://ankursethi.com/blog/gemini-api-key-frustration/ target="_blank">
-        Getting a Gemini API key is an exercise in frustration |
-    </a>
-    By: speckx
-</li>
-
-<li>
-    <a href=https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/ target="_blank">
-        Australia begins enforcing world-first teen social media ban |
-    </a>
-    By: chirau
+    By: atgctg
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;archive.md&#x2F;i0VxX" rel="nofollow">https:&#x2F;&#x2F;archive.md&#x2F;i0VxX</a><p><a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;live&#x2F;cwy54q80gy9t" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;live&#x2F;cwy54q80gy9t</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;12&#x2F;09&#x2F;world&#x2F;asia&#x2F;australia-social-media-ban-under-16.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2025&#x2F;12&#x2F;09&#x2F;world&#x2F;asia&#x2F;australia-soci...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;Ba2JR" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;Ba2JR</a>) </br>
+Text: <a href="https:&#x2F;&#x2F;platform.openai.com&#x2F;docs&#x2F;guides&#x2F;latest-model" rel="nofollow">https:&#x2F;&#x2F;platform.openai.com&#x2F;docs&#x2F;guides&#x2F;latest-model</a><p>System card: <a href="https:&#x2F;&#x2F;cdn.openai.com&#x2F;pdf&#x2F;3a4153c8-c748-4b71-8e31-aecbde944f8d&#x2F;oai_5_2_system-card.pdf" rel="nofollow">https:&#x2F;&#x2F;cdn.openai.com&#x2F;pdf&#x2F;3a4153c8-c748-4b71-8e31-aecbde944...</a> </br>
 </p>
 
 <li>
-    <a href=https://www.patterns.dev/ target="_blank">
-        Patterns.dev |
+    <a href=https://yaky.dev/2025-12-11-nokia-n900-necromancy/ target="_blank">
+        Nokia N900 Necromancy |
     </a>
-    By: handfuloflight
+    By: yaky
 </li>
 
 <li>
-    <a href=https://karpathy.bearblog.dev/auto-grade-hn/ target="_blank">
-        Auto-grading decade-old Hacker News discussions with hindsight |
+    <a href=https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/ target="_blank">
+        Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free |
     </a>
-    By: __rito__
+    By: doctoboggan
+</li>
+
+<li>
+    <a href=https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components target="_blank">
+        Denial of service and source code exposure in React Server Components |
+    </a>
+    By: sangeeth96
 </li>
 
 <p>
-Text: Related from yesterday: <i>Show HN: Gemini Pro 3 imagines the HN front page 10 years from now</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46205632">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46205632</a> </br>
+Text: See also: <a href="https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;react2shell-rsc-vulnerabilities-exploitation-threat-brief&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;react2shell-rsc-vulnerabilities-...</a>, <a href="https:&#x2F;&#x2F;nextjs.org&#x2F;blog&#x2F;security-update-2025-12-11" rel="nofollow">https:&#x2F;&#x2F;nextjs.org&#x2F;blog&#x2F;security-update-2025-12-11</a> </br>
 </p>
+
+<li>
+    <a href=https://gricha.dev/blog/the-highest-quality-codebase target="_blank">
+        The highest quality codebase |
+    </a>
+    By: Gricha
+</li>
 </ol>
