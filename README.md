@@ -45,48 +45,58 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 12 Dec 2025</h4>
+<h4>Check the latest news from: Sat 13 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/introducing-gpt-5-2/ target="_blank">
-        GPT-5.2 |
+    <a href=https://simonwillison.net/2025/Dec/12/openai-skills/ target="_blank">
+        OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI |
     </a>
-    By: atgctg
+    By: simonw
+</li>
+
+<li>
+    <a href=https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt target="_blank">
+        macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt |
+    </a>
+    By: guiand
+</li>
+
+<li>
+    <a href=https://github.com/sgharlow/claude-code-recipes target="_blank">
+        Show HN: Claude Code recipes for knowledge workers |
+    </a>
+    By: sgharlow
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;platform.openai.com&#x2F;docs&#x2F;guides&#x2F;latest-model" rel="nofollow">https:&#x2F;&#x2F;platform.openai.com&#x2F;docs&#x2F;guides&#x2F;latest-model</a><p>System card: <a href="https:&#x2F;&#x2F;cdn.openai.com&#x2F;pdf&#x2F;3a4153c8-c748-4b71-8e31-aecbde944f8d&#x2F;oai_5_2_system-card.pdf" rel="nofollow">https:&#x2F;&#x2F;cdn.openai.com&#x2F;pdf&#x2F;3a4153c8-c748-4b71-8e31-aecbde944...</a> </br>
+Text: I&#x27;ve been using Claude Code daily for about 6 months. After building the same prompts over and over, I started documenting them as &quot;recipes&quot; - structured prompts with context about when to use them and what output to expect.<p>This repo has 100 recipes covering common knowledge work tasks:<p><pre><code>  - Meeting notes → action items
+  - Status reports
+  - Performance reviews
+  - Proposals and presentations
+  - Data analysis narratives
+  - SOPs and documentation
+</code></pre>
+Each recipe includes:<p><pre><code>  - The problem it solves
+  - When to use it (and when not to)
+  - Prerequisites
+  - Step-by-step prompts
+  - Example output
+  - Troubleshooting tips
+</code></pre>
+The recipes are organized into 10 tiers from universal tasks (everyone needs meeting notes help) to specialized functions (M&amp;A due diligence, legal research).<p>I also included 10 sample slash commands in the &#x2F;premium folder that you can install directly into Claude Code&#x27;s ~&#x2F;.claude&#x2F;commands&#x2F; directory.<p>Happy to answer questions about how these evolved or discuss the patterns I&#x27;ve noticed in what makes prompts work well for different task types. </br>
 </p>
 
 <li>
-    <a href=https://yaky.dev/2025-12-11-nokia-n900-necromancy/ target="_blank">
-        Nokia N900 Necromancy |
+    <a href=https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt target="_blank">
+        Poor Johnny still won't encrypt |
     </a>
-    By: yaky
+    By: zdw
 </li>
 
 <li>
-    <a href=https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/ target="_blank">
-        Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free |
+    <a href=https://unifoundry.com/unifont/index.html target="_blank">
+        GNU Unifont |
     </a>
-    By: doctoboggan
-</li>
-
-<li>
-    <a href=https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components target="_blank">
-        Denial of service and source code exposure in React Server Components |
-    </a>
-    By: sangeeth96
-</li>
-
-<p>
-Text: See also: <a href="https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;react2shell-rsc-vulnerabilities-exploitation-threat-brief&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;react2shell-rsc-vulnerabilities-...</a>, <a href="https:&#x2F;&#x2F;nextjs.org&#x2F;blog&#x2F;security-update-2025-12-11" rel="nofollow">https:&#x2F;&#x2F;nextjs.org&#x2F;blog&#x2F;security-update-2025-12-11</a> </br>
-</p>
-
-<li>
-    <a href=https://gricha.dev/blog/the-highest-quality-codebase target="_blank">
-        The highest quality codebase |
-    </a>
-    By: Gricha
+    By: remywang
 </li>
 </ol>
