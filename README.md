@@ -45,58 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 13 Dec 2025</h4>
+<h4>Check the latest news from: Sun 14 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2025/Dec/12/openai-skills/ target="_blank">
-        OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI |
+    <a href=https://fil-c.org/seccomp target="_blank">
+        Linux Sandboxes and Fil-C |
     </a>
-    By: simonw
+    By: pizlonator
 </li>
 
 <li>
-    <a href=https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt target="_blank">
-        macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt |
+    <a href=https://sandyuraz.com/blogs/bourdain/ target="_blank">
+        Recovering Anthony Bourdain's (really) lost Li.st's |
     </a>
-    By: guiand
+    By: thecsw
 </li>
 
 <li>
-    <a href=https://github.com/sgharlow/claude-code-recipes target="_blank">
-        Show HN: Claude Code recipes for knowledge workers |
+    <a href=https://www.jsoftware.com/ioj/ioj.htm target="_blank">
+        An Implementation of J |
     </a>
-    By: sgharlow
-</li>
-
-<p>
-Text: I&#x27;ve been using Claude Code daily for about 6 months. After building the same prompts over and over, I started documenting them as &quot;recipes&quot; - structured prompts with context about when to use them and what output to expect.<p>This repo has 100 recipes covering common knowledge work tasks:<p><pre><code>  - Meeting notes → action items
-  - Status reports
-  - Performance reviews
-  - Proposals and presentations
-  - Data analysis narratives
-  - SOPs and documentation
-</code></pre>
-Each recipe includes:<p><pre><code>  - The problem it solves
-  - When to use it (and when not to)
-  - Prerequisites
-  - Step-by-step prompts
-  - Example output
-  - Troubleshooting tips
-</code></pre>
-The recipes are organized into 10 tiers from universal tasks (everyone needs meeting notes help) to specialized functions (M&amp;A due diligence, legal research).<p>I also included 10 sample slash commands in the &#x2F;premium folder that you can install directly into Claude Code&#x27;s ~&#x2F;.claude&#x2F;commands&#x2F; directory.<p>Happy to answer questions about how these evolved or discuss the patterns I&#x27;ve noticed in what makes prompts work well for different task types. </br>
-</p>
-
-<li>
-    <a href=https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt target="_blank">
-        Poor Johnny still won't encrypt |
-    </a>
-    By: zdw
+    By: ofalkaed
 </li>
 
 <li>
-    <a href=https://unifoundry.com/unifont/index.html target="_blank">
-        GNU Unifont |
+    <a href=https://github.com/leanprover-community/mathlib4 target="_blank">
+        Lean Theorem Prover Mathlib |
     </a>
-    By: remywang
+    By: downboots
+</li>
+
+<li>
+    <a href=https://nullprogram.com/blog/2025/12/12/ target="_blank">
+        Closures as Win32 Window Procedures |
+    </a>
+    By: ibobev
 </li>
 </ol>
