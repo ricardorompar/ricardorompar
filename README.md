@@ -45,40 +45,41 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 14 Dec 2025</h4>
+<h4>Check the latest news from: Mon 15 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://fil-c.org/seccomp target="_blank">
-        Linux Sandboxes and Fil-C |
+    <a href=https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/ target="_blank">
+        Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ |
     </a>
-    By: pizlonator
+    By: MilnerRoute
 </li>
 
 <li>
-    <a href=https://sandyuraz.com/blogs/bourdain/ target="_blank">
-        Recovering Anthony Bourdain's (really) lost Li.st's |
+    <a href=https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html target="_blank">
+        Rio de Janeiro's talipot palm trees bloom for the first and only time |
     </a>
-    By: thecsw
+    By: 1659447091
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251215005720&#x2F;https:&#x2F;&#x2F;en.jardineriaon.com&#x2F;The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251215005720&#x2F;https:&#x2F;&#x2F;en.jardin...</a> </br>
+</p>
+
+<p>
+Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
+</p>
+
+<li>
+    <a href=https://arborium.bearcove.eu/ target="_blank">
+        Arborium: Tree-sitter code highlighting with Native and WASM targets |
+    </a>
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.jsoftware.com/ioj/ioj.htm target="_blank">
-        An Implementation of J |
+    <a href=https://calteches.library.caltech.edu/46/2/LatinAmerica.htm target="_blank">
+        The Problem of Teaching Physics in Latin America (1963) |
     </a>
-    By: ofalkaed
-</li>
-
-<li>
-    <a href=https://github.com/leanprover-community/mathlib4 target="_blank">
-        Lean Theorem Prover Mathlib |
-    </a>
-    By: downboots
-</li>
-
-<li>
-    <a href=https://nullprogram.com/blog/2025/12/12/ target="_blank">
-        Closures as Win32 Window Procedures |
-    </a>
-    By: ibobev
+    By: rramadass
 </li>
 </ol>
