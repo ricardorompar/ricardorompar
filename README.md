@@ -45,41 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 15 Dec 2025</h4>
+<h4>Check the latest news from: Tue 16 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/ target="_blank">
-        Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’ |
+    <a href=https://quill-os.org/ target="_blank">
+        Quill OS: An open-source OS for Kobo's eReaders |
     </a>
-    By: MilnerRoute
+    By: Curiositry
 </li>
 
 <li>
-    <a href=https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html target="_blank">
-        Rio de Janeiro's talipot palm trees bloom for the first and only time |
+    <a href=https://apple.github.io/ml-sharp/ target="_blank">
+        Sharp |
     </a>
-    By: 1659447091
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251215005720&#x2F;https:&#x2F;&#x2F;en.jardineriaon.com&#x2F;The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251215005720&#x2F;https:&#x2F;&#x2F;en.jardin...</a> </br>
-</p>
-
-<p>
-Text: What are you working on?  Any new ideas that you&#x27;re thinking about? </br>
-</p>
-
-<li>
-    <a href=https://arborium.bearcove.eu/ target="_blank">
-        Arborium: Tree-sitter code highlighting with Native and WASM targets |
-    </a>
-    By: zdw
+    By: dvrp
 </li>
 
 <li>
-    <a href=https://calteches.library.caltech.edu/46/2/LatinAmerica.htm target="_blank">
-        The Problem of Teaching Physics in Latin America (1963) |
+    <a href=https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection target="_blank">
+        8M users' AI conversations sold for profit by "privacy" extensions |
     </a>
-    By: rramadass
+    By: takira
+</li>
+
+<li>
+    <a href=https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/ target="_blank">
+        Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite |
+    </a>
+    By: geekman7473
+</li>
+
+<li>
+    <a href=https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/ target="_blank">
+        “Are you the one?” is free money |
+    </a>
+    By: samwho
 </li>
 </ol>
