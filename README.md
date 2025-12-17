@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 16 Dec 2025</h4>
+<h4>Check the latest news from: Wed 17 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://quill-os.org/ target="_blank">
-        Quill OS: An open-source OS for Kobo's eReaders |
+    <a href=https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html target="_blank">
+        AI will make formal verification go mainstream |
     </a>
-    By: Curiositry
+    By: evankhoury
 </li>
 
 <li>
-    <a href=https://apple.github.io/ml-sharp/ target="_blank">
-        Sharp |
+    <a href=https://alpr.watch/ target="_blank">
+        alpr.watch |
     </a>
-    By: dvrp
+    By: theamk
 </li>
 
 <li>
-    <a href=https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection target="_blank">
-        8M users' AI conversations sold for profit by "privacy" extensions |
+    <a href=https://www.sebastianaaltonen.com/blog/no-graphics-api target="_blank">
+        No Graphics API |
     </a>
-    By: takira
+    By: ryandrake
 </li>
 
 <li>
-    <a href=https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/ target="_blank">
-        Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite |
+    <a href=https://astral.sh/blog/ty target="_blank">
+        Announcing the Beta release of ty |
     </a>
-    By: geekman7473
+    By: gavide
 </li>
 
 <li>
-    <a href=https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/ target="_blank">
-        “Are you the one?” is free money |
+    <a href=https://www.aadillpickle.com/blog/midjourney-is-alemwjsl target="_blank">
+        Midjourney is alemwjsl |
     </a>
-    By: samwho
+    By: aadillpickle
 </li>
 </ol>
