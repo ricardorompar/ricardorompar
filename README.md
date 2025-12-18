@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 17 Dec 2025</h4>
+<h4>Check the latest news from: Thu 18 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html target="_blank">
-        AI will make formal verification go mainstream |
+    <a href=https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html target="_blank">
+        Gut bacteria from amphibians and reptiles achieve tumor elimination in mice |
     </a>
-    By: evankhoury
+    By: Xunxi
 </li>
 
 <li>
-    <a href=https://alpr.watch/ target="_blank">
-        alpr.watch |
+    <a href=https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung target="_blank">
+        Germany: Amazon is not allowed to force customers to watch ads on Prime Video |
     </a>
-    By: theamk
+    By: febed
 </li>
 
 <li>
-    <a href=https://www.sebastianaaltonen.com/blog/no-graphics-api target="_blank">
-        No Graphics API |
+    <a href=https://blog.google/products/gemini/gemini-3-flash/ target="_blank">
+        Gemini 3 Flash: Frontier intelligence built for speed |
     </a>
-    By: ryandrake
+    By: meetpateltech
+</li>
+
+<p>
+Text: Docs: <a href="https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;gemini-3" rel="nofollow">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;gemini-3</a><p>Developer Blog: <a href="https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;build-with-gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;build-with-gemini-...</a><p>Model Card [pdf]: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-flash&#x2F;</a><p>Gemini 3 Flash in Search AI mode: <a href="https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;google-ai-mode-update-gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;google-ai-mode-update-ge...</a><p>Deepmind Page: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;flash&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://obsproject.com/blog/obs-studio-gets-a-new-renderer target="_blank">
+        OBS Studio Gets a New Renderer |
+    </a>
+    By: aizk
 </li>
 
 <li>
-    <a href=https://astral.sh/blog/ty target="_blank">
-        Announcing the Beta release of ty |
+    <a href=https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx target="_blank">
+        Coursera to combine with Udemy |
     </a>
-    By: gavide
-</li>
-
-<li>
-    <a href=https://www.aadillpickle.com/blog/midjourney-is-alemwjsl target="_blank">
-        Midjourney is alemwjsl |
-    </a>
-    By: aadillpickle
+    By: throwaway019254
 </li>
 </ol>
