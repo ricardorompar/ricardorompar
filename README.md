@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 18 Dec 2025</h4>
+<h4>Check the latest news from: Fri 19 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html target="_blank">
-        Gut bacteria from amphibians and reptiles achieve tumor elimination in mice |
+    <a href=https://dl.acm.org/openaccess target="_blank">
+        Beginning January 2026, all ACM publications will be made open access |
     </a>
-    By: Xunxi
+    By: Kerrick
 </li>
 
 <li>
-    <a href=https://www.zeit.de/wirtschaft/2025-12/amazon-urteil-video-kunden-werbung target="_blank">
-        Germany: Amazon is not allowed to force customers to watch ads on Prime Video |
+    <a href=https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5 target="_blank">
+        1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5 |
     </a>
-    By: febed
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://blog.google/products/gemini/gemini-3-flash/ target="_blank">
-        Gemini 3 Flash: Frontier intelligence built for speed |
+    <a href=https://github.com/DGoettlich/history-llms target="_blank">
+        History LLMs: Models trained exclusively on pre-1913 texts |
     </a>
-    By: meetpateltech
-</li>
-
-<p>
-Text: Docs: <a href="https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;gemini-3" rel="nofollow">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;gemini-3</a><p>Developer Blog: <a href="https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;build-with-gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;technology&#x2F;developers&#x2F;build-with-gemini-...</a><p>Model Card [pdf]: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-flash&#x2F;</a><p>Gemini 3 Flash in Search AI mode: <a href="https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;google-ai-mode-update-gemini-3-flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;google-ai-mode-update-ge...</a><p>Deepmind Page: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;flash&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;gemini&#x2F;flash&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://obsproject.com/blog/obs-studio-gets-a-new-renderer target="_blank">
-        OBS Studio Gets a New Renderer |
-    </a>
-    By: aizk
+    By: iamwil
 </li>
 
 <li>
-    <a href=https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx target="_blank">
-        Coursera to combine with Udemy |
+    <a href=https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28 target="_blank">
+        We pwned X, Vercel, Cursor, and Discord through a supply-chain attack |
     </a>
-    By: throwaway019254
+    By: hackermondev
+</li>
+
+<li>
+    <a href=https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying target="_blank">
+        Texas is suing all of the big TV makers for spying on what you watch |
+    </a>
+    By: tortilla
 </li>
 </ol>
