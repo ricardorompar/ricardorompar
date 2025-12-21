@@ -45,53 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 20 Dec 2025</h4>
+<h4>Check the latest news from: Sun 21 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://webkit.org/blog/17660/introducing-css-grid-lanes/ target="_blank">
-        CSS Grid Lanes |
+    <a href=https://haveibeenflocked.com/news/cyble-downtime target="_blank">
+        Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics |
     </a>
-    By: frizlab
+    By: _a9
 </li>
 
 <li>
-    <a href=https://mistral.ai/news/mistral-ocr-3 target="_blank">
-        Mistral OCR 3 |
+    <a href=https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/ target="_blank">
+        Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M |
     </a>
-    By: pember
+    By: spicypete
 </li>
 
 <li>
-    <a href=https://garagehq.deuxfleurs.fr/ target="_blank">
-        Garage – An S3 object store so reliable you can run it outside datacenters |
+    <a href=https://www.jmail.world target="_blank">
+        Show HN: Jmail – Google Suite for Epstein files |
     </a>
-    By: ibobev
-</li>
-
-<li>
-    <a href=https://carolinacloud.io/ target="_blank">
-        Carolina Cloud – One third the cost of AWS for data science workloads |
-    </a>
-    By: bojangleslover
+    By: lukeigel
 </li>
 
 <p>
-Text: We&#x27;re Carolina Cloud - managed data science infrastructure at ~1&#x2F;3 the cost of AWS.<p>I left my job earlier this year after watching companies get crushed by cloud bills for workloads that didn&#x27;t need hyperscaler complexity. Some examples from my previous life:
-- $1k&#x2F;month for a basic 16 vCPU VM
-- $50k&#x2F;month for a high-RAM instance
-- Over $1k&#x2F;month for notebook platform start-stop execution<p>We built Carolina Cloud for data scientists and small teams who need serious compute without the sticker shock. Our sweet spot: if you&#x27;re running VMs, notebooks, or RStudio and not deeply tied to AWS&#x2F;Azure&#x2F;GCP service ecosystems, we can save you a lot of money.<p>What we offer:
-- Standard Ubuntu VMs
-- One-click Marimo notebooks
-- One-click RStudio Server and Shiny hosting
-- S3-compatible object storage (launching soon)
-- Prepay discounts for commitments as short as 2 weeks
-- SOC2-certified, HIPAA-compliant datacenter in Charlotte, NC<p>Simple pricing: $0.005&#x2F;vCPU&#x2F;hr, $0.005&#x2F;GiB RAM&#x2F;hr, and $0.0001&#x2F;GiB of hot storage&#x2F;hr on AMD EPYC Turin processors. A 32 vCPU, 128GB RAM instance runs ~$240&#x2F;month vs $800+ on AWS.<p>We&#x27;re not trying to replicate every AWS service - if you need Lambda + Secrets Manager + S3 with pre-signed URLs, stick with AWS. But if you&#x27;re a hedge fund running backtests, a biotech team analyzing genomics data, or a researcher who just needs a beefy VM without surprise egress fees, we&#x27;re 1&#x2F;3 the price.<p>Check us out at console.carolinacloud.io - happy to answer questions about our infrastructure, pricing, or why we think there&#x27;s room for regional clouds built on owned hardware. </br>
+Text: Hi everyone! My name&#x27;s Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ&#x27;s &quot;Epstein files&quot; release.<p>Please AMA! </br>
 </p>
 
 <li>
-    <a href=https://ewpratten.com/blog/fuzix-pi-pico target="_blank">
-        Fuzix on a Raspberry Pi Pico |
+    <a href=https://annas-archive.li/blog/backing-up-spotify.html target="_blank">
+        Backing Up Spotify |
     </a>
-    By: ewpratten
+    By: vitplister
+</li>
+
+<li>
+    <a href=https://www.bbc.com/news/articles/cj4qzgvxxgvo target="_blank">
+        Ireland’s Diarmuid Early wins world Microsoft Excel title |
+    </a>
+    By: 1659447091
 </li>
 </ol>
