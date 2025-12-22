@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 21 Dec 2025</h4>
+<h4>Check the latest news from: Mon 22 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://haveibeenflocked.com/news/cyble-downtime target="_blank">
-        Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics |
+    <a href=https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude target="_blank">
+        A guide to local coding models |
     </a>
-    By: _a9
+    By: mpweiher
 </li>
 
 <li>
-    <a href=https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/ target="_blank">
-        Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M |
+    <a href=https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html target="_blank">
+        Deliberate Internet Shutdowns |
     </a>
-    By: spicypete
+    By: WaitWaitWha
 </li>
 
 <li>
-    <a href=https://www.jmail.world target="_blank">
-        Show HN: Jmail – Google Suite for Epstein files |
+    <a href=https://jyn.dev/i-m-just-having-fun/ target="_blank">
+        I'm just having fun |
     </a>
-    By: lukeigel
-</li>
-
-<p>
-Text: Hi everyone! My name&#x27;s Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ&#x27;s &quot;Epstein files&quot; release.<p>Please AMA! </br>
-</p>
-
-<li>
-    <a href=https://annas-archive.li/blog/backing-up-spotify.html target="_blank">
-        Backing Up Spotify |
-    </a>
-    By: vitplister
+    By: lemper
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cj4qzgvxxgvo target="_blank">
-        Ireland’s Diarmuid Early wins world Microsoft Excel title |
+    <a href=https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/ target="_blank">
+        Disney Imagineering Debuts Next-Generation Robotic Character, Olaf |
     </a>
-    By: 1659447091
+    By: ChrisArchitect
+</li>
+
+<li>
+    <a href=https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/ target="_blank">
+        Webb observes exoplanet that may have an exotic helium and carbon atmosphere |
+    </a>
+    By: taubek
 </li>
 </ol>
