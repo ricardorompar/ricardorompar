@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 22 Dec 2025</h4>
+<h4>Check the latest news from: Tue 23 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude target="_blank">
-        A guide to local coding models |
+    <a href=https://github.com/karol-broda/snitch target="_blank">
+        Snitch – A friendlier ss/netstat |
     </a>
-    By: mpweiher
+    By: karol-broda
 </li>
 
 <li>
-    <a href=https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html target="_blank">
-        Deliberate Internet Shutdowns |
+    <a href=https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf target="_blank">
+        FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf] |
     </a>
-    By: WaitWaitWha
+    By: Espressosaurus
 </li>
 
 <li>
-    <a href=https://jyn.dev/i-m-just-having-fun/ target="_blank">
-        I'm just having fun |
+    <a href=https://jalammar.github.io/illustrated-transformer/ target="_blank">
+        The Illustrated Transformer |
     </a>
-    By: lemper
+    By: auraham
 </li>
 
 <li>
-    <a href=https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/ target="_blank">
-        Disney Imagineering Debuts Next-Generation Robotic Character, Olaf |
+    <a href=https://brooker.co.za/blog/2024/05/09/nagle.html target="_blank">
+        It's Always TCP_NODELAY |
     </a>
-    By: ChrisArchitect
+    By: eieio
 </li>
 
 <li>
-    <a href=https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/ target="_blank">
-        Webb observes exoplanet that may have an exotic helium and carbon atmosphere |
+    <a href=https://spectrum.ieee.org/ultrasound-cancer-treatment target="_blank">
+        Ultrasound Cancer Treatment: Sound Waves Fight Tumors |
     </a>
-    By: taubek
+    By: rbanffy
 </li>
 </ol>
