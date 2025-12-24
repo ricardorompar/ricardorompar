@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 23 Dec 2025</h4>
+<h4>Check the latest news from: Wed 24 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/karol-broda/snitch target="_blank">
-        Snitch – A friendlier ss/netstat |
+    <a href=https://github.com/bellard/mquickjs/blob/main/README.md target="_blank">
+        Fabrice Bellard Releases MicroQuickJS |
     </a>
-    By: karol-broda
+    By: Aissen
 </li>
 
 <li>
-    <a href=https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf target="_blank">
-        FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf] |
+    <a href=https://github.com/freelawproject/x-ray target="_blank">
+        X-ray: a Python library for finding bad redactions in PDF documents |
     </a>
-    By: Espressosaurus
+    By: rendx
 </li>
 
 <li>
-    <a href=https://jalammar.github.io/illustrated-transformer/ target="_blank">
-        The Illustrated Transformer |
+    <a href=https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router target="_blank">
+        Unifi Travel Router |
     </a>
-    By: auraham
+    By: flurdy
 </li>
 
 <li>
-    <a href=https://brooker.co.za/blog/2024/05/09/nagle.html target="_blank">
-        It's Always TCP_NODELAY |
+    <a href=https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/ target="_blank">
+        Texas app store age verification law blocked by federal judge |
     </a>
-    By: eieio
+    By: danso
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/ultrasound-cancer-treatment target="_blank">
-        Ultrasound Cancer Treatment: Sound Waves Fight Tumors |
+    <a href=https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media target="_blank">
+        Some Epstein file redactions are being undone with hacks |
     </a>
-    By: rbanffy
+    By: vinni2
 </li>
+
+<p>
+Text: Related: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;vmfunc&#x2F;status&#x2F;2003292986650853825" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;vmfunc&#x2F;status&#x2F;2003292986650853825</a><p><a href="https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;law&#x2F;comments&#x2F;1ptlms6&#x2F;some_epstein_files_can_be_unredacted&#x2F;" rel="nofollow">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;law&#x2F;comments&#x2F;1ptlms6&#x2F;some_epstein_f...</a><p><a href="https:&#x2F;&#x2F;krassencast.com&#x2F;p&#x2F;breaking-we-just-unredacted-the-epstein" rel="nofollow">https:&#x2F;&#x2F;krassencast.com&#x2F;p&#x2F;breaking-we-just-unredacted-the-ep...</a> </br>
+</p>
 </ol>
