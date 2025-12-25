@@ -45,44 +45,41 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 24 Dec 2025</h4>
+<h4>Check the latest news from: Thu 25 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://github.com/bellard/mquickjs/blob/main/README.md target="_blank">
-        Fabrice Bellard Releases MicroQuickJS |
+    <a href=https://git.dec05eba.com/phoenix/about/ target="_blank">
+        Phoenix: A modern X server written from scratch in Zig |
     </a>
-    By: Aissen
+    By: snvzz
 </li>
 
 <li>
-    <a href=https://github.com/freelawproject/x-ray target="_blank">
-        X-ray: a Python library for finding bad redactions in PDF documents |
+    <a href=https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/ target="_blank">
+        Microsoft denies rewriting Windows 11 in Rust using AI |
     </a>
-    By: rendx
+    By: zdw
 </li>
 
 <li>
-    <a href=https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router target="_blank">
-        Unifi Travel Router |
+    <a href=https://labs.acme.byu.edu/Pages/intro.html target="_blank">
+        Python Applied Mathematics Labs |
     </a>
-    By: flurdy
-</li>
-
-<li>
-    <a href=https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/ target="_blank">
-        Texas app store age verification law blocked by federal judge |
-    </a>
-    By: danso
-</li>
-
-<li>
-    <a href=https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media target="_blank">
-        Some Epstein file redactions are being undone with hacks |
-    </a>
-    By: vinni2
+    By: vvin
 </li>
 
 <p>
-Text: Related: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;vmfunc&#x2F;status&#x2F;2003292986650853825" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;vmfunc&#x2F;status&#x2F;2003292986650853825</a><p><a href="https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;law&#x2F;comments&#x2F;1ptlms6&#x2F;some_epstein_files_can_be_unredacted&#x2F;" rel="nofollow">https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;law&#x2F;comments&#x2F;1ptlms6&#x2F;some_epstein_f...</a><p><a href="https:&#x2F;&#x2F;krassencast.com&#x2F;p&#x2F;breaking-we-just-unredacted-the-epstein" rel="nofollow">https:&#x2F;&#x2F;krassencast.com&#x2F;p&#x2F;breaking-we-just-unredacted-the-ep...</a> </br>
+Text: Different cultures celebrate Christmas at different days and time zones are a thing. But it&#x27;s Christmas here, so:<p>Merry Christmas to everyone. I hope you get some rest and can spend time with people who are dear to you and get to focus on what&#x27;s important rather than getting lost in stressing about everything having to be perfect.<p>Also much love to everyone who cannot spend their Christmas with dear people.<p>To make sure this post meets the relevancy criteria, here is a Wikipedia article about some Christmas (more precisely advent) tradition which I personally really like: <a href="https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christmas_market" rel="nofollow">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christmas_market</a> </br>
+</p>
+
+<li>
+    <a href=https://www.youtube.com/watch?v=oYU2hAbx_Fc target="_blank">
+        Who Watches the Waymos? I do [video] |
+    </a>
+    By: notgloating
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;fulligin&#x2F;status&#x2F;2003925653113184498" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;fulligin&#x2F;status&#x2F;2003925653113184498</a><p><a href="https:&#x2F;&#x2F;xcancel.com&#x2F;fulligin&#x2F;status&#x2F;2003925653113184498" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;fulligin&#x2F;status&#x2F;2003925653113184498</a> </br>
 </p>
 </ol>
