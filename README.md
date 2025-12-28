@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 27 Dec 2025</h4>
+<h4>Check the latest news from: Sun 28 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html target="_blank">
-        How uv got so fast |
+    <a href=https://neatnik.net/calendar/?year=2026 target="_blank">
+        Calendar |
     </a>
-    By: zdw
+    By: twapi
 </li>
 
 <li>
-    <a href=https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/ target="_blank">
-        QNX Self-Hosted Developer Desktop |
+    <a href=https://www.htmhell.dev/adventcalendar/2025/27/ target="_blank">
+        Replacing JavaScript with Just HTML |
     </a>
-    By: transpute
+    By: soheilpro
 </li>
 
 <li>
-    <a href=https://graydon2.dreamwidth.org/193447.html target="_blank">
-        Always Bet on Text |
+    <a href=https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/ target="_blank">
+        Fathers’ choices may be packaged and passed down in sperm RNA |
     </a>
-    By: jesseduffield
+    By: vismit2000
 </li>
 
 <li>
-    <a href=https://type-ruby.github.io/ target="_blank">
-        T-Ruby is Ruby with syntax for types |
+    <a href=https://ploum.net/2025-12-15-communication-entertainment.html target="_blank">
+        How we lost communication to entertainment |
     </a>
-    By: thunderbong
+    By: 8organicbits
 </li>
 
 <li>
-    <a href=https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations target="_blank">
-        Experts explore new mushroom which causes fairytale-like hallucinations |
+    <a href=https://floor796.com/ target="_blank">
+        Floor796 |
     </a>
-    By: astronads
+    By: krtkush
 </li>
 </ol>
