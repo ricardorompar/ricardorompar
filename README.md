@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 28 Dec 2025</h4>
+<h4>Check the latest news from: Mon 29 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://neatnik.net/calendar/?year=2026 target="_blank">
-        Calendar |
+    <a href=https://maurycyz.com/misc/raw_photo/ target="_blank">
+        What an unprocessed photo looks like |
     </a>
-    By: twapi
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.htmhell.dev/adventcalendar/2025/27/ target="_blank">
-        Replacing JavaScript with Just HTML |
+    <a href=https://maurycyz.com/misc/make-up-tags/ target="_blank">
+        You can make up HTML tags |
     </a>
-    By: soheilpro
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/ target="_blank">
-        Fathers’ choices may be packaged and passed down in sperm RNA |
+    <a href=https://marekfiser.com/blog/mono-vs-dot-net-in-unity/ target="_blank">
+        Unity's Mono problem: Why your C# code runs slower than it should |
     </a>
-    By: vismit2000
+    By: iliketrains
 </li>
 
 <li>
-    <a href=https://ploum.net/2025-12-15-communication-entertainment.html target="_blank">
-        How we lost communication to entertainment |
+    <a href=https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply target="_blank">
+        MongoBleed Explained Simply |
     </a>
-    By: 8organicbits
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://floor796.com/ target="_blank">
-        Floor796 |
+    <a href=https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram target="_blank">
+        As AI gobbles up chips, prices for devices may rise |
     </a>
-    By: krtkush
+    By: geox
 </li>
 </ol>
