@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 29 Dec 2025</h4>
+<h4>Check the latest news from: Tue 30 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://maurycyz.com/misc/raw_photo/ target="_blank">
-        What an unprocessed photo looks like |
+    <a href=https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/ target="_blank">
+        Google is dead. Where do we go now? |
     </a>
-    By: zdw
+    By: tomjuggler
 </li>
 
 <li>
-    <a href=https://maurycyz.com/misc/make-up-tags/ target="_blank">
-        You can make up HTML tags |
+    <a href=https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/ target="_blank">
+        GOG is getting acquired by its original co-founder |
     </a>
-    By: todsacerdoti
+    By: haunter
 </li>
 
 <li>
-    <a href=https://marekfiser.com/blog/mono-vs-dot-net-in-unity/ target="_blank">
-        Unity's Mono problem: Why your C# code runs slower than it should |
+    <a href=https://media.ccc.de/v/39c3-hacking-washing-machines target="_blank">
+        Hacking Washing Machines [video] |
     </a>
-    By: iliketrains
+    By: clausecker
 </li>
 
 <li>
-    <a href=https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply target="_blank">
-        MongoBleed Explained Simply |
+    <a href=https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation target="_blank">
+        ManusAI Joins Meta |
     </a>
-    By: todsacerdoti
+    By: gniting
 </li>
 
 <li>
-    <a href=https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram target="_blank">
-        As AI gobbles up chips, prices for devices may rise |
+    <a href=https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/ target="_blank">
+        Tesla's 4680 battery supply chain collapses as partner writes down deal by 99% |
     </a>
-    By: geox
+    By: coloneltcb
 </li>
 </ol>
