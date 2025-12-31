@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 30 Dec 2025</h4>
+<h4>Check the latest news from: Wed 31 Dec 2025</h4>
 <ol>
 <li>
-    <a href=https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/ target="_blank">
-        Google is dead. Where do we go now? |
+    <a href=https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159 target="_blank">
+        We don't need more contributors who aren't programmers to contribute code |
     </a>
-    By: tomjuggler
+    By: pertymcpert
 </li>
 
 <li>
-    <a href=https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/ target="_blank">
-        GOG is getting acquired by its original co-founder |
+    <a href=https://opal.google/landing/ target="_blank">
+        Google Opal |
     </a>
-    By: haunter
+    By: gmays
 </li>
 
 <li>
-    <a href=https://media.ccc.de/v/39c3-hacking-washing-machines target="_blank">
-        Hacking Washing Machines [video] |
+    <a href=https://animatedai.github.io/ target="_blank">
+        Animated AI |
     </a>
-    By: clausecker
+    By: frozenseven
 </li>
 
 <li>
-    <a href=https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation target="_blank">
-        ManusAI Joins Meta |
+    <a href=https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html target="_blank">
+        A faster heart for F-Droid |
     </a>
-    By: gniting
+    By: kasabali
 </li>
 
 <li>
-    <a href=https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/ target="_blank">
-        Tesla's 4680 battery supply chain collapses as partner writes down deal by 99% |
+    <a href=https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/ target="_blank">
+        FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service |
     </a>
-    By: coloneltcb
+    By: birdculture
 </li>
 </ol>
