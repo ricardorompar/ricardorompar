@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 31 Dec 2025</h4>
+<h4>Check the latest news from: Thu 01 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159 target="_blank">
-        We don't need more contributors who aren't programmers to contribute code |
+    <a href=https://simonwillison.net/2025/Dec/31/the-year-in-llms/ target="_blank">
+        2025: The Year in LLMs |
     </a>
-    By: pertymcpert
+    By: simonw
 </li>
 
 <li>
-    <a href=https://opal.google/landing/ target="_blank">
-        Google Opal |
+    <a href=https://austinhenley.com/blog/canceledbookdeal.html target="_blank">
+        I canceled my book deal |
     </a>
-    By: gmays
+    By: azhenley
 </li>
 
 <li>
-    <a href=https://animatedai.github.io/ target="_blank">
-        Animated AI |
+    <a href=https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases target="_blank">
+        Scientists unlock brain's natural clean-up system for new treatments for stroke |
     </a>
-    By: frozenseven
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html target="_blank">
-        A faster heart for F-Droid |
+    <a href=https://flow5.tech/docs/releasenotes.html target="_blank">
+        Flow5 Released to Open Source |
     </a>
-    By: kasabali
+    By: picture
 </li>
 
 <li>
-    <a href=https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/ target="_blank">
-        FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service |
+    <a href=https://bustermq.sh/ target="_blank">
+        Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring |
     </a>
-    By: birdculture
+    By: jbaptiste
 </li>
 </ol>
