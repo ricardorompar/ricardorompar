@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 01 Jan 2026</h4>
+<h4>Check the latest news from: Fri 02 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2025/Dec/31/the-year-in-llms/ target="_blank">
-        2025: The Year in LLMs |
+    <a href=https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/ target="_blank">
+        Happy Public Domain Day 2026 |
     </a>
-    By: simonw
+    By: apetresc
 </li>
 
 <li>
-    <a href=https://austinhenley.com/blog/canceledbookdeal.html target="_blank">
-        I canceled my book deal |
+    <a href=https://github.com/ghostty-org/ghostty/issues/3558 target="_blank">
+        Why users cannot create Issues directly |
     </a>
-    By: azhenley
+    By: xpe
 </li>
 
 <li>
-    <a href=https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases target="_blank">
-        Scientists unlock brain's natural clean-up system for new treatments for stroke |
+    <a href=https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/ target="_blank">
+        James Moylan, engineer behind arrow signaling which side to refuel a car, dies |
     </a>
-    By: PaulHoule
+    By: NaOH
 </li>
 
 <li>
-    <a href=https://flow5.tech/docs/releasenotes.html target="_blank">
-        Flow5 Released to Open Source |
+    <a href=https://henry.codes/writing/a-website-to-destroy-all-websites/ target="_blank">
+        A website to destroy all websites |
     </a>
-    By: picture
+    By: g0xA52A2A
 </li>
 
 <li>
-    <a href=https://bustermq.sh/ target="_blank">
-        Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring |
+    <a href=https://github.com/maxpert/marmot target="_blank">
+        Marmot – A distributed SQLite server with MySQL wire compatible interface |
     </a>
-    By: jbaptiste
+    By: zX41ZdbW
 </li>
 </ol>
