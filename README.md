@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 02 Jan 2026</h4>
+<h4>Check the latest news from: Sat 03 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/ target="_blank">
-        Happy Public Domain Day 2026 |
+    <a href=https://indieweb.org/POSSE# target="_blank">
+        Publish on your own site, syndicate elsewhere |
     </a>
-    By: apetresc
+    By: 47thpresident
 </li>
 
 <li>
-    <a href=https://github.com/ghostty-org/ghostty/issues/3558 target="_blank">
-        Why users cannot create Issues directly |
+    <a href=https://www.madebywindmill.com/tempi/blog/hbfs-bpm/ target="_blank">
+        Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger? |
     </a>
-    By: xpe
+    By: simonw
 </li>
 
 <li>
-    <a href=https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/ target="_blank">
-        James Moylan, engineer behind arrow signaling which side to refuel a car, dies |
+    <a href=https://nullprogram.com/blog/2015/03/19/ target="_blank">
+        A Basic Just-In-Time Compiler (2015) |
     </a>
-    By: NaOH
+    By: ibobev
 </li>
 
 <li>
-    <a href=https://henry.codes/writing/a-website-to-destroy-all-websites/ target="_blank">
-        A website to destroy all websites |
+    <a href=https://xeiaso.net/notes/2026/year-linux-desktop/ target="_blank">
+        2026 will be my year of the Linux desktop |
     </a>
-    By: g0xA52A2A
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://github.com/maxpert/marmot target="_blank">
-        Marmot – A distributed SQLite server with MySQL wire compatible interface |
+    <a href=https://lotteryeverysecond.lffl.me/ target="_blank">
+        Show HN: Website that plays the lottery every second |
     </a>
-    By: zX41ZdbW
+    By: Loeffelmann
 </li>
 </ol>
