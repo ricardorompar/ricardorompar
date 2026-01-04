@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 03 Jan 2026</h4>
+<h4>Check the latest news from: Sun 04 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://indieweb.org/POSSE# target="_blank">
-        Publish on your own site, syndicate elsewhere |
+    <a href=https://data.stackexchange.com/stackoverflow/query/1926661#graph target="_blank">
+        Total monthly number of StackOverflow questions over time |
     </a>
-    By: 47thpresident
+    By: maartin0
 </li>
 
 <li>
-    <a href=https://www.madebywindmill.com/tempi/blog/hbfs-bpm/ target="_blank">
-        Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger? |
+    <a href=https://nik.art/the-suck-is-why-were-here/ target="_blank">
+        The suck is why we're here |
     </a>
-    By: simonw
+    By: herbertl
 </li>
 
 <li>
-    <a href=https://nullprogram.com/blog/2015/03/19/ target="_blank">
-        A Basic Just-In-Time Compiler (2015) |
+    <a href=https://github.com/obround/mytorch target="_blank">
+        MyTorch – Minimalist autograd in 450 lines of Python |
     </a>
-    By: ibobev
+    By: iguana2000
 </li>
 
 <li>
-    <a href=https://xeiaso.net/notes/2026/year-linux-desktop/ target="_blank">
-        2026 will be my year of the Linux desktop |
+    <a href=https://refactoringenglish.com/blog/2025-hn-top-5/ target="_blank">
+        The Most Popular Blogs of Hacker News in 2025 |
     </a>
-    By: todsacerdoti
+    By: mtlynch
 </li>
 
 <li>
-    <a href=https://lotteryeverysecond.lffl.me/ target="_blank">
-        Show HN: Website that plays the lottery every second |
+    <a href=https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain target="_blank">
+        How Thomas Mann Wrote the Magic Mountain |
     </a>
-    By: Loeffelmann
+    By: Caiero
 </li>
 </ol>
