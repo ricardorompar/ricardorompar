@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 04 Jan 2026</h4>
+<h4>Check the latest news from: Mon 05 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://data.stackexchange.com/stackoverflow/query/1926661#graph target="_blank">
-        Total monthly number of StackOverflow questions over time |
+    <a href=https://github.com/huseyinbabal/taws target="_blank">
+        Show HN: Terminal UI for AWS |
     </a>
-    By: maartin0
+    By: huseyinbabal
 </li>
 
 <li>
-    <a href=https://nik.art/the-suck-is-why-were-here/ target="_blank">
-        The suck is why we're here |
+    <a href=https://addyosmani.com/blog/21-lessons/ target="_blank">
+        Lessons from 14 years at Google |
     </a>
-    By: herbertl
+    By: cdrnsf
 </li>
 
 <li>
-    <a href=https://github.com/obround/mytorch target="_blank">
-        MyTorch – Minimalist autograd in 450 lines of Python |
+    <a href=https://sparkbox.com/foundry/helene_and_mobile_web_performance target="_blank">
+        During Helene, I just wanted a plain text website |
     </a>
-    By: iguana2000
+    By: CqtGLRGcukpy
 </li>
 
 <li>
-    <a href=https://refactoringenglish.com/blog/2025-hn-top-5/ target="_blank">
-        The Most Popular Blogs of Hacker News in 2025 |
+    <a href=https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple target="_blank">
+        Why does a least squares fit appear to have a bias when applied to simple data? |
     </a>
-    By: mtlynch
+    By: azeemba
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain target="_blank">
-        How Thomas Mann Wrote the Magic Mountain |
+    <a href=https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/ target="_blank">
+        The unbearable joy of sitting alone in a café |
     </a>
-    By: Caiero
+    By: mooreds
 </li>
 </ol>
