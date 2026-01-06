@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 05 Jan 2026</h4>
+<h4>Check the latest news from: Tue 06 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/huseyinbabal/taws target="_blank">
-        Show HN: Terminal UI for AWS |
+    <a href=https://loworbitsecurity.com/radar/radar16/ target="_blank">
+        There were BGP anomalies during the Venezuela blackout |
     </a>
-    By: huseyinbabal
+    By: illithid0
 </li>
 
 <li>
-    <a href=https://addyosmani.com/blog/21-lessons/ target="_blank">
-        Lessons from 14 years at Google |
+    <a href=https://zakhary.dev/blog/gbc-web-button target="_blank">
+        GBC Boot Animation 88×31 Web Button |
     </a>
-    By: cdrnsf
+    By: zakhary
 </li>
 
 <li>
-    <a href=https://sparkbox.com/foundry/helene_and_mobile_web_performance target="_blank">
-        During Helene, I just wanted a plain text website |
+    <a href=https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/ target="_blank">
+        Try to take my position: The best promotion advice I ever got |
     </a>
-    By: CqtGLRGcukpy
+    By: yuppiepuppie
 </li>
 
 <li>
-    <a href=https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple target="_blank">
-        Why does a least squares fit appear to have a bias when applied to simple data? |
+    <a href=https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html target="_blank">
+        I/O is no longer the bottleneck? (2022) |
     </a>
-    By: azeemba
+    By: benhoyt
 </li>
 
 <li>
-    <a href=https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/ target="_blank">
-        The unbearable joy of sitting alone in a café |
+    <a href=https://www.koreaherald.com/article/10648326 target="_blank">
+        Six-decade math puzzle solved by Korean mathematician |
     </a>
-    By: mooreds
+    By: mikhael
 </li>
 </ol>
