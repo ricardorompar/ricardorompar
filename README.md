@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 08 Jan 2026</h4>
+<h4>Check the latest news from: Fri 09 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card target="_blank">
-        Chase to become new issuer of Apple Card |
+    <a href=https://github.com/anomalyco/opencode/issues/7410 target="_blank">
+        Anthropic blocks third-party use of Claude Code subscriptions |
     </a>
-    By: vismit2000
+    By: sergiotapia
 </li>
 
 <li>
-    <a href=https://pebblebed.com/blog/kernel-bugs target="_blank">
-        Kernel bugs hide for 2 years on average. Some hide for 20 |
+    <a href=https://kueda.net/blog/2026/01/06/why-i-left-inat/ target="_blank">
+        Why I Left iNaturalist |
     </a>
-    By: kmavm
+    By: erutuon
 </li>
 
 <li>
-    <a href=https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus target="_blank">
-        Sugar industry influenced researchers and blamed fat for CVD (2016) |
+    <a href=https://www.mihaileric.com/The-Emperor-Has-No-Clothes/ target="_blank">
+        How to Code Claude Code in 200 Lines of Code |
     </a>
-    By: aldarion
+    By: nutellalover
 </li>
 
 <li>
-    <a href=https://tailscale.com/changelog target="_blank">
-        Tailscale state file encryption no longer enabled by default |
+    <a href=https://github.com/embassy-rs/embassy target="_blank">
+        Embassy: Modern embedded framework, using Rust and async |
     </a>
-    By: traceroute66
+    By: birdculture
 </li>
 
 <li>
-    <a href=https://realfood.gov target="_blank">
-        Eat Real Food |
+    <a href=https://github.com/samuel-vitorino/sopro target="_blank">
+        Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU |
     </a>
-    By: atestu
+    By: sammyyyyyyy
 </li>
 </ol>
