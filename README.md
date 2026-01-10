@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 09 Jan 2026</h4>
+<h4>Check the latest news from: Sat 10 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/anomalyco/opencode/issues/7410 target="_blank">
-        Anthropic blocks third-party use of Claude Code subscriptions |
+    <a href=https://rushter.com/blog/zsh-shell/ target="_blank">
+        You probably don't need Oh My Zsh |
     </a>
-    By: sergiotapia
+    By: fla
 </li>
 
 <li>
-    <a href=https://kueda.net/blog/2026/01/06/why-i-left-inat/ target="_blank">
-        Why I Left iNaturalist |
+    <a href=https://mathstodon.xyz/@tao/115855840223258103 target="_blank">
+        “Erdos problem #728 was solved more or less autonomously by AI” |
     </a>
-    By: erutuon
+    By: cod1r
 </li>
 
 <li>
-    <a href=https://www.mihaileric.com/The-Emperor-Has-No-Clothes/ target="_blank">
-        How to Code Claude Code in 200 Lines of Code |
+    <a href=https://nuxx.net/blog/2026/01/09/oled-not-for-me/ target="_blank">
+        OLED, Not for Me |
     </a>
-    By: nutellalover
+    By: c0nsumer
 </li>
 
 <li>
-    <a href=https://github.com/embassy-rs/embassy target="_blank">
-        Embassy: Modern embedded framework, using Rust and async |
+    <a href=https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure target="_blank">
+        Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times |
     </a>
-    By: birdculture
+    By: fuck_flock
 </li>
 
 <li>
-    <a href=https://github.com/samuel-vitorino/sopro target="_blank">
-        Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU |
+    <a href=https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/ target="_blank">
+        Maine's black market for baby eels |
     </a>
-    By: sammyyyyyyy
+    By: noleary
 </li>
 </ol>
