@@ -45,51 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 11 Jan 2026</h4>
+<h4>Check the latest news from: Mon 12 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://alienchow.dev/post/fibre_disintegration/ target="_blank">
-        My Home Fibre Network Disintegrated |
+    <a href=https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/ target="_blank">
+        The struggle of resizing windows on macOS Tahoe |
     </a>
-    By: alienchow
+    By: happosai
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/c623r47d67lo target="_blank">
-        'The answer cannot be nothing': The battle over Canada's mystery brain disease |
+    <a href=https://rubenerd.com/xfce-is-great/ target="_blank">
+        XFCE Is Great |
     </a>
-    By: lewww
+    By: mikece
 </li>
 
 <li>
-    <a href=https://github.com/OlaProeis/Ferrite target="_blank">
-        Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering |
+    <a href=https://fulghum.io/self-hosting target="_blank">
+        CLI agents make self-hosting on a home server easier and fun |
     </a>
-    By: OlaProis
-</li>
-
-<p>
-Text: Ferrite: Fast Markdown&#x2F;Text&#x2F;Code editor in Rust with native Mermaid diagrams<p>Built a Markdown editor using Rust + egui. v0.2.1 just dropped with major Mermaid improvements:<p>→ Native Mermaid diagrams - Flowcharts, sequence, state, ER, git graphs - pure Rust, no JS<p>→ Split view - Raw + rendered side-by-side with sync scrolling<p>→ Syntax highlighting - 40+ languages with large file optimization<p>→ JSON&#x2F;YAML&#x2F;TOML tree viewer - Structured editing with expand&#x2F;collapse<p>→ Git integration - File tree shows modified&#x2F;staged&#x2F;untracked status<p>Also: minimap, zen mode, auto-save, session restore, code folding indicators.<p>~15MB binary, instant startup. Windows&#x2F;Linux&#x2F;macOS.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;OlaProeis&#x2F;Ferrite" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;OlaProeis&#x2F;Ferrite</a><p>v0.2.2 coming soon with performance improvements for large files. Looking for feedback! </br>
-</p>
-
-<li>
-    <a href=https://mitchellh.com/writing/ghostty-memory-leak-fix target="_blank">
-        Finding and fixing Ghostty's largest memory leak |
-    </a>
-    By: thorel
+    By: websku
 </li>
 
 <li>
-    <a href=https://trails.pieterma.es/ target="_blank">
-        Show HN: I used Claude Code to discover connections between 100 books |
+    <a href=https://iczelia.net/posts/snake-polyglot/ target="_blank">
+        This game is a single 13 KiB file that runs on Windows, Linux and in the Browser |
     </a>
-    By: pmaze
+    By: snoofydude
 </li>
 
-<p>
-Text: I think LLMs are overused to summarise and underused to help us read deeper.<p>I built a system for Claude Code to browse 100 non-fiction books and find interesting connections between them.<p>I started out with a pipeline in stages, chaining together LLM calls to build up a context of the library. 
-I was mainly getting back the insight that I was baking into the prompts, and the results weren&#x27;t particularly surprising.<p>On a whim, I gave CC access to my debug CLI tools and found that it wiped the floor with that approach. 
-It gave actually interesting results and required very little orchestration in comparison.<p>One of my favourite trail of excerpts goes from Jobs’ reality distortion field to Theranos’ fake demos, to Thiel on startup cults, to Hoffer on mass movement charlatans (<a href="https:&#x2F;&#x2F;trails.pieterma.es&#x2F;trail&#x2F;useful-lies&#x2F;" rel="nofollow">https:&#x2F;&#x2F;trails.pieterma.es&#x2F;trail&#x2F;useful-lies&#x2F;</a>).
-A fun tendency is that Claude kept getting distracted by topics of secrecy, conspiracy, and hidden systems - as if the task itself summoned a Foucault’s Pendulum mindset.<p>Details:<p>* The books are picked from HN’s favourites (which I collected before: <a href="https:&#x2F;&#x2F;hnbooks.pieterma.es&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hnbooks.pieterma.es&#x2F;</a>).<p>* Chunks are indexed by topic using Gemini Flash Lite. The whole library cost about £10.<p>* Topics are organised into a tree structure using recursive Leiden partitioning and LLM labels. This gives a high-level sense of the themes.<p>* There are several ways to browse. The most useful are embedding similarity, topic tree siblings, and topics cooccurring within a chunk window.<p>* Everything is stored in SQLite and manipulated using a set of CLI tools.<p>I wrote more about the process here: <a href="https:&#x2F;&#x2F;pieterma.es&#x2F;syntopic-reading-claude&#x2F;" rel="nofollow">https:&#x2F;&#x2F;pieterma.es&#x2F;syntopic-reading-claude&#x2F;</a><p>I’m curious if this way of reading resonates for anyone else - LLM-mediated or not. </br>
-</p>
+<li>
+    <a href=https://github.com/icloud-photos-downloader/icloud_photos_downloader target="_blank">
+        iCloud Photos Downloader |
+    </a>
+    By: reconnecting
+</li>
 </ol>
