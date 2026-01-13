@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 12 Jan 2026</h4>
+<h4>Check the latest news from: Tue 13 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/ target="_blank">
-        The struggle of resizing windows on macOS Tahoe |
+    <a href=https://claude.com/blog/cowork-research-preview target="_blank">
+        Cowork: Claude Code for the rest of your work |
     </a>
-    By: happosai
+    By: adocomplete
 </li>
 
 <li>
-    <a href=https://rubenerd.com/xfce-is-great/ target="_blank">
-        XFCE Is Great |
+    <a href=https://github.com/haykgrigo3/TimeCapsuleLLM target="_blank">
+        TimeCapsuleLLM: LLM trained only on data from 1800-1875 |
     </a>
-    By: mikece
+    By: admp
 </li>
 
 <li>
-    <a href=https://fulghum.io/self-hosting target="_blank">
-        CLI agents make self-hosting on a home server easier and fun |
+    <a href=https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf target="_blank">
+        The Cray-1 Computer System (1977) [pdf] |
     </a>
-    By: websku
+    By: LordGrey
 </li>
 
 <li>
-    <a href=https://iczelia.net/posts/snake-polyglot/ target="_blank">
-        This game is a single 13 KiB file that runs on Windows, Linux and in the Browser |
+    <a href=https://walzr.com/postal-arbitrage target="_blank">
+        Postal Arbitrage |
     </a>
-    By: snoofydude
+    By: The28thDuck
 </li>
 
 <li>
-    <a href=https://github.com/icloud-photos-downloader/icloud_photos_downloader target="_blank">
-        iCloud Photos Downloader |
+    <a href=https://www.youtube.com/watch?v=c0mLhHDcY3I target="_blank">
+        The chess bot on Delta Air Lines will destroy you (2024) [video] |
     </a>
-    By: reconnecting
+    By: cjaackie
 </li>
 </ol>
