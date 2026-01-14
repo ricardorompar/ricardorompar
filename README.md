@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 13 Jan 2026</h4>
+<h4>Check the latest news from: Wed 14 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://claude.com/blog/cowork-research-preview target="_blank">
-        Cowork: Claude Code for the rest of your work |
+    <a href=https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html target="_blank">
+        There's a ridiculous amount of tech in a disposable vape |
     </a>
-    By: adocomplete
+    By: abnercoimbre
 </li>
 
 <li>
-    <a href=https://github.com/haykgrigo3/TimeCapsuleLLM target="_blank">
-        TimeCapsuleLLM: LLM trained only on data from 1800-1875 |
+    <a href=https://caidan.dev/portfolio/ascii_clouds/ target="_blank">
+        ASCII Clouds |
     </a>
-    By: admp
+    By: majkinetor
 </li>
 
 <li>
-    <a href=https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf target="_blank">
-        The Cray-1 Computer System (1977) [pdf] |
+    <a href=https://questdb.com/blog/jvm-current-thread-user-time/ target="_blank">
+        A 40-line fix eliminated a 400x performance gap |
     </a>
-    By: LordGrey
+    By: bluestreak
 </li>
 
 <li>
-    <a href=https://walzr.com/postal-arbitrage target="_blank">
-        Postal Arbitrage |
+    <a href=https://www.greptile.com/blog/github-ids target="_blank">
+        Every GitHub object has two IDs |
     </a>
-    By: The28thDuck
+    By: dakshgupta
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=c0mLhHDcY3I target="_blank">
-        The chess bot on Delta Air Lines will destroy you (2024) [video] |
+    <a href=https://en.wikipedia.org/wiki/1000_Blank_White_Cards target="_blank">
+        1000 Blank White Cards |
     </a>
-    By: cjaackie
+    By: eieio
 </li>
 </ol>
