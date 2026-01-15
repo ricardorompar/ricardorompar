@@ -45,40 +45,37 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 14 Jan 2026</h4>
+<h4>Check the latest news from: Thu 15 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html target="_blank">
-        There's a ridiculous amount of tech in a disposable vape |
+    <a href=https://creepylink.com/ target="_blank">
+        The URL shortener that makes your links look as suspicious as possible |
     </a>
-    By: abnercoimbre
+    By: dreadsword
 </li>
 
 <li>
-    <a href=https://caidan.dev/portfolio/ascii_clouds/ target="_blank">
-        ASCII Clouds |
+    <a href=https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files target="_blank">
+        Claude Cowork exfiltrates files |
     </a>
-    By: majkinetor
+    By: takira
 </li>
 
 <li>
-    <a href=https://questdb.com/blog/jvm-current-thread-user-time/ target="_blank">
-        A 40-line fix eliminated a 400x performance gap |
+    <a href=https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale target="_blank">
+        Furiosa: 3.5x efficiency over H100s |
     </a>
-    By: bluestreak
+    By: written-beyond
 </li>
 
-<li>
-    <a href=https://www.greptile.com/blog/github-ids target="_blank">
-        Every GitHub object has two IDs |
-    </a>
-    By: dakshgupta
-</li>
+<p>
+Text: With research done till date, what according to you is the best way to provide context to a model. Are there any articles that go into depth of how Cursor  does it?<p>How do context collation companies work? </br>
+</p>
 
 <li>
-    <a href=https://en.wikipedia.org/wiki/1000_Blank_White_Cards target="_blank">
-        1000 Blank White Cards |
+    <a href=https://cursor.com/blog/scaling-agents target="_blank">
+        Scaling long-running autonomous coding |
     </a>
-    By: eieio
+    By: samwillis
 </li>
 </ol>
