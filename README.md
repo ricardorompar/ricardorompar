@@ -45,37 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 15 Jan 2026</h4>
+<h4>Check the latest news from: Fri 16 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://creepylink.com/ target="_blank">
-        The URL shortener that makes your links look as suspicious as possible |
+    <a href=https://www.undeadly.org/cgi?action=article;sid=20260115203619 target="_blank">
+        OpenBSD-current now runs as guest under Apple Hypervisor |
     </a>
-    By: dreadsword
+    By: gpi
 </li>
 
 <li>
-    <a href=https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files target="_blank">
-        Claude Cowork exfiltrates files |
+    <a href=https://www.bbc.com/news/articles/cly56w0p9e1o target="_blank">
+        Boeing knew of flaw in part linked to UPS plane crash |
     </a>
-    By: takira
+    By: 1659447091
 </li>
 
 <li>
-    <a href=https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale target="_blank">
-        Furiosa: 3.5x efficiency over H100s |
+    <a href=https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc target="_blank">
+        Apple is fighting for TSMC capacity as Nvidia takes center stage |
     </a>
-    By: written-beyond
+    By: speckx
+</li>
+
+<li>
+    <a href=https://kyutai.org/blog/2026-01-13-pocket-tts target="_blank">
+        Pocket TTS: A high quality TTS that gives your CPU a voice |
+    </a>
+    By: pain_perdu
+</li>
+
+<li>
+    <a href=https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting target="_blank">
+        Inside The Internet Archive's Infrastructure |
+    </a>
+    By: dvrp
 </li>
 
 <p>
-Text: With research done till date, what according to you is the best way to provide context to a model. Are there any articles that go into depth of how Cursor  does it?<p>How do context collation companies work? </br>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;internetarchive&#x2F;heritrix3" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;internetarchive&#x2F;heritrix3</a> </br>
 </p>
-
-<li>
-    <a href=https://cursor.com/blog/scaling-agents target="_blank">
-        Scaling long-running autonomous coding |
-    </a>
-    By: samwillis
-</li>
 </ol>
