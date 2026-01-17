@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 16 Jan 2026</h4>
+<h4>Check the latest news from: Sat 17 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://www.undeadly.org/cgi?action=article;sid=20260115203619 target="_blank">
-        OpenBSD-current now runs as guest under Apple Hypervisor |
+    <a href=https://en.wikipedia.org/wiki/East_Germany_balloon_escape target="_blank">
+        East Germany balloon escape |
     </a>
-    By: gpi
+    By: robertvc
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cly56w0p9e1o target="_blank">
-        Boeing knew of flaw in part linked to UPS plane crash |
+    <a href=https://astro.build/blog/joining-cloudflare/ target="_blank">
+        Cloudflare acquires Astro |
     </a>
-    By: 1659447091
-</li>
-
-<li>
-    <a href=https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc target="_blank">
-        Apple is fighting for TSMC capacity as Nvidia takes center stage |
-    </a>
-    By: speckx
-</li>
-
-<li>
-    <a href=https://kyutai.org/blog/2026-01-13-pocket-tts target="_blank">
-        Pocket TTS: A high quality TTS that gives your CPU a voice |
-    </a>
-    By: pain_perdu
-</li>
-
-<li>
-    <a href=https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting target="_blank">
-        Inside The Internet Archive's Infrastructure |
-    </a>
-    By: dvrp
+    By: todotask2
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;internetarchive&#x2F;heritrix3" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;internetarchive&#x2F;heritrix3</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.cloudflare.com&#x2F;pl-pl&#x2F;press&#x2F;press-releases&#x2F;2026&#x2F;cloudflare-acquires-astro-to-accelerate-the-future-of-high-performance-web-development&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.cloudflare.com&#x2F;pl-pl&#x2F;press&#x2F;press-releases&#x2F;2026&#x2F;c...</a> </br>
 </p>
+
+<li>
+    <a href=https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence target="_blank">
+        FLUX.2 [Klein]: Towards Interactive Visual Intelligence |
+    </a>
+    By: GaggiX
+</li>
+
+<li>
+    <a href=https://bvisness.me/high-level/ target="_blank">
+        High-Level Is the Goal |
+    </a>
+    By: tobr
+</li>
+
+<li>
+    <a href=https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability target="_blank">
+        6-Day and IP Address Certificates Are Generally Available |
+    </a>
+    By: jaas
+</li>
 </ol>
