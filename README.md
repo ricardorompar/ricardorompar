@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 17 Jan 2026</h4>
+<h4>Check the latest news from: Sun 18 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://en.wikipedia.org/wiki/East_Germany_balloon_escape target="_blank">
-        East Germany balloon escape |
+    <a href=https://twitter.com/neelsomani/status/2012695714187325745 target="_blank">
+        Erdos 281 solved with ChatGPT 5.2 Pro |
     </a>
-    By: robertvc
+    By: nl
 </li>
 
 <li>
-    <a href=https://astro.build/blog/joining-cloudflare/ target="_blank">
-        Cloudflare acquires Astro |
+    <a href=https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon target="_blank">
+        Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab |
     </a>
-    By: todotask2
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.cloudflare.com&#x2F;pl-pl&#x2F;press&#x2F;press-releases&#x2F;2026&#x2F;cloudflare-acquires-astro-to-accelerate-the-future-of-high-performance-web-development&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.cloudflare.com&#x2F;pl-pl&#x2F;press&#x2F;press-releases&#x2F;2026&#x2F;c...</a> </br>
-</p>
-
-<li>
-    <a href=https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence target="_blank">
-        FLUX.2 [Klein]: Towards Interactive Visual Intelligence |
-    </a>
-    By: GaggiX
+    By: firloop
 </li>
 
 <li>
-    <a href=https://bvisness.me/high-level/ target="_blank">
-        High-Level Is the Goal |
+    <a href=https://www.anthropic.com/news/accelerating-scientific-research target="_blank">
+        How scientists are using Claude to accelerate research and discovery |
     </a>
-    By: tobr
+    By: gmays
 </li>
 
 <li>
-    <a href=https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability target="_blank">
-        6-Day and IP Address Certificates Are Generally Available |
+    <a href=https://www.abelard.org/asimov.php target="_blank">
+        Profession by Isaac Asimov |
     </a>
-    By: jaas
+    By: bkudria
+</li>
+
+<li>
+    <a href=https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives target="_blank">
+        No knives, only cook knives |
+    </a>
+    By: firloop
 </li>
 </ol>
