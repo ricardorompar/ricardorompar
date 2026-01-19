@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 18 Jan 2026</h4>
+<h4>Check the latest news from: Mon 19 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://twitter.com/neelsomani/status/2012695714187325745 target="_blank">
-        Erdos 281 solved with ChatGPT 5.2 Pro |
+    <a href=https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting target="_blank">
+        Gaussian Splatting – A$AP Rocky "Helicopter" music video |
     </a>
-    By: nl
+    By: ChrisArchitect
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g1-46Nu3HxQ" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g1-46Nu3HxQ</a> </br>
+</p>
+
+<li>
+    <a href=https://banay.me/dont-waste-your-backpressure/ target="_blank">
+        Provide agents with automated feedback |
+    </a>
+    By: ghuntley
 </li>
 
 <li>
-    <a href=https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon target="_blank">
-        Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab |
+    <a href=https://github.com/antirez/flux2.c target="_blank">
+        Flux 2 Klein pure C inference |
     </a>
-    By: firloop
+    By: antirez
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/accelerating-scientific-research target="_blank">
-        How scientists are using Claude to accelerate research and discovery |
+    <a href=https://rijnard.com/blog/the-code-only-agent target="_blank">
+        The Code-Only Agent |
     </a>
-    By: gmays
+    By: emersonmacro
 </li>
 
 <li>
-    <a href=https://www.abelard.org/asimov.php target="_blank">
-        Profession by Isaac Asimov |
+    <a href=https://kudmitry.com/articles/dead-internet-theory/ target="_blank">
+        Dead Internet Theory |
     </a>
-    By: bkudria
-</li>
-
-<li>
-    <a href=https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives target="_blank">
-        No knives, only cook knives |
-    </a>
-    By: firloop
+    By: skwee357
 </li>
 </ol>
