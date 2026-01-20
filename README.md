@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 19 Jan 2026</h4>
+<h4>Check the latest news from: Tue 20 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting target="_blank">
-        Gaussian Splatting – A$AP Rocky "Helicopter" music video |
+    <a href=https://webchrono.pl/F16FalconStrike/index.html target="_blank">
+        F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE |
     </a>
-    By: ChrisArchitect
+    By: starkparker
+</li>
+
+<li>
+    <a href=https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026 target="_blank">
+        Level S4 solar radiation event |
+    </a>
+    By: WorldPeas
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g1-46Nu3HxQ" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=g1-46Nu3HxQ</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.swpc.noaa.gov&#x2F;products&#x2F;goes-proton-flux" rel="nofollow">https:&#x2F;&#x2F;www.swpc.noaa.gov&#x2F;products&#x2F;goes-proton-flux</a> </br>
 </p>
 
 <li>
-    <a href=https://banay.me/dont-waste-your-backpressure/ target="_blank">
-        Provide agents with automated feedback |
+    <a href=https://lemdro.id/post/lemdro.id/35049920 target="_blank">
+        Nova Launcher Added Facebook and Google Ads Tracking |
     </a>
-    By: ghuntley
+    By: celsoazevedo
 </li>
 
 <li>
-    <a href=https://github.com/antirez/flux2.c target="_blank">
-        Flux 2 Klein pure C inference |
+    <a href=https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims target="_blank">
+        Nearly a third of social media research has undisclosed ties to industry |
     </a>
-    By: antirez
+    By: bikenaga
 </li>
 
 <li>
-    <a href=https://rijnard.com/blog/the-code-only-agent target="_blank">
-        The Code-Only Agent |
+    <a href=https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html target="_blank">
+        Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars |
     </a>
-    By: emersonmacro
-</li>
-
-<li>
-    <a href=https://kudmitry.com/articles/dead-internet-theory/ target="_blank">
-        Dead Internet Theory |
-    </a>
-    By: skwee357
+    By: m463
 </li>
 </ol>
