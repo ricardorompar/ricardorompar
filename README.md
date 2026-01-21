@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 20 Jan 2026</h4>
+<h4>Check the latest news from: Wed 21 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://webchrono.pl/F16FalconStrike/index.html target="_blank">
-        F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE |
+    <a href=https://lcamtuf.coredump.cx/prep/index-old.shtml target="_blank">
+        Disaster planning for regular folks (2015) |
     </a>
-    By: starkparker
+    By: AlphaWeaver
 </li>
 
 <li>
-    <a href=https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026 target="_blank">
-        Level S4 solar radiation event |
+    <a href=https://github.com/anthropics/original_performance_takehome target="_blank">
+        Anthropic's original take home assignment open sourced |
     </a>
-    By: WorldPeas
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.swpc.noaa.gov&#x2F;products&#x2F;goes-proton-flux" rel="nofollow">https:&#x2F;&#x2F;www.swpc.noaa.gov&#x2F;products&#x2F;goes-proton-flux</a> </br>
-</p>
-
-<li>
-    <a href=https://lemdro.id/post/lemdro.id/35049920 target="_blank">
-        Nova Launcher Added Facebook and Google Ads Tracking |
-    </a>
-    By: celsoazevedo
+    By: myahio
 </li>
 
 <li>
-    <a href=https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims target="_blank">
-        Nearly a third of social media research has undisclosed ties to industry |
+    <a href=https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/ target="_blank">
+        A 26,000-year astronomical monument hidden in plain sight (2019) |
     </a>
-    By: bikenaga
+    By: mkmk
 </li>
 
 <li>
-    <a href=https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html target="_blank">
-        Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars |
+    <a href=https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html target="_blank">
+        Are arrays functions? |
     </a>
-    By: m463
+    By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years target="_blank">
+        California is free of drought for the first time in 25 years |
+    </a>
+    By: thnaks
 </li>
 </ol>
