@@ -45,50 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 22 Jan 2026</h4>
+<h4>Check the latest news from: Fri 23 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://huggingface.co/sweepai/sweep-next-edit-1.5B target="_blank">
-        Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete |
+    <a href=https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/ target="_blank">
+        Capital One to acquire Brex for $5.15B |
     </a>
-    By: williamzeng0
+    By: personjerry
 </li>
 
 <p>
-Text: Hey HN, we trained and open-sourced a 1.5B model that predicts your next edits, similar to Cursor. You can download the weights here (<a href="https:&#x2F;&#x2F;huggingface.co&#x2F;sweepai&#x2F;sweep-next-edit-1.5b" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;sweepai&#x2F;sweep-next-edit-1.5b</a>) or try it in our JetBrains plugin (<a href="https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;plugin&#x2F;26860-sweep-ai-autocomplete--coding-agent" rel="nofollow">https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;plugin&#x2F;26860-sweep-ai-autocomp...</a>).<p>Next-edit autocomplete differs from standard autocomplete by using your recent edits as context when predicting completions. The model is small enough to run locally while outperforming models 4x its size on both speed and accuracy.<p>We tested against Mercury (Inception), Zeta (Zed), and Instinct (Continue) across five benchmarks: next-edit above&#x2F;below cursor, tab-to-jump for distant changes, standard FIM, and noisiness. We found exact-match accuracy correlates best with real usability because code is fairly precise and the solution space is small.<p>Prompt format turned out to matter more than we expected. We ran a genetic algorithm over 30+ diff formats and found simple `original`&#x2F;`updated` blocks beat unified diffs. The verbose format is just easier for smaller models to understand.<p>Training was SFT on ~100k examples from permissively-licensed repos (4hrs on 8xH100), then RL for 2000 steps with tree-sitter parse checking and size regularization. The RL step fixes edge cases SFT can’t like, generating code that doesn’t parse or overly verbose outputs.<p>We&#x27;re open-sourcing the weights so the community can build fast, privacy-preserving autocomplete for any editor. If you&#x27;re building for VSCode, Neovim, or something else, we&#x27;d love to see what you make with it! </br>
+Text: Archive link: <a href="https:&#x2F;&#x2F;archive.md&#x2F;vk8ov" rel="nofollow">https:&#x2F;&#x2F;archive.md&#x2F;vk8ov</a><p>Capitol One statement: <a href="https:&#x2F;&#x2F;investor.capitalone.com&#x2F;news-releases&#x2F;news-release-details&#x2F;capital-one-acquire-brex" rel="nofollow">https:&#x2F;&#x2F;investor.capitalone.com&#x2F;news-releases&#x2F;news-release-d...</a><p>Brex statement: <a href="https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;brex-and-capital-one-join-forces" rel="nofollow">https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;brex-and-capital-one-join-force...</a> </br>
 </p>
 
 <li>
-    <a href=https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ target="_blank">
-        Threat actors expand abuse of Microsoft Visual Studio Code |
+    <a href=https://gptzero.me/news/neurips/ target="_blank">
+        GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers |
     </a>
-    By: vinnyglennon
+    By: segmenta
 </li>
 
 <li>
-    <a href=https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ target="_blank">
-        From stealth blackout to whitelisting: Inside the Iranian shutdown |
+    <a href=https://cannoneyed.com/isometric-nyc/ target="_blank">
+        Show HN: isometric.nyc – giant isometric pixel art map of NYC |
     </a>
-    By: oavioklein
-</li>
-
-<li>
-    <a href=https://arxiv.org/abs/2201.01174 target="_blank">
-        Binary fuse filters: Fast and smaller than xor filters (2022) |
-    </a>
-    By: redbell
-</li>
-
-<li>
-    <a href=https://github.com/ChartGPU/ChartGPU target="_blank">
-        Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps) |
-    </a>
-    By: huntergemmer
+    By: cannoneyed
 </li>
 
 <p>
-Text: Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be &quot;fast&quot; but choke past 100K data points.<p>The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:<p>- LTTB downsampling runs as a compute shader
-- Hit-testing for tooltips&#x2F;hover is GPU-accelerated
-- Rendering uses instanced draws (one draw call per series)<p>The result: 1M points at 60fps with smooth zoom&#x2F;pan.<p>Live demo: <a href="https:&#x2F;&#x2F;chartgpu.github.io&#x2F;ChartGPU&#x2F;examples&#x2F;million-points&#x2F;" rel="nofollow">https:&#x2F;&#x2F;chartgpu.github.io&#x2F;ChartGPU&#x2F;examples&#x2F;million-points&#x2F;</a><p>Currently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: `npm install chartgpu`<p>Happy to answer questions about WebGPU internals or architecture decisions. </br>
+Text: Hey HN! I wanted to share something I built over the last few weeks: isometric.nyc is a massive isometric pixel art map of NYC, built with nano banana and coding agents.<p>I didn&#x27;t write a single line of code.<p>Of course no-code doesn&#x27;t mean no-engineering. This project took a lot more manual labor than I&#x27;d hoped!<p>I wrote a deep dive on the workflow and some thoughts about the future of AI coding and creativity:<p><a href="http:&#x2F;&#x2F;cannoneyed.com&#x2F;projects&#x2F;isometric-nyc" rel="nofollow">http:&#x2F;&#x2F;cannoneyed.com&#x2F;projects&#x2F;isometric-nyc</a> </br>
 </p>
+
+<li>
+    <a href=https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/ target="_blank">
+        Why does SSH send 100 packets per keystroke? |
+    </a>
+    By: eieio
+</li>
+
+<li>
+    <a href=https://hugodaniel.com/posts/claude-code-banned-me/ target="_blank">
+        I was banned from Claude for scaffolding a Claude.md file? |
+    </a>
+    By: hugodan
+</li>
 </ol>
