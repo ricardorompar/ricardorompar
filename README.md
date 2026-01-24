@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 23 Jan 2026</h4>
+<h4>Check the latest news from: Sat 24 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/ target="_blank">
-        Capital One to acquire Brex for $5.15B |
+    <a href=https://openai.com/index/unrolling-the-codex-agent-loop/ target="_blank">
+        Unrolling the Codex agent loop |
     </a>
-    By: personjerry
-</li>
-
-<p>
-Text: Archive link: <a href="https:&#x2F;&#x2F;archive.md&#x2F;vk8ov" rel="nofollow">https:&#x2F;&#x2F;archive.md&#x2F;vk8ov</a><p>Capitol One statement: <a href="https:&#x2F;&#x2F;investor.capitalone.com&#x2F;news-releases&#x2F;news-release-details&#x2F;capital-one-acquire-brex" rel="nofollow">https:&#x2F;&#x2F;investor.capitalone.com&#x2F;news-releases&#x2F;news-release-d...</a><p>Brex statement: <a href="https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;brex-and-capital-one-join-forces" rel="nofollow">https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;brex-and-capital-one-join-force...</a> </br>
-</p>
-
-<li>
-    <a href=https://gptzero.me/news/neurips/ target="_blank">
-        GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers |
-    </a>
-    By: segmenta
+    By: tosh
 </li>
 
 <li>
-    <a href=https://cannoneyed.com/isometric-nyc/ target="_blank">
-        Show HN: isometric.nyc – giant isometric pixel art map of NYC |
+    <a href=https://blog.dshr.org/2026/01/internet-archives-storage.html target="_blank">
+        Internet Archive's Storage |
     </a>
-    By: cannoneyed
-</li>
-
-<p>
-Text: Hey HN! I wanted to share something I built over the last few weeks: isometric.nyc is a massive isometric pixel art map of NYC, built with nano banana and coding agents.<p>I didn&#x27;t write a single line of code.<p>Of course no-code doesn&#x27;t mean no-engineering. This project took a lot more manual labor than I&#x27;d hoped!<p>I wrote a deep dive on the workflow and some thoughts about the future of AI coding and creativity:<p><a href="http:&#x2F;&#x2F;cannoneyed.com&#x2F;projects&#x2F;isometric-nyc" rel="nofollow">http:&#x2F;&#x2F;cannoneyed.com&#x2F;projects&#x2F;isometric-nyc</a> </br>
-</p>
-
-<li>
-    <a href=https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/ target="_blank">
-        Why does SSH send 100 packets per keystroke? |
-    </a>
-    By: eieio
+    By: zdw
 </li>
 
 <li>
-    <a href=https://hugodaniel.com/posts/claude-code-banned-me/ target="_blank">
-        I was banned from Claude for scaffolding a Claude.md file? |
+    <a href=https://www.ycombinator.com/ target="_blank">
+        New YC homepage |
     </a>
-    By: hugodan
+    By: sarreph
+</li>
+
+<li>
+    <a href=https://www.unix.dog/~yosh/blog/c-habits-for-me.html target="_blank">
+        Some C habits I employ for the modern day |
+    </a>
+    By: signa11
+</li>
+
+<li>
+    <a href=https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties target="_blank">
+        Losing 1½ Million Lines of Go |
+    </a>
+    By: moks
 </li>
 </ol>
