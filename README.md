@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 24 Jan 2026</h4>
+<h4>Check the latest news from: Sun 25 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/unrolling-the-codex-agent-loop/ target="_blank">
-        Unrolling the Codex agent loop |
+    <a href=https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971 target="_blank">
+        nvidia-smi hangs indefinitely after ~66 days |
     </a>
     By: tosh
 </li>
 
 <li>
-    <a href=https://blog.dshr.org/2026/01/internet-archives-storage.html target="_blank">
-        Internet Archive's Storage |
+    <a href=https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/ target="_blank">
+        Adoption of EVs tied to real-world reductions in air pollution: study |
     </a>
-    By: zdw
+    By: hhs
 </li>
 
 <li>
-    <a href=https://www.ycombinator.com/ target="_blank">
-        New YC homepage |
+    <a href=https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp target="_blank">
+        BirdyChat becomes first European chat app that is interoperable with WhatsApp |
     </a>
-    By: sarreph
+    By: joooscha
 </li>
 
 <li>
-    <a href=https://www.unix.dog/~yosh/blog/c-habits-for-me.html target="_blank">
-        Some C habits I employ for the modern day |
+    <a href=https://essenceia.github.io/projects/two_weeks_until_tapeout/ target="_blank">
+        Two Weeks Until Tapeout |
     </a>
-    By: signa11
+    By: client4
 </li>
 
 <li>
-    <a href=https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties target="_blank">
-        Losing 1½ Million Lines of Go |
+    <a href=https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/ target="_blank">
+        Palantir has no place in UK public services |
     </a>
-    By: moks
+    By: jethronethro
 </li>
 </ol>
