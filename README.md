@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 25 Jan 2026</h4>
+<h4>Check the latest news from: Mon 26 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971 target="_blank">
-        nvidia-smi hangs indefinitely after ~66 days |
+    <a href=https://gwern.net/blog/2026/make-me-care target="_blank">
+        First, make me care |
     </a>
-    By: tosh
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/ target="_blank">
-        Adoption of EVs tied to real-world reductions in air pollution: study |
+    <a href=https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you target="_blank">
+        Scientists identify brain waves that define the limits of 'you' |
     </a>
-    By: hhs
+    By: mikhael
+</li>
+
+<p>
+Text: Original paper: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/tldev/posturr target="_blank">
+        A macOS app that blurs your screen when you slouch |
+    </a>
+    By: dnw
 </li>
 
 <li>
-    <a href=https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp target="_blank">
-        BirdyChat becomes first European chat app that is interoperable with WhatsApp |
+    <a href=https://restofworld.org/2026/iran-blackout-tiered-internet/ target="_blank">
+        Iran's internet blackout may become permanent, with access for elites only |
     </a>
-    By: joooscha
+    By: siev
 </li>
 
 <li>
-    <a href=https://essenceia.github.io/projects/two_weeks_until_tapeout/ target="_blank">
-        Two Weeks Until Tapeout |
+    <a href=https://tomaszmachnik.pl/case-study-math-en.html target="_blank">
+        Case study: Creative math – How AI fakes proofs |
     </a>
-    By: client4
-</li>
-
-<li>
-    <a href=https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/ target="_blank">
-        Palantir has no place in UK public services |
-    </a>
-    By: jethronethro
+    By: musculus
 </li>
 </ol>
