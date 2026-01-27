@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 26 Jan 2026</h4>
+<h4>Check the latest news from: Tue 27 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://gwern.net/blog/2026/make-me-care target="_blank">
-        First, make me care |
+    <a href=https://www.bbc.com/news/articles/c1evvx89559o target="_blank">
+        Heathrow scraps liquid container limit |
     </a>
-    By: andsoitis
+    By: robotsliketea
 </li>
 
 <li>
-    <a href=https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you target="_blank">
-        Scientists identify brain waves that define the limits of 'you' |
+    <a href=https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways target="_blank">
+        The hidden engineering of runways |
     </a>
-    By: mikhael
-</li>
-
-<p>
-Text: Original paper: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w</a> </br>
-</p>
-
-<li>
-    <a href=https://github.com/tldev/posturr target="_blank">
-        A macOS app that blurs your screen when you slouch |
-    </a>
-    By: dnw
+    By: crescit_eundo
 </li>
 
 <li>
-    <a href=https://restofworld.org/2026/iran-blackout-tiered-internet/ target="_blank">
-        Iran's internet blackout may become permanent, with access for elites only |
+    <a href=https://simonwillison.net/2026/Jan/26/chatgpt-containers/ target="_blank">
+        ChatGPT Containers can now run bash, pip/npm install packages and download files |
     </a>
-    By: siev
+    By: simonw
 </li>
 
 <li>
-    <a href=https://tomaszmachnik.pl/case-study-math-en.html target="_blank">
-        Case study: Creative math – How AI fakes proofs |
+    <a href=https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/ target="_blank">
+        Apple introduces new AirTag with longer range and improved findability |
     </a>
-    By: musculus
+    By: meetpateltech
+</li>
+
+<li>
+    <a href=https://www.greptile.com/blog/ai-code-review-bubble target="_blank">
+        There is an AI code review bubble |
+    </a>
+    By: dakshgupta
 </li>
 </ol>
