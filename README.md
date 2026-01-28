@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 27 Jan 2026</h4>
+<h4>Check the latest news from: Wed 28 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://www.bbc.com/news/articles/c1evvx89559o target="_blank">
-        Heathrow scraps liquid container limit |
+    <a href=https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities target="_blank">
+        AI found 12 vulnerabilities in OpenSSL |
     </a>
-    By: robotsliketea
+    By: mmsc
 </li>
 
 <li>
-    <a href=https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways target="_blank">
-        The hidden engineering of runways |
-    </a>
-    By: crescit_eundo
-</li>
-
-<li>
-    <a href=https://simonwillison.net/2026/Jan/26/chatgpt-containers/ target="_blank">
-        ChatGPT Containers can now run bash, pip/npm install packages and download files |
-    </a>
-    By: simonw
-</li>
-
-<li>
-    <a href=https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/ target="_blank">
-        Apple introduces new AirTag with longer range and improved findability |
+    <a href=https://openai.com/index/introducing-prism target="_blank">
+        Prism |
     </a>
     By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.greptile.com/blog/ai-code-review-bubble target="_blank">
-        There is an AI code review bubble |
+    <a href=https://twitter.com/karpathy/status/2015883857489522876 target="_blank">
+        A few random notes from Claude coding quite a bit last few weeks |
     </a>
-    By: dakshgupta
+    By: bigwheels
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2015883857489522876" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2015883857489522876</a> </br>
+</p>
+
+<li>
+    <a href=https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html target="_blank">
+        430k-year-old well-preserved wooden tools are the oldest ever found |
+    </a>
+    By: bookofjoe
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;mHlUT" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;mHlUT</a><p><a href="https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933" rel="nofollow">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;oldest-wooden-tools-marathousa-1-...</a><p><a href="https:&#x2F;&#x2F;archaeologymag.com&#x2F;2026&#x2F;01&#x2F;430000-year-old-wooden-tools-marathousa&#x2F;" rel="nofollow">https:&#x2F;&#x2F;archaeologymag.com&#x2F;2026&#x2F;01&#x2F;430000-year-old-wooden-to...</a> </br>
+</p>
+
+<li>
+    <a href=https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/ target="_blank">
+        Golden Ratio using an equilateral triangle inscribed in a circle |
+    </a>
+    By: peter_d_sherman
 </li>
 </ol>
