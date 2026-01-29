@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 28 Jan 2026</h4>
+<h4>Check the latest news from: Thu 29 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities target="_blank">
-        AI found 12 vulnerabilities in OpenSSL |
+    <a href=https://web.mit.edu/jemorris/humor/500-miles target="_blank">
+        We can't send mail farther than 500 miles (2002) |
     </a>
-    By: mmsc
-</li>
-
-<li>
-    <a href=https://openai.com/index/introducing-prism target="_blank">
-        Prism |
-    </a>
-    By: meetpateltech
-</li>
-
-<li>
-    <a href=https://twitter.com/karpathy/status/2015883857489522876 target="_blank">
-        A few random notes from Claude coding quite a bit last few weeks |
-    </a>
-    By: bigwheels
+    By: giancarlostoro
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2015883857489522876" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2015883857489522876</a> </br>
+Text: See also <a href="https:&#x2F;&#x2F;ibiblio.org&#x2F;harris&#x2F;500milemail-faq.html" rel="nofollow">https:&#x2F;&#x2F;ibiblio.org&#x2F;harris&#x2F;500milemail-faq.html</a> </br>
 </p>
 
 <li>
-    <a href=https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html target="_blank">
-        430k-year-old well-preserved wooden tools are the oldest ever found |
+    <a href=https://github.com/lukilabs/beautiful-mermaid target="_blank">
+        Render Mermaid diagrams as SVGs or ASCII art |
     </a>
-    By: bookofjoe
+    By: mellosouls
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;mHlUT" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;mHlUT</a><p><a href="https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933" rel="nofollow">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;oldest-wooden-tools-marathousa-1-...</a><p><a href="https:&#x2F;&#x2F;archaeologymag.com&#x2F;2026&#x2F;01&#x2F;430000-year-old-wooden-tools-marathousa&#x2F;" rel="nofollow">https:&#x2F;&#x2F;archaeologymag.com&#x2F;2026&#x2F;01&#x2F;430000-year-old-wooden-to...</a> </br>
-</p>
+<li>
+    <a href=https://github.com/microsoft/azurelinux target="_blank">
+        Microsoft's Azure Linux |
+    </a>
+    By: AbuAssar
+</li>
 
 <li>
-    <a href=https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/ target="_blank">
-        Golden Ratio using an equilateral triangle inscribed in a circle |
+    <a href=https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105 target="_blank">
+        Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105 |
     </a>
-    By: peter_d_sherman
+    By: NaOH
+</li>
+
+<li>
+    <a href=https://mecha.so/comet target="_blank">
+        Mecha Comet – Open Modular Linux Handheld Computer |
+    </a>
+    By: Realman78
 </li>
 </ol>
