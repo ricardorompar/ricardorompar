@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 29 Jan 2026</h4>
+<h4>Check the latest news from: Fri 30 Jan 2026</h4>
 <ol>
 <li>
-    <a href=https://web.mit.edu/jemorris/humor/500-miles target="_blank">
-        We can't send mail farther than 500 miles (2002) |
+    <a href=https://www.moltbook.com/ target="_blank">
+        Moltbook |
     </a>
-    By: giancarlostoro
-</li>
-
-<p>
-Text: See also <a href="https:&#x2F;&#x2F;ibiblio.org&#x2F;harris&#x2F;500milemail-faq.html" rel="nofollow">https:&#x2F;&#x2F;ibiblio.org&#x2F;harris&#x2F;500milemail-faq.html</a> </br>
-</p>
-
-<li>
-    <a href=https://github.com/lukilabs/beautiful-mermaid target="_blank">
-        Render Mermaid diagrams as SVGs or ASCII art |
-    </a>
-    By: mellosouls
+    By: teej
 </li>
 
 <li>
-    <a href=https://github.com/microsoft/azurelinux target="_blank">
-        Microsoft's Azure Linux |
+    <a href=https://grid.space/stem/ target="_blank">
+        Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer |
     </a>
-    By: AbuAssar
+    By: cyrusradfar
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105 target="_blank">
-        Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105 |
+    <a href=https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ target="_blank">
+        The Dank Case for Scrolling Window Managers |
     </a>
-    By: NaOH
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://mecha.so/comet target="_blank">
-        Mecha Comet – Open Modular Linux Handheld Computer |
+    <a href=https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/ target="_blank">
+        PlayStation 2 Recompilation Project Is Absolutely Incredible |
     </a>
-    By: Realman78
+    By: croes
+</li>
+
+<li>
+    <a href=https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/ target="_blank">
+        Project Genie: Experimenting with infinite, interactive worlds |
+    </a>
+    By: meetpateltech
 </li>
 </ol>
