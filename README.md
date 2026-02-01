@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 31 Jan 2026</h4>
+<h4>Check the latest news from: Sun 01 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://antirender.com/ target="_blank">
-        Antirender: remove the glossy shine on architectural renderings |
+    <a href=https://an.dywa.ng/carrier-gnss.html target="_blank">
+        Mobile carriers can get your GPS location |
     </a>
-    By: iambateman
+    By: cbeuw
 </li>
 
 <li>
-    <a href=https://simedw.com/2026/01/31/ear-pronunication-via-ctc/ target="_blank">
-        Show HN: I trained a 9M speech model to fix my Mandarin tones |
+    <a href=https://rose.systems/animalist/ target="_blank">
+        List animals until failure |
     </a>
-    By: simedw
-</li>
-
-<p>
-Text: Built this because tones are killing my spoken Mandarin and I can&#x27;t reliably hear my own mistakes.<p>It&#x27;s a 9M Conformer-CTC model trained on ~300h (AISHELL + Primewords), quantized to INT8 (11 MB), runs 100% in-browser via ONNX Runtime Web.<p>Grades per-syllable pronunciation + tones with Viterbi forced alignment.<p>Try it here: <a href="https:&#x2F;&#x2F;simedw.com&#x2F;projects&#x2F;ear&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simedw.com&#x2F;projects&#x2F;ear&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://peerweb.lol/ target="_blank">
-        Peerweb: Decentralized website hosting via WebTorrent |
-    </a>
-    By: dtj1123
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;omodaka9375&#x2F;peerweb" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;omodaka9375&#x2F;peerweb</a> </br>
-</p>
-
-<li>
-    <a href=https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/ target="_blank">
-        Stonebraker on CAP theorem and Databases (2010) |
-    </a>
-    By: onurkanbkrc
+    By: l1n
 </li>
 
 <li>
-    <a href=https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf target="_blank">
-        Kimi K2.5 Technical Report [pdf] |
+    <a href=https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/ target="_blank">
+        Cells use 'bioelectricity' to coordinate and make group decisions |
     </a>
-    By: vinhnx
+    By: marojejian
+</li>
+
+<li>
+    <a href=https://github.com/DataDog/pg_tracing target="_blank">
+        pg_tracing: Distributed Tracing for PostgreSQL |
+    </a>
+    By: tanelpoder
+</li>
+
+<li>
+    <a href=https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/ target="_blank">
+        Generative AI and Wikipedia editing: What we learned in 2025 |
+    </a>
+    By: ColinWright
 </li>
 </ol>
