@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 01 Feb 2026</h4>
+<h4>Check the latest news from: Mon 02 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://an.dywa.ng/carrier-gnss.html target="_blank">
-        Mobile carriers can get your GPS location |
+    <a href=https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle target="_blank">
+        Defeating a 40-year-old copy protection dongle |
     </a>
-    By: cbeuw
+    By: zdw
 </li>
 
 <li>
-    <a href=https://rose.systems/animalist/ target="_blank">
-        List animals until failure |
+    <a href=https://lapcatsoftware.com/articles/2026/2/1.html target="_blank">
+        Apple's MacBook Pro DFU port documentation is wrong |
     </a>
-    By: l1n
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/ target="_blank">
-        Cells use 'bioelectricity' to coordinate and make group decisions |
+    <a href=https://github.com/gavrielc/nanoclaw target="_blank">
+        Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation |
     </a>
-    By: marojejian
+    By: jimminyx
+</li>
+
+<p>
+Text: I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.<p>OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.<p>This is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours. </br>
+</p>
+
+<li>
+    <a href=https://notepad-plus-plus.org/news/hijacked-incident-info-update/ target="_blank">
+        Notepad++ hijacked by state-sponsored actors |
+    </a>
+    By: mysterydip
 </li>
 
 <li>
-    <a href=https://github.com/DataDog/pg_tracing target="_blank">
-        pg_tracing: Distributed Tracing for PostgreSQL |
+    <a href=https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf target="_blank">
+        Actors: A Model of Concurrent Computation [pdf] (1985) |
     </a>
-    By: tanelpoder
-</li>
-
-<li>
-    <a href=https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/ target="_blank">
-        Generative AI and Wikipedia editing: What we learned in 2025 |
-    </a>
-    By: ColinWright
+    By: kioku
 </li>
 </ol>
