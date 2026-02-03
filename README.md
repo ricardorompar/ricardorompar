@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 02 Feb 2026</h4>
+<h4>Check the latest news from: Tue 03 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle target="_blank">
-        Defeating a 40-year-old copy protection dongle |
+    <a href=https://krzysztofjankowski.com/floppinux/floppinux-2025.html target="_blank">
+        Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition |
     </a>
-    By: zdw
+    By: GalaxySnail
 </li>
 
 <li>
-    <a href=https://lapcatsoftware.com/articles/2026/2/1.html target="_blank">
-        Apple's MacBook Pro DFU port documentation is wrong |
+    <a href=https://alignment.anthropic.com/2026/hot-mess-of-ai/ target="_blank">
+        How does misalignment scale with model intelligence and task complexity? |
     </a>
-    By: zdw
+    By: salkahfi
 </li>
 
 <li>
-    <a href=https://github.com/gavrielc/nanoclaw target="_blank">
-        Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation |
+    <a href=https://openai.com/index/introducing-the-codex-app/ target="_blank">
+        The Codex App |
     </a>
-    By: jimminyx
-</li>
-
-<p>
-Text: I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.<p>OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.<p>This is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours. </br>
-</p>
-
-<li>
-    <a href=https://notepad-plus-plus.org/news/hijacked-incident-info-update/ target="_blank">
-        Notepad++ hijacked by state-sponsored actors |
-    </a>
-    By: mysterydip
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf target="_blank">
-        Actors: A Model of Concurrent Computation [pdf] (1985) |
+    <a href=https://www.bicameral-ai.com/blog/introducing-bicameral target="_blank">
+        Coding assistants are solving the wrong problem |
     </a>
-    By: kioku
+    By: jinhkuan
+</li>
+
+<li>
+    <a href=https://forums.ankiweb.net/t/ankis-growing-up/68610 target="_blank">
+        Anki ownership transferred to AnkiHub |
+    </a>
+    By: trms
 </li>
 </ol>
