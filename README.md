@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 03 Feb 2026</h4>
+<h4>Check the latest news from: Wed 04 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://krzysztofjankowski.com/floppinux/floppinux-2025.html target="_blank">
-        Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition |
+    <a href=https://www.jernesto.com/articles/thinking_hard target="_blank">
+        I miss thinking hard |
     </a>
-    By: GalaxySnail
+    By: jernestomg
 </li>
 
 <li>
-    <a href=https://alignment.anthropic.com/2026/hot-mess-of-ai/ target="_blank">
-        How does misalignment scale with model intelligence and task complexity? |
+    <a href=https://www.simonberens.com/p/lessons-learned-shipping-500-units target="_blank">
+        Lessons learned shipping 500 units of my first hardware product |
     </a>
-    By: salkahfi
+    By: sberens
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-the-codex-app/ target="_blank">
-        The Codex App |
+    <a href=https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany target="_blank">
+        Petition for Recognition of Work on Open-Source as Volunteering in Germany |
     </a>
-    By: meetpateltech
+    By: numeri
 </li>
 
 <li>
-    <a href=https://www.bicameral-ai.com/blog/introducing-bicameral target="_blank">
-        Coding assistants are solving the wrong problem |
+    <a href=https://civai.org/blog/space-data-centers target="_blank">
+        Data centers in space makes no sense |
     </a>
-    By: jinhkuan
+    By: ajyoon
 </li>
 
 <li>
-    <a href=https://forums.ankiweb.net/t/ankis-growing-up/68610 target="_blank">
-        Anki ownership transferred to AnkiHub |
+    <a href=https://github.com/puemos/craftplan target="_blank">
+        Show HN: Craftplan – I built my wife a production management tool for her bakery |
     </a>
-    By: trms
+    By: deofoo
 </li>
+
+<p>
+Text: My wife was planning to open a micro-bakery. We looked at production management software and it was all either expensive or way too generic. The actual workflows for a small-batch manufacturer aren&#x27;t that complex, so I built one and open-sourced it.<p>Craftplan handles recipes (versioned BOMs with cost rollups), inventory (lot traceability, demand forecasting, allergen tracking), orders, production batch planning, and purchasing. Built with Elixir, Ash Framework, Phoenix LiveView, and PostgreSQL.<p>Live demo: <a href="https:&#x2F;&#x2F;craftplan.fly.dev" rel="nofollow">https:&#x2F;&#x2F;craftplan.fly.dev</a> (test@test.com &#x2F; Aa123123123123)<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;puemos&#x2F;craftplan" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;puemos&#x2F;craftplan</a> </br>
+</p>
 </ol>
