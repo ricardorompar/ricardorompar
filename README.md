@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 04 Feb 2026</h4>
+<h4>Check the latest news from: Thu 05 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://www.jernesto.com/articles/thinking_hard target="_blank">
-        I miss thinking hard |
+    <a href=https://rachelbythebay.com/w/2026/02/03/badnas/ target="_blank">
+        When internal hostnames are leaked to the clown |
     </a>
-    By: jernestomg
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.simonberens.com/p/lessons-learned-shipping-500-units target="_blank">
-        Lessons learned shipping 500 units of my first hardware product |
+    <a href=https://mistral.ai/news/voxtral-transcribe-2 target="_blank">
+        Voxtral Transcribe 2 |
     </a>
-    By: sberens
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany target="_blank">
-        Petition for Recognition of Work on Open-Source as Volunteering in Germany |
+    <a href=https://www.recall.ai/blog/postgres-postmaster-does-not-scale target="_blank">
+        Postgres Postmaster does not scale |
     </a>
-    By: numeri
+    By: davidgu
 </li>
 
 <li>
-    <a href=https://civai.org/blog/space-data-centers target="_blank">
-        Data centers in space makes no sense |
+    <a href=https://sqldef.github.io/ target="_blank">
+        Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite |
     </a>
-    By: ajyoon
+    By: Palmik
 </li>
 
 <li>
-    <a href=https://github.com/puemos/craftplan target="_blank">
-        Show HN: Craftplan – I built my wife a production management tool for her bakery |
+    <a href=https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/ target="_blank">
+        Claude Code: connect to a local model when your quota runs out |
     </a>
-    By: deofoo
+    By: fugu2
 </li>
-
-<p>
-Text: My wife was planning to open a micro-bakery. We looked at production management software and it was all either expensive or way too generic. The actual workflows for a small-batch manufacturer aren&#x27;t that complex, so I built one and open-sourced it.<p>Craftplan handles recipes (versioned BOMs with cost rollups), inventory (lot traceability, demand forecasting, allergen tracking), orders, production batch planning, and purchasing. Built with Elixir, Ash Framework, Phoenix LiveView, and PostgreSQL.<p>Live demo: <a href="https:&#x2F;&#x2F;craftplan.fly.dev" rel="nofollow">https:&#x2F;&#x2F;craftplan.fly.dev</a> (test@test.com &#x2F; Aa123123123123)<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;puemos&#x2F;craftplan" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;puemos&#x2F;craftplan</a> </br>
-</p>
 </ol>
