@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 05 Feb 2026</h4>
+<h4>Check the latest news from: Fri 06 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://rachelbythebay.com/w/2026/02/03/badnas/ target="_blank">
-        When internal hostnames are leaked to the clown |
+    <a href=https://www.anthropic.com/news/claude-opus-4-6 target="_blank">
+        Claude Opus 4.6 |
     </a>
-    By: zdw
+    By: HellsMaddy
 </li>
 
 <li>
-    <a href=https://mistral.ai/news/voxtral-transcribe-2 target="_blank">
-        Voxtral Transcribe 2 |
+    <a href=http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html target="_blank">
+        Systems Thinking |
+    </a>
+    By: r4um
+</li>
+
+<li>
+    <a href=https://openai.com/index/introducing-gpt-5-3-codex/ target="_blank">
+        GPT-5.3-Codex |
     </a>
     By: meetpateltech
 </li>
 
 <li>
-    <a href=https://www.recall.ai/blog/postgres-postmaster-does-not-scale target="_blank">
-        Postgres Postmaster does not scale |
+    <a href=https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html target="_blank">
+        Things Unix can do atomically |
     </a>
-    By: davidgu
+    By: onurkanbkrc
 </li>
 
 <li>
-    <a href=https://sqldef.github.io/ target="_blank">
-        Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite |
+    <a href=https://mitchellh.com/writing/my-ai-adoption-journey target="_blank">
+        My AI Adoption Journey |
     </a>
-    By: Palmik
-</li>
-
-<li>
-    <a href=https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/ target="_blank">
-        Claude Code: connect to a local model when your quota runs out |
-    </a>
-    By: fugu2
+    By: anurag
 </li>
 </ol>
