@@ -45,54 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 08 Feb 2026</h4>
+<h4>Check the latest news from: Mon 09 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/localgpt-app/localgpt target="_blank">
-        Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory |
+    <a href=https://harshanu.space/en/tech/ccc-vs-gcc/ target="_blank">
+        Claude's C Compiler vs. GCC |
     </a>
-    By: yi_wang
+    By: unchar1
+</li>
+
+<li>
+    <a href=https://sandboxspirit.com/blog/art-of-roads-in-games/ target="_blank">
+        Art of Roads in Games |
+    </a>
+    By: linolevan
+</li>
+
+<li>
+    <a href=https://github.com/mitchellh/vouch target="_blank">
+        Vouch |
+    </a>
+    By: chwtutha
 </li>
 
 <p>
-Text: I built LocalGPT over 4 nights as a Rust reimagining of the OpenClaw assistant pattern (markdown-based persistent memory, autonomous heartbeat tasks, skills system).<p>It compiles to a single ~27MB binary — no Node.js, Docker, or Python required.<p>Key features:<p>- Persistent memory via markdown files (MEMORY, HEARTBEAT, SOUL markdown files) — compatible with OpenClaw&#x27;s format
-- Full-text search (SQLite FTS5) + semantic search (local embeddings, no API key needed)
-- Autonomous heartbeat runner that checks tasks on a configurable interval
-- CLI + web interface + desktop GUI
-- Multi-provider: Anthropic, OpenAI, Ollama etc
-- Apache 2.0<p>Install: `cargo install localgpt`<p>I use it daily as a knowledge accumulator, research assistant, and autonomous task runner for my side projects. The memory compounds — every session makes the next one better.<p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;localgpt-app&#x2F;localgpt" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;localgpt-app&#x2F;localgpt</a>
-Website: <a href="https:&#x2F;&#x2F;localgpt.app" rel="nofollow">https:&#x2F;&#x2F;localgpt.app</a><p>Would love feedback on the architecture or feature ideas. </br>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349</a><p><a href="https:&#x2F;&#x2F;nitter.net&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349" rel="nofollow">https:&#x2F;&#x2F;nitter.net&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;ghostty-org&#x2F;ghostty&#x2F;pull&#x2F;10559" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;ghostty-org&#x2F;ghostty&#x2F;pull&#x2F;10559</a> </br>
 </p>
 
 <li>
-    <a href=https://haskellforall.com/2026/02/beyond-agentic-coding target="_blank">
-        Haskell for all: Beyond agentic coding |
+    <a href=https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5 target="_blank">
+        TSMC to make advanced AI semiconductors in Japan |
     </a>
-    By: RebelPotato
+    By: dev_tty01
 </li>
 
 <li>
-    <a href=https://xorvoid.com/sectorc.html target="_blank">
-        SectorC: A C Compiler in 512 bytes (2023) |
+    <a href=https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/ target="_blank">
+        Reverse Engineering the Prom for the SGI O2 |
     </a>
-    By: valyala
+    By: mattst88
 </li>
-
-<li>
-    <a href=https://code.claude.com/docs/en/fast-mode target="_blank">
-        Speed up responses with fast mode |
-    </a>
-    By: surprisetalk
-</li>
-
-<li>
-    <a href=https://factory.strongdm.ai/ target="_blank">
-        Software factories and the agentic moment |
-    </a>
-    By: mellosouls
-</li>
-
-<p>
-Text: See also <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Feb&#x2F;7&#x2F;software-factory&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Feb&#x2F;7&#x2F;software-factory&#x2F;</a> </br>
-</p>
 </ol>
