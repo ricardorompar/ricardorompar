@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 09 Feb 2026</h4>
+<h4>Check the latest news from: Tue 10 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://harshanu.space/en/tech/ccc-vs-gcc/ target="_blank">
-        Claude's C Compiler vs. GCC |
+    <a href=https://arxiv.org/abs/2512.20798 target="_blank">
+        Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs |
     </a>
-    By: unchar1
+    By: tiny-automates
 </li>
 
 <li>
-    <a href=https://sandboxspirit.com/blog/art-of-roads-in-games/ target="_blank">
-        Art of Roads in Games |
+    <a href=https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out target="_blank">
+        Discord will require a face scan or ID for full access next month |
     </a>
-    By: linolevan
-</li>
-
-<li>
-    <a href=https://github.com/mitchellh/vouch target="_blank">
-        Vouch |
-    </a>
-    By: chwtutha
+    By: x01
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349</a><p><a href="https:&#x2F;&#x2F;nitter.net&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349" rel="nofollow">https:&#x2F;&#x2F;nitter.net&#x2F;mitchellh&#x2F;status&#x2F;2020252149117313349</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;ghostty-org&#x2F;ghostty&#x2F;pull&#x2F;10559" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;ghostty-org&#x2F;ghostty&#x2F;pull&#x2F;10559</a> </br>
+Text: <a href="https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-default-settings-globally" rel="nofollow">https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-...</a><p><a href="https:&#x2F;&#x2F;discord.com&#x2F;safety&#x2F;how-discord-is-building-safer-experiences-for-teens" rel="nofollow">https:&#x2F;&#x2F;discord.com&#x2F;safety&#x2F;how-discord-is-building-safer-exp...</a> </br>
 </p>
 
 <li>
-    <a href=https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5 target="_blank">
-        TSMC to make advanced AI semiconductors in Japan |
+    <a href=https://github.com/TrevorS/voxtral-mini-realtime-rs target="_blank">
+        Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser |
     </a>
-    By: dev_tty01
+    By: Curiositry
 </li>
 
 <li>
-    <a href=https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/ target="_blank">
-        Reverse Engineering the Prom for the SGI O2 |
+    <a href=https://explainers.blog/posts/why-is-the-sky-blue/ target="_blank">
+        Why is the sky blue? |
     </a>
-    By: mattst88
+    By: udit99
+</li>
+
+<li>
+    <a href=https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock target="_blank">
+        Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock |
+    </a>
+    By: tokyobreakfast
 </li>
 </ol>
