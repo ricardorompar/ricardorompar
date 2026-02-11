@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 10 Feb 2026</h4>
+<h4>Check the latest news from: Wed 11 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://arxiv.org/abs/2512.20798 target="_blank">
-        Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs |
+    <a href=https://www.feynmanlectures.caltech.edu/ target="_blank">
+        The Feynman Lectures on Physics (1961-1964) |
     </a>
-    By: tiny-automates
+    By: rramadass
 </li>
 
 <li>
-    <a href=https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out target="_blank">
-        Discord will require a face scan or ID for full access next month |
+    <a href=https://blog.google/products-and-platforms/products/search/remove-explicit-images/ target="_blank">
+        A simpler way to remove explicit images from Search |
     </a>
-    By: x01
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-default-settings-globally" rel="nofollow">https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-...</a><p><a href="https:&#x2F;&#x2F;discord.com&#x2F;safety&#x2F;how-discord-is-building-safer-experiences-for-teens" rel="nofollow">https:&#x2F;&#x2F;discord.com&#x2F;safety&#x2F;how-discord-is-building-safer-exp...</a> </br>
-</p>
-
-<li>
-    <a href=https://github.com/TrevorS/voxtral-mini-realtime-rs target="_blank">
-        Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser |
-    </a>
-    By: Curiositry
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://explainers.blog/posts/why-is-the-sky-blue/ target="_blank">
-        Why is the sky blue? |
+    <a href=https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/ target="_blank">
+        Exploring a Modern SMTPE 2110 Broadcast Truck |
     </a>
-    By: udit99
+    By: assimpleaspossi
 </li>
 
 <li>
-    <a href=https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock target="_blank">
-        Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock |
+    <a href=https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/ target="_blank">
+        The Day the Telnet Died |
     </a>
-    By: tokyobreakfast
+    By: pjf
+</li>
+
+<li>
+    <a href=https://campedersen.com/singularity target="_blank">
+        The Singularity will occur on a Tuesday |
+    </a>
+    By: ecto
 </li>
 </ol>
