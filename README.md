@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 11 Feb 2026</h4>
+<h4>Check the latest news from: Thu 12 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://www.feynmanlectures.caltech.edu/ target="_blank">
-        The Feynman Lectures on Physics (1961-1964) |
+    <a href=https://age-verifier.kibty.town/ target="_blank">
+        Discord/Twitch/Snapchat age verification bypass |
     </a>
-    By: rramadass
+    By: JustSkyfall
 </li>
 
 <li>
-    <a href=https://blog.google/products-and-platforms/products/search/remove-explicit-images/ target="_blank">
-        A simpler way to remove explicit images from Search |
+    <a href=https://ntietz.com/blog/using-an-engineering-notebook/ target="_blank">
+        Using an engineering notebook |
     </a>
-    By: gnabgib
+    By: evakhoury
 </li>
 
 <li>
-    <a href=https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/ target="_blank">
-        Exploring a Modern SMTPE 2110 Broadcast Truck |
+    <a href=https://www.vangemert.dev/blog/nothing target="_blank">
+        “Nothing” is the secret to structuring your work |
     </a>
-    By: assimpleaspossi
+    By: spmvg
 </li>
 
 <li>
-    <a href=https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/ target="_blank">
-        The Day the Telnet Died |
+    <a href=https://essays.fnnch.com/make-a-living target="_blank">
+        How to Make a Living as an Artist |
     </a>
-    By: pjf
+    By: gwintrob
 </li>
 
 <li>
-    <a href=https://campedersen.com/singularity target="_blank">
-        The Singularity will occur on a Tuesday |
+    <a href=https://fluorite.game/ target="_blank">
+        Fluorite – A console-grade game engine fully integrated with Flutter |
     </a>
-    By: ecto
+    By: bsimpson
 </li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;7ZJJWW-fluorite-game-engine-flutter&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;7ZJJWW-fluorite-game-...</a> </br>
+</p>
 </ol>
