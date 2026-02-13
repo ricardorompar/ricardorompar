@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 12 Feb 2026</h4>
+<h4>Check the latest news from: Fri 13 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://age-verifier.kibty.town/ target="_blank">
-        Discord/Twitch/Snapchat age verification bypass |
+    <a href=https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/ target="_blank">
+        Resizing windows on macOS Tahoe – the saga continues |
     </a>
-    By: JustSkyfall
+    By: erickhill
 </li>
 
 <li>
-    <a href=https://ntietz.com/blog/using-an-engineering-notebook/ target="_blank">
-        Using an engineering notebook |
+    <a href=https://skipthe.tips/ target="_blank">
+        Skip the Tips: A game to select "No Tip" but dark patterns try to stop you |
     </a>
-    By: evakhoury
+    By: randycupertino
 </li>
 
 <li>
-    <a href=https://www.vangemert.dev/blog/nothing target="_blank">
-        “Nothing” is the secret to structuring your work |
+    <a href=https://openai.com/index/introducing-gpt-5-3-codex-spark/ target="_blank">
+        GPT‑5.3‑Codex‑Spark |
     </a>
-    By: spmvg
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://essays.fnnch.com/make-a-living target="_blank">
-        How to Make a Living as an Artist |
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/ target="_blank">
+        Gemini 3 Deep Think |
     </a>
-    By: gwintrob
-</li>
-
-<li>
-    <a href=https://fluorite.game/ target="_blank">
-        Fluorite – A console-grade game engine fully integrated with Flutter |
-    </a>
-    By: bsimpson
+    By: tosh
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;7ZJJWW-fluorite-game-engine-flutter&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;7ZJJWW-fluorite-game-...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;GoogleDeepMind&#x2F;status&#x2F;2021981510400709092" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;GoogleDeepMind&#x2F;status&#x2F;2021981510400709092</a><p><a href="https:&#x2F;&#x2F;x.com&#x2F;fchollet&#x2F;status&#x2F;2021983310541729894" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;fchollet&#x2F;status&#x2F;2021983310541729894</a> </br>
 </p>
+
+<li>
+    <a href=https://nickbostrom.com/optimal.pdf target="_blank">
+        New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf] |
+    </a>
+    By: uejfiweun
+</li>
 </ol>
