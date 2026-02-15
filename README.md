@@ -45,50 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 14 Feb 2026</h4>
+<h4>Check the latest news from: Sun 15 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://npmx.dev target="_blank">
-        NPMX – a fast, modern browser for the NPM registry |
+    <a href=https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ target="_blank">
+        I love the work of the ArchWiki maintainers |
     </a>
-    By: slymax
+    By: panic
 </li>
 
 <li>
-    <a href=https://github.com/mickamy/sql-tap target="_blank">
-        Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL |
+    <a href=https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/ target="_blank">
+        My smart sleep mask broadcasts users' brainwaves to an open MQTT broker |
     </a>
-    By: mickamy
+    By: minimalthinker
 </li>
 
-<p>
-Text: sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL&#x2F;MySQL wire protocol and displays them in a terminal UI. You can run EXPLAIN on any captured query. No application code changes needed — just change the port. </br>
-</p>
-
 <li>
-    <a href=https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md target="_blank">
-        Show HN: Data Engineering Book – An open source, community-driven guide |
+    <a href=https://github.com/alibaba/zvec target="_blank">
+        Zvec: A lightweight, fast, in-process vector database |
     </a>
-    By: xx123122
+    By: dvrp
 </li>
 
 <p>
-Text: Hi HN! I&#x27;m currently a Master&#x27;s student at USTC (University of Science and Technology of China). I&#x27;ve been diving deep into Data Engineering, especially in the context of Large Language Models (LLMs).<p>The Problem:
-I found that learning resources for modern data engineering are often fragmented and scattered across hundreds of medium articles or disjointed tutorials. It&#x27;s hard to piece everything together into a coherent system.<p>The Solution:
-I decided to open-source my learning notes and build them into a structured book. My goal is to help developers fast-track their learning curve.<p>Key Features:<p>LLM-Centric: Focuses on data pipelines specifically designed for LLM training and RAG systems.<p>Scenario-Based: Instead of just listing tools, I compare different methods&#x2F;architectures based on specific business scenarios (e.g., &quot;When to use Vector DB vs. Keyword Search&quot;).<p>Hands-on Projects: Includes full code for real-world implementations, not just &quot;Hello World&quot; examples.<p>This is a work in progress, and I&#x27;m treating it as &quot;Book-as-Code&quot;. I would love to hear your feedback on the roadmap or any &quot;anti-patterns&quot; I might have included!<p>Check it out:<p>Online: <a href="https:&#x2F;&#x2F;datascale-ai.github.io&#x2F;data_engineering_book&#x2F;" rel="nofollow">https:&#x2F;&#x2F;datascale-ai.github.io&#x2F;data_engineering_book&#x2F;</a><p>GitHub: <a href="https:&#x2F;&#x2F;github.com&#x2F;datascale-ai&#x2F;data_engineering_book" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;datascale-ai&#x2F;data_engineering_book</a> </br>
+Text: <a href="https:&#x2F;&#x2F;zvec.org&#x2F;en&#x2F;" rel="nofollow">https:&#x2F;&#x2F;zvec.org&#x2F;en&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://openai.com/index/new-result-theoretical-physics/ target="_blank">
-        GPT-5.2 derives a new result in theoretical physics |
+    <a href=https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664 target="_blank">
+        Instagram's URL Blackhole |
     </a>
-    By: davidbarker
+    By: tkp-415
 </li>
 
 <li>
-    <a href=http://www.lisp-screenshots.org target="_blank">
-        Common Lisp Screenshots: today's CL applications in action |
+    <a href=https://github.com/taman-islam/rox target="_blank">
+        I'm building a clarity-first language (compiles to C++) |
     </a>
-    By: _emacsomancer_
+    By: hedayet
 </li>
 </ol>
