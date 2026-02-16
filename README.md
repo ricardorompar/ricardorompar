@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 15 Feb 2026</h4>
+<h4>Check the latest news from: Mon 16 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ target="_blank">
-        I love the work of the ArchWiki maintainers |
+    <a href=https://steipete.me/posts/2026/openclaw target="_blank">
+        I’m joining OpenAI |
     </a>
-    By: panic
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/ target="_blank">
-        My smart sleep mask broadcasts users' brainwaves to an open MQTT broker |
+    <a href=https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/ target="_blank">
+        Magnus Carlsen Wins the Freestyle (Chess960) World Championship |
     </a>
-    By: minimalthinker
+    By: prophylaxis
 </li>
 
 <li>
-    <a href=https://github.com/alibaba/zvec target="_blank">
-        Zvec: A lightweight, fast, in-process vector database |
+    <a href=https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business target="_blank">
+        Arm wants a bigger slice of the chip business |
     </a>
-    By: dvrp
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;zvec.org&#x2F;en&#x2F;" rel="nofollow">https:&#x2F;&#x2F;zvec.org&#x2F;en&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664 target="_blank">
-        Instagram's URL Blackhole |
-    </a>
-    By: tkp-415
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://github.com/taman-islam/rox target="_blank">
-        I'm building a clarity-first language (compiles to C++) |
+    <a href=https://modern-css.com target="_blank">
+        Modern CSS Code Snippets: Stop writing CSS like it's 2015 |
     </a>
-    By: hedayet
+    By: eustoria
+</li>
+
+<li>
+    <a href=https://github.com/TechPaula/LT6502 target="_blank">
+        LT6502: A 6502-based homebrew laptop |
+    </a>
+    By: classichasclass
 </li>
 </ol>
