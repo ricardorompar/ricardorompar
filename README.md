@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 16 Feb 2026</h4>
+<h4>Check the latest news from: Tue 17 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://steipete.me/posts/2026/openclaw target="_blank">
-        I’m joining OpenAI |
+    <a href=https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/ target="_blank">
+        14-year-old Miles Wu folded origami pattern that holds 10k times its own weight |
     </a>
-    By: mfiguiere
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/ target="_blank">
-        Magnus Carlsen Wins the Freestyle (Chess960) World Championship |
+    <a href=https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/ target="_blank">
+        Rise of the Triforce |
     </a>
-    By: prophylaxis
+    By: max-m
 </li>
 
 <li>
-    <a href=https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business target="_blank">
-        Arm wants a bigger slice of the chip business |
+    <a href=https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf target="_blank">
+        What every compiler writer should know about programmers (2015) [pdf] |
     </a>
-    By: andsoitis
+    By: tosh
 </li>
 
 <li>
-    <a href=https://modern-css.com target="_blank">
-        Modern CSS Code Snippets: Stop writing CSS like it's 2015 |
+    <a href=https://www.bbc.com/news/articles/cx2gn239exlo target="_blank">
+        Dark web agent spotted bedroom wall clue to rescue girl from abuse |
     </a>
-    By: eustoria
+    By: colinprince
 </li>
 
 <li>
-    <a href=https://github.com/TechPaula/LT6502 target="_blank">
-        LT6502: A 6502-based homebrew laptop |
+    <a href=https://github.com/zachlatta/freeflow target="_blank">
+        Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue |
     </a>
-    By: classichasclass
+    By: zachlatta
 </li>
 </ol>
