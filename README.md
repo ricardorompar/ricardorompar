@@ -45,40 +45,41 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 17 Feb 2026</h4>
+<h4>Check the latest news from: Wed 18 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/ target="_blank">
-        14-year-old Miles Wu folded origami pattern that holds 10k times its own weight |
+    <a href=https://www.sceneandheardnu.com/content/halt-and-catch-fire target="_blank">
+        Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021) |
     </a>
-    By: bookofjoe
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/ target="_blank">
-        Rise of the Triforce |
+    <a href=https://www.anthropic.com/news/claude-sonnet-4-6 target="_blank">
+        Claude Sonnet 4.6 |
     </a>
-    By: max-m
+    By: adocomplete
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-sonnet-4-6-system-card" rel="nofollow">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-sonnet-4-6-system-card</a> [pdf]<p><a href="https:&#x2F;&#x2F;x.com&#x2F;claudeai&#x2F;status&#x2F;2023817132581208353" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;claudeai&#x2F;status&#x2F;2023817132581208353</a> [video] </br>
+</p>
+
+<p>
+Text: 13 years ago, we launched Watsi.org with a Show HN [1].<p>For nearly a year, this community drove so much traffic that we couldn’t list patients fast enough. Then pg saw us on HN, wrote us our first big check, and accepted us as the first YC nonprofit (W13). The next few years were a whirlwind.<p>I was a young, naive founder with just enough experience to know I wanted Watsi to be more efficient, transparent, and innovative than most nonprofits. We spent 24&#x2F;7 talking to users and coding. We did things that don’t scale. We tried our best to be walking, talking pg essays.<p>Over the years we learned that product&#x2F;market fit is different for nonprofits. Not many people wake up and think, &quot;I&#x27;d love to donate to a nonprofit today&quot; with the same oomph that they think, &quot;I&#x27;d love a coffee&quot; or &quot;I&#x27;d like to make more money.&quot;<p>No matter how much effort we put into fundraising, donations grew linearly, while requests for care grew exponentially. I felt caught in the middle. After investing everything I had, I eventually burned out and transitioned to the board.<p>I made a classic founder mistake and intertwined my self-worth with Watsi&#x27;s success. I believed that if I could somehow help every patient, I was a good person, but if I let down some patients, which became inevitable, I was a bad person.<p>This was exacerbated by seeing our for-profit YC batch mates raise massive rounds. I felt like a failure for not scaling Watsi faster, but eventually we accepted reality and set Watsi on more of a slow, steady, and sustainable trajectory.<p>Now that I have perspective, I&#x27;m incredibly proud of what the org has accomplished and grateful to everyone who has done a tour of duty to support us. Watsi donors have donated over $20M to fund 33,241 surgeries, and we have a good shot of helping patients for a long time to come.<p>In a world of fast growth and fast crashes, here&#x27;s a huge thank you to the HN users who have stuck by Watsi, or any other important cause, even when it&#x27;s not on the front page. I believe it embodies the best of humanity. Thanks HN!<p>[1] <a href="http:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4424081">http:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4424081</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/Zaneham/BarraCUDA target="_blank">
+        BarraCUDA Open-source CUDA compiler targeting AMD GPUs |
+    </a>
+    By: rurban
 </li>
 
 <li>
-    <a href=https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf target="_blank">
-        What every compiler writer should know about programmers (2015) [pdf] |
+    <a href=https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/ target="_blank">
+        Thousands of CEOs just admitted AI had no impact on employment or productivity |
     </a>
-    By: tosh
-</li>
-
-<li>
-    <a href=https://www.bbc.com/news/articles/cx2gn239exlo target="_blank">
-        Dark web agent spotted bedroom wall clue to rescue girl from abuse |
-    </a>
-    By: colinprince
-</li>
-
-<li>
-    <a href=https://github.com/zachlatta/freeflow target="_blank">
-        Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue |
-    </a>
-    By: zachlatta
+    By: virgildotcodes
 </li>
 </ol>
