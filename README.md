@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 19 Feb 2026</h4>
+<h4>Check the latest news from: Fri 20 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://eutechmap.com/map target="_blank">
-        European Tech Alternatives |
+    <a href=https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea target="_blank">
+        MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes |
     </a>
-    By: puppion
+    By: interpidused
 </li>
 
 <li>
-    <a href=https://pudding.cool/2026/02/womens-sizing/ target="_blank">
-        Sizing chaos |
+    <a href=https://www.together.ai/blog/consistency-diffusion-language-models target="_blank">
+        Consistency diffusion language models: Up to 14x faster, no quality loss |
     </a>
-    By: zdw
+    By: zagwdt
 </li>
 
 <li>
-    <a href=https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/ target="_blank">
-        27-year-old Apple iBooks can connect to Wi-Fi and download official updates |
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/ target="_blank">
+        Gemini 3.1 Pro |
     </a>
-    By: surprisetalk
+    By: MallocVoidstar
+</li>
+
+<p>
+Text: Preview: <a href="https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google&#x2F;model-garden&#x2F;gemini-3.1-pro-preview?pli=1" rel="nofollow">https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google...</a><p>Card: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-1-pro&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-1-pro&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/ target="_blank">
+        An AI Agent Published a Hit Piece on Me – The Operator Came Forward |
+    </a>
+    By: scottshambaugh
 </li>
 
 <li>
-    <a href=https://code.claude.com/docs/en/legal-and-compliance target="_blank">
-        Anthropic officially bans using subscription auth for third party use |
+    <a href=https://www.bbc.com/news/articles/c3ew5jlqz87o target="_blank">
+        Mystery donor gives Japanese city $3.6M in gold bars to fix water system |
     </a>
-    By: theahura
-</li>
-
-<li>
-    <a href=https://nicolasdickenmann.com/blog/the-great-fp64-divide.html target="_blank">
-        15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern |
-    </a>
-    By: fp64enjoyer
+    By: tartoran
 </li>
 </ol>
