@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 20 Feb 2026</h4>
+<h4>Check the latest news from: Sat 21 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea target="_blank">
-        MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes |
+    <a href=https://f-droid.org/2026/02/20/twif.html target="_blank">
+        Keep Android Open |
     </a>
-    By: interpidused
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://www.together.ai/blog/consistency-diffusion-language-models target="_blank">
-        Consistency diffusion language models: Up to 14x faster, no quality loss |
+    <a href=https://words.filippo.io/dependabot/ target="_blank">
+        Turn Dependabot Off |
     </a>
-    By: zagwdt
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/ target="_blank">
-        Gemini 3.1 Pro |
+    <a href=https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer target="_blank">
+        I found a Vulnerability. They found a Lawyer |
     </a>
-    By: MallocVoidstar
-</li>
-
-<p>
-Text: Preview: <a href="https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google&#x2F;model-garden&#x2F;gemini-3.1-pro-preview?pli=1" rel="nofollow">https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google...</a><p>Card: <a href="https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-1-pro&#x2F;" rel="nofollow">https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-1-pro&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/ target="_blank">
-        An AI Agent Published a Hit Piece on Me – The Operator Came Forward |
-    </a>
-    By: scottshambaugh
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/c3ew5jlqz87o target="_blank">
-        Mystery donor gives Japanese city $3.6M in gold bars to fix water system |
+    <a href=https://pilk.website/3/facebook-is-absolutely-cooked target="_blank">
+        Facebook is cooked |
     </a>
-    By: tartoran
+    By: npilk
+</li>
+
+<li>
+    <a href=https://worldwideweb.cern.ch target="_blank">
+        CERN rebuilt the original browser from 1989 (2019) |
+    </a>
+    By: tylerdane
 </li>
 </ol>
