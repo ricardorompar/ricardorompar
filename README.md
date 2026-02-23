@@ -45,44 +45,57 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 22 Feb 2026</h4>
+<h4>Check the latest news from: Mon 23 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://boristane.com/blog/how-i-use-claude-code/ target="_blank">
-        How I use Claude Code: Separation of planning and execution |
+    <a href=https://hawksley.org/2026/02/17/timeframe.html target="_blank">
+        I built Timeframe, our family e-paper dashboard |
     </a>
-    By: vinhnx
+    By: saeedesmaili
 </li>
 
 <li>
-    <a href=https://ukiyo-e.org/ target="_blank">
-        Japanese Woodblock Print Search |
+    <a href=https://oxc.rs/ target="_blank">
+        The JavaScript Oxidation Compiler |
     </a>
-    By: curmudgeon22
+    By: modinfo
 </li>
 
 <li>
-    <a href=https://github.com/xaskasdf/ntransformer target="_blank">
-        Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU |
+    <a href=https://joinloops.org/ target="_blank">
+        Loops is a federated, open-source TikTok |
     </a>
-    By: xaskasdf
+    By: Gooblebrai
+</li>
+
+<li>
+    <a href=https://cia-factbook-archive.fly.dev/ target="_blank">
+        Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable |
+    </a>
+    By: MilkMp
 </li>
 
 <p>
-Text: Hi everyone, I&#x27;m kinda involved in some retrogaming and with some experiments I ran into the following question: &quot;It would be possible to run transformer models bypassing the cpu&#x2F;ram, connecting the gpu to the nvme?&quot;<p>This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho </br>
+Text: A structured archive of CIA World Factbook data spanning 1990–2025.
+It currently includes:
+36 editions
+281 entities
+~1.06M parsed fields
+full-text + boolean search
+country&#x2F;year comparisons
+map&#x2F;trend&#x2F;ranking analysis views
+CSV&#x2F;XLSX&#x2F;PDF export
+The goal is to preserve long-horizon public-domain government data and make cross-year analysis practical.
+Live: <a href="https:&#x2F;&#x2F;cia-factbook-archive.fly.dev" rel="nofollow">https:&#x2F;&#x2F;cia-factbook-archive.fly.dev</a>
+About&#x2F;method details: <a href="https:&#x2F;&#x2F;cia-factbook-archive.fly.dev&#x2F;about" rel="nofollow">https:&#x2F;&#x2F;cia-factbook-archive.fly.dev&#x2F;about</a>
+Data source is the CIA World Factbook (public domain).
+Not affiliated with the CIA or U.S. Government. </br>
 </p>
 
 <li>
-    <a href=https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/ target="_blank">
-        A Botnet Accidentally Destroyed I2P |
+    <a href=https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/ target="_blank">
+        How to train your program verifier |
     </a>
-    By: Cider9986
-</li>
-
-<li>
-    <a href=https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate target="_blank">
-        Two Bits Are Better Than One: making bloom filters 2x more accurate |
-    </a>
-    By: matheusalmeida
+    By: matt_d
 </li>
 </ol>
