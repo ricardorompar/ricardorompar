@@ -45,57 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 23 Feb 2026</h4>
+<h4>Check the latest news from: Tue 24 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://hawksley.org/2026/02/17/timeframe.html target="_blank">
-        I built Timeframe, our family e-paper dashboard |
+    <a href=https://gwern.net/doc/iq/high/smpy/1984-clements.pdf target="_blank">
+        Terence Tao, at 8 years old (1984) [pdf] |
     </a>
-    By: saeedesmaili
+    By: gurjeet
 </li>
 
 <li>
-    <a href=https://oxc.rs/ target="_blank">
-        The JavaScript Oxidation Compiler |
+    <a href=https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html target="_blank">
+        Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows |
     </a>
-    By: modinfo
+    By: wglb
 </li>
 
 <li>
-    <a href=https://joinloops.org/ target="_blank">
-        Loops is a federated, open-source TikTok |
+    <a href=https://dork.dev/posts/2026-02-20-ported-coreboot/ target="_blank">
+        I Ported Coreboot to the ThinkPad X270 |
     </a>
-    By: Gooblebrai
+    By: todsacerdoti
 </li>
 
 <li>
-    <a href=https://cia-factbook-archive.fly.dev/ target="_blank">
-        Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable |
+    <a href=https://lyra.horse/x86css/ target="_blank">
+        Show HN: X86CSS – An x86 CPU emulator written in CSS |
     </a>
-    By: MilkMp
+    By: rebane2001
 </li>
 
-<p>
-Text: A structured archive of CIA World Factbook data spanning 1990–2025.
-It currently includes:
-36 editions
-281 entities
-~1.06M parsed fields
-full-text + boolean search
-country&#x2F;year comparisons
-map&#x2F;trend&#x2F;ranking analysis views
-CSV&#x2F;XLSX&#x2F;PDF export
-The goal is to preserve long-horizon public-domain government data and make cross-year analysis practical.
-Live: <a href="https:&#x2F;&#x2F;cia-factbook-archive.fly.dev" rel="nofollow">https:&#x2F;&#x2F;cia-factbook-archive.fly.dev</a>
-About&#x2F;method details: <a href="https:&#x2F;&#x2F;cia-factbook-archive.fly.dev&#x2F;about" rel="nofollow">https:&#x2F;&#x2F;cia-factbook-archive.fly.dev&#x2F;about</a>
-Data source is the CIA World Factbook (public domain).
-Not affiliated with the CIA or U.S. Government. </br>
-</p>
-
 <li>
-    <a href=https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/ target="_blank">
-        How to train your program verifier |
+    <a href=https://www.guidelabs.ai/post/steerling-8b-base-model-release/ target="_blank">
+        Show HN: Steerling-8B, a language model that can explain any token it generates |
     </a>
-    By: matt_d
+    By: adebayoj
 </li>
 </ol>
