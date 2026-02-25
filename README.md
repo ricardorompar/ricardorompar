@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 24 Feb 2026</h4>
+<h4>Check the latest news from: Wed 25 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://gwern.net/doc/iq/high/smpy/1984-clements.pdf target="_blank">
-        Terence Tao, at 8 years old (1984) [pdf] |
+    <a href=https://www.calebleak.com/posts/dog-game/ target="_blank">
+        I'm helping my dog vibe code games |
     </a>
-    By: gurjeet
+    By: cleak
 </li>
 
 <li>
-    <a href=https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html target="_blank">
-        Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows |
+    <a href=https://github.com/moonshine-ai/moonshine target="_blank">
+        Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3 |
     </a>
-    By: wglb
+    By: petewarden
+</li>
+
+<p>
+Text: I wanted to share our new speech to text model, and the library to use them effectively. We&#x27;re a small startup (six people, sub-$100k monthly GPU budget) so I&#x27;m proud of the work the team has done to create streaming STT models with lower word-error rates than OpenAI&#x27;s largest Whisper model. Admittedly Large v3 is a couple of years old, but we&#x27;re near the top the HF OpenASR leaderboard, even up against Nvidia&#x27;s Parakeet family. Anyway, I&#x27;d love to get feedback on the models and software, and hear about what people might build with it. </br>
+</p>
+
+<li>
+    <a href=https://www.inceptionlabs.ai/blog/introducing-mercury-2 target="_blank">
+        Mercury 2: The fastest reasoning LLM, powered by diffusion |
+    </a>
+    By: fittingopposite
 </li>
 
 <li>
-    <a href=https://dork.dev/posts/2026-02-20-ported-coreboot/ target="_blank">
-        I Ported Coreboot to the ThinkPad X270 |
+    <a href=https://pi.dev target="_blank">
+        Pi – A minimal terminal coding harness |
     </a>
-    By: todsacerdoti
+    By: kristianpaul
 </li>
 
 <li>
-    <a href=https://lyra.horse/x86css/ target="_blank">
-        Show HN: X86CSS – An x86 CPU emulator written in CSS |
+    <a href=https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/ target="_blank">
+        Mac mini will be made at a new facility in Houston |
     </a>
-    By: rebane2001
-</li>
-
-<li>
-    <a href=https://www.guidelabs.ai/post/steerling-8b-base-model-release/ target="_blank">
-        Show HN: Steerling-8B, a language model that can explain any token it generates |
-    </a>
-    By: adebayoj
+    By: haunter
 </li>
 </ol>
