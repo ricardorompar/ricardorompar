@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 25 Feb 2026</h4>
+<h4>Check the latest news from: Thu 26 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://www.calebleak.com/posts/dog-game/ target="_blank">
-        I'm helping my dog vibe code games |
+    <a href=https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules target="_blank">
+        Google API keys weren't secrets, but then Gemini changed the rules |
     </a>
-    By: cleak
+    By: hiisthisthingon
 </li>
 
 <li>
-    <a href=https://github.com/moonshine-ai/moonshine target="_blank">
-        Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3 |
+    <a href=https://spectrum.ieee.org/jimi-hendrix-systems-engineer target="_blank">
+        Jimi Hendrix was a systems engineer |
     </a>
-    By: petewarden
-</li>
-
-<p>
-Text: I wanted to share our new speech to text model, and the library to use them effectively. We&#x27;re a small startup (six people, sub-$100k monthly GPU budget) so I&#x27;m proud of the work the team has done to create streaming STT models with lower word-error rates than OpenAI&#x27;s largest Whisper model. Admittedly Large v3 is a couple of years old, but we&#x27;re near the top the HF OpenASR leaderboard, even up against Nvidia&#x27;s Parakeet family. Anyway, I&#x27;d love to get feedback on the models and software, and hear about what people might build with it. </br>
-</p>
-
-<li>
-    <a href=https://www.inceptionlabs.ai/blog/introducing-mercury-2 target="_blank">
-        Mercury 2: The fastest reasoning LLM, powered by diffusion |
-    </a>
-    By: fittingopposite
+    By: tintinnabula
 </li>
 
 <li>
-    <a href=https://pi.dev target="_blank">
-        Pi – A minimal terminal coding harness |
+    <a href=https://www.grumpy-economist.com/p/refine target="_blank">
+        I don't know how you get here from "predict the next word." |
     </a>
-    By: kristianpaul
+    By: qsi
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/ target="_blank">
-        Mac mini will be made at a new facility in Houston |
+    <a href=https://info.cern.ch target="_blank">
+        First Website (1992) |
     </a>
-    By: haunter
+    By: shrikaranhanda
+</li>
+
+<li>
+    <a href=https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ target="_blank">
+        RAM now represents 35 percent of bill of materials for HP PCs |
+    </a>
+    By: jnord
 </li>
 </ol>
