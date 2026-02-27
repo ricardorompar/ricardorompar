@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 26 Feb 2026</h4>
+<h4>Check the latest news from: Fri 27 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules target="_blank">
-        Google API keys weren't secrets, but then Gemini changed the rules |
+    <a href=https://www.anthropic.com/news/statement-department-of-war target="_blank">
+        Statement from Dario Amodei on our discussions with the Department of War |
     </a>
-    By: hiisthisthingon
+    By: qwertox
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/jimi-hendrix-systems-engineer target="_blank">
-        Jimi Hendrix was a systems engineer |
+    <a href=https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/ target="_blank">
+        The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed? |
     </a>
-    By: tintinnabula
+    By: moultano
 </li>
 
 <li>
-    <a href=https://www.grumpy-economist.com/p/refine target="_blank">
-        I don't know how you get here from "predict the next word." |
+    <a href=https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html target="_blank">
+        Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic |
     </a>
-    By: qsi
+    By: mikece
 </li>
 
 <li>
-    <a href=https://info.cern.ch target="_blank">
-        First Website (1992) |
+    <a href=https://amplifying.ai/research/claude-code-picks target="_blank">
+        What Claude Code Chooses |
     </a>
-    By: shrikaranhanda
+    By: tin7in
 </li>
 
 <li>
-    <a href=https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ target="_blank">
-        RAM now represents 35 percent of bill of materials for HP PCs |
+    <a href=https://twitter.com/jack/status/2027129697092731343 target="_blank">
+        Layoffs at Block |
     </a>
-    By: jnord
+    By: mlex
 </li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;02&#x2F;26&#x2F;block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html" rel="nofollow">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;02&#x2F;26&#x2F;block-laying-off-about-4000-...</a><p><a href="https:&#x2F;&#x2F;www.marketwatch.com&#x2F;story&#x2F;block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247" rel="nofollow">https:&#x2F;&#x2F;www.marketwatch.com&#x2F;story&#x2F;block-plans-to-lay-off-nea...</a> </br>
+</p>
 </ol>
