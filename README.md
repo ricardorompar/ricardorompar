@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 27 Feb 2026</h4>
+<h4>Check the latest news from: Sat 28 Feb 2026</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/statement-department-of-war target="_blank">
-        Statement from Dario Amodei on our discussions with the Department of War |
+    <a href=https://notdivided.org target="_blank">
+        We Will Not Be Divided |
     </a>
-    By: qwertox
+    By: BloondAndDoom
 </li>
 
 <li>
-    <a href=https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/ target="_blank">
-        The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed? |
+    <a href=https://www.anthropic.com/news/statement-comments-secretary-war target="_blank">
+        Statement on the comments from Secretary of War Pete Hegseth |
     </a>
-    By: moultano
+    By: surprisetalk
 </li>
 
 <li>
-    <a href=https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html target="_blank">
-        Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic |
+    <a href=https://blog.timcappalli.me/p/passkeys-prf-warning/ target="_blank">
+        Don't use passkeys for encrypting user data |
     </a>
-    By: mikece
+    By: zdw
 </li>
 
 <li>
-    <a href=https://amplifying.ai/research/claude-code-picks target="_blank">
-        What Claude Code Chooses |
+    <a href=https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533 target="_blank">
+        Croatia declared free of landmines after 31 years |
     </a>
-    By: tin7in
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://twitter.com/jack/status/2027129697092731343 target="_blank">
-        Layoffs at Block |
+    <a href=https://twitter.com/sama/status/2027578652477821175 target="_blank">
+        OpenAI agrees with Dept. of War to deploy models in their classified network |
     </a>
-    By: mlex
+    By: eoskx
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;02&#x2F;26&#x2F;block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html" rel="nofollow">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;02&#x2F;26&#x2F;block-laying-off-about-4000-...</a><p><a href="https:&#x2F;&#x2F;www.marketwatch.com&#x2F;story&#x2F;block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247" rel="nofollow">https:&#x2F;&#x2F;www.marketwatch.com&#x2F;story&#x2F;block-plans-to-lay-off-nea...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175</a><p><a href="https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F;02&#x2F;27&#x2F;openai-in-talks-with-pentagon-after-anthropic-blowup&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F;02&#x2F;27&#x2F;openai-in-talks-with-pentagon...</a> </br>
 </p>
 </ol>
