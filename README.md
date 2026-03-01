@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 28 Feb 2026</h4>
+<h4>Check the latest news from: Sun 01 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://notdivided.org target="_blank">
-        We Will Not Be Divided |
+    <a href=http://karpathy.github.io/2026/02/12/microgpt/ target="_blank">
+        Microgpt |
     </a>
-    By: BloondAndDoom
+    By: tambourine_man
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/statement-comments-secretary-war target="_blank">
-        Statement on the comments from Secretary of War Pete Hegseth |
+    <a href=https://twitter.com/OpenAI/status/2027846016423321831 target="_blank">
+        We do not think Anthropic should be designated as a supply chain risk |
     </a>
-    By: surprisetalk
+    By: golfer
 </li>
 
 <li>
-    <a href=https://blog.timcappalli.me/p/passkeys-prf-warning/ target="_blank">
-        Don't use passkeys for encrypting user data |
+    <a href=https://dl.acm.org/doi/fullHtml/10.1145/238386.238611 target="_blank">
+        The Windows 95 user interface: A case study in usability engineering (1996) |
     </a>
-    By: zdw
+    By: ksec
 </li>
 
 <li>
-    <a href=https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533 target="_blank">
-        Croatia declared free of landmines after 31 years |
+    <a href=https://help.obsidian.md/sync/headless target="_blank">
+        Obsidian Sync now has a headless client |
     </a>
-    By: toomuchtodo
+    By: adilmoujahid
 </li>
 
 <li>
-    <a href=https://twitter.com/sama/status/2027578652477821175 target="_blank">
-        OpenAI agrees with Dept. of War to deploy models in their classified network |
+    <a href=https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic target="_blank">
+        H-Bomb: A Frank Lloyd Wright Typographic Mystery |
     </a>
-    By: eoskx
+    By: mrngm
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175</a><p><a href="https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F;02&#x2F;27&#x2F;openai-in-talks-with-pentagon-after-anthropic-blowup&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F;02&#x2F;27&#x2F;openai-in-talks-with-pentagon...</a> </br>
-</p>
 </ol>
