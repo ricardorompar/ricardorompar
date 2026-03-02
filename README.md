@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 01 Mar 2026</h4>
+<h4>Check the latest news from: Mon 02 Mar 2026</h4>
 <ol>
 <li>
-    <a href=http://karpathy.github.io/2026/02/12/microgpt/ target="_blank">
-        Microgpt |
+    <a href=https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/ target="_blank">
+        Computer-generated dream world: Virtual reality for a 286 processor |
     </a>
-    By: tambourine_man
+    By: MBCook
 </li>
 
 <li>
-    <a href=https://twitter.com/OpenAI/status/2027846016423321831 target="_blank">
-        We do not think Anthropic should be designated as a supply chain risk |
+    <a href=https://github.com/mandel-macaque/memento target="_blank">
+        If AI writes code, should the session be part of the commit? |
     </a>
-    By: golfer
+    By: mandel_x
 </li>
 
 <li>
-    <a href=https://dl.acm.org/doi/fullHtml/10.1145/238386.238611 target="_blank">
-        The Windows 95 user interface: A case study in usability engineering (1996) |
+    <a href=https://developer.chrome.com/blog/webmcp-epp target="_blank">
+        WebMCP is available for early preview |
     </a>
-    By: ksec
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://help.obsidian.md/sync/headless target="_blank">
-        Obsidian Sync now has a headless client |
+    <a href=https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae target="_blank">
+        Everett shuts down Flock camera network after judge rules footage public record |
     </a>
-    By: adilmoujahid
+    By: aranaur
 </li>
 
 <li>
-    <a href=https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic target="_blank">
-        H-Bomb: A Frank Lloyd Wright Typographic Mystery |
+    <a href=https://github.com/kossisoroyce/timber target="_blank">
+        Show HN: Timber – Ollama for classical ML models, 336x faster than Python |
     </a>
-    By: mrngm
+    By: kossisoroyce
 </li>
 </ol>
