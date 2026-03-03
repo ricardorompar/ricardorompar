@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 02 Mar 2026</h4>
+<h4>Check the latest news from: Tue 03 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/ target="_blank">
-        Computer-generated dream world: Virtual reality for a 286 processor |
+    <a href=https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything target="_blank">
+        Meta’s AI smart glasses and data privacy concerns |
     </a>
-    By: MBCook
+    By: sandbach
 </li>
 
 <li>
-    <a href=https://github.com/mandel-macaque/memento target="_blank">
-        If AI writes code, should the session be part of the commit? |
+    <a href=https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657 target="_blank">
+        British Columbia is permanently adopting daylight time |
     </a>
-    By: mandel_x
+    By: ireflect
 </li>
 
 <li>
-    <a href=https://developer.chrome.com/blog/webmcp-epp target="_blank">
-        WebMCP is available for early preview |
+    <a href=https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes target="_blank">
+        Ars Technica fires reporter after AI controversy involving fabricated quotes |
     </a>
-    By: andsoitis
+    By: danso
 </li>
 
 <li>
-    <a href=https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae target="_blank">
-        Everett shuts down Flock camera network after judge rules footage public record |
+    <a href=https://mitxela.com/projects/screwcounter target="_blank">
+        Simple screw counter |
     </a>
-    By: aranaur
+    By: jk_tech
 </li>
 
 <li>
-    <a href=https://github.com/kossisoroyce/timber target="_blank">
-        Show HN: Timber – Ollama for classical ML models, 336x faster than Python |
+    <a href=https://github.com/adamveld12/ghost target="_blank">
+        Intent-Based Commits |
     </a>
-    By: kossisoroyce
+    By: adamveld12
 </li>
 </ol>
