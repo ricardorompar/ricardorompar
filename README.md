@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 03 Mar 2026</h4>
+<h4>Check the latest news from: Wed 04 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything target="_blank">
-        Meta’s AI smart glasses and data privacy concerns |
+    <a href=https://grapheneos.social/@GrapheneOS/116160393783585567 target="_blank">
+        Motorola GrapheneOS devices will be bootloader unlockable/relockable |
     </a>
-    By: sandbach
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657 target="_blank">
-        British Columbia is permanently adopting daylight time |
+    <a href=https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/ target="_blank">
+        Nobody Gets Promoted for Simplicity |
     </a>
-    By: ireflect
+    By: SerCe
 </li>
 
 <li>
-    <a href=https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes target="_blank">
-        Ars Technica fires reporter after AI controversy involving fabricated quotes |
+    <a href=https://develop--gpvm-website.netlify.app/resources/ target="_blank">
+        Graphics Programming Resources |
     </a>
-    By: danso
+    By: abetusk
 </li>
 
 <li>
-    <a href=https://mitxela.com/projects/screwcounter target="_blank">
-        Simple screw counter |
+    <a href=https://www.bbc.com/news/articles/cly2m5e5ke4o target="_blank">
+        TikTok will not introduce end-to-end encryption, saying it makes users less safe |
     </a>
-    By: jk_tech
+    By: 1659447091
 </li>
 
 <li>
-    <a href=https://github.com/adamveld12/ghost target="_blank">
-        Intent-Based Commits |
+    <a href=https://github.com/Ataraxy-Labs/weave target="_blank">
+        Weave – A language aware merge algorithm based on entities |
     </a>
-    By: adamveld12
+    By: rs545837
 </li>
 </ol>
