@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 04 Mar 2026</h4>
+<h4>Check the latest news from: Thu 05 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://grapheneos.social/@GrapheneOS/116160393783585567 target="_blank">
-        Motorola GrapheneOS devices will be bootloader unlockable/relockable |
+    <a href=https://github.com/googleworkspace/cli target="_blank">
+        Google Workspace CLI |
     </a>
-    By: pabs3
+    By: gonzalovargas
 </li>
 
 <li>
-    <a href=https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/ target="_blank">
-        Nobody Gets Promoted for Simplicity |
+    <a href=https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/ target="_blank">
+        MacBook Neo |
     </a>
-    By: SerCe
+    By: dm
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://dylan.gr/1772520728 target="_blank">
+        You Just Reveived |
+    </a>
+    By: djnaraps
 </li>
 
 <li>
-    <a href=https://develop--gpvm-website.netlify.app/resources/ target="_blank">
-        Graphics Programming Resources |
+    <a href=https://poppy-connection-keeper.netlify.app/ target="_blank">
+        Show HN: Poppy – a simple app to stay intentional with relationships |
     </a>
-    By: abetusk
+    By: mahirhiro
 </li>
 
-<li>
-    <a href=https://www.bbc.com/news/articles/cly2m5e5ke4o target="_blank">
-        TikTok will not introduce end-to-end encryption, saying it makes users less safe |
-    </a>
-    By: 1659447091
-</li>
+<p>
+Text: I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions. </br>
+</p>
 
 <li>
-    <a href=https://github.com/Ataraxy-Labs/weave target="_blank">
-        Weave – A language aware merge algorithm based on entities |
+    <a href=https://bill.newgrounds.com/news/post/1607118 target="_blank">
+        Building a new Flash |
     </a>
-    By: rs545837
+    By: TechPlasma
 </li>
 </ol>
