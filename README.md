@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 05 Mar 2026</h4>
+<h4>Check the latest news from: Fri 06 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/googleworkspace/cli target="_blank">
-        Google Workspace CLI |
+    <a href=https://blog.system76.com/post/system76-on-age-verification/ target="_blank">
+        System76 on Age Verification Laws |
     </a>
-    By: gonzalovargas
+    By: LorenDB
 </li>
 
 <li>
-    <a href=https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/ target="_blank">
-        MacBook Neo |
+    <a href=https://openai.com/index/introducing-gpt-5-4/ target="_blank">
+        GPT-5.4 |
     </a>
-    By: dm
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://dylan.gr/1772520728 target="_blank">
-        You Just Reveived |
-    </a>
-    By: djnaraps
-</li>
-
-<li>
-    <a href=https://poppy-connection-keeper.netlify.app/ target="_blank">
-        Show HN: Poppy – a simple app to stay intentional with relationships |
-    </a>
-    By: mahirhiro
+    By: mudkipdev
 </li>
 
 <p>
-Text: I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions. </br>
+Text: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;</a><p><a href="https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811</a> </br>
 </p>
 
 <li>
-    <a href=https://bill.newgrounds.com/news/post/1607118 target="_blank">
-        Building a new Flash |
+    <a href=https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct target="_blank">
+        Nobody ever got fired for using a struct |
     </a>
-    By: TechPlasma
+    By: gz09
+</li>
+
+<li>
+    <a href=https://www.anthropic.com/news/where-stand-department-war target="_blank">
+        Where things stand with the Department of War |
+    </a>
+    By: surprisetalk
+</li>
+
+<li>
+    <a href=https://mas.to/@gabrielesvelto/116171750653898304 target="_blank">
+        10% of Firefox crashes are caused by bitflips |
+    </a>
+    By: marvinborner
 </li>
 </ol>
