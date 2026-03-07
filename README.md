@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 06 Mar 2026</h4>
+<h4>Check the latest news from: Sat 07 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.system76.com/post/system76-on-age-verification/ target="_blank">
-        System76 on Age Verification Laws |
+    <a href=https://plasma-bigscreen.org target="_blank">
+        Plasma Bigscreen – 10-foot interface for KDE plasma |
     </a>
-    By: LorenDB
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-gpt-5-4/ target="_blank">
-        GPT-5.4 |
+    <a href=https://github.com/golang/go/issues/62026 target="_blank">
+        UUID package coming to Go standard library |
     </a>
-    By: mudkipdev
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;</a><p><a href="https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811</a> </br>
-</p>
-
-<li>
-    <a href=https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct target="_blank">
-        Nobody ever got fired for using a struct |
-    </a>
-    By: gz09
+    By: soypat
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/where-stand-department-war target="_blank">
-        Where things stand with the Department of War |
+    <a href=https://will-keleher.com/posts/this-css-makes-me-human/ target="_blank">
+        this css proves me human |
+    </a>
+    By: todsacerdoti
+</li>
+
+<li>
+    <a href=https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease target="_blank">
+        Can a wealthy family change the course of a deadly brain disease? |
+    </a>
+    By: Snoozus
+</li>
+
+<li>
+    <a href=https://dynomight.net/pattern/ target="_blank">
+        Maybe There's a Pattern Here? |
     </a>
     By: surprisetalk
-</li>
-
-<li>
-    <a href=https://mas.to/@gabrielesvelto/116171750653898304 target="_blank">
-        10% of Firefox crashes are caused by bitflips |
-    </a>
-    By: marvinborner
 </li>
 </ol>
