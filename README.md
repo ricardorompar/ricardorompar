@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 07 Mar 2026</h4>
+<h4>Check the latest news from: Sun 08 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://plasma-bigscreen.org target="_blank">
-        Plasma Bigscreen – 10-foot interface for KDE plasma |
+    <a href=https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html target="_blank">
+        Cloud VM benchmarks 2026 |
     </a>
-    By: PaulHoule
+    By: dkechag
 </li>
 
 <li>
-    <a href=https://github.com/golang/go/issues/62026 target="_blank">
-        UUID package coming to Go standard library |
+    <a href=https://github.com/0x0mer/CasNum target="_blank">
+        CasNum |
     </a>
-    By: soypat
+    By: aebtebeten
 </li>
 
 <li>
-    <a href=https://will-keleher.com/posts/this-css-makes-me-human/ target="_blank">
-        this css proves me human |
+    <a href=https://github.com/astral-sh/uv/pull/17643 target="_blank">
+        "Warn about PyPy being unmaintained" |
     </a>
-    By: todsacerdoti
+    By: networked
 </li>
 
 <li>
-    <a href=https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease target="_blank">
-        Can a wealthy family change the course of a deadly brain disease? |
+    <a href=https://github.com/MonoGame/MonoGame target="_blank">
+        MonoGame: A .NET framework for making cross-platform games |
     </a>
-    By: Snoozus
+    By: azhenley
 </li>
 
 <li>
-    <a href=https://dynomight.net/pattern/ target="_blank">
-        Maybe There's a Pattern Here? |
+    <a href=https://cacm.acm.org/research/a-decade-of-docker-containers/ target="_blank">
+        A decade of Docker containers |
     </a>
-    By: surprisetalk
+    By: zacwest
 </li>
 </ol>
