@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 08 Mar 2026</h4>
+<h4>Check the latest news from: Mon 09 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html target="_blank">
-        Cloud VM benchmarks 2026 |
+    <a href=https://agent-safehouse.dev/ target="_blank">
+        Agent Safehouse – macOS-native sandboxing for local agents |
     </a>
-    By: dkechag
+    By: atombender
 </li>
 
 <li>
-    <a href=https://github.com/0x0mer/CasNum target="_blank">
-        CasNum |
+    <a href=https://www.youtube.com/watch?v=qZuR-772cks target="_blank">
+        Microscopes can see video on a laserdisc |
     </a>
-    By: aebtebeten
+    By: zdw
 </li>
 
 <li>
-    <a href=https://github.com/astral-sh/uv/pull/17643 target="_blank">
-        "Warn about PyPy being unmaintained" |
+    <a href=https://github.com/Dieu-de-l-elec/AngstromIO-devboard target="_blank">
+        PCB devboard the size of a USB-C plug |
     </a>
-    By: networked
+    By: zachlatta
 </li>
 
 <li>
-    <a href=https://github.com/MonoGame/MonoGame target="_blank">
-        MonoGame: A .NET framework for making cross-platform games |
+    <a href=https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/ target="_blank">
+        We should revisit literate programming in the agent era |
     </a>
-    By: azhenley
+    By: horseradish
 </li>
 
 <li>
-    <a href=https://cacm.acm.org/research/a-decade-of-docker-containers/ target="_blank">
-        A decade of Docker containers |
+    <a href=https://www.smartlab.at/rss-revival-life-after-social-media/ target="_blank">
+        The death of social media is the renaissance of RSS (2025) |
     </a>
-    By: zacwest
+    By: jruohonen
 </li>
 </ol>
