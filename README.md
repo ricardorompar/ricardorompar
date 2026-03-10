@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 09 Mar 2026</h4>
+<h4>Check the latest news from: Tue 10 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://agent-safehouse.dev/ target="_blank">
-        Agent Safehouse – macOS-native sandboxing for local agents |
+    <a href=https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ target="_blank">
+        Learnings from paying artists royalties for AI-generated art |
     </a>
-    By: atombender
+    By: jenthoven
 </li>
 
 <li>
-    <a href=https://www.youtube.com/watch?v=qZuR-772cks target="_blank">
-        Microscopes can see video on a laserdisc |
+    <a href=https://www.rahuljuliato.com/posts/emacs-solo-two-years target="_blank">
+        Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor |
     </a>
-    By: zdw
+    By: celadevra_
 </li>
 
 <li>
-    <a href=https://github.com/Dieu-de-l-elec/AngstromIO-devboard target="_blank">
-        PCB devboard the size of a USB-C plug |
+    <a href=https://felixturner.github.io/hex-map-wfc/article/ target="_blank">
+        Building a Procedural Hex Map with Wave Function Collapse |
     </a>
-    By: zachlatta
+    By: imadr
 </li>
 
 <li>
-    <a href=https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/ target="_blank">
-        We should revisit literate programming in the agent era |
+    <a href=https://www.paradedb.com/blog/optimizing-top-k target="_blank">
+        How we optimized Top K in Postgres |
     </a>
-    By: horseradish
+    By: philippemnoel
 </li>
 
 <li>
-    <a href=https://www.smartlab.at/rss-revival-life-after-social-media/ target="_blank">
-        The death of social media is the renaissance of RSS (2025) |
+    <a href=https://realtuner.online/ target="_blank">
+        Show HN: Remotely use my guitar tuner |
     </a>
-    By: jruohonen
+    By: smith-kyle
 </li>
 </ol>
