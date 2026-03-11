@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 10 Mar 2026</h4>
+<h4>Check the latest news from: Wed 11 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ target="_blank">
-        Learnings from paying artists royalties for AI-generated art |
+    <a href=https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html target="_blank">
+        Tony Hoare has died |
     </a>
-    By: jenthoven
+    By: speckx
 </li>
 
 <li>
-    <a href=https://www.rahuljuliato.com/posts/emacs-solo-two-years target="_blank">
-        Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor |
+    <a href=https://ziglang.org/devlog/2026/#2026-03-10 target="_blank">
+        Zig – Type Resolution Redesign and Language Changes |
     </a>
-    By: celadevra_
+    By: Retro_Dev
 </li>
 
 <li>
-    <a href=https://felixturner.github.io/hex-map-wfc/article/ target="_blank">
-        Building a Procedural Hex Map with Wave Function Collapse |
+    <a href=https://ionathan.ch/2026/02/16/angzarr.html target="_blank">
+        U+237C ⍼ Is Azimuth |
     </a>
-    By: imadr
+    By: cokernel_hacker
 </li>
 
 <li>
-    <a href=https://www.paradedb.com/blog/optimizing-top-k target="_blank">
-        How we optimized Top K in Postgres |
+    <a href=https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/ target="_blank">
+        Cloudflare crawl endpoint |
     </a>
-    By: philippemnoel
+    By: jeffpalmer
 </li>
 
 <li>
-    <a href=https://realtuner.online/ target="_blank">
-        Show HN: Remotely use my guitar tuner |
+    <a href=https://github.com/gcv/julia-snail target="_blank">
+        Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider |
     </a>
-    By: smith-kyle
+    By: TheWiggles
 </li>
 </ol>
