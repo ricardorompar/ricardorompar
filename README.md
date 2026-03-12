@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 11 Mar 2026</h4>
+<h4>Check the latest news from: Thu 12 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html target="_blank">
-        Tony Hoare has died |
+    <a href=http://satproto.org/ target="_blank">
+        Show HN: s@: decentralized social networking over static sites |
     </a>
-    By: speckx
+    By: remywang
 </li>
 
 <li>
-    <a href=https://ziglang.org/devlog/2026/#2026-03-10 target="_blank">
-        Zig – Type Resolution Redesign and Language Changes |
+    <a href=https://bloomberg.github.io/js-blog/post/temporal/ target="_blank">
+        Temporal: The 9-year journey to fix time in JavaScript |
     </a>
-    By: Retro_Dev
+    By: robpalmer
 </li>
 
 <li>
-    <a href=https://ionathan.ch/2026/02/16/angzarr.html target="_blank">
-        U+237C ⍼ Is Azimuth |
+    <a href=https://www.proxylity.com/articles/wireguard-is-two-things.html target="_blank">
+        WireGuard Is Two Things |
     </a>
-    By: cokernel_hacker
+    By: mlhpdx
 </li>
 
 <li>
-    <a href=https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/ target="_blank">
-        Cloudflare crawl endpoint |
+    <a href=https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/ target="_blank">
+        Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results |
     </a>
-    By: jeffpalmer
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://github.com/gcv/julia-snail target="_blank">
-        Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider |
+    <a href=https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/ target="_blank">
+        Making WebAssembly a first-class language on the Web |
     </a>
-    By: TheWiggles
+    By: mikece
 </li>
 </ol>
