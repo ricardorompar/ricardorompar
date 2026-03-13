@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 12 Mar 2026</h4>
+<h4>Check the latest news from: Fri 13 Mar 2026</h4>
 <ol>
 <li>
-    <a href=http://satproto.org/ target="_blank">
-        Show HN: s@: decentralized social networking over static sites |
+    <a href=https://sharif.io/looking-stupid target="_blank">
+        Willingness to look stupid |
     </a>
-    By: remywang
+    By: Samin100
 </li>
 
 <li>
-    <a href=https://bloomberg.github.io/js-blog/post/temporal/ target="_blank">
-        Temporal: The 9-year journey to fix time in JavaScript |
+    <a href=https://malus.sh target="_blank">
+        Malus – Clean Room as a Service |
     </a>
-    By: robpalmer
+    By: microflash
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_source_together_with_this_one_simple_trick&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...</a><p><a href="https:&#x2F;&#x2F;malus.sh&#x2F;blog.html" rel="nofollow">https:&#x2F;&#x2F;malus.sh&#x2F;blog.html</a> </br>
+</p>
+
+<li>
+    <a href=https://vite.dev/blog/announcing-vite8 target="_blank">
+        Vite 8.0 Is Out |
+    </a>
+    By: kothariji
 </li>
 
 <li>
-    <a href=https://www.proxylity.com/articles/wireguard-is-two-things.html target="_blank">
-        WireGuard Is Two Things |
+    <a href=https://parametricavocado.itch.io/amen-sorting target="_blank">
+        Bubble Sorted Amen Break |
     </a>
-    By: mlhpdx
+    By: eieio
 </li>
 
 <li>
-    <a href=https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/ target="_blank">
-        Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results |
+    <a href=https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0 target="_blank">
+        Shall I implement it? No |
     </a>
-    By: giuliomagnifico
-</li>
-
-<li>
-    <a href=https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/ target="_blank">
-        Making WebAssembly a first-class language on the Web |
-    </a>
-    By: mikece
+    By: breton
 </li>
 </ol>
