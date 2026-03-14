@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 13 Mar 2026</h4>
+<h4>Check the latest news from: Sat 14 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://sharif.io/looking-stupid target="_blank">
-        Willingness to look stupid |
+    <a href=https://claude.com/blog/1m-context-ga target="_blank">
+        1M context is now generally available for Opus 4.6 and Sonnet 4.6 |
     </a>
-    By: Samin100
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://malus.sh target="_blank">
-        Malus – Clean Room as a Service |
+    <a href=https://www.canirun.ai/ target="_blank">
+        Can I run AI locally? |
     </a>
-    By: microflash
+    By: ricardbejarano
+</li>
+
+<li>
+    <a href=https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/ target="_blank">
+        Emacs and Vim in the Age of AI |
+    </a>
+    By: psibi
+</li>
+
+<li>
+    <a href=https://benzimmermann.dev/blog/algolia-docsearch-admin-keys target="_blank">
+        I found 39 Algolia admin keys exposed across open source documentation sites |
+    </a>
+    By: kernelrocks
+</li>
+
+<li>
+    <a href=https://channelsurfer.tv target="_blank">
+        Show HN: Channel Surfer – Watch YouTube like it’s cable TV |
+    </a>
+    By: kilroy123
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_source_together_with_this_one_simple_trick&#x2F;" rel="nofollow">https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...</a><p><a href="https:&#x2F;&#x2F;malus.sh&#x2F;blog.html" rel="nofollow">https:&#x2F;&#x2F;malus.sh&#x2F;blog.html</a> </br>
+Text: I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!<p>So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally. </br>
 </p>
-
-<li>
-    <a href=https://vite.dev/blog/announcing-vite8 target="_blank">
-        Vite 8.0 Is Out |
-    </a>
-    By: kothariji
-</li>
-
-<li>
-    <a href=https://parametricavocado.itch.io/amen-sorting target="_blank">
-        Bubble Sorted Amen Break |
-    </a>
-    By: eieio
-</li>
-
-<li>
-    <a href=https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0 target="_blank">
-        Shall I implement it? No |
-    </a>
-    By: breton
-</li>
 </ol>
