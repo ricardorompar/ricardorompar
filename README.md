@@ -45,44 +45,45 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 14 Mar 2026</h4>
+<h4>Check the latest news from: Sun 15 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://claude.com/blog/1m-context-ga target="_blank">
-        1M context is now generally available for Opus 4.6 and Sonnet 4.6 |
+    <a href=https://sa.lj.am/rack-mount-hydroponics/ target="_blank">
+        Rack-Mount Hydroponics |
     </a>
-    By: meetpateltech
+    By: cdrnsf
 </li>
 
 <li>
-    <a href=https://www.canirun.ai/ target="_blank">
-        Can I run AI locally? |
+    <a href=https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/ target="_blank">
+        Mathematics Distillation Challenge – Equational Theories |
     </a>
-    By: ricardbejarano
+    By: picafrost
 </li>
 
 <li>
-    <a href=https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/ target="_blank">
-        Emacs and Vim in the Age of AI |
+    <a href=https://github.com/xodn348/han target="_blank">
+        Show HN: Han – A Korean programming language written in Rust |
     </a>
-    By: psibi
-</li>
-
-<li>
-    <a href=https://benzimmermann.dev/blog/algolia-docsearch-admin-keys target="_blank">
-        I found 39 Algolia admin keys exposed across open source documentation sites |
-    </a>
-    By: kernelrocks
-</li>
-
-<li>
-    <a href=https://channelsurfer.tv target="_blank">
-        Show HN: Channel Surfer – Watch YouTube like it’s cable TV |
-    </a>
-    By: kilroy123
+    By: xodn348
 </li>
 
 <p>
-Text: I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!<p>So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally. </br>
+Text: A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.<p>That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.<p>I&#x27;ve also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?<p>Han is the result. It&#x27;s a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).<p>It supports arrays, structs with impl blocks, closures, pattern matching, try&#x2F;catch, file I&#x2F;O, module imports, a REPL, and a basic LSP server.<p>This is a side project, not a &quot;you should use this instead of Python&quot; pitch. 
+Feedback on language design, compiler architecture, or the Korean keyword choices is very welcome.<p><a href="https:&#x2F;&#x2F;github.com&#x2F;xodn348&#x2F;han" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;xodn348&#x2F;han</a> </br>
 </p>
+
+<li>
+    <a href=https://agelesslinux.org/ target="_blank">
+        Ageless Linux – Software for humans of indeterminate age |
+    </a>
+    By: nateb2022
+</li>
+
+<li>
+    <a href=https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/ target="_blank">
+        Tree Search Distillation for Language Models Using PPO |
+    </a>
+    By: at2005
+</li>
 </ol>
