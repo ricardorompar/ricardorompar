@@ -45,45 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 15 Mar 2026</h4>
+<h4>Check the latest news from: Mon 16 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://sa.lj.am/rack-mount-hydroponics/ target="_blank">
-        Rack-Mount Hydroponics |
+    <a href=https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/ target="_blank">
+        Canada's bill C-22 mandates mass metadata surveillance |
     </a>
-    By: cdrnsf
-</li>
-
-<li>
-    <a href=https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/ target="_blank">
-        Mathematics Distillation Challenge – Equational Theories |
-    </a>
-    By: picafrost
-</li>
-
-<li>
-    <a href=https://github.com/xodn348/han target="_blank">
-        Show HN: Han – A Korean programming language written in Rust |
-    </a>
-    By: xodn348
+    By: opengrass
 </li>
 
 <p>
-Text: A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.<p>That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.<p>I&#x27;ve also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?<p>Han is the result. It&#x27;s a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).<p>It supports arrays, structs with impl blocks, closures, pattern matching, try&#x2F;catch, file I&#x2F;O, module imports, a REPL, and a basic LSP server.<p>This is a side project, not a &quot;you should use this instead of Python&quot; pitch. 
-Feedback on language design, compiler architecture, or the Korean keyword choices is very welcome.<p><a href="https:&#x2F;&#x2F;github.com&#x2F;xodn348&#x2F;han" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;xodn348&#x2F;han</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.parl.ca&#x2F;DocumentViewer&#x2F;en&#x2F;45-1&#x2F;bill&#x2F;C-22&#x2F;first-reading" rel="nofollow">https:&#x2F;&#x2F;www.parl.ca&#x2F;DocumentViewer&#x2F;en&#x2F;45-1&#x2F;bill&#x2F;C-22&#x2F;first-r...</a> </br>
 </p>
 
 <li>
-    <a href=https://agelesslinux.org/ target="_blank">
-        Ageless Linux – Software for humans of indeterminate age |
+    <a href=https://thatshubham.com/blog/news-audit target="_blank">
+        The 49MB web page |
     </a>
-    By: nateb2022
+    By: kermatt
 </li>
 
 <li>
-    <a href=https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/ target="_blank">
-        Tree Search Distillation for Language Models Using PPO |
+    <a href=https://robot-daycare.com/posts/actuation_series_1/ target="_blank">
+        Electric motor scaling laws and inertia in robot actuators |
     </a>
-    By: at2005
+    By: o4c
+</li>
+
+<li>
+    <a href=https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session target="_blank">
+        Chrome DevTools MCP (2025) |
+    </a>
+    By: xnx
+</li>
+
+<li>
+    <a href=https://www.stavros.io/posts/how-i-write-software-with-llms/ target="_blank">
+        How I write software with LLMs |
+    </a>
+    By: indigodaddy
 </li>
 </ol>
