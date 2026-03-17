@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 16 Mar 2026</h4>
+<h4>Check the latest news from: Tue 17 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/ target="_blank">
-        Canada's bill C-22 mandates mass metadata surveillance |
+    <a href=https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/ target="_blank">
+        US SEC preparing to scrap quarterly reporting requirement |
     </a>
-    By: opengrass
+    By: djoldman
+</li>
+
+<li>
+    <a href=https://translate.kagi.com/?from=en&to=LinkedIn+speak target="_blank">
+        Kagi Translate now supports LinkedIn Speak as an output language |
+    </a>
+    By: smitec
+</li>
+
+<li>
+    <a href=https://pixeldust.se/monkey-island-project target="_blank">
+        Monkey Island for Commodore 64 Ground Up |
+    </a>
+    By: aresant
+</li>
+
+<li>
+    <a href=https://apenwarr.ca/log/20260316 target="_blank">
+        Every layer of review makes you 10x slower |
+    </a>
+    By: greyface-
+</li>
+
+<li>
+    <a href=https://mistral.ai/news/leanstral target="_blank">
+        Leanstral: Open-source agent for trustworthy coding and formal proof engineering |
+    </a>
+    By: Poudlardo
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.parl.ca&#x2F;DocumentViewer&#x2F;en&#x2F;45-1&#x2F;bill&#x2F;C-22&#x2F;first-reading" rel="nofollow">https:&#x2F;&#x2F;www.parl.ca&#x2F;DocumentViewer&#x2F;en&#x2F;45-1&#x2F;bill&#x2F;C-22&#x2F;first-r...</a> </br>
+Text: Lean 4 paper (2021): <a href="https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37" rel="nofollow">https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37</a> </br>
 </p>
-
-<li>
-    <a href=https://thatshubham.com/blog/news-audit target="_blank">
-        The 49MB web page |
-    </a>
-    By: kermatt
-</li>
-
-<li>
-    <a href=https://robot-daycare.com/posts/actuation_series_1/ target="_blank">
-        Electric motor scaling laws and inertia in robot actuators |
-    </a>
-    By: o4c
-</li>
-
-<li>
-    <a href=https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session target="_blank">
-        Chrome DevTools MCP (2025) |
-    </a>
-    By: xnx
-</li>
-
-<li>
-    <a href=https://www.stavros.io/posts/how-i-write-software-with-llms/ target="_blank">
-        How I write software with LLMs |
-    </a>
-    By: indigodaddy
-</li>
 </ol>
