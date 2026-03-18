@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 17 Mar 2026</h4>
+<h4>Check the latest news from: Wed 18 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/ target="_blank">
-        US SEC preparing to scrap quarterly reporting requirement |
+    <a href=https://blog.exe.dev/ssh-host-header target="_blank">
+        SSH has no Host header |
     </a>
-    By: djoldman
+    By: apitman
 </li>
 
 <li>
-    <a href=https://translate.kagi.com/?from=en&to=LinkedIn+speak target="_blank">
-        Kagi Translate now supports LinkedIn Speak as an output language |
+    <a href=https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/ target="_blank">
+        Have a Fucking Website |
     </a>
-    By: smitec
+    By: asukachikaru
 </li>
 
 <li>
-    <a href=https://pixeldust.se/monkey-island-project target="_blank">
-        Monkey Island for Commodore 64 Ground Up |
+    <a href=https://openhardware.directory target="_blank">
+        More than 135 open hardware devices flashable with your own firmware |
     </a>
-    By: aresant
+    By: iosifnicolae2
 </li>
 
 <li>
-    <a href=https://apenwarr.ca/log/20260316 target="_blank">
-        Every layer of review makes you 10x slower |
+    <a href=https://terathon.com/blog/decade-slug.html target="_blank">
+        A Decade of Slug |
     </a>
-    By: greyface-
-</li>
-
-<li>
-    <a href=https://mistral.ai/news/leanstral target="_blank">
-        Leanstral: Open-source agent for trustworthy coding and formal proof engineering |
-    </a>
-    By: Poudlardo
+    By: mwkaufma
 </li>
 
 <p>
-Text: Lean 4 paper (2021): <a href="https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37" rel="nofollow">https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37</a> </br>
+Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon.com&#x2F;blog&#x2F;decade-slug.html" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon....</a> </br>
 </p>
+
+<li>
+    <a href=https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level target="_blank">
+        Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss' |
+    </a>
+    By: crtasm
+</li>
 </ol>
