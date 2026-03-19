@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 18 Mar 2026</h4>
+<h4>Check the latest news from: Thu 19 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.exe.dev/ssh-host-header target="_blank">
-        SSH has no Host header |
+    <a href=https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code target="_blank">
+        A sufficiently detailed spec is code |
     </a>
-    By: apitman
+    By: signa11
 </li>
 
 <li>
-    <a href=https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/ target="_blank">
-        Have a Fucking Website |
+    <a href=https://rjcorwin.github.io/cook/ target="_blank">
+        Cook: A simple CLI for orchestrating Claude Code |
     </a>
-    By: asukachikaru
+    By: staticvar
 </li>
 
 <li>
-    <a href=https://openhardware.directory target="_blank">
-        More than 135 open hardware devices flashable with your own firmware |
+    <a href=https://www.anthropic.com/features/81k-interviews target="_blank">
+        What 81,000 people want from AI |
     </a>
-    By: iosifnicolae2
+    By: dsr12
 </li>
 
 <li>
-    <a href=https://terathon.com/blog/decade-slug.html target="_blank">
-        A Decade of Slug |
+    <a href=https://gitlab.com/IsolatedOctopi/nvidia_greenboost target="_blank">
+        Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe |
     </a>
-    By: mwkaufma
+    By: mmastrac
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon.com&#x2F;blog&#x2F;decade-slug.html" rel="nofollow">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon....</a> </br>
-</p>
-
 <li>
-    <a href=https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level target="_blank">
-        Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss' |
+    <a href=https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents target="_blank">
+        Austin’s surge of new housing construction drove down rents |
     </a>
-    By: crtasm
+    By: matthest
 </li>
 </ol>
