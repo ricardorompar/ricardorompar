@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 19 Mar 2026</h4>
+<h4>Check the latest news from: Fri 20 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code target="_blank">
-        A sufficiently detailed spec is code |
+    <a href=https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell target="_blank">
+        ArXiv Declares Independence from Cornell |
     </a>
-    By: signa11
+    By: bookstore-romeo
 </li>
 
 <li>
-    <a href=https://rjcorwin.github.io/cook/ target="_blank">
-        Cook: A simple CLI for orchestrating Claude Code |
+    <a href=https://code.claude.com/docs/en/channels target="_blank">
+        Push events into a running session with channels |
     </a>
-    By: staticvar
+    By: jasonjmcghee
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/features/81k-interviews target="_blank">
-        What 81,000 people want from AI |
+    <a href=https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/ target="_blank">
+        Google details new 24-hour process to sideload unverified Android apps |
     </a>
-    By: dsr12
+    By: 0xedb
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-developer-verification.html" rel="nofollow">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-de...</a> </br>
+</p>
+
+<li>
+    <a href=https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found target="_blank">
+        Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found |
+    </a>
+    By: nyxgeek
 </li>
 
 <li>
-    <a href=https://gitlab.com/IsolatedOctopi/nvidia_greenboost target="_blank">
-        Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe |
+    <a href=https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404 target="_blank">
+        Drugwars for the TI-82/83/83 Calculators (2011) |
     </a>
-    By: mmastrac
-</li>
-
-<li>
-    <a href=https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents target="_blank">
-        Austin’s surge of new housing construction drove down rents |
-    </a>
-    By: matthest
+    By: robotnikman
 </li>
 </ol>
