@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 20 Mar 2026</h4>
+<h4>Check the latest news from: Sat 21 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell target="_blank">
-        ArXiv Declares Independence from Cornell |
+    <a href=https://opencode.ai/ target="_blank">
+        OpenCode – Open source AI coding agent |
     </a>
-    By: bookstore-romeo
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://code.claude.com/docs/en/channels target="_blank">
-        Push events into a running session with channels |
+    <a href=https://bookofjoe2.blogspot.com/2026/02/molly-guard.html target="_blank">
+        Molly Guard |
     </a>
-    By: jasonjmcghee
-</li>
-
-<li>
-    <a href=https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/ target="_blank">
-        Google details new 24-hour process to sideload unverified Android apps |
-    </a>
-    By: 0xedb
+    By: surprisetalk
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-developer-verification.html" rel="nofollow">https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-de...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard" rel="nofollow">https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard</a> </br>
 </p>
 
 <li>
-    <a href=https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found target="_blank">
-        Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found |
+    <a href=https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html target="_blank">
+        France's aircraft carrier located in real time by Le Monde through fitness app |
     </a>
-    By: nyxgeek
+    By: MrDresden
 </li>
 
 <li>
-    <a href=https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404 target="_blank">
-        Drugwars for the TI-82/83/83 Calculators (2011) |
+    <a href=https://www.nippon.com/en/japan-data/h01362/ target="_blank">
+        A Japanese glossary of chopsticks faux pas |
     </a>
-    By: robotnikman
+    By: cainxinth
+</li>
+
+<li>
+    <a href=https://www.openui.com/blog/rust-wasm-parser target="_blank">
+        We rewrote our Rust WASM parser in TypeScript and it got faster |
+    </a>
+    By: zahlekhan
 </li>
 </ol>
