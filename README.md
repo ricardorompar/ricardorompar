@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 21 Mar 2026</h4>
+<h4>Check the latest news from: Sun 22 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://opencode.ai/ target="_blank">
-        OpenCode – Open source AI coding agent |
+    <a href=https://43081j.com/2026/03/three-pillars-of-javascript-bloat target="_blank">
+        The Three Pillars of JavaScript Bloat |
     </a>
-    By: rbanffy
+    By: onlyspaceghost
 </li>
 
 <li>
-    <a href=https://bookofjoe2.blogspot.com/2026/02/molly-guard.html target="_blank">
-        Molly Guard |
+    <a href=https://tinygrad.org/#tinybox target="_blank">
+        Tinybox – Offline AI device 120B parameters |
     </a>
-    By: surprisetalk
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard" rel="nofollow">https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard</a> </br>
-</p>
-
-<li>
-    <a href=https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html target="_blank">
-        France's aircraft carrier located in real time by Le Monde through fitness app |
-    </a>
-    By: MrDresden
+    By: albelfio
 </li>
 
 <li>
-    <a href=https://www.nippon.com/en/japan-data/h01362/ target="_blank">
-        A Japanese glossary of chopsticks faux pas |
+    <a href=https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/ target="_blank">
+        Some things just take time |
     </a>
-    By: cainxinth
+    By: vaylian
 </li>
 
 <li>
-    <a href=https://www.openui.com/blog/rust-wasm-parser target="_blank">
-        We rewrote our Rust WASM parser in TypeScript and it got faster |
+    <a href=https://mtbest.net/chest-fridge/ target="_blank">
+        Chest Fridge (2009) |
     </a>
-    By: zahlekhan
+    By: wolfi1
+</li>
+
+<li>
+    <a href=https://tooscut.app/ target="_blank">
+        Professional video editing, right in the browser with WebGPU and WASM |
+    </a>
+    By: mohebifar
 </li>
 </ol>
