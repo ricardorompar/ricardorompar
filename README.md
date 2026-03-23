@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 22 Mar 2026</h4>
+<h4>Check the latest news from: Mon 23 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://43081j.com/2026/03/three-pillars-of-javascript-bloat target="_blank">
-        The Three Pillars of JavaScript Bloat |
+    <a href=https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/ target="_blank">
+        PC Gamer recommends RSS readers in a 37mb article that just keeps downloading |
     </a>
-    By: onlyspaceghost
+    By: JumpCrisscross
 </li>
 
 <li>
-    <a href=https://tinygrad.org/#tinybox target="_blank">
-        Tinybox – Offline AI device 120B parameters |
+    <a href=https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/ target="_blank">
+        The gold standard of optimization: A look under the hood of RollerCoaster Tycoon |
     </a>
-    By: albelfio
+    By: mariuz
 </li>
 
 <li>
-    <a href=https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/ target="_blank">
-        Some things just take time |
+    <a href=https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9 target="_blank">
+        Tin Can, a 'landline' for kids |
     </a>
-    By: vaylian
+    By: tejohnso
 </li>
 
 <li>
-    <a href=https://mtbest.net/chest-fridge/ target="_blank">
-        Chest Fridge (2009) |
+    <a href=https://bramcohen.com/p/manyana target="_blank">
+        The future of version control |
     </a>
-    By: wolfi1
+    By: c17r
 </li>
 
 <li>
-    <a href=https://tooscut.app/ target="_blank">
-        Professional video editing, right in the browser with WebGPU and WASM |
+    <a href=https://stevekrouse.com/precision target="_blank">
+        Reports of code's death are greatly exaggerated |
     </a>
-    By: mohebifar
+    By: stevekrouse
 </li>
 </ol>
