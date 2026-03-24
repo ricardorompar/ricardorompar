@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 23 Mar 2026</h4>
+<h4>Check the latest news from: Tue 24 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/ target="_blank">
-        PC Gamer recommends RSS readers in a 37mb article that just keeps downloading |
+    <a href=https://www.jackhogan.me/blog/box-of-secrets/ target="_blank">
+        Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home |
     </a>
-    By: JumpCrisscross
+    By: jackhogan11
 </li>
 
 <li>
-    <a href=https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/ target="_blank">
-        The gold standard of optimization: A look under the hood of RollerCoaster Tycoon |
+    <a href=https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs target="_blank">
+        Epoch confirms GPT5.4 Pro solved a frontier math open problem |
     </a>
-    By: mariuz
+    By: in-silico
 </li>
 
 <li>
-    <a href=https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9 target="_blank">
-        Tin Can, a 'landline' for kids |
+    <a href=https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers target="_blank">
+        FCC updates covered list to include foreign-made consumer routers |
     </a>
-    By: tejohnso
+    By: moonka
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf" rel="nofollow">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf</a><p><a href="https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-foreign-countries-covered-list" rel="nofollow">https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei...</a><p><a href="https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf" rel="nofollow">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf</a><p><a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo</a><p><a href="https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-routers-as-national-security-risk&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou...</a> </br>
+</p>
+
+<li>
+    <a href=https://ykumar.me/blog/eclip-autoresearch/ target="_blank">
+        Autoresearch on an old research idea |
+    </a>
+    By: ykumards
 </li>
 
 <li>
-    <a href=https://bramcohen.com/p/manyana target="_blank">
-        The future of version control |
+    <a href=https://twitter.com/anemll/status/2035901335984611412 target="_blank">
+        iPhone 17 Pro Demonstrated Running a 400B LLM |
     </a>
-    By: c17r
+    By: anemll
 </li>
 
-<li>
-    <a href=https://stevekrouse.com/precision target="_blank">
-        Reports of code's death are greatly exaggerated |
-    </a>
-    By: stevekrouse
-</li>
+<p>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412</a> </br>
+</p>
 </ol>
