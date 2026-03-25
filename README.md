@@ -45,48 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 24 Mar 2026</h4>
+<h4>Check the latest news from: Wed 25 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.jackhogan.me/blog/box-of-secrets/ target="_blank">
-        Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home |
+    <a href=https://v-os.dev target="_blank">
+        VitruvianOS – Desktop Linux Inspired by the BeOS |
     </a>
-    By: jackhogan11
+    By: felixding
 </li>
 
 <li>
-    <a href=https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs target="_blank">
-        Epoch confirms GPT5.4 Pro solved a frontier math open problem |
+    <a href=https://flighty.com/airports target="_blank">
+        Flighty Airports |
     </a>
-    By: in-silico
+    By: skogstokig
 </li>
 
 <li>
-    <a href=https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers target="_blank">
-        FCC updates covered list to include foreign-made consumer routers |
+    <a href=https://twitter.com/soraofficialapp/status/2036532795984715896 target="_blank">
+        Goodbye to Sora |
     </a>
-    By: moonka
+    By: mikeocool
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf" rel="nofollow">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DOC-420034A1.pdf</a><p><a href="https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-foreign-countries-covered-list" rel="nofollow">https:&#x2F;&#x2F;www.fcc.gov&#x2F;document&#x2F;fcc-adds-routers-produced-forei...</a><p><a href="https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf" rel="nofollow">https:&#x2F;&#x2F;docs.fcc.gov&#x2F;public&#x2F;attachments&#x2F;DA-26-278A1.pdf</a><p><a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74787w149zo</a><p><a href="https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-routers-as-national-security-risk&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.cnet.com&#x2F;home&#x2F;internet&#x2F;fcc-bans-foreign-made-rou...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;2036532795984715896" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;20365327959847158...</a><p><a href="https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-shutting-down-sora-ai-video-app-1236546187&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-sh...</a>, <a href="https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI</a> </br>
 </p>
 
 <li>
-    <a href=https://ykumar.me/blog/eclip-autoresearch/ target="_blank">
-        Autoresearch on an old research idea |
+    <a href=https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/ target="_blank">
+        Miscellanea: The War in Iran |
     </a>
-    By: ykumards
+    By: decimalenough
 </li>
 
 <li>
-    <a href=https://twitter.com/anemll/status/2035901335984611412 target="_blank">
-        iPhone 17 Pro Demonstrated Running a 400B LLM |
+    <a href=https://videojs.org/blog/videojs-v10-beta-hello-world-again target="_blank">
+        Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller |
     </a>
-    By: anemll
+    By: Heff
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;anemll&#x2F;status&#x2F;2035901335984611412</a> </br>
+Text: What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.<p>Video.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.<p>It’s in beta now. Please give it a try and tell us what breaks. </br>
 </p>
 </ol>
