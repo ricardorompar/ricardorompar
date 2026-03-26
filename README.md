@@ -45,48 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 25 Mar 2026</h4>
+<h4>Check the latest news from: Thu 26 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://v-os.dev target="_blank">
-        VitruvianOS – Desktop Linux Inspired by the BeOS |
+    <a href=https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/ target="_blank">
+        Running Tesla Model 3's computer on my desk using parts from crashed cars |
     </a>
-    By: felixding
+    By: driesdep
 </li>
 
 <li>
-    <a href=https://flighty.com/airports target="_blank">
-        Flighty Airports |
+    <a href=https://arcprize.org/arc-agi/3 target="_blank">
+        ARC-AGI-3 |
     </a>
-    By: skogstokig
-</li>
-
-<li>
-    <a href=https://twitter.com/soraofficialapp/status/2036532795984715896 target="_blank">
-        Goodbye to Sora |
-    </a>
-    By: mikeocool
+    By: lairv
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;2036532795984715896" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;soraofficialapp&#x2F;status&#x2F;20365327959847158...</a><p><a href="https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-shutting-down-sora-ai-video-app-1236546187&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business&#x2F;digital&#x2F;openai-sh...</a>, <a href="https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;ABkeI</a> </br>
+Text: <a href="https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf">https:&#x2F;&#x2F;arcprize.org&#x2F;media&#x2F;ARC_AGI_3_Technical_Report.pdf</a> </br>
 </p>
 
 <li>
-    <a href=https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/ target="_blank">
-        Miscellanea: The War in Iran |
+    <a href=https://rpastro.square.site/s/stories/phm target="_blank">
+        My astrophotography in the movie Project Hail Mary |
     </a>
-    By: decimalenough
+    By: wallflower
 </li>
 
 <li>
-    <a href=https://videojs.org/blog/videojs-v10-beta-hello-world-again target="_blank">
-        Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller |
+    <a href=https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/ target="_blank">
+        Earthquake scientists reveal how overplowing weakens soil at experimental farm |
     </a>
-    By: Heff
+    By: Brajeshwar
 </li>
 
 <p>
-Text: What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.<p>Video.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.<p>It’s in beta now. Please give it a try and tell us what breaks. </br>
+Text: <a href="https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970" rel="nofollow">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec0970</a> </br>
 </p>
+
+<li>
+    <a href=https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/ target="_blank">
+        Two studies in compiler optimisations |
+    </a>
+    By: hmpc
+</li>
 </ol>
