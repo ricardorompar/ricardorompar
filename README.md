@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 27 Mar 2026</h4>
+<h4>Check the latest news from: Sat 28 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://code.claude.com/docs/en/web-scheduled-tasks target="_blank">
-        Schedule tasks on the web |
+    <a href=https://jai.scs.stanford.edu/ target="_blank">
+        Go hard on agents, not on your filesystem |
     </a>
-    By: iBelieve
+    By: mazieres
 </li>
 
 <li>
-    <a href=https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/ target="_blank">
-        Apple discontinues the Mac Pro |
+    <a href=https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/ target="_blank">
+        AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip |
     </a>
-    By: bentocorp
+    By: zdw
 </li>
 
 <li>
-    <a href=https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam target="_blank">
-        Why so many control rooms were seafoam green (2025) |
+    <a href=https://lr0.org/blog/p/macos/ target="_blank">
+        Make macOS consistently bad unironically |
     </a>
-    By: Amorymeltzer
+    By: speckx
 </li>
 
 <li>
-    <a href=https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/ target="_blank">
-        Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer |
+    <a href=https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html target="_blank">
+        LG's new 1Hz display is the secret behind a new laptop's battery life |
     </a>
-    By: j0rg3
+    By: robotnikman
 </li>
 
-<p>
-Text: The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my site. The private one (ironclaw) handles email and scheduling, reachable only over Tailscale via Google&#x27;s A2A protocol.<p>Tiered inference: Haiku 4.5 for conversation (sub-second, cheap), Sonnet 4.6 for tool use (only when needed). Hard cap at $2&#x2F;day.<p>A2A passthrough: the private-side agent borrows the gateway&#x27;s own inference pipeline, so there&#x27;s one API key and one billing relationship regardless of who initiated the request.<p>You can talk to nully at <a href="https:&#x2F;&#x2F;georgelarson.me&#x2F;chat&#x2F;" rel="nofollow">https:&#x2F;&#x2F;georgelarson.me&#x2F;chat&#x2F;</a> or connect with any IRC client to irc.georgelarson.me:6697 (TLS), channel #lobby. </br>
-</p>
-
 <li>
-    <a href=https://www.symbolica.ai/blog/arc-agi-3 target="_blank">
-        From 0% to 36% on Day 1 of ARC-AGI-3 |
+    <a href=https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder target="_blank">
+        Anatomy of the .claude/ folder |
     </a>
-    By: lairv
+    By: freedomben
 </li>
 </ol>
