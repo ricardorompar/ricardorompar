@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 28 Mar 2026</h4>
+<h4>Check the latest news from: Sun 29 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://jai.scs.stanford.edu/ target="_blank">
-        Go hard on agents, not on your filesystem |
+    <a href=https://github.com/openyak/desktop target="_blank">
+        OpenYak – An open-source Cowork that runs any model and owns your filesystem |
     </a>
-    By: mazieres
+    By: wangzhangwu
 </li>
 
 <li>
-    <a href=https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/ target="_blank">
-        AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip |
+    <a href=https://sytse.com/cancer/ target="_blank">
+        Founder of GitLab battles cancer by founding companies |
     </a>
-    By: zdw
+    By: bob_theslob646
 </li>
 
 <li>
-    <a href=https://lr0.org/blog/p/macos/ target="_blank">
-        Make macOS consistently bad unironically |
+    <a href=https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/ target="_blank">
+        CSS is DOOMed |
     </a>
-    By: speckx
+    By: msephton
 </li>
 
 <li>
-    <a href=https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html target="_blank">
-        LG's new 1Hz display is the secret behind a new laptop's battery life |
+    <a href=https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research target="_blank">
+        AI overly affirms users asking for personal advice |
     </a>
-    By: robotnikman
+    By: oldfrenchfries
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270</a><p><a href="https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352" rel="nofollow">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352</a> </br>
+</p>
+
 <li>
-    <a href=https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder target="_blank">
-        Anatomy of the .claude/ folder |
+    <a href=https://www.bmj.com/content/387/bmj-2024-082194 target="_blank">
+        Alzheimer's disease mortality among taxi and ambulance drivers (2024) |
     </a>
-    By: freedomben
+    By: bookofjoe
 </li>
 </ol>
