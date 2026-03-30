@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 29 Mar 2026</h4>
+<h4>Check the latest news from: Mon 30 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/openyak/desktop target="_blank">
-        OpenYak – An open-source Cowork that runs any model and owns your filesystem |
+    <a href=https://www.datagubbe.se/aipixels/ target="_blank">
+        The curious case of retro demo scene graphics |
     </a>
-    By: wangzhangwu
+    By: zdw
 </li>
 
 <li>
-    <a href=https://sytse.com/cancer/ target="_blank">
-        Founder of GitLab battles cancer by founding companies |
+    <a href=https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/ target="_blank">
+        ChatGPT won't let you type until Cloudflare reads your React state |
     </a>
-    By: bob_theslob646
+    By: alberto-m
 </li>
 
 <li>
-    <a href=https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/ target="_blank">
-        CSS is DOOMed |
+    <a href=https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/ target="_blank">
+        Copilot edited an ad into my PR |
     </a>
-    By: msephton
+    By: pavo-etc
 </li>
 
 <li>
-    <a href=https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research target="_blank">
-        AI overly affirms users asking for personal advice |
+    <a href=https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/ target="_blank">
+        VHDL's Crown Jewel |
     </a>
-    By: oldfrenchfries
+    By: cokernel_hacker
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270" rel="nofollow">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.14270</a><p><a href="https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352" rel="nofollow">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aec8352</a> </br>
-</p>
-
 <li>
-    <a href=https://www.bmj.com/content/387/bmj-2024-082194 target="_blank">
-        Alzheimer's disease mortality among taxi and ambulance drivers (2024) |
+    <a href=https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/ target="_blank">
+        Voyager 1 runs on 69 KB of memory and an 8-track tape recorder |
     </a>
-    By: bookofjoe
+    By: speckx
 </li>
 </ol>
