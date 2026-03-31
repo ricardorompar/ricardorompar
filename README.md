@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 30 Mar 2026</h4>
+<h4>Check the latest news from: Tue 31 Mar 2026</h4>
 <ol>
 <li>
-    <a href=https://www.datagubbe.se/aipixels/ target="_blank">
-        The curious case of retro demo scene graphics |
+    <a href=https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan target="_blank">
+        Axios compromised on NPM – Malicious versions drop remote access trojan |
     </a>
-    By: zdw
+    By: mtud
 </li>
 
 <li>
-    <a href=https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/ target="_blank">
-        ChatGPT won't let you type until Cloudflare reads your React state |
+    <a href=https://github.com/google-research/timesfm target="_blank">
+        Google's 200M-parameter time-series foundation model with 16k context |
     </a>
-    By: alberto-m
+    By: codepawl
 </li>
 
 <li>
-    <a href=https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/ target="_blank">
-        Copilot edited an ad into my PR |
+    <a href=https://ollama.com/blog/mlx target="_blank">
+        Ollama is now powered by MLX on Apple Silicon in preview |
     </a>
-    By: pavo-etc
+    By: redundantly
 </li>
 
 <li>
-    <a href=https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/ target="_blank">
-        VHDL's Crown Jewel |
+    <a href=https://github.com/drona23/claude-token-efficient target="_blank">
+        Universal Claude.md – cut Claude output tokens |
     </a>
-    By: cokernel_hacker
+    By: killme2008
 </li>
 
 <li>
-    <a href=https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/ target="_blank">
-        Voyager 1 runs on 69 KB of memory and an 8-track tape recorder |
+    <a href=https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm target="_blank">
+        Artemis II is not safe to fly |
     </a>
-    By: speckx
+    By: idlewords
 </li>
 </ol>
