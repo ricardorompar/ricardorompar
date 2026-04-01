@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 31 Mar 2026</h4>
+<h4>Check the latest news from: Wed 01 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan target="_blank">
-        Axios compromised on NPM – Malicious versions drop remote access trojan |
+    <a href=https://ccunpacked.dev/ target="_blank">
+        Claude Code Unpacked : A visual guide |
     </a>
-    By: mtud
+    By: autocracy101
+</li>
+
+<p>
+Text: Related ongoing threads:<p><i>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778</a> - March 2026 (406 comments)<p><i>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540</a> - March 2026 (956 comments)<p>Also related: <a href="https:&#x2F;&#x2F;www.ccleaks.com" rel="nofollow">https:&#x2F;&#x2F;www.ccleaks.com</a> </br>
+</p>
+
+<li>
+    <a href=https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years target="_blank">
+        Neanderthals survived on a knife's edge for 350k years |
+    </a>
+    By: Hooke
 </li>
 
 <li>
-    <a href=https://github.com/google-research/timesfm target="_blank">
-        Google's 200M-parameter time-series foundation model with 16k context |
+    <a href=https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude target="_blank">
+        Mad Bugs: Vim vs. Emacs vs. Claude |
     </a>
-    By: codepawl
+    By: Munksgaard
 </li>
 
 <li>
-    <a href=https://ollama.com/blog/mlx target="_blank">
-        Ollama is now powered by MLX on Apple Silicon in preview |
+    <a href=https://arxiv.org/abs/2602.04118 target="_blank">
+        TinyLoRA – Learning to Reason in 13 Parameters |
     </a>
-    By: redundantly
+    By: sorenjan
 </li>
 
 <li>
-    <a href=https://github.com/drona23/claude-token-efficient target="_blank">
-        Universal Claude.md – cut Claude output tokens |
+    <a href=https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/ target="_blank">
+        Bring Back MiniDV with This Raspberry Pi FireWire Hat |
     </a>
-    By: killme2008
-</li>
-
-<li>
-    <a href=https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm target="_blank">
-        Artemis II is not safe to fly |
-    </a>
-    By: idlewords
+    By: ingve
 </li>
 </ol>
