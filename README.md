@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 01 Apr 2026</h4>
+<h4>Check the latest news from: Thu 02 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://ccunpacked.dev/ target="_blank">
-        Claude Code Unpacked : A visual guide |
+    <a href=https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/ target="_blank">
+        Live: Artemis II Launch Day Updates |
     </a>
-    By: autocracy101
+    By: apitman
 </li>
 
 <p>
-Text: Related ongoing threads:<p><i>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47586778</a> - March 2026 (406 comments)<p><i>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47584540</a> - March 2026 (956 comments)<p>Also related: <a href="https:&#x2F;&#x2F;www.ccleaks.com" rel="nofollow">https:&#x2F;&#x2F;www.ccleaks.com</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo</a> </br>
 </p>
 
 <li>
-    <a href=https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years target="_blank">
-        Neanderthals survived on a knife's edge for 350k years |
+    <a href=https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/ target="_blank">
+        Subscription bombing and how to mitigate it |
     </a>
-    By: Hooke
+    By: homelessdino
 </li>
 
 <li>
-    <a href=https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude target="_blank">
-        Mad Bugs: Vim vs. Emacs vs. Claude |
+    <a href=https://build.ms/2026/4/1/the-claude-code-leak/ target="_blank">
+        The Claude Code Leak |
     </a>
-    By: Munksgaard
+    By: mergesort
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2602.04118 target="_blank">
-        TinyLoRA – Learning to Reason in 13 Parameters |
+    <a href=https://scottaaronson.blog/?p=9665 target="_blank">
+        Quantum computing bombshells that are not April Fools |
     </a>
-    By: sorenjan
+    By: Strilanc
 </li>
 
 <li>
-    <a href=https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/ target="_blank">
-        Bring Back MiniDV with This Raspberry Pi FireWire Hat |
+    <a href=https://www.phoronix.com/news/Steam-On-Linux-Tops-5p target="_blank">
+        Steam on Linux Use Skyrocketed Above 5% in March |
     </a>
-    By: ingve
+    By: hkmaxpro
 </li>
 </ol>
