@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 02 Apr 2026</h4>
+<h4>Check the latest news from: Fri 03 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/ target="_blank">
-        Live: Artemis II Launch Day Updates |
+    <a href=https://deepmind.google/models/gemma/gemma-4/ target="_blank">
+        Google releases Gemma 4 open models |
     </a>
-    By: apitman
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;live&#x2F;Tf_UjBMIzNo</a> </br>
-</p>
-
-<li>
-    <a href=https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/ target="_blank">
-        Subscription bombing and how to mitigate it |
-    </a>
-    By: homelessdino
+    By: jeffmcjunkin
 </li>
 
 <li>
-    <a href=https://build.ms/2026/4/1/the-claude-code-leak/ target="_blank">
-        The Claude Code Leak |
+    <a href=https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion target="_blank">
+        Decisions that eroded trust in Azure – by a former Azure Core engineer |
     </a>
-    By: mergesort
+    By: axelriet
 </li>
 
 <li>
-    <a href=https://scottaaronson.blog/?p=9665 target="_blank">
-        Quantum computing bombshells that are not April Fools |
+    <a href=https://tailscale.com/blog/macos-notch-escape target="_blank">
+        Tailscale's new macOS home |
     </a>
-    By: Strilanc
+    By: tosh
 </li>
 
 <li>
-    <a href=https://www.phoronix.com/news/Steam-On-Linux-Tops-5p target="_blank">
-        Steam on Linux Use Skyrocketed Above 5% in March |
+    <a href=https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19 target="_blank">
+        C89cc.sh – standalone C89/ELF64 compiler in pure portable shell |
     </a>
-    By: hkmaxpro
+    By: gaigalas
+</li>
+
+<li>
+    <a href=https://thehustle.co/why-free-stuff-makes-us-irrational target="_blank">
+        Free stuff makes us irrational |
+    </a>
+    By: Anon84
 </li>
 </ol>
