@@ -45,40 +45,41 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 03 Apr 2026</h4>
+<h4>Check the latest news from: Sat 04 Apr 2026</h4>
 <ol>
+<p>
+Text: Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.<p>Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).<p>To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).<p>We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer. </br>
+</p>
+
 <li>
-    <a href=https://deepmind.google/models/gemma/gemma-4/ target="_blank">
-        Google releases Gemma 4 open models |
+    <a href=https://www.bbc.com/news/articles/ce8jzr423p9o target="_blank">
+        Artemis II crew take “spectacular” image of Earth |
     </a>
-    By: jeffmcjunkin
+    By: andsoitis
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://www.ycombinator.com/companies/delve target="_blank">
+        Delve removed from Y Combinator |
+    </a>
+    By: carabiner
 </li>
 
 <li>
-    <a href=https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion target="_blank">
-        Decisions that eroded trust in Azure – by a former Azure Core engineer |
+    <a href=https://www.inaturalist.org/ target="_blank">
+        iNaturalist |
     </a>
-    By: axelriet
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://tailscale.com/blog/macos-notch-escape target="_blank">
-        Tailscale's new macOS home |
+    <a href=https://herbie.uwplse.org/doc/latest/tutorial.html target="_blank">
+        Herbie: Automatically improve imprecise floating point formulas |
     </a>
-    By: tosh
-</li>
-
-<li>
-    <a href=https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19 target="_blank">
-        C89cc.sh – standalone C89/ELF64 compiler in pure portable shell |
-    </a>
-    By: gaigalas
-</li>
-
-<li>
-    <a href=https://thehustle.co/why-free-stuff-makes-us-irrational target="_blank">
-        Free stuff makes us irrational |
-    </a>
-    By: Anon84
+    By: summarity
 </li>
 </ol>
