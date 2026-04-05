@@ -45,41 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 04 Apr 2026</h4>
+<h4>Check the latest news from: Sun 05 Apr 2026</h4>
 <ol>
-<p>
-Text: Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT &#x2F; 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.<p>Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).<p>To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).<p>We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer. </br>
-</p>
+<li>
+    <a href=https://composerprogrammer.com/introductiontocomputermusic.pdf target="_blank">
+        Introduction to Computer Music (2009) [pdf] |
+    </a>
+    By: luu
+</li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/ce8jzr423p9o target="_blank">
-        Artemis II crew take “spectacular” image of Earth |
+    <a href=https://jaso1024.com/mvidia/ target="_blank">
+        Show HN: A game where you build a GPU |
     </a>
-    By: andsoitis
+    By: Jaso1024
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.nasa.gov&#x2F;image-detail&#x2F;fd02_for-pao&#x2F;</a> </br>
+Text: Thought the resources for GPU arch were lacking, so here we are </br>
 </p>
 
 <li>
-    <a href=https://www.ycombinator.com/companies/delve target="_blank">
-        Delve removed from Y Combinator |
+    <a href=https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/ target="_blank">
+        What if the browser built the UI for you? |
     </a>
-    By: carabiner
+    By: jonnonz
 </li>
 
 <li>
-    <a href=https://www.inaturalist.org/ target="_blank">
-        iNaturalist |
+    <a href=https://github.com/siddharthvaddem/openscreen target="_blank">
+        OpenScreen is an open-source alternative to Screen Studio |
     </a>
-    By: bookofjoe
+    By: jskopek
 </li>
 
 <li>
-    <a href=https://herbie.uwplse.org/doc/latest/tutorial.html target="_blank">
-        Herbie: Automatically improve imprecise floating point formulas |
+    <a href=https://github.com/squadette/rubysyn/blob/master/README.md target="_blank">
+        Rubysyn: Clarifying Ruby's Syntax and Semantics |
     </a>
-    By: summarity
+    By: petalmind
 </li>
 </ol>
