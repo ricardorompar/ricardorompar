@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 05 Apr 2026</h4>
+<h4>Check the latest news from: Mon 06 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://composerprogrammer.com/introductiontocomputermusic.pdf target="_blank">
-        Introduction to Computer Music (2009) [pdf] |
+    <a href=https://github.com/Sidenai/sidex target="_blank">
+        SideX – A Tauri-based port of Visual Studio Code |
     </a>
-    By: luu
+    By: 0x1997
 </li>
 
 <li>
-    <a href=https://jaso1024.com/mvidia/ target="_blank">
-        Show HN: A game where you build a GPU |
+    <a href=https://github.com/arman-bd/guppylm target="_blank">
+        Show HN: I built a tiny LLM to demystify how language models work |
     </a>
-    By: Jaso1024
+    By: armanified
 </li>
 
 <p>
-Text: Thought the resources for GPU arch were lacking, so here we are </br>
+Text: Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character. </br>
 </p>
 
 <li>
-    <a href=https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/ target="_blank">
-        What if the browser built the UI for you? |
+    <a href=https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337 target="_blank">
+        Gemma 4 on iPhone |
     </a>
-    By: jonnonz
+    By: janandonly
 </li>
 
 <li>
-    <a href=https://github.com/siddharthvaddem/openscreen target="_blank">
-        OpenScreen is an open-source alternative to Screen Studio |
+    <a href=https://playlists.at/youtube/search/ target="_blank">
+        Show HN: I made a YouTube search form with advanced filters |
     </a>
-    By: jskopek
+    By: nevernothing
 </li>
 
 <li>
-    <a href=https://github.com/squadette/rubysyn/blob/master/README.md target="_blank">
-        Rubysyn: Clarifying Ruby's Syntax and Semantics |
+    <a href=https://twitter.com/exQUIZitely/status/2040777977521398151 target="_blank">
+        The 1987 game “The Last Ninja” was 40 kilobytes |
     </a>
-    By: petalmind
+    By: keepamovin
 </li>
 </ol>
