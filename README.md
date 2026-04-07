@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 06 Apr 2026</h4>
+<h4>Check the latest news from: Tue 07 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/Sidenai/sidex target="_blank">
-        SideX – A Tauri-based port of Visual Studio Code |
+    <a href=https://github.com/matthartman/ghost-pepper target="_blank">
+        Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS |
     </a>
-    By: 0x1997
-</li>
-
-<li>
-    <a href=https://github.com/arman-bd/guppylm target="_blank">
-        Show HN: I built a tiny LLM to demystify how language models work |
-    </a>
-    By: armanified
+    By: MattHart88
 </li>
 
 <p>
-Text: Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character. </br>
+Text: I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. Experimenting with using it as a voice interface for my other agents too. 100% open-source MIT license, would love feedback, PRs, and ideas on where to take it. </br>
 </p>
 
 <li>
-    <a href=https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337 target="_blank">
-        Gemma 4 on iPhone |
+    <a href=https://github.com/solod-dev/solod target="_blank">
+        Solod – A Subset of Go That Translates to C |
     </a>
-    By: janandonly
+    By: TheWiggles
 </li>
 
 <li>
-    <a href=https://playlists.at/youtube/search/ target="_blank">
-        Show HN: I made a YouTube search form with advanced filters |
+    <a href=https://www.anildash.com/2026/04/06/people-love-to-work-hard/ target="_blank">
+        People Love to Work Hard |
     </a>
-    By: nevernothing
+    By: zdw
 </li>
 
 <li>
-    <a href=https://twitter.com/exQUIZitely/status/2040777977521398151 target="_blank">
-        The 1987 game “The Last Ninja” was 40 kilobytes |
+    <a href=https://www.freestyle.sh/ target="_blank">
+        Launch HN: Freestyle – Sandboxes for Coding Agents |
     </a>
-    By: keepamovin
+    By: benswerd
+</li>
+
+<p>
+Text: We’re Ben and Jacob, cofounders of Freestyle (<a href="https:&#x2F;&#x2F;freestyle.sh">https:&#x2F;&#x2F;freestyle.sh</a>). We’re building a cloud for  Coding Agents.<p>For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could write simple scripts. Soon after the first AI App Builders started using AI to make whole websites; we supported that with a serverless deploy system.<p>But the current generation is going much further, instead of minimal tools and basic serverless apps AI can utilize the full power of a computer (“sandbox”). We’re building sandboxes that are interchangeable with EC2s from your agents perspective, with bonus features:<p>1. We’ve figured out how to fork a sandbox horizontally without more than a 400ms pause in it. That&#x27;s not forking the filesystem, we mean forking the whole memory of it. If you’re half way down a browser page with animations running, they’ll be in the same place in all the forks. If you’re running a minecraft server every block and player will be in the same place on the forks. If you’re running a local environment and an error comes up in process that error will be there in all the forks. This works for snapshotting as well, you can save your place and come back weeks later.<p>2. Our sandboxes start in ~500ms.<p>Demo: <a href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524" rel="nofollow">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524</a><p>Compared with other sandboxes, our goal is to be the most powerful. We support full Linux + hardware-virtualization, eBPF, Fuse, etc. We run full Debian with multiple users and we use a systemd init instead of runc. Whatever your AI expects to work on debian should work on these vms, and if it doesn’t send a bug report.<p>In order to make this possible, we’ve moved to our own bare metal racks. Early in our testing we realized that moving VMs across cloud nodes would not have acceptable performance properties. We asked Google Cloud and AWS for a quote on their bare metal nodes and found that the monthly cost was equivalent to the total cost of the hardware so we did that.<p>Our goal is to build the necessary infrastructure to replicate the human devloop on the massively multi-tenant scale of AI, so these VMs should be as powerful as the ones you’re used to, while also being available to provision in seconds. </br>
+</p>
+
+<li>
+    <a href=https://github.com/anthropics/claude-code/issues/42796 target="_blank">
+        Issue: Claude Code is unusable for complex engineering tasks with Feb updates |
+    </a>
+    By: StanAngeloff
 </li>
 </ol>
