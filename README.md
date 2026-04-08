@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 07 Apr 2026</h4>
+<h4>Check the latest news from: Wed 08 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/matthartman/ghost-pepper target="_blank">
-        Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS |
+    <a href=https://www.anthropic.com/glasswing target="_blank">
+        Project Glasswing: Securing critical software for the AI era |
     </a>
-    By: MattHart88
+    By: Ryan5453
 </li>
 
 <p>
-Text: I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I&#x27;ve been using a ton for coding and emails. Experimenting with using it as a voice interface for my other agents too. 100% open-source MIT license, would love feedback, PRs, and ideas on where to take it. </br>
+Text: Related: <i>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155</a><p><i>System Card: Claude Mythos Preview [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258</a><p>Also: <i>Anthropic&#x27;s Project Glasswing sounds necessary to me</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/solod-dev/solod target="_blank">
-        Solod – A Subset of Go That Translates to C |
+    <a href=https://www.nasa.gov/gallery/lunar-flyby/ target="_blank">
+        Lunar Flyby |
     </a>
-    By: TheWiggles
+    By: kipi
 </li>
 
 <li>
-    <a href=https://www.anildash.com/2026/04/06/people-love-to-work-hard/ target="_blank">
-        People Love to Work Hard |
+    <a href=https://dylanbutler.dev/blog/protect-your-shed/ target="_blank">
+        Protect your shed |
     </a>
-    By: zdw
+    By: baely
 </li>
 
 <li>
-    <a href=https://www.freestyle.sh/ target="_blank">
-        Launch HN: Freestyle – Sandboxes for Coding Agents |
+    <a href=https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426 target="_blank">
+        Native Americans had dice 12k years ago |
     </a>
-    By: benswerd
+    By: delichon
 </li>
 
-<p>
-Text: We’re Ben and Jacob, cofounders of Freestyle (<a href="https:&#x2F;&#x2F;freestyle.sh">https:&#x2F;&#x2F;freestyle.sh</a>). We’re building a cloud for  Coding Agents.<p>For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could write simple scripts. Soon after the first AI App Builders started using AI to make whole websites; we supported that with a serverless deploy system.<p>But the current generation is going much further, instead of minimal tools and basic serverless apps AI can utilize the full power of a computer (“sandbox”). We’re building sandboxes that are interchangeable with EC2s from your agents perspective, with bonus features:<p>1. We’ve figured out how to fork a sandbox horizontally without more than a 400ms pause in it. That&#x27;s not forking the filesystem, we mean forking the whole memory of it. If you’re half way down a browser page with animations running, they’ll be in the same place in all the forks. If you’re running a minecraft server every block and player will be in the same place on the forks. If you’re running a local environment and an error comes up in process that error will be there in all the forks. This works for snapshotting as well, you can save your place and come back weeks later.<p>2. Our sandboxes start in ~500ms.<p>Demo: <a href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524" rel="nofollow">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;8b3d294d515442f296aecde1f42f5524</a><p>Compared with other sandboxes, our goal is to be the most powerful. We support full Linux + hardware-virtualization, eBPF, Fuse, etc. We run full Debian with multiple users and we use a systemd init instead of runc. Whatever your AI expects to work on debian should work on these vms, and if it doesn’t send a bug report.<p>In order to make this possible, we’ve moved to our own bare metal racks. Early in our testing we realized that moving VMs across cloud nodes would not have acceptable performance properties. We asked Google Cloud and AWS for a quote on their bare metal nodes and found that the monthly cost was equivalent to the total cost of the hardware so we did that.<p>Our goal is to build the necessary infrastructure to replicate the human devloop on the massively multi-tenant scale of AI, so these VMs should be as powerful as the ones you’re used to, while also being available to provision in seconds. </br>
-</p>
-
 <li>
-    <a href=https://github.com/anthropics/claude-code/issues/42796 target="_blank">
-        Issue: Claude Code is unusable for complex engineering tasks with Feb updates |
+    <a href=http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html target="_blank">
+        Slightly safer vibecoding by adopting old hacker habits |
     </a>
-    By: StanAngeloff
+    By: transpute
 </li>
 </ol>
