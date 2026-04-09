@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 08 Apr 2026</h4>
+<h4>Check the latest news from: Thu 09 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/glasswing target="_blank">
-        Project Glasswing: Securing critical software for the AI era |
+    <a href=https://obdev.at/products/littlesnitch-linux/index.html target="_blank">
+        LittleSnitch for Linux |
     </a>
-    By: Ryan5453
-</li>
-
-<p>
-Text: Related: <i>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155</a><p><i>System Card: Claude Mythos Preview [pdf]</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258</a><p>Also: <i>Anthropic&#x27;s Project Glasswing sounds necessary to me</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47681241</a> </br>
-</p>
-
-<li>
-    <a href=https://www.nasa.gov/gallery/lunar-flyby/ target="_blank">
-        Lunar Flyby |
-    </a>
-    By: kipi
+    By: pluc
 </li>
 
 <li>
-    <a href=https://dylanbutler.dev/blog/protect-your-shed/ target="_blank">
-        Protect your shed |
+    <a href=https://astral.sh/blog/open-source-security-at-astral target="_blank">
+        Open Source Security at Astral |
     </a>
-    By: baely
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426 target="_blank">
-        Native Americans had dice 12k years ago |
+    <a href=https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html target="_blank">
+        I ported Mac OS X to the Nintendo Wii |
     </a>
-    By: delichon
+    By: blkhp19
 </li>
 
 <li>
-    <a href=http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html target="_blank">
-        Slightly safer vibecoding by adopting old hacker habits |
+    <a href=https://theamericanscholar.org/the-importance-of-being-idle/ target="_blank">
+        The Importance of Being Idle |
     </a>
-    By: transpute
+    By: Caiero
+</li>
+
+<li>
+    <a href=https://werwolv.net/posts/usb_for_sw_devs/ target="_blank">
+        USB for Software Developers: An introduction to writing userspace USB drivers |
+    </a>
+    By: WerWolv
 </li>
 </ol>
