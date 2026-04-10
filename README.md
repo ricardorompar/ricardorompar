@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 09 Apr 2026</h4>
+<h4>Check the latest news from: Fri 10 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://obdev.at/products/littlesnitch-linux/index.html target="_blank">
-        LittleSnitch for Linux |
+    <a href=https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/ target="_blank">
+        How NASA built Artemis II’s fault-tolerant computer |
     </a>
-    By: pluc
+    By: speckx
 </li>
 
 <li>
-    <a href=https://astral.sh/blog/open-source-security-at-astral target="_blank">
-        Open Source Security at Astral |
+    <a href=https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html target="_blank">
+        YouTube locked my accounts and I can't cancel my subscription |
     </a>
-    By: vinhnx
+    By: digitalhigh
 </li>
 
 <li>
-    <a href=https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html target="_blank">
-        I ported Mac OS X to the Nintendo Wii |
+    <a href=https://arhan.sh/blog/native-instant-space-switching-on-macos/ target="_blank">
+        Native Instant Space Switching on macOS |
     </a>
-    By: blkhp19
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://theamericanscholar.org/the-importance-of-being-idle/ target="_blank">
-        The Importance of Being Idle |
+    <a href=https://blog.veitheller.de/Generative_art_over_the_years.html target="_blank">
+        Generative art over the years |
     </a>
-    By: Caiero
+    By: evakhoury
 </li>
 
 <li>
-    <a href=https://werwolv.net/posts/usb_for_sw_devs/ target="_blank">
-        USB for Software Developers: An introduction to writing userspace USB drivers |
+    <a href=https://david.coffee/i-still-prefer-mcp-over-skills/ target="_blank">
+        I still prefer MCP over skills |
     </a>
-    By: WerWolv
+    By: gmays
 </li>
 </ol>
