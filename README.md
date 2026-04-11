@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 10 Apr 2026</h4>
+<h4>Check the latest news from: Sat 11 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/ target="_blank">
-        How NASA built Artemis II’s fault-tolerant computer |
+    <a href=https://kentwalters.com/posts/corners/ target="_blank">
+        Filing the corners off my MacBooks |
     </a>
-    By: speckx
+    By: normanvalentine
 </li>
 
 <li>
-    <a href=https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html target="_blank">
-        YouTube locked my accounts and I can't cancel my subscription |
+    <a href=https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html target="_blank">
+        20 Years on AWS and Never Not My Job |
     </a>
-    By: digitalhigh
+    By: cperciva
 </li>
 
 <li>
-    <a href=https://arhan.sh/blog/native-instant-space-switching-on-macos/ target="_blank">
-        Native Instant Space Switching on macOS |
+    <a href=https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/ target="_blank">
+        Artemis II safely splashes down |
     </a>
-    By: PaulHoule
+    By: areoform
 </li>
 
 <li>
-    <a href=https://blog.veitheller.de/Generative_art_over_the_years.html target="_blank">
-        Generative art over the years |
+    <a href=https://rowan441.github.io/1dchess/chess.html target="_blank">
+        1D Chess |
     </a>
-    By: evakhoury
+    By: burnt-resistor
 </li>
 
 <li>
-    <a href=https://david.coffee/i-still-prefer-mcp-over-skills/ target="_blank">
-        I still prefer MCP over skills |
+    <a href=https://www.bbc.com/news/articles/cr71lkzv49po target="_blank">
+        Chimpanzees in Uganda locked in eight-year 'civil war', say researchers |
     </a>
-    By: gmays
+    By: neversaydie
 </li>
 </ol>
