@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 11 Apr 2026</h4>
+<h4>Check the latest news from: Sun 12 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://kentwalters.com/posts/corners/ target="_blank">
-        Filing the corners off my MacBooks |
+    <a href=https://brennan.day/the-end-of-eleventy/ target="_blank">
+        The End of Eleventy |
     </a>
-    By: normanvalentine
+    By: ValentineC
 </li>
 
 <li>
-    <a href=https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html target="_blank">
-        20 Years on AWS and Never Not My Job |
+    <a href=https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier target="_blank">
+        Small models also found the vulnerabilities that Mythos found |
     </a>
-    By: cperciva
+    By: dominicq
 </li>
 
 <li>
-    <a href=https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/ target="_blank">
-        Artemis II safely splashes down |
+    <a href=https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional target="_blank">
+        US appeals court declares 158-year-old home distilling ban unconstitutional |
     </a>
-    By: areoform
+    By: Jimmc414
 </li>
 
 <li>
-    <a href=https://rowan441.github.io/1dchess/chess.html target="_blank">
-        1D Chess |
+    <a href=https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ target="_blank">
+        How We Broke Top AI Agent Benchmarks: And What Comes Next |
     </a>
-    By: burnt-resistor
+    By: Anon84
 </li>
 
 <li>
-    <a href=https://www.bbc.com/news/articles/cr71lkzv49po target="_blank">
-        Chimpanzees in Uganda locked in eight-year 'civil war', say researchers |
+    <a href=https://philodev.one/posts/2026-04-code-complexity/ target="_blank">
+        How Complex is my Code? |
     </a>
-    By: neversaydie
+    By: speckx
 </li>
 </ol>
