@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 13 Apr 2026</h4>
+<h4>Check the latest news from: Tue 14 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.viktorcessan.com/the-economics-of-software-teams/ target="_blank">
-        The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind |
+    <a href=https://www.blackmagicdesign.com/products/davinciresolve/photo target="_blank">
+        DaVinci Resolve releases Photo Editor |
     </a>
-    By: kiyanwang
+    By: thebiblelover7
 </li>
 
 <li>
-    <a href=https://arxiv.org/abs/2603.21852 target="_blank">
-        All elementary functions from a single binary operator |
+    <a href=https://developers.google.com/search/blog/2026/04/back-button-hijacking target="_blank">
+        A new spam policy for "back button hijacking" |
     </a>
-    By: pizza
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/ target="_blank">
-        Taking on CUDA with ROCm: 'One Step After Another' |
+    <a href=https://so.long.thanks.fish/can-claude-fly-a-plane/ target="_blank">
+        Can Claude Fly a Plane? |
     </a>
-    By: mindcrime
+    By: casi
 </li>
 
 <li>
-    <a href=https://boringbar.app/ target="_blank">
-        Show HN: boringBar – a taskbar-style dock replacement for macOS |
+    <a href=https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/ target="_blank">
+        Someone bought 30 WordPress plugins and planted a backdoor in all of them |
     </a>
-    By: a-ve
+    By: speckx
 </li>
 
-<p>
-Text: Hi HN!<p>I recently switched from a Fedora&#x2F;GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.<p>I built boringBar so I would not have to use the Dock. It shows only the windows in the current Space, lets you switch Spaces by scrolling on the bar, and adds a desktop switcher so you can jump directly to any Space. You can also hide the system Dock, pin apps, preview windows with thumbnails, and launch apps from a searchable menu (I keep Spotlight disabled because for some reason it uses a lot of system resources on my machine).<p>I’ve been dogfooding it for a few months now, and it finally felt polished enough to share.<p>It’s for people who like macOS but want window management to feel a bit more like GNOME, Windows, or a traditional taskbar. It’s also for people like me who wanted an easier transition to macOS, especially now that Windows feels increasingly user-hostile.<p>I’d love feedback on the UX, bugs, and whether this solves the same Dock&#x2F;Spaces pain for anyone else.<p>P.S. It might also appeal to people who feel nostalgic for the GNOME 2 desktop of yore. I started my Linux journey with it, and boringBar brings back some of that feeling for me. </br>
-</p>
-
 <li>
-    <a href=https://essays.johnloeber.com/p/4-bring-back-idiomatic-design target="_blank">
-        Bring Back Idiomatic Design (2023) |
+    <a href=https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/ target="_blank">
+        Sometimes powerful people just do dumb shit |
     </a>
-    By: phil294
+    By: zdw
 </li>
 </ol>
