@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 14 Apr 2026</h4>
+<h4>Check the latest news from: Wed 15 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.blackmagicdesign.com/products/davinciresolve/photo target="_blank">
-        DaVinci Resolve releases Photo Editor |
+    <a href=https://iczelia.net/posts/e16-20-year-old-bug/ target="_blank">
+        Fixing a 20-year-old bug in Enlightenment E16 |
     </a>
-    By: thebiblelover7
+    By: snoofydude
 </li>
 
 <li>
-    <a href=https://developers.google.com/search/blog/2026/04/back-button-hijacking target="_blank">
-        A new spam policy for "back button hijacking" |
+    <a href=https://code.claude.com/docs/en/routines target="_blank">
+        Claude Code Routines |
     </a>
-    By: zdw
+    By: matthieu_bl
 </li>
 
 <li>
-    <a href=https://so.long.thanks.fish/can-claude-fly-a-plane/ target="_blank">
-        Can Claude Fly a Plane? |
+    <a href=https://calpaterson.com/deps.html target="_blank">
+        Dependency cooldowns turn you into a free-rider |
     </a>
-    By: casi
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/ target="_blank">
-        Someone bought 30 WordPress plugins and planted a backdoor in all of them |
+    <a href=https://www.stylewarning.com/posts/not-all-elementary/ target="_blank">
+        Not all elementary functions can be expressed with exp-minus-log |
     </a>
-    By: speckx
+    By: mmastrac
 </li>
 
 <li>
-    <a href=https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/ target="_blank">
-        Sometimes powerful people just do dumb shit |
+    <a href=https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/ target="_blank">
+        Rare concert recordings are landing on the Internet Archive |
     </a>
-    By: zdw
+    By: jrm-veris
 </li>
 </ol>
