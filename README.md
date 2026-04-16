@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 15 Apr 2026</h4>
+<h4>Check the latest news from: Thu 16 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://iczelia.net/posts/e16-20-year-old-bug/ target="_blank">
-        Fixing a 20-year-old bug in Enlightenment E16 |
+    <a href=https://darkbloom.dev target="_blank">
+        Darkbloom – Private inference on idle Macs |
     </a>
-    By: snoofydude
+    By: twapi
 </li>
 
 <li>
-    <a href=https://code.claude.com/docs/en/routines target="_blank">
-        Claude Code Routines |
-    </a>
-    By: matthieu_bl
-</li>
-
-<li>
-    <a href=https://calpaterson.com/deps.html target="_blank">
-        Dependency cooldowns turn you into a free-rider |
+    <a href=https://daedal.io/@thomzane/116410863009847575 target="_blank">
+        FSF trying to contact Google about spammer sending 10k+ mails from Gmail account |
     </a>
     By: pabs3
 </li>
 
 <li>
-    <a href=https://www.stylewarning.com/posts/not-all-elementary/ target="_blank">
-        Not all elementary functions can be expressed with exp-minus-log |
+    <a href=https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ target="_blank">
+        Sal Khan's AI revolution hasn't happened yet |
     </a>
-    By: mmastrac
+    By: the-mitr
 </li>
 
 <li>
-    <a href=https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/ target="_blank">
-        Rare concert recordings are landing on the Internet Archive |
+    <a href=https://github.com/Nightmare-Eclipse/RedSun target="_blank">
+        RedSun: System user access on Win 11/10 and Server with the April 2026 Update |
     </a>
-    By: jrm-veris
+    By: airhangerf15
+</li>
+
+<li>
+    <a href=https://sleepingrobots.com/dreams/stop-using-ollama/ target="_blank">
+        Stop Using Ollama |
+    </a>
+    By: Zetaphor
 </li>
 </ol>
