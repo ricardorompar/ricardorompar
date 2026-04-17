@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 16 Apr 2026</h4>
+<h4>Check the latest news from: Fri 17 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://darkbloom.dev target="_blank">
-        Darkbloom – Private inference on idle Macs |
+    <a href=https://www.anthropic.com/news/claude-opus-4-7 target="_blank">
+        Claude Opus 4.7 |
     </a>
-    By: twapi
+    By: meetpateltech
 </li>
 
 <li>
-    <a href=https://daedal.io/@thomzane/116410863009847575 target="_blank">
-        FSF trying to contact Google about spammer sending 10k+ mails from Gmail account |
+    <a href=https://openai.com/index/codex-for-almost-everything/ target="_blank">
+        Codex for almost everything |
     </a>
-    By: pabs3
+    By: mikeevans
 </li>
 
 <li>
-    <a href=https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/ target="_blank">
-        Sal Khan's AI revolution hasn't happened yet |
+    <a href=https://cadquery.github.io/ target="_blank">
+        CadQuery is an open-source Python library for building 3D CAD models |
     </a>
-    By: the-mitr
+    By: gregsadetsky
 </li>
 
 <li>
-    <a href=https://github.com/Nightmare-Eclipse/RedSun target="_blank">
-        RedSun: System user access on Win 11/10 and Server with the April 2026 Update |
+    <a href=https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html target="_blank">
+        A Python Interpreter Written in Python |
     </a>
-    By: airhangerf15
+    By: xk3
 </li>
 
 <li>
-    <a href=https://sleepingrobots.com/dreams/stop-using-ollama/ target="_blank">
-        Stop Using Ollama |
+    <a href=https://github.com/gainsec/autoprober target="_blank">
+        Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine |
     </a>
-    By: Zetaphor
+    By: scaredpelican
 </li>
 </ol>
