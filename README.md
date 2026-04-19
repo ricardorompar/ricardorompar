@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 18 Apr 2026</h4>
+<h4>Check the latest news from: Sun 19 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://victorpoughon.github.io/interval-calculator/ target="_blank">
-        Show HN: I made a calculator that works over disjoint sets of intervals |
+    <a href=https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits target="_blank">
+        NIST scientists create 'any wavelength' lasers |
     </a>
-    By: fouronnes3
-</li>
-
-<p>
-Text: I&#x27;ve been studying interval arithmetic for the past few weeks and it&#x27;s a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO.<p>One reason for this is that standard interval arithmetic has really poor handling of division by intervals containing zero. If you compute 1 &#x2F; [-1, 2] in regular interval arithmetic, you get either [-∞, +∞], or you have to say that the operation is undefined. Both solutions are virtually useless. The real answer of course is [-∞, -1] U [0.5, +∞]: i.e. a union of two disjoint intervals.<p>This is useful because you can confidently exclude a non empty set of the real numbers ([-1, 0.5]) from the set of possible values that you can get by dividing 1 by a number between -1 and 2.<p>But this definition of interval division yields a value that is not an interval. This is a problem if you want to define a closed arithmetic system, where you can build and evaluate arbitrary expression over interval values.<p>(This behavior extends to any non continuous function like tan() for example, which is implemented in my project - not without difficulties!)<p>Well the obvious solution is to define your arithmetic over disjoint unions of intervals. This is the subject of a 2017 paper called &quot;Interval Unions&quot; by by Schichl, H., Domes, F., Montanher, T. and Kofler, K..<p>This open-source project I made implements interval union arithmetic in TypeScript in the form of a simple interactive calculator, so you can try it out for yourself! The underlying TypeScript library is dependency free and implements interval union arithmetic over IEEE 754 double precision floats (JS native number type) with outward rounding. This guarantees accuracy of interval results in the presence of rounding issue inherent to floating point. </br>
-</p>
-
-<li>
-    <a href=https://www.anthropic.com/news/claude-design-anthropic-labs target="_blank">
-        Claude Design |
-    </a>
-    By: meetpateltech
-</li>
-
-<p>
-Text: Related: <a href="https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458</a> (<a href="https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458</a>) </br>
-</p>
-
-<li>
-    <a href=https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html target="_blank">
-        Towards trust in Emacs |
-    </a>
-    By: eshelyaron
+    By: rbanffy
 </li>
 
 <li>
-    <a href=https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you target="_blank">
-        Measuring Claude 4.7's tokenizer costs |
+    <a href=https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ target="_blank">
+        College instructor turns to typewriters to curb AI-written work |
     </a>
-    By: aray07
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon target="_blank">
-        All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018) |
+    <a href=https://tokens.billchambers.me/leaderboard target="_blank">
+        Anonymous request-token comparisons from Opus 4.6 and Opus 4.7 |
     </a>
-    By: cybermango
+    By: anabranch
+</li>
+
+<li>
+    <a href=https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine target="_blank">
+        Updating Gun Rocket through 10 years of Unity Engine |
+    </a>
+    By: tyleo
+</li>
+
+<li>
+    <a href=https://antithesis.com/blog/2026/skiptrees/ target="_blank">
+        What Are Skiplists Good For? |
+    </a>
+    By: mfiguiere
 </li>
 </ol>
