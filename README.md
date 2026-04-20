@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 19 Apr 2026</h4>
+<h4>Check the latest news from: Mon 20 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits target="_blank">
-        NIST scientists create 'any wavelength' lasers |
+    <a href=https://sdf.org/?ssh target="_blank">
+        SDF Public Access Unix System |
     </a>
-    By: rbanffy
+    By: neehao
 </li>
 
 <li>
-    <a href=https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ target="_blank">
-        College instructor turns to typewriters to curb AI-written work |
+    <a href=https://www.vulture.com/article/ben-lerner-transcription-interview.html target="_blank">
+        Ben Lerner's Big Feelings |
     </a>
-    By: gnabgib
+    By: prismatic
 </li>
 
 <li>
-    <a href=https://tokens.billchambers.me/leaderboard target="_blank">
-        Anonymous request-token comparisons from Opus 4.6 and Opus 4.7 |
+    <a href=https://stripe.dev/blog/payment-api-design target="_blank">
+        Stripe's Payment APIs: the first 10 years (2020) |
     </a>
-    By: anabranch
+    By: tibbar
 </li>
 
 <li>
-    <a href=https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine target="_blank">
-        Updating Gun Rocket through 10 years of Unity Engine |
+    <a href=https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/ target="_blank">
+        Vercel April 2026 security incident |
     </a>
-    By: tyleo
+    By: colesantiago
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-incident" rel="nofollow">https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in...</a> </br>
+</p>
+
 <li>
-    <a href=https://antithesis.com/blog/2026/skiptrees/ target="_blank">
-        What Are Skiplists Good For? |
+    <a href=https://www.legalnomads.com/fish-sauce/ target="_blank">
+        A Brief History of Fish Sauce |
     </a>
-    By: mfiguiere
+    By: vinhnx
 </li>
 </ol>
