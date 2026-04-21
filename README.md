@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 20 Apr 2026</h4>
+<h4>Check the latest news from: Tue 21 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://sdf.org/?ssh target="_blank">
-        SDF Public Access Unix System |
+    <a href=https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/ target="_blank">
+        John Ternus to become Apple CEO |
     </a>
-    By: neehao
+    By: schappim
 </li>
 
 <li>
-    <a href=https://www.vulture.com/article/ben-lerner-transcription-interview.html target="_blank">
-        Ben Lerner's Big Feelings |
+    <a href=https://docs.openclaw.ai/providers/anthropic target="_blank">
+        Anthropic says OpenClaw-style Claude CLI usage is allowed again |
     </a>
-    By: prismatic
+    By: jmsflknr
 </li>
 
 <li>
-    <a href=https://stripe.dev/blog/payment-api-design target="_blank">
-        Stripe's Payment APIs: the first 10 years (2020) |
+    <a href=https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform target="_blank">
+        A Roblox cheat and one AI tool brought down Vercel's platform |
     </a>
-    By: tibbar
+    By: bishwasbh
 </li>
 
 <li>
-    <a href=https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/ target="_blank">
-        Vercel April 2026 security incident |
+    <a href=https://zef-lang.dev/implementation target="_blank">
+        How to make a fast dynamic language interpreter |
     </a>
-    By: colesantiago
+    By: pizlonator
+</li>
+
+<li>
+    <a href=https://mediator.ai/ target="_blank">
+        Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness |
+    </a>
+    By: sanity
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-incident" rel="nofollow">https:&#x2F;&#x2F;vercel.com&#x2F;kb&#x2F;bulletin&#x2F;vercel-april-2026-security-in...</a> </br>
+Text: Eight years ago, my then-fiancée and I decided to get a prenup, so we hired a local mediator. The meetings were useful, but I felt there was no systematic process to produce a final agreement. So I started to think about this problem, and after a bit of research, I discovered the Nash bargaining solution.<p>Yet if John Nash had solved negotiation in the 1950s, why did it seem like nobody was using it today? The issue was that Nash&#x27;s solution required that each party to the negotiation provide a &quot;utility function&quot;, which could take a set of deal terms and produce a utility number. But even experts have trouble producing such functions for non-trivial negotiations.<p>A few years passed and LLMs appeared, and about a year ago I realized that while LLMs aren’t good at directly producing utility estimates, they are good at doing comparisons, and this can be used to estimate utilities of draft agreements.<p>This is the basis for Mediator.ai, which I soft-launched over the weekend. Be interviewed by an LLM to capture your preferences and then invite the other party or parties to do the same. These preferences are then used as the fitness function for a genetic algorithm to find an agreement all parties are likely to agree to.<p>An article with more technical detail: <a href="https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;" rel="nofollow">https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;</a> </br>
 </p>
-
-<li>
-    <a href=https://www.legalnomads.com/fish-sauce/ target="_blank">
-        A Brief History of Fish Sauce |
-    </a>
-    By: vinhnx
-</li>
 </ol>
