@@ -45,44 +45,52 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 21 Apr 2026</h4>
+<h4>Check the latest news from: Wed 22 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/ target="_blank">
-        John Ternus to become Apple CEO |
+    <a href=https://www.youtube.com/watch?v=h6GWikWlAQA target="_blank">
+        Making RAM at Home [video] |
     </a>
-    By: schappim
+    By: kaipereira
 </li>
 
 <li>
-    <a href=https://docs.openclaw.ai/providers/anthropic target="_blank">
-        Anthropic says OpenClaw-style Claude CLI usage is allowed again |
+    <a href=https://openai.com/index/introducing-chatgpt-images-2-0/ target="_blank">
+        ChatGPT Images 2.0 |
     </a>
-    By: jmsflknr
-</li>
-
-<li>
-    <a href=https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform target="_blank">
-        A Roblox cheat and one AI tool brought down Vercel's platform |
-    </a>
-    By: bishwasbh
-</li>
-
-<li>
-    <a href=https://zef-lang.dev/implementation target="_blank">
-        How to make a fast dynamic language interpreter |
-    </a>
-    By: pizlonator
-</li>
-
-<li>
-    <a href=https://mediator.ai/ target="_blank">
-        Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness |
-    </a>
-    By: sanity
+    By: wahnfrieden
 </li>
 
 <p>
-Text: Eight years ago, my then-fiancée and I decided to get a prenup, so we hired a local mediator. The meetings were useful, but I felt there was no systematic process to produce a final agreement. So I started to think about this problem, and after a bit of research, I discovered the Nash bargaining solution.<p>Yet if John Nash had solved negotiation in the 1950s, why did it seem like nobody was using it today? The issue was that Nash&#x27;s solution required that each party to the negotiation provide a &quot;utility function&quot;, which could take a set of deal terms and produce a utility number. But even experts have trouble producing such functions for non-trivial negotiations.<p>A few years passed and LLMs appeared, and about a year ago I realized that while LLMs aren’t good at directly producing utility estimates, they are good at doing comparisons, and this can be used to estimate utilities of draft agreements.<p>This is the basis for Mediator.ai, which I soft-launched over the weekend. Be interviewed by an LLM to capture your preferences and then invite the other party or parties to do the same. These preferences are then used as the fitness function for a genetic algorithm to find an agreement all parties are likely to agree to.<p>An article with more technical detail: <a href="https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;" rel="nofollow">https:&#x2F;&#x2F;mediator.ai&#x2F;blog&#x2F;ai-negotiation-nash-bargaining&#x2F;</a> </br>
+Text: Livestream: <a href="https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;</a><p>System card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatgpt-images-2-0.pdf" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatg...</a> </br>
+</p>
+
+<li>
+    <a href=https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet target="_blank">
+        Acetaminophen vs. ibuprofen |
+    </a>
+    By: nkurz
+</li>
+
+<li>
+    <a href=https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/ target="_blank">
+        Diverse organic molecules on Mars revealed by the first SAM TMAH experiment |
+    </a>
+    By: geox
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0</a> </br>
+</p>
+
+<li>
+    <a href=https://twitter.com/spacex/status/2046713419978453374 target="_blank">
+        SpaceX says it has agreement to acquire Cursor for $60B |
+    </a>
+    By: dmarcos
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option-acquire-startup-cursor-60-billion-2026-04-21&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-deal.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-de...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;c2Tac" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;c2Tac</a>)<p><a href="https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-21&#x2F;spacex-says-has-agreement-to-acquire-cursor-for-60-billion" rel="nofollow">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-21&#x2F;spacex-sa...</a> </br>
 </p>
 </ol>
