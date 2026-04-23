@@ -45,52 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 22 Apr 2026</h4>
+<h4>Check the latest news from: Thu 23 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.youtube.com/watch?v=h6GWikWlAQA target="_blank">
-        Making RAM at Home [video] |
+    <a href=https://crawshaw.io/blog/building-a-cloud target="_blank">
+        I am building a cloud |
     </a>
-    By: kaipereira
+    By: bumbledraven
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-chatgpt-images-2-0/ target="_blank">
-        ChatGPT Images 2.0 |
+    <a href=https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ target="_blank">
+        Alberta startup sells no-tech tractors for half price |
     </a>
-    By: wahnfrieden
-</li>
-
-<p>
-Text: Livestream: <a href="https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;</a><p>System card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatgpt-images-2-0.pdf" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatg...</a> </br>
-</p>
-
-<li>
-    <a href=https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet target="_blank">
-        Acetaminophen vs. ibuprofen |
-    </a>
-    By: nkurz
+    By: Kaibeezy
 </li>
 
 <li>
-    <a href=https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/ target="_blank">
-        Diverse organic molecules on Mars revealed by the first SAM TMAH experiment |
+    <a href=https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/ target="_blank">
+        Apple fixes bug that cops used to extract deleted chat messages from iPhones |
     </a>
-    By: geox
+    By: cdrnsf
 </li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0" rel="nofollow">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-026-70656-0</a> </br>
-</p>
 
 <li>
-    <a href=https://twitter.com/spacex/status/2046713419978453374 target="_blank">
-        SpaceX says it has agreement to acquire Cursor for $60B |
+    <a href=https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ target="_blank">
+        We found a stable Firefox identifier linking all your private Tor identities |
     </a>
-    By: dmarcos
+    By: danpinto
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option-acquire-startup-cursor-60-billion-2026-04-21&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;spacex-says-it-has-option...</a><p><a href="https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-deal.html" rel="nofollow">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;21&#x2F;business&#x2F;spacex-cursor-de...</a> (<a href="https:&#x2F;&#x2F;archive.ph&#x2F;c2Tac" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;c2Tac</a>)<p><a href="https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-21&#x2F;spacex-says-has-agreement-to-acquire-cursor-for-60-billion" rel="nofollow">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-21&#x2F;spacex-sa...</a> </br>
-</p>
+<li>
+    <a href=https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/ target="_blank">
+        A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels? |
+    </a>
+    By: Prof_Sigmund
+</li>
 </ol>
