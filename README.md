@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 23 Apr 2026</h4>
+<h4>Check the latest news from: Fri 24 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://crawshaw.io/blog/building-a-cloud target="_blank">
-        I am building a cloud |
+    <a href=https://api-docs.deepseek.com/ target="_blank">
+        DeepSeek v4 |
     </a>
-    By: bumbledraven
+    By: impact_sy
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main&#x2F;DeepSeek_V4.pdf" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...</a> </br>
+</p>
+
+<li>
+    <a href=https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/ target="_blank">
+        Why I Write (1946) |
+    </a>
+    By: RyanShook
 </li>
 
 <li>
-    <a href=https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ target="_blank">
-        Alberta startup sells no-tech tractors for half price |
+    <a href=https://openai.com/index/introducing-gpt-5-5/ target="_blank">
+        GPT-5.5 |
     </a>
-    By: Kaibeezy
+    By: rd
 </li>
 
 <li>
-    <a href=https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/ target="_blank">
-        Apple fixes bug that cops used to extract deleted chat messages from iPhones |
+    <a href=https://www.anthropic.com/engineering/april-23-postmortem target="_blank">
+        An update on recent Claude Code quality reports |
     </a>
-    By: cdrnsf
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ target="_blank">
-        We found a stable Firefox identifier linking all your private Tor identities |
+    <a href=https://socket.dev/blog/bitwarden-cli-compromised target="_blank">
+        Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign |
     </a>
-    By: danpinto
-</li>
-
-<li>
-    <a href=https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/ target="_blank">
-        A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels? |
-    </a>
-    By: Prof_Sigmund
+    By: tosh
 </li>
 </ol>
