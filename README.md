@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 24 Apr 2026</h4>
+<h4>Check the latest news from: Sat 25 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://api-docs.deepseek.com/ target="_blank">
-        DeepSeek v4 |
+    <a href=https://github.com/magiblot/tvision target="_blank">
+        Turbo Vision 2.0 – a modern port |
     </a>
-    By: impact_sy
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main&#x2F;DeepSeek_V4.pdf" rel="nofollow">https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Pro&#x2F;blob&#x2F;main...</a> </br>
-</p>
-
-<li>
-    <a href=https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/ target="_blank">
-        Why I Write (1946) |
-    </a>
-    By: RyanShook
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://openai.com/index/introducing-gpt-5-5/ target="_blank">
-        GPT-5.5 |
+    <a href=https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic target="_blank">
+        Google plans to invest up to $40B in Anthropic |
     </a>
-    By: rd
+    By: elffjs
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/engineering/april-23-postmortem target="_blank">
-        An update on recent Claude Code quality reports |
+    <a href=https://en.wikipedia.org/wiki/Paraloid_B-72 target="_blank">
+        Paraloid B-72 |
     </a>
-    By: mfiguiere
+    By: Ariarule
 </li>
 
 <li>
-    <a href=https://socket.dev/blog/bitwarden-cli-compromised target="_blank">
-        Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign |
+    <a href=https://clad.you/blog/posts/questionnaire-mlp/ target="_blank">
+        A 3D Body from Eight Questions – No Photo, No GPU |
     </a>
-    By: tosh
+    By: arkadiuss
+</li>
+
+<li>
+    <a href=https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas target="_blank">
+        Humpback whales are forming super-groups |
+    </a>
+    By: andsoitis
 </li>
 </ol>
