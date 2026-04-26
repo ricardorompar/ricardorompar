@@ -45,40 +45,41 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 25 Apr 2026</h4>
+<h4>Check the latest news from: Sun 26 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/magiblot/tvision target="_blank">
-        Turbo Vision 2.0 – a modern port |
+    <a href=https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/ target="_blank">
+        Amateur armed with ChatGPT solves an Erdős problem |
     </a>
-    By: andsoitis
+    By: pr337h4m
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.erdosproblems.com&#x2F;1196" rel="nofollow">https:&#x2F;&#x2F;www.erdosproblems.com&#x2F;1196</a> </br>
+</p>
+
+<li>
+    <a href=https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/ target="_blank">
+        Why has there been so little progress on Alzheimer's disease? |
+    </a>
+    By: chiefalchemist
+</li>
+
+<p>
+Text: Every day for the past 3 days around 1pm EST the &#x27;Headspace&#x27; app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I&#x27;ve updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn&#x27;t seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this is happening? </br>
+</p>
+
+<li>
+    <a href=https://fabiensanglard.net/usbcheat/index.html target="_blank">
+        USB Cheat Sheet (2022) |
+    </a>
+    By: gwerbret
 </li>
 
 <li>
-    <a href=https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic target="_blank">
-        Google plans to invest up to $40B in Anthropic |
+    <a href=https://asteriskmag.com/issues/14/shall-we-play-a-game target="_blank">
+        The route from Prussian military headquarters to Gary Gygax’s basement |
     </a>
-    By: elffjs
-</li>
-
-<li>
-    <a href=https://en.wikipedia.org/wiki/Paraloid_B-72 target="_blank">
-        Paraloid B-72 |
-    </a>
-    By: Ariarule
-</li>
-
-<li>
-    <a href=https://clad.you/blog/posts/questionnaire-mlp/ target="_blank">
-        A 3D Body from Eight Questions – No Photo, No GPU |
-    </a>
-    By: arkadiuss
-</li>
-
-<li>
-    <a href=https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas target="_blank">
-        Humpback whales are forming super-groups |
-    </a>
-    By: andsoitis
+    By: jger15
 </li>
 </ol>
