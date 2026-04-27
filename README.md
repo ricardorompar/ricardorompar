@@ -45,41 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 26 Apr 2026</h4>
+<h4>Check the latest news from: Mon 27 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/ target="_blank">
-        Amateur armed with ChatGPT solves an Erdős problem |
+    <a href=https://flipdisc.io target="_blank">
+        Flipdiscs |
     </a>
-    By: pr337h4m
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.erdosproblems.com&#x2F;1196" rel="nofollow">https:&#x2F;&#x2F;www.erdosproblems.com&#x2F;1196</a> </br>
-</p>
-
-<li>
-    <a href=https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/ target="_blank">
-        Why has there been so little progress on Alzheimer's disease? |
-    </a>
-    By: chiefalchemist
-</li>
-
-<p>
-Text: Every day for the past 3 days around 1pm EST the &#x27;Headspace&#x27; app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I&#x27;ve updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn&#x27;t seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this is happening? </br>
-</p>
-
-<li>
-    <a href=https://fabiensanglard.net/usbcheat/index.html target="_blank">
-        USB Cheat Sheet (2022) |
-    </a>
-    By: gwerbret
+    By: skogstokig
 </li>
 
 <li>
-    <a href=https://asteriskmag.com/issues/14/shall-we-play-a-game target="_blank">
-        The route from Prussian military headquarters to Gary Gygax’s basement |
+    <a href=https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d target="_blank">
+        I bought Friendster for $30k – Here's what I'm doing with it |
     </a>
-    By: jger15
+    By: ca98am79
+</li>
+
+<li>
+    <a href=https://arkaung.github.io/interactive-turboquant/ target="_blank">
+        TurboQuant: A first-principles walkthrough |
+    </a>
+    By: kweezar
+</li>
+
+<li>
+    <a href=https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ target="_blank">
+        AI should elevate your thinking, not replace it |
+    </a>
+    By: koshyjohn
+</li>
+
+<li>
+    <a href=https://interblah.net/self-updating-screenshots target="_blank">
+        Self-updating screenshots |
+    </a>
+    By: bjhess
 </li>
 </ol>
