@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 28 Apr 2026</h4>
+<h4>Check the latest news from: Wed 29 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://gtfobins.org/ target="_blank">
-        GTFOBins |
+    <a href=https://mitchellh.com/writing/ghostty-leaving-github target="_blank">
+        Ghostty is leaving GitHub |
     </a>
-    By: StefanBatory
+    By: WadeGrimridge
 </li>
 
 <li>
-    <a href=https://talkie-lm.com/introducing-talkie target="_blank">
-        Talkie: a 13B vintage language model from 1930 |
+    <a href=https://corrode.dev/blog/bugs-rust-wont-catch/ target="_blank">
+        Bugs Rust won't catch |
     </a>
-    By: jekude
+    By: lwhsiao
 </li>
 
 <li>
-    <a href=https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai target="_blank">
-        Microsoft and OpenAI end their exclusive and revenue-sharing deal |
+    <a href=https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle target="_blank">
+        HardenedBSD Is Now Officially on Radicle |
     </a>
-    By: helsinkiandrew
-</li>
-
-<p>
-Text: Gift Article: <a href="https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzI5NjE3MiwiZXhwIjoxNzc3OTAwOTcyLCJhcnRpY2xlSWQiOiJURTVMT0lLSzNOWUkwMCIsImJjb25uZWN0SWQiOiJDN0U3REM1Q0MxRTQ0NzM0QkY2MzYxQjY5QzgxN0UzMyJ9.mkOwEicK1kMLb-h6ZjkN4u-DsF55439rrFad0m1lqZM" rel="nofollow">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-04-27&#x2F;microsoft...</a><p><a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;next-phase-of-microsoft-partnership...</a><p><a href="https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;ajassy&#x2F;status&#x2F;2048806022253609115</a> </br>
-</p>
-
-<li>
-    <a href=https://ismy.blue/ target="_blank">
-        Is my blue your blue? |
-    </a>
-    By: theogravity
+    By: lftherios
 </li>
 
 <li>
-    <a href=https://github.com/pgcentralfoundation/pgrx target="_blank">
-        Pgrx: Build Postgres Extensions with Rust |
+    <a href=https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/ target="_blank">
+        How ChatGPT serves ads |
     </a>
-    By: luu
+    By: lmbbuchodi
+</li>
+
+<li>
+    <a href=https://lucumr.pocoo.org/2026/4/28/before-github/ target="_blank">
+        Before GitHub |
+    </a>
+    By: mlex
 </li>
 </ol>
