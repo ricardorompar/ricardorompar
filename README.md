@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 29 Apr 2026</h4>
+<h4>Check the latest news from: Thu 30 Apr 2026</h4>
 <ol>
 <li>
-    <a href=https://mitchellh.com/writing/ghostty-leaving-github target="_blank">
-        Ghostty is leaving GitHub |
+    <a href=https://openai.com/index/where-the-goblins-came-from/ target="_blank">
+        Where the goblins came from |
     </a>
-    By: WadeGrimridge
+    By: ilreb
 </li>
 
 <li>
-    <a href=https://corrode.dev/blog/bugs-rust-wont-catch/ target="_blank">
-        Bugs Rust won't catch |
+    <a href=https://www.noctua.at/en/3d-cad-models target="_blank">
+        Noctua releases official 3D CAD models for its cooling fans |
     </a>
-    By: lwhsiao
+    By: embedding-shape
 </li>
 
 <li>
-    <a href=https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle target="_blank">
-        HardenedBSD Is Now Officially on Radicle |
+    <a href=https://zed.dev/blog/zed-1-0 target="_blank">
+        Zed 1.0 |
     </a>
-    By: lftherios
+    By: salkahfi
 </li>
 
 <li>
-    <a href=https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/ target="_blank">
-        How ChatGPT serves ads |
+    <a href=https://github.com/cauchy221/Alignment-Whack-a-Mole-Code target="_blank">
+        Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs |
     </a>
-    By: lmbbuchodi
+    By: reconnecting
 </li>
 
 <li>
-    <a href=https://lucumr.pocoo.org/2026/4/28/before-github/ target="_blank">
-        Before GitHub |
+    <a href=https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79 target="_blank">
+        Craig Venter has died |
     </a>
-    By: mlex
+    By: rdl
 </li>
 </ol>
