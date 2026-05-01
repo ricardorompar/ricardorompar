@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 30 Apr 2026</h4>
+<h4>Check the latest news from: Fri 01 May 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/where-the-goblins-came-from/ target="_blank">
-        Where the goblins came from |
+    <a href=https://yadin.com/notes/toasted/ target="_blank">
+        Meta's Big Tobacco PR Tactics |
     </a>
-    By: ilreb
+    By: dryadin
 </li>
 
 <li>
-    <a href=https://www.noctua.at/en/3d-cad-models target="_blank">
-        Noctua releases official 3D CAD models for its cooling fans |
+    <a href=https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ target="_blank">
+        How Mark Klein told the EFF about Room 641A [book excerpt] |
     </a>
-    By: embedding-shape
+    By: the-mitr
 </li>
 
 <li>
-    <a href=https://zed.dev/blog/zed-1-0 target="_blank">
-        Zed 1.0 |
+    <a href=https://www.openwall.com/lists/oss-security/2026/04/30/10 target="_blank">
+        For Linux kernel vulnerabilities, there is no heads-up to distributions |
     </a>
-    By: salkahfi
+    By: ori_b
+</li>
+
+<p>
+Text: Recent: <i>Copy Fail</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments) </br>
+</p>
+
+<li>
+    <a href=https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously target="_blank">
+        Opus 4.7 knows the real Kelsey |
+    </a>
+    By: ilamont
 </li>
 
 <li>
-    <a href=https://github.com/cauchy221/Alignment-Whack-a-Mole-Code target="_blank">
-        Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs |
+    <a href=https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/ target="_blank">
+        New copy of earliest poem in English, written 1,3k years ago, discovered in Rome |
     </a>
-    By: reconnecting
-</li>
-
-<li>
-    <a href=https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79 target="_blank">
-        Craig Venter has died |
-    </a>
-    By: rdl
+    By: giuliomagnifico
 </li>
 </ol>
