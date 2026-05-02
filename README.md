@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 01 May 2026</h4>
+<h4>Check the latest news from: Sat 02 May 2026</h4>
 <ol>
 <li>
-    <a href=https://yadin.com/notes/toasted/ target="_blank">
-        Meta's Big Tobacco PR Tactics |
+    <a href=https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions target="_blank">
+        Why does it take so long to release black fan versions? |
     </a>
-    By: dryadin
+    By: buildbot
 </li>
 
 <li>
-    <a href=https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ target="_blank">
-        How Mark Klein told the EFF about Room 641A [book excerpt] |
+    <a href=https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/ target="_blank">
+        Job Postings for Software Engineers Are Rapidly Rising |
     </a>
-    By: the-mitr
+    By: delichon
 </li>
 
 <li>
-    <a href=https://www.openwall.com/lists/oss-security/2026/04/30/10 target="_blank">
-        For Linux kernel vulnerabilities, there is no heads-up to distributions |
+    <a href=https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo target="_blank">
+        Ti-84 Evo |
     </a>
-    By: ori_b
-</li>
-
-<p>
-Text: Recent: <i>Copy Fail</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47952181</a> - April 2026 (466 comments) </br>
-</p>
-
-<li>
-    <a href=https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously target="_blank">
-        Opus 4.7 knows the real Kelsey |
-    </a>
-    By: ilamont
+    By: thatxliner
 </li>
 
 <li>
-    <a href=https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/ target="_blank">
-        New copy of earliest poem in English, written 1,3k years ago, discovered in Rome |
+    <a href=https://www.spiritrestructuring.com/ target="_blank">
+        Spirit Airlines Is Winding Down All Operations |
     </a>
-    By: giuliomagnifico
+    By: CaliforniaKarl
+</li>
+
+<li>
+    <a href=https://www.ask.com/ target="_blank">
+        Ask.com has closed |
+    </a>
+    By: supermdguy
 </li>
 </ol>
