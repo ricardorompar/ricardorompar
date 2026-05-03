@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 02 May 2026</h4>
+<h4>Check the latest news from: Sun 03 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions target="_blank">
-        Why does it take so long to release black fan versions? |
+    <a href=https://blog.haskell.org/a-couple-million-lines-of-haskell/ target="_blank">
+        A Couple Million Lines of Haskell: Production Engineering at Mercury |
     </a>
-    By: buildbot
+    By: unignorant
 </li>
 
 <li>
-    <a href=https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/ target="_blank">
-        Job Postings for Software Engineers Are Rapidly Rising |
+    <a href=https://ladybird.org/newsletter/2026-04-30/ target="_blank">
+        This Month in Ladybird - April 2026 |
     </a>
-    By: delichon
+    By: richardboegli
 </li>
 
 <li>
-    <a href=https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo target="_blank">
-        Ti-84 Evo |
+    <a href=https://research.ibm.com/blog/granite-4-1-ai-foundation-models target="_blank">
+        The IBM Granite 4.1 family of models |
     </a>
-    By: thatxliner
+    By: wglb
 </li>
 
 <li>
-    <a href=https://www.spiritrestructuring.com/ target="_blank">
-        Spirit Airlines Is Winding Down All Operations |
+    <a href=https://code.videolan.org/videolan/dav2d target="_blank">
+        Dav2d |
     </a>
-    By: CaliforniaKarl
+    By: dabinat
 </li>
 
 <li>
-    <a href=https://www.ask.com/ target="_blank">
-        Ask.com has closed |
+    <a href=https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/ target="_blank">
+        Six Years Perfecting Maps on WatchOS |
     </a>
-    By: supermdguy
+    By: valzevul
 </li>
 </ol>
