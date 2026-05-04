@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 03 May 2026</h4>
+<h4>Check the latest news from: Mon 04 May 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.haskell.org/a-couple-million-lines-of-haskell/ target="_blank">
-        A Couple Million Lines of Haskell: Production Engineering at Mercury |
+    <a href=https://www.firgelli.com/pages/humanoid-robot-actuators target="_blank">
+        Humanoid Robot Actuators |
     </a>
-    By: unignorant
+    By: ofrzeta
 </li>
 
 <li>
-    <a href=https://ladybird.org/newsletter/2026-04-30/ target="_blank">
-        This Month in Ladybird - April 2026 |
+    <a href=https://samcollins.blog/underdrawings/ target="_blank">
+        Using "underdrawings" for accurate text and numbers |
     </a>
-    By: richardboegli
+    By: samcollins
 </li>
 
 <li>
-    <a href=https://research.ibm.com/blog/granite-4-1-ai-foundation-models target="_blank">
-        The IBM Granite 4.1 family of models |
+    <a href=https://partyon.xyz/@nullagent/116499715071759135 target="_blank">
+        BYOMesh – New LoRa mesh radio offers 100x the bandwidth |
     </a>
-    By: wglb
+    By: nullagent
 </li>
 
 <li>
-    <a href=https://code.videolan.org/videolan/dav2d target="_blank">
-        Dav2d |
+    <a href=https://github.com/aattaran/deepclaude target="_blank">
+        DeepClaude – Claude Code agent loop with DeepSeek V4 Pro |
     </a>
-    By: dabinat
+    By: alattaran
 </li>
 
 <li>
-    <a href=https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/ target="_blank">
-        Six Years Perfecting Maps on WatchOS |
+    <a href=https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/ target="_blank">
+        Discovering hard disk physical geometry through microbenchmarking (2019) |
     </a>
-    By: valzevul
+    By: TapamN
 </li>
 </ol>
