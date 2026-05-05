@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 04 May 2026</h4>
+<h4>Check the latest news from: Tue 05 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.firgelli.com/pages/humanoid-robot-actuators target="_blank">
-        Humanoid Robot Actuators |
+    <a href=https://github.com/angelos-p/llm-from-scratch target="_blank">
+        Train Your Own LLM from Scratch |
     </a>
-    By: ofrzeta
+    By: kristianpaul
 </li>
 
 <li>
-    <a href=https://samcollins.blog/underdrawings/ target="_blank">
-        Using "underdrawings" for accurate text and numbers |
+    <a href=https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5 target="_blank">
+        Bun is being ported from Zig to Rust |
     </a>
-    By: samcollins
+    By: SergeAx
 </li>
 
 <li>
-    <a href=https://partyon.xyz/@nullagent/116499715071759135 target="_blank">
-        BYOMesh – New LoRa mesh radio offers 100x the bandwidth |
+    <a href=https://sethmlarson.dev/hand-drawn-qr-codes target="_blank">
+        Hand Drawn QR Codes |
     </a>
-    By: nullagent
+    By: jollyjerry
 </li>
 
 <li>
-    <a href=https://github.com/aattaran/deepclaude target="_blank">
-        DeepClaude – Claude Code agent loop with DeepSeek V4 Pro |
+    <a href=https://walzr.com/empty-screenings target="_blank">
+        About 10% of AMC movie showings sell zero tickets. This site finds them |
     </a>
-    By: alattaran
+    By: MrBuddyCasino
 </li>
 
 <li>
-    <a href=https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/ target="_blank">
-        Discovering hard disk physical geometry through microbenchmarking (2019) |
+    <a href=https://nobodyaskedforthis.lol/posts/connected-car/ target="_blank">
+        The Car That Watches You Back: The Advertising Infrastructure of Modern Cars |
     </a>
-    By: TapamN
+    By: cadito
 </li>
 </ol>
