@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 05 May 2026</h4>
+<h4>Check the latest news from: Wed 06 May 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/angelos-p/llm-from-scratch target="_blank">
-        Train Your Own LLM from Scratch |
+    <a href=https://blog.cloudflare.com/agents-stripe-projects/ target="_blank">
+        Agents can now create Cloudflare accounts, buy domains, and deploy |
     </a>
-    By: kristianpaul
+    By: rolph
 </li>
 
 <li>
-    <a href=https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5 target="_blank">
-        Bun is being ported from Zig to Rust |
+    <a href=https://www.aaedmusa.com/projects/cara2 target="_blank">
+        CARA 2.0 – “I Built a Better Robot Dog” |
     </a>
-    By: SergeAx
+    By: hakonjdjohnsen
 </li>
 
 <li>
-    <a href=https://sethmlarson.dev/hand-drawn-qr-codes target="_blank">
-        Hand Drawn QR Codes |
+    <a href=https://us.starlabs.systems/pages/starfighter target="_blank">
+        StarFighter 16-Inch |
     </a>
-    By: jollyjerry
+    By: signa11
 </li>
 
 <li>
-    <a href=https://walzr.com/empty-screenings target="_blank">
-        About 10% of AMC movie showings sell zero tickets. This site finds them |
+    <a href=https://dnssec-analyzer.verisignlabs.com/nic.de target="_blank">
+        .de TLD offline due to DNSSEC? |
     </a>
-    By: MrBuddyCasino
+    By: warpspin
 </li>
 
 <li>
-    <a href=https://nobodyaskedforthis.lol/posts/connected-car/ target="_blank">
-        The Car That Watches You Back: The Advertising Infrastructure of Modern Cars |
+    <a href=https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 target="_blank">
+        Telus Uses AI to Alter Call-Agent Accents |
     </a>
-    By: cadito
+    By: debo_
 </li>
 </ol>
