@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 06 May 2026</h4>
+<h4>Check the latest news from: Thu 07 May 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.cloudflare.com/agents-stripe-projects/ target="_blank">
-        Agents can now create Cloudflare accounts, buy domains, and deploy |
+    <a href=https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license target="_blank">
+        Valve releases Steam Controller CAD files under Creative Commons license |
     </a>
-    By: rolph
+    By: haunter
 </li>
 
 <li>
-    <a href=https://www.aaedmusa.com/projects/cara2 target="_blank">
-        CARA 2.0 – “I Built a Better Robot Dog” |
+    <a href=https://nooneshappy.com/article/appearing-productive-in-the-workplace/ target="_blank">
+        Appearing productive in the workplace |
     </a>
-    By: hakonjdjohnsen
+    By: diebillionaires
 </li>
 
 <li>
-    <a href=https://us.starlabs.systems/pages/starfighter target="_blank">
-        StarFighter 16-Inch |
+    <a href=https://permacomputing.net/principles/ target="_blank">
+        Permacomputing Principles |
     </a>
-    By: signa11
+    By: andsoitis
 </li>
 
 <li>
-    <a href=https://dnssec-analyzer.verisignlabs.com/nic.de target="_blank">
-        .de TLD offline due to DNSSEC? |
+    <a href=https://aniket.foo/posts/20260505-netboot/ target="_blank">
+        Diskless Linux boot using ZFS, iSCSI and PXE |
     </a>
-    By: warpspin
+    By: stereo-highway
 </li>
 
 <li>
-    <a href=https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 target="_blank">
-        Telus Uses AI to Alter Call-Agent Accents |
+    <a href=https://sqlite.org/locrsf.html target="_blank">
+        SQLite Is a Library of Congress Recommended Storage Format |
     </a>
-    By: debo_
+    By: whatisabcdefgh
 </li>
 </ol>
