@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 07 May 2026</h4>
+<h4>Check the latest news from: Fri 08 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license target="_blank">
-        Valve releases Steam Controller CAD files under Creative Commons license |
+    <a href=https://www.theverge.com/tech/926458/canvas-shinyhunters-breach target="_blank">
+        Canvas is down as ShinyHunters threatens to leak schools’ data |
     </a>
-    By: haunter
+    By: stefanpie
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26" rel="nofollow">https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26</a><p><a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...</a> </br>
+</p>
+
+<li>
+    <a href=https://xeiaso.net/blog/2026/abstain-from-install/ target="_blank">
+        Maybe you shouldn't install new software for a bit |
+    </a>
+    By: psxuaw
 </li>
 
 <li>
-    <a href=https://nooneshappy.com/article/appearing-productive-in-the-workplace/ target="_blank">
-        Appearing productive in the workplace |
+    <a href=https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/ target="_blank">
+        Cloudflare to cut about 20% workforce |
     </a>
-    By: diebillionaires
+    By: PriorityLeft
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a> </br>
+</p>
+
+<li>
+    <a href=https://www.openwall.com/lists/oss-security/2026/05/07/8 target="_blank">
+        Dirtyfrag: Universal Linux LPE |
+    </a>
+    By: flipped
 </li>
 
 <li>
-    <a href=https://permacomputing.net/principles/ target="_blank">
-        Permacomputing Principles |
+    <a href=https://storica.club/blog/pinocchio-in-italian/ target="_blank">
+        Pinocchio is weirder than you remembered |
     </a>
-    By: andsoitis
-</li>
-
-<li>
-    <a href=https://aniket.foo/posts/20260505-netboot/ target="_blank">
-        Diskless Linux boot using ZFS, iSCSI and PXE |
-    </a>
-    By: stereo-highway
-</li>
-
-<li>
-    <a href=https://sqlite.org/locrsf.html target="_blank">
-        SQLite Is a Library of Congress Recommended Storage Format |
-    </a>
-    By: whatisabcdefgh
+    By: cemsakarya
 </li>
 </ol>
