@@ -45,48 +45,52 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 08 May 2026</h4>
+<h4>Check the latest news from: Sat 09 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.theverge.com/tech/926458/canvas-shinyhunters-breach target="_blank">
-        Canvas is down as ShinyHunters threatens to leak schools’ data |
+    <a href=https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/ target="_blank">
+        A recent experience with ChatGPT 5.5 Pro |
     </a>
-    By: stefanpie
+    By: _alternator_
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26" rel="nofollow">https:&#x2F;&#x2F;thetech.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;canvas-breach-26</a><p><a href="https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack&#x2F;" rel="nofollow">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;07&#x2F;hackers-deface-school-logi...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605" rel="nofollow">https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a><p><a href="https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a> </br>
 </p>
 
 <li>
-    <a href=https://xeiaso.net/blog/2026/abstain-from-install/ target="_blank">
-        Maybe you shouldn't install new software for a bit |
+    <a href=https://twitter.com/trq212/status/2052809885763747935 target="_blank">
+        Using Claude Code: The unreasonable effectiveness of HTML |
     </a>
-    By: psxuaw
-</li>
-
-<li>
-    <a href=https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/ target="_blank">
-        Cloudflare to cut about 20% workforce |
-    </a>
-    By: PriorityLeft
+    By: pretext
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a> </br>
+Text: Examples: <a href="https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;" rel="nofollow">https:&#x2F;&#x2F;thariqs.github.io&#x2F;html-effectiveness&#x2F;</a><p>Related: <a href="https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiveness-of-html&#x2F;" rel="nofollow">https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;May&#x2F;8&#x2F;unreasonable-effectiven...</a> </br>
 </p>
 
 <li>
-    <a href=https://www.openwall.com/lists/oss-security/2026/05/07/8 target="_blank">
-        Dirtyfrag: Universal Linux LPE |
+    <a href=https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users target="_blank">
+        Google broke reCAPTCHA for de-googled Android users |
     </a>
-    By: flipped
+    By: anonymousiam
+</li>
+
+<p>
+Text: Related: <i>Google Cloud fraud defense, the next evolution of reCAPTCHA</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48039362">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48039362</a><p>also: <i>Google Cloud Fraud Defence is just WEI repackaged</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48063199">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48063199</a> </br>
+</p>
+
+<li>
+    <a href=https://moq.dev/blog/webrtc-is-the-problem/ target="_blank">
+        OpenAI's WebRTC problem |
+    </a>
+    By: atgctg
 </li>
 
 <li>
-    <a href=https://storica.club/blog/pinocchio-in-italian/ target="_blank">
-        Pinocchio is weirder than you remembered |
+    <a href=https://martinfowler.com/bliki/MythicalManMonth.html target="_blank">
+        Mythical Man Month |
     </a>
-    By: cemsakarya
+    By: ingve
 </li>
 </ol>
