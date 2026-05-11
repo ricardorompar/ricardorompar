@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 10 May 2026</h4>
+<h4>Check the latest news from: Mon 11 May 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/imtomt/ymawky target="_blank">
-        Show HN: Building a web server in assembly to give my life (a lack of) meaning |
+    <a href=https://grapheneos.social/@GrapheneOS/116550899908879585 target="_blank">
+        Hardware Attestation as Monopoly Enabler |
     </a>
-    By: imtomt
-</li>
-
-<p>
-Text: This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.<p>I’ve also written a more detailed writeup here: <a href="https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;" rel="nofollow">https:&#x2F;&#x2F;imtomt.github.io&#x2F;ymawky&#x2F;</a> </br>
-</p>
-
-<li>
-    <a href=https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html target="_blank">
-        The One Dollar Counterfeiter |
-    </a>
-    By: cainxinth
+    By: ChuckMcM
 </li>
 
 <li>
-    <a href=https://twitter.com/jarredsumner/status/2053047748191232310 target="_blank">
-        Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc |
+    <a href=https://unix.foo/posts/local-ai-needs-to-be-norm/ target="_blank">
+        Local AI needs to be the norm |
     </a>
-    By: heldrida
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310" rel="nofollow">https:&#x2F;&#x2F;xunroll.com&#x2F;thread&#x2F;2053047748191232310</a><p>Recent and related: <i>Zig → Rust porting guide</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48016880</a> - May 2026 (540 comments) </br>
-</p>
-
-<li>
-    <a href=https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/ target="_blank">
-        Casio S100X Japanese Lacquer Edition (JP Page Only) |
-    </a>
-    By: dr_kiszonka
+    By: cylo
 </li>
 
 <li>
-    <a href=https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/ target="_blank">
-        Gemini API File Search is now multimodal |
+    <a href=https://www.openculture.com/2024/10/the-greatest-shot-in-television.html target="_blank">
+        The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024) |
     </a>
-    By: gmays
+    By: susam
+</li>
+
+<li>
+    <a href=https://jola.dev/posts/running-local-models-on-m4 target="_blank">
+        Running local models on an M4 with 24GB memory |
+    </a>
+    By: shintoist
+</li>
+
+<li>
+    <a href=https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/ target="_blank">
+        I'm going back to writing code by hand |
+    </a>
+    By: dropbox_miner
 </li>
 </ol>
