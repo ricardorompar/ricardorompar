@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 11 May 2026</h4>
+<h4>Check the latest news from: Tue 12 May 2026</h4>
 <ol>
 <li>
-    <a href=https://grapheneos.social/@GrapheneOS/116550899908879585 target="_blank">
-        Hardware Attestation as Monopoly Enabler |
+    <a href=https://tanstack.com/blog/npm-supply-chain-compromise-postmortem target="_blank">
+        Postmortem: TanStack NPM supply-chain compromise |
     </a>
-    By: ChuckMcM
+    By: varunsharma07
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/davmlaw/they_live_adblocker target="_blank">
+        They Live (1988) inspired Adblocker |
+    </a>
+    By: tokenburner
 </li>
 
 <li>
-    <a href=https://unix.foo/posts/local-ai-needs-to-be-norm/ target="_blank">
-        Local AI needs to be the norm |
+    <a href=https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 target="_blank">
+        If AI writes your code, why use Python? |
     </a>
-    By: cylo
+    By: indigodaddy
 </li>
 
 <li>
-    <a href=https://www.openculture.com/2024/10/the-greatest-shot-in-television.html target="_blank">
-        The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024) |
+    <a href=https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage target="_blank">
+        UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) |
     </a>
-    By: susam
+    By: bookofjoe
 </li>
 
 <li>
-    <a href=https://jola.dev/posts/running-local-models-on-m4 target="_blank">
-        Running local models on an M4 with 24GB memory |
+    <a href=https://claude.com/blog/claude-platform-on-aws target="_blank">
+        Claude Platform on AWS |
     </a>
-    By: shintoist
-</li>
-
-<li>
-    <a href=https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/ target="_blank">
-        I'm going back to writing code by hand |
-    </a>
-    By: dropbox_miner
+    By: matrixhelix
 </li>
 </ol>
