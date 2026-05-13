@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 12 May 2026</h4>
+<h4>Check the latest news from: Wed 13 May 2026</h4>
 <ol>
 <li>
-    <a href=https://tanstack.com/blog/npm-supply-chain-compromise-postmortem target="_blank">
-        Postmortem: TanStack NPM supply-chain compromise |
+    <a href=https://arxiv.org/abs/2605.08419 target="_blank">
+        Deterministic Fully-Static Whole-Binary Translation Without Heuristics |
     </a>
-    By: varunsharma07
+    By: matt_d
+</li>
+
+<li>
+    <a href=https://github.com/FULU-Foundation/OrcaSlicer-bambulab target="_blank">
+        Restore full BambuNetwork support for Bambu Lab printers |
+    </a>
+    By: Murfalo
+</li>
+
+<li>
+    <a href=https://aluminium-os.com/ target="_blank">
+        AluminiumOS, by Google: Android Reimagined for the Desktop |
+    </a>
+    By: brysonreece
+</li>
+
+<li>
+    <a href=https://lpar.ATH0.com/posts/2026/05/the-vi-family/ target="_blank">
+        The vi family |
+    </a>
+    By: hggh
+</li>
+
+<li>
+    <a href=https://googlebook.google/ target="_blank">
+        Googlebook |
+    </a>
+    By: tambourine_man
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducing_googlebook_a_new_category_of_laptops&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducin...</a> </br>
 </p>
-
-<li>
-    <a href=https://github.com/davmlaw/they_live_adblocker target="_blank">
-        They Live (1988) inspired Adblocker |
-    </a>
-    By: tokenburner
-</li>
-
-<li>
-    <a href=https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 target="_blank">
-        If AI writes your code, why use Python? |
-    </a>
-    By: indigodaddy
-</li>
-
-<li>
-    <a href=https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage target="_blank">
-        UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) |
-    </a>
-    By: bookofjoe
-</li>
-
-<li>
-    <a href=https://claude.com/blog/claude-platform-on-aws target="_blank">
-        Claude Platform on AWS |
-    </a>
-    By: matrixhelix
-</li>
 </ol>
