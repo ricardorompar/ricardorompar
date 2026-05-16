@@ -45,46 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 14 May 2026</h4>
+<h4>Check the latest news from: Sat 16 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.anthropic.com/news/claude-for-small-business target="_blank">
-        Claude for Small Business |
+    <a href=https://www.gutenberg.org/ target="_blank">
+        Project Gutenberg – keeps getting better |
     </a>
-    By: neilfrndes
+    By: JSeiko
 </li>
 
 <li>
-    <a href=http://www.scorch2000.com/web/ target="_blank">
-        Scorched Earth 2000 – Web |
+    <a href=https://ploopy.co/shop/bean-pointing-stick/ target="_blank">
+        Ploopy Bean: a trackpoint for every computer |
     </a>
-    By: meshko
+    By: jibcage
 </li>
 
 <li>
-    <a href=https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/ target="_blank">
-        Linux gaming is faster because Windows APIs are becoming Linux kernel features |
+    <a href=https://analytics.fixelsmith.com/posts/sql-fraud-patterns/ target="_blank">
+        SQL patterns I use to catch transaction fraud |
     </a>
-    By: haunter
+    By: redbell
 </li>
 
 <li>
-    <a href=https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/ target="_blank">
-        LLMs are breaking 20 year old system design |
+    <a href=https://twitter.com/mitchellh/status/2055380239711457578 target="_blank">
+        I believe there are entire companies right now under AI psychosis |
     </a>
-    By: zknill
-</li>
-
-<li>
-    <a href=https://mayerwin.github.io/AI-Arena-History/ target="_blank">
-        Arena AI Model ELO History |
-    </a>
-    By: mayerwin
+    By: reasonableklout
 </li>
 
 <p>
-Text: Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We&#x27;ve all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.<p>Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. 
-It dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. 
-It took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.<p>However, I have a specific data blindspot that I&#x27;m hoping this community might have insights on.<p>Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don&#x27;t fully capture this &quot;nerfing&quot; that everyday web users experience.<p>Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?<p>I&#x27;d love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I&#x27;d appreciate any feedback, or pointers to datasets! </br>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578</a><p><a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130" rel="nofollow">https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130</a> </br>
 </p>
+
+<li>
+    <a href=https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/ target="_blank">
+        The bird eye was pushed to an evolutionary extreme |
+    </a>
+    By: sohkamyung
+</li>
 </ol>
