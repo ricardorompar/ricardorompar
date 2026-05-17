@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 16 May 2026</h4>
+<h4>Check the latest news from: Sun 17 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.gutenberg.org/ target="_blank">
-        Project Gutenberg – keeps getting better |
+    <a href=https://crates.io/crates/zerostack/1.0.0 target="_blank">
+        Zerostack – A Unix-inspired coding agent written in pure Rust |
     </a>
-    By: JSeiko
+    By: gidellav
 </li>
 
 <li>
-    <a href=https://ploopy.co/shop/bean-pointing-stick/ target="_blank">
-        Ploopy Bean: a trackpoint for every computer |
+    <a href=https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project target="_blank">
+        Colossus: The Forbin Project |
     </a>
-    By: jibcage
+    By: doener
 </li>
 
 <li>
-    <a href=https://analytics.fixelsmith.com/posts/sql-fraud-patterns/ target="_blank">
-        SQL patterns I use to catch transaction fraud |
+    <a href=https://maurycyz.com/projects/mcusite/ target="_blank">
+        Hosting a website on an 8-bit microcontroller |
     </a>
-    By: redbell
+    By: zdw
 </li>
 
 <li>
-    <a href=https://twitter.com/mitchellh/status/2055380239711457578 target="_blank">
-        I believe there are entire companies right now under AI psychosis |
+    <a href=https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock target="_blank">
+        A nicer voltmeter clock |
     </a>
-    By: reasonableklout
+    By: surprisetalk
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578</a><p><a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130" rel="nofollow">https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130</a> </br>
-</p>
-
 <li>
-    <a href=https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/ target="_blank">
-        The bird eye was pushed to an evolutionary extreme |
+    <a href=https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/ target="_blank">
+        Mozilla to UK regulators: VPNs are essential privacy and security tools |
     </a>
-    By: sohkamyung
+    By: WithinReason
 </li>
 </ol>
