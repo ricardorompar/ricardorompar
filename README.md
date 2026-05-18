@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 17 May 2026</h4>
+<h4>Check the latest news from: Mon 18 May 2026</h4>
 <ol>
 <li>
-    <a href=https://crates.io/crates/zerostack/1.0.0 target="_blank">
-        Zerostack – A Unix-inspired coding agent written in pure Rust |
+    <a href=https://gencad.github.io/ target="_blank">
+        GenCAD |
     </a>
-    By: gidellav
+    By: dagenix
 </li>
 
 <li>
-    <a href=https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project target="_blank">
-        Colossus: The Forbin Project |
+    <a href=https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/ target="_blank">
+        Crystals found inside wreckage from the first nuclear bomb test |
     </a>
-    By: doener
+    By: jumploops
 </li>
 
 <li>
-    <a href=https://maurycyz.com/projects/mcusite/ target="_blank">
-        Hosting a website on an 8-bit microcontroller |
+    <a href=https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/ target="_blank">
+        It is time to give up the dualism introduced by the debate on consciousness |
     </a>
-    By: zdw
+    By: ahalbert4
 </li>
 
 <li>
-    <a href=https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock target="_blank">
-        A nicer voltmeter clock |
+    <a href=https://askanastronaut.issinrealtime.org/ target="_blank">
+        Ask an Astronaut: 333 hours of Q&A footage with astronauts |
     </a>
-    By: surprisetalk
+    By: gaws
 </li>
 
 <li>
-    <a href=https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/ target="_blank">
-        Mozilla to UK regulators: VPNs are essential privacy and security tools |
+    <a href=https://github.com/tech4bot/rk3562deb target="_blank">
+        I turned a $80 RK3562 Android tablet into a Debian Linux workstation |
     </a>
-    By: WithinReason
+    By: tech4bot
 </li>
 </ol>
