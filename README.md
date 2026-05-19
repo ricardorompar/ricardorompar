@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 18 May 2026</h4>
+<h4>Check the latest news from: Tue 19 May 2026</h4>
 <ol>
 <li>
-    <a href=https://gencad.github.io/ target="_blank">
-        GenCAD |
+    <a href=https://simonwillison.net/2026/May/19/5-minute-llms/ target="_blank">
+        The last six months in LLMs in five minutes |
     </a>
-    By: dagenix
+    By: yakkomajuri
 </li>
 
 <li>
-    <a href=https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/ target="_blank">
-        Crystals found inside wreckage from the first nuclear bomb test |
+    <a href=https://www.kv4p.com/ target="_blank">
+        Turn your Android phone into a ham radio transceiver |
     </a>
-    By: jumploops
+    By: krupan
 </li>
 
 <li>
-    <a href=https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/ target="_blank">
-        It is time to give up the dualism introduced by the debate on consciousness |
+    <a href=https://clickclickclick.click/ target="_blank">
+        Click (2016) |
     </a>
-    By: ahalbert4
+    By: andrewzeno
 </li>
 
 <li>
-    <a href=https://askanastronaut.issinrealtime.org/ target="_blank">
-        Ask an Astronaut: 333 hours of Q&A footage with astronauts |
+    <a href=https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html target="_blank">
+        Peter Neumann has died |
     </a>
-    By: gaws
+    By: pabs3
 </li>
 
 <li>
-    <a href=https://github.com/tech4bot/rk3562deb target="_blank">
-        I turned a $80 RK3562 Android tablet into a Debian Linux workstation |
+    <a href=https://polypad.amplify.com/ target="_blank">
+        Polypad |
     </a>
-    By: tech4bot
+    By: ivank
 </li>
 </ol>
