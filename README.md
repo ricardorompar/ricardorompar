@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 19 May 2026</h4>
+<h4>Check the latest news from: Wed 20 May 2026</h4>
 <ol>
 <li>
-    <a href=https://simonwillison.net/2026/May/19/5-minute-llms/ target="_blank">
-        The last six months in LLMs in five minutes |
+    <a href=https://status.railway.com/?date=20260519 target="_blank">
+        Railway Blocked by Google Cloud |
     </a>
-    By: yakkomajuri
+    By: aarondf
 </li>
 
 <li>
-    <a href=https://www.kv4p.com/ target="_blank">
-        Turn your Android phone into a ham radio transceiver |
+    <a href=https://fivethirtyeightindex.com/ target="_blank">
+        FiveThirtyEight articles on the Internet Archive |
     </a>
-    By: krupan
+    By: ChocMontePy
 </li>
 
 <li>
-    <a href=https://clickclickclick.click/ target="_blank">
-        Click (2016) |
+    <a href=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ target="_blank">
+        Gemini 3.5 Flash |
     </a>
-    By: andrewzeno
+    By: spectraldrift
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flash" rel="nofollow">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flas...</a> </br>
+</p>
+
+<li>
+    <a href=https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html target="_blank">
+        Everything in C is undefined behavior |
+    </a>
+    By: lycopodiopsida
 </li>
 
 <li>
-    <a href=https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html target="_blank">
-        Peter Neumann has died |
+    <a href=https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going target="_blank">
+        There's no earthly way of knowing which direction we are going |
     </a>
-    By: pabs3
-</li>
-
-<li>
-    <a href=https://polypad.amplify.com/ target="_blank">
-        Polypad |
-    </a>
-    By: ivank
+    By: tobr
 </li>
 </ol>
