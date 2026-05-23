@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 22 May 2026</h4>
+<h4>Check the latest news from: Sat 23 May 2026</h4>
 <ol>
 <li>
-    <a href=https://arxiv.org/abs/2605.19269 target="_blank">
-        CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs |
+    <a href=https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda target="_blank">
+        Shipping a laptop to a refugee camp in Uganda |
     </a>
-    By: matt_d
+    By: lexandstuff
 </li>
 
 <li>
-    <a href=https://valhovey.github.io/gaia-mary/ target="_blank">
-        Project Hail Mary – Stellar Navigation Chart |
+    <a href=https://davidoks.blog/p/why-japanese-companies-do-so-many target="_blank">
+        Why Japanese companies do so many different things |
     </a>
-    By: speleo
+    By: d0ks
 </li>
 
 <li>
-    <a href=https://slumber.lucaspickering.me target="_blank">
-        Slumber a TUI HTTP Client |
+    <a href=https://www.anthropic.com/research/glasswing-initial-update target="_blank">
+        Project Glasswing: An Initial Update |
     </a>
-    By: jicea
+    By: louiereederson
 </li>
 
 <li>
-    <a href=https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space target="_blank">
-        The surprising story behind the first British person in space |
+    <a href=https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/ target="_blank">
+        Blood Pumping Mechanism of the Hoof (2020) |
     </a>
-    By: xoxxala
+    By: thunderbong
 </li>
 
 <li>
-    <a href=https://www.mathworks.com/company/aboutus/founders/clevemoler.html target="_blank">
-        Cleve Moler has died |
+    <a href=https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html target="_blank">
+        Neutron scattering explains why gluten-free pasta falls apart (2025) |
     </a>
-    By: mychele
+    By: layer8
 </li>
 </ol>
