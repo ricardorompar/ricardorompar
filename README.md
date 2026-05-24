@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 23 May 2026</h4>
+<h4>Check the latest news from: Sun 24 May 2026</h4>
 <ol>
 <li>
-    <a href=https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda target="_blank">
-        Shipping a laptop to a refugee camp in Uganda |
+    <a href=https://www.adventuresinoss.com/aws-four-years/ target="_blank">
+        Amazon Web Services – Four Years and Out |
     </a>
-    By: lexandstuff
+    By: RyeCombinator
 </li>
 
 <li>
-    <a href=https://davidoks.blog/p/why-japanese-companies-do-so-many target="_blank">
-        Why Japanese companies do so many different things |
+    <a href=https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/ target="_blank">
+        Microsoft open-sources "the earliest DOS source code discovered to date" |
     </a>
-    By: d0ks
+    By: DamnInteresting
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;" rel="nofollow">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a> </br>
+</p>
+
+<li>
+    <a href=https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US target="_blank">
+        Why Is Vivado 2026.1 Dropping Linux Support for Free Tier? |
+    </a>
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/research/glasswing-initial-update target="_blank">
-        Project Glasswing: An Initial Update |
+    <a href=https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/ target="_blank">
+        Scammers are abusing an internal Microsoft account to send spam links |
     </a>
-    By: louiereederson
+    By: spike021
 </li>
 
 <li>
-    <a href=https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/ target="_blank">
-        Blood Pumping Mechanism of the Hoof (2020) |
+    <a href=https://hellmood.111mb.de/wake_up_16b_writeup.html target="_blank">
+        Wake up! 16b |
     </a>
-    By: thunderbong
-</li>
-
-<li>
-    <a href=https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html target="_blank">
-        Neutron scattering explains why gluten-free pasta falls apart (2025) |
-    </a>
-    By: layer8
+    By: MaximilianEmel
 </li>
 </ol>
