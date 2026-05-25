@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 24 May 2026</h4>
+<h4>Check the latest news from: Mon 25 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.adventuresinoss.com/aws-four-years/ target="_blank">
-        Amazon Web Services – Four Years and Out |
+    <a href=https://seriot.ch/computation/jira.html target="_blank">
+        Jira Is Turing-Complete |
     </a>
-    By: RyeCombinator
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/ target="_blank">
-        Microsoft open-sources "the earliest DOS source code discovered to date" |
+    <a href=https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/ target="_blank">
+        Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006) |
     </a>
-    By: DamnInteresting
+    By: kelseyfrog
+</li>
+
+<li>
+    <a href=https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/ target="_blank">
+        I love my Bluetooth keyboard |
+    </a>
+    By: evakhoury
+</li>
+
+<li>
+    <a href=https://audiomass.co/?multitrack=1 target="_blank">
+        Show HN: Audiomass – a free, open-source multitrack audio editor for the web |
+    </a>
+    By: pantelisk
+</li>
+
+<li>
+    <a href=https://esengine.github.io/DeepSeek-Reasonix/ target="_blank">
+        DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost |
+    </a>
+    By: Alifatisk
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-the-story-of-early-dos-development&#x2F;" rel="nofollow">https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...</a> </br>
+Text: Related ongoing thread:<p><i>DeepSeek makes the V4 Pro price discount permanent</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663</a> - May 2026 (384 comments) </br>
 </p>
-
-<li>
-    <a href=https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US target="_blank">
-        Why Is Vivado 2026.1 Dropping Linux Support for Free Tier? |
-    </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/ target="_blank">
-        Scammers are abusing an internal Microsoft account to send spam links |
-    </a>
-    By: spike021
-</li>
-
-<li>
-    <a href=https://hellmood.111mb.de/wake_up_16b_writeup.html target="_blank">
-        Wake up! 16b |
-    </a>
-    By: MaximilianEmel
-</li>
 </ol>
