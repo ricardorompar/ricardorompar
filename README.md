@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 25 May 2026</h4>
+<h4>Check the latest news from: Tue 26 May 2026</h4>
 <ol>
 <li>
-    <a href=https://seriot.ch/computation/jira.html target="_blank">
-        Jira Is Turing-Complete |
+    <a href=https://dynip.dev/ target="_blank">
+        DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD |
     </a>
-    By: vinhnx
+    By: dynip
 </li>
 
 <li>
-    <a href=https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/ target="_blank">
-        Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006) |
+    <a href=https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ target="_blank">
+        Using AI to write better code more slowly |
     </a>
-    By: kelseyfrog
+    By: signa11
 </li>
 
 <li>
-    <a href=https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/ target="_blank">
-        I love my Bluetooth keyboard |
+    <a href=https://pscanf.com/s/354/ target="_blank">
+        The User Is Visibly Frustrated |
     </a>
-    By: evakhoury
+    By: croes
 </li>
 
 <li>
-    <a href=https://audiomass.co/?multitrack=1 target="_blank">
-        Show HN: Audiomass – a free, open-source multitrack audio editor for the web |
+    <a href=https://www.apa.org/news/press/releases/2014/04/creativity-walk target="_blank">
+        Taking a walk may lead to more creativity than sitting, study finds (2014) |
     </a>
-    By: pantelisk
+    By: bilsbie
 </li>
 
 <li>
-    <a href=https://esengine.github.io/DeepSeek-Reasonix/ target="_blank">
-        DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost |
+    <a href=https://earthiongame.com/ target="_blank">
+        Earthion: A New Mega Drive-Style Shoot-Em-Up |
     </a>
-    By: Alifatisk
+    By: MrBuddyCasino
 </li>
-
-<p>
-Text: Related ongoing thread:<p><i>DeepSeek makes the V4 Pro price discount permanent</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663</a> - May 2026 (384 comments) </br>
-</p>
 </ol>
