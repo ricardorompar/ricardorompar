@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 26 May 2026</h4>
+<h4>Check the latest news from: Wed 27 May 2026</h4>
 <ol>
 <li>
-    <a href=https://dynip.dev/ target="_blank">
-        DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD |
+    <a href=https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers target="_blank">
+        The Structural Barriers to AI Lawyers |
     </a>
-    By: dynip
+    By: benbreen
 </li>
 
 <li>
-    <a href=https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ target="_blank">
-        Using AI to write better code more slowly |
+    <a href=https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/ target="_blank">
+        The Melancholy of Slaying Monsters |
     </a>
-    By: signa11
+    By: prismatic
 </li>
 
 <li>
-    <a href=https://pscanf.com/s/354/ target="_blank">
-        The User Is Visibly Frustrated |
+    <a href=https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind target="_blank">
+        What Gets Kept |
     </a>
-    By: croes
+    By: lermontov
 </li>
 
 <li>
-    <a href=https://www.apa.org/news/press/releases/2014/04/creativity-walk target="_blank">
-        Taking a walk may lead to more creativity than sitting, study finds (2014) |
+    <a href=https://developers.cloudflare.com/flagship/ target="_blank">
+        Cloudflare Flagship |
     </a>
-    By: bilsbie
+    By: tjek
 </li>
 
 <li>
-    <a href=https://earthiongame.com/ target="_blank">
-        Earthion: A New Mega Drive-Style Shoot-Em-Up |
+    <a href=https://badhost.org/ target="_blank">
+        BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass |
     </a>
-    By: MrBuddyCasino
+    By: ylk
 </li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package&#x2F;" rel="nofollow">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli...</a> </br>
+</p>
 </ol>
