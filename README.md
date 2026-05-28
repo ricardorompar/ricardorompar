@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 27 May 2026</h4>
+<h4>Check the latest news from: Thu 28 May 2026</h4>
 <ol>
 <li>
-    <a href=https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers target="_blank">
-        The Structural Barriers to AI Lawyers |
+    <a href=https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ target="_blank">
+        A Eureka machine that thinks like nature and explores what AI cannot |
     </a>
-    By: benbreen
+    By: kunalsin9h
 </li>
 
 <li>
-    <a href=https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/ target="_blank">
-        The Melancholy of Slaying Monsters |
+    <a href=https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/ target="_blank">
+        YouTube to automatically label AI-generated videos |
     </a>
-    By: prismatic
-</li>
-
-<li>
-    <a href=https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind target="_blank">
-        What Gets Kept |
-    </a>
-    By: lermontov
-</li>
-
-<li>
-    <a href=https://developers.cloudflare.com/flagship/ target="_blank">
-        Cloudflare Flagship |
-    </a>
-    By: tjek
-</li>
-
-<li>
-    <a href=https://badhost.org/ target="_blank">
-        BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass |
-    </a>
-    By: ylk
+    By: nopg
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package&#x2F;" rel="nofollow">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-ai-video-labels-automatic-detection-1236758865&#x2F;" rel="nofollow">https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-ai-video-label...</a> </br>
 </p>
+
+<li>
+    <a href=https://drobinin.com/posts/am-i-a-bad-friend/ target="_blank">
+        I analysed 20 years of my chats |
+    </a>
+    By: valzevul
+</li>
+
+<li>
+    <a href=https://hallucinate.site target="_blank">
+        Hallucinate – Massively Multiplayer Online Rave |
+    </a>
+    By: stagas
+</li>
+
+<li>
+    <a href=https://simonwillison.net/2026/May/27/product-market-fit/ target="_blank">
+        I think Anthropic and OpenAI have found product-market fit |
+    </a>
+    By: simonw
+</li>
 </ol>
