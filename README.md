@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 28 May 2026</h4>
+<h4>Check the latest news from: Fri 29 May 2026</h4>
 <ol>
 <li>
-    <a href=https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/ target="_blank">
-        A Eureka machine that thinks like nature and explores what AI cannot |
+    <a href=https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967 target="_blank">
+        Volkswagen blocks Home Assistant by requiring client assertion |
     </a>
-    By: kunalsin9h
+    By: Kwastie
 </li>
 
 <li>
-    <a href=https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/ target="_blank">
-        YouTube to automatically label AI-generated videos |
+    <a href=https://www.anthropic.com/news/claude-opus-4-8 target="_blank">
+        Claude Opus 4.8 |
     </a>
-    By: nopg
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-ai-video-labels-automatic-detection-1236758865&#x2F;" rel="nofollow">https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-ai-video-label...</a> </br>
-</p>
-
-<li>
-    <a href=https://drobinin.com/posts/am-i-a-bad-friend/ target="_blank">
-        I analysed 20 years of my chats |
-    </a>
-    By: valzevul
+    By: craigmart
 </li>
 
 <li>
-    <a href=https://hallucinate.site target="_blank">
-        Hallucinate – Massively Multiplayer Online Rave |
+    <a href=https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection target="_blank">
+        Bricks and Minifigs Stole a Man's $200k Lego Collection |
     </a>
-    By: stagas
+    By: philips
 </li>
 
 <li>
-    <a href=https://simonwillison.net/2026/May/27/product-market-fit/ target="_blank">
-        I think Anthropic and OpenAI have found product-market fit |
+    <a href=https://nick.winans.io/blog/nice-nano/ target="_blank">
+        I made a million dollar product from my dorm room (2025) |
     </a>
-    By: simonw
+    By: mattrighetti
+</li>
+
+<li>
+    <a href=https://buildingbetter.tech/p/i-read-the-claude-code-source-code target="_blank">
+        Claude Code – Everything You Can Configure That the Docs Don't Tell You |
+    </a>
+    By: ankitg12
 </li>
 </ol>
