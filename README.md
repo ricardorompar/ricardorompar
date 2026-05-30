@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 29 May 2026</h4>
+<h4>Check the latest news from: Sat 30 May 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967 target="_blank">
-        Volkswagen blocks Home Assistant by requiring client assertion |
+    <a href=https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ target="_blank">
+        SQLite is all you need for durable workflows |
     </a>
-    By: Kwastie
+    By: tomasol
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/claude-opus-4-8 target="_blank">
-        Claude Opus 4.8 |
+    <a href=https://www.perryts.com/ target="_blank">
+        Perry Compiles TypeScript directly to executables using SWC and LLVM |
     </a>
-    By: craigmart
+    By: 0x1997
 </li>
 
 <li>
-    <a href=https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection target="_blank">
-        Bricks and Minifigs Stole a Man's $200k Lego Collection |
+    <a href=https://overreacted.io/algebraic-effects-for-the-rest-of-us/ target="_blank">
+        Algebraic Effects for the Rest of Us |
     </a>
-    By: philips
+    By: satvikpendem
 </li>
 
 <li>
-    <a href=https://nick.winans.io/blog/nice-nano/ target="_blank">
-        I made a million dollar product from my dorm room (2025) |
+    <a href=https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/ target="_blank">
+        Snowboard Kids 2 is 100% Decompiled |
     </a>
-    By: mattrighetti
+    By: GaggiX
 </li>
 
 <li>
-    <a href=https://buildingbetter.tech/p/i-read-the-claude-code-source-code target="_blank">
-        Claude Code – Everything You Can Configure That the Docs Don't Tell You |
+    <a href=https://koenvangilst.nl/lab/mistral-ai-now-summit target="_blank">
+        Notes from the Mistral AI Now Summit |
     </a>
-    By: ankitg12
+    By: vnglst
 </li>
 </ol>
