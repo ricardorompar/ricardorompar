@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 30 May 2026</h4>
+<h4>Check the latest news from: Sun 31 May 2026</h4>
 <ol>
 <li>
-    <a href=https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ target="_blank">
-        SQLite is all you need for durable workflows |
+    <a href=https://specification.website/ target="_blank">
+        The Website Specification |
     </a>
-    By: tomasol
+    By: k1m
 </li>
 
 <li>
-    <a href=https://www.perryts.com/ target="_blank">
-        Perry Compiles TypeScript directly to executables using SWC and LLVM |
+    <a href=https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ target="_blank">
+        Domain expertise has always been the real moat |
     </a>
-    By: 0x1997
+    By: aaronbrethorst
 </li>
 
 <li>
-    <a href=https://overreacted.io/algebraic-effects-for-the-rest-of-us/ target="_blank">
-        Algebraic Effects for the Rest of Us |
+    <a href=https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf target="_blank">
+        A Gentle Introduction to Lattice-Based Cryptography [pdf] |
     </a>
-    By: satvikpendem
+    By: jayhoon
 </li>
 
 <li>
-    <a href=https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/ target="_blank">
-        Snowboard Kids 2 is 100% Decompiled |
+    <a href=http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html target="_blank">
+        Ahoy, DECmate II the little PDP-8 that could |
     </a>
-    By: GaggiX
+    By: TMWNN
 </li>
 
 <li>
-    <a href=https://koenvangilst.nl/lab/mistral-ai-now-summit target="_blank">
-        Notes from the Mistral AI Now Summit |
+    <a href=https://shantellsans.com/process target="_blank">
+        Shantell Sans (2023) |
     </a>
-    By: vnglst
+    By: aleda145
 </li>
 </ol>
