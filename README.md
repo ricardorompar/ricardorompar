@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 31 May 2026</h4>
+<h4>Check the latest news from: Mon 01 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://specification.website/ target="_blank">
-        The Website Specification |
+    <a href=https://point.free/blog/gemma-4-on-a-2016-xeon/ target="_blank">
+        A 10 year old Xeon is all you need |
     </a>
-    By: k1m
+    By: cafkafk
 </li>
 
 <li>
-    <a href=https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/ target="_blank">
-        Domain expertise has always been the real moat |
+    <a href=https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ target="_blank">
+        Chuwi Minibook X |
     </a>
-    By: aaronbrethorst
+    By: thcipriani
 </li>
 
 <li>
-    <a href=https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf target="_blank">
-        A Gentle Introduction to Lattice-Based Cryptography [pdf] |
+    <a href=https://kefir.protopopov.lv/posts/announce2.html target="_blank">
+        Cessation of public development of Kefir C compiler |
     </a>
-    By: jayhoon
+    By: f311a
 </li>
 
 <li>
-    <a href=http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html target="_blank">
-        Ahoy, DECmate II the little PDP-8 that could |
+    <a href=https://blainsmith.com/articles/httptrace-with-go/ target="_blank">
+        Tracing HTTP Requests with Go's net/HTTP/httptrace |
     </a>
-    By: TMWNN
+    By: speckx
 </li>
 
 <li>
-    <a href=https://shantellsans.com/process target="_blank">
-        Shantell Sans (2023) |
+    <a href=https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting target="_blank">
+        Cloudflare Turnstile requiring fingerprintable WebGL |
     </a>
-    By: aleda145
+    By: HypnoticOcelot
 </li>
 </ol>
