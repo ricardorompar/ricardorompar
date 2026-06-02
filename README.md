@@ -45,40 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 01 Jun 2026</h4>
+<h4>Check the latest news from: Tue 02 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://point.free/blog/gemma-4-on-a-2016-xeon/ target="_blank">
-        A 10 year old Xeon is all you need |
+    <a href=https://www.0xsid.com/blog/meta-account-takeover-fiasco target="_blank">
+        The newest Instagram “exploit” is the goofiest I've seen |
     </a>
-    By: cafkafk
+    By: ssiddharth
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-support-bot-to-seize-instagram-accounts&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su...</a> </br>
+</p>
+
+<li>
+    <a href=https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/ target="_blank">
+        macOS needs its grid back |
+    </a>
+    By: ranebo
 </li>
 
 <li>
-    <a href=https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ target="_blank">
-        Chuwi Minibook X |
+    <a href=https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai target="_blank">
+        Can the stockmarket swallow Anthropic, SpaceX and OpenAI? |
     </a>
-    By: thcipriani
+    By: 1vuio0pswjnm7
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw</a> </br>
+</p>
+
+<li>
+    <a href=https://categoricaldata.net/ target="_blank">
+        CQL: Categorical Databases |
+    </a>
+    By: noworriesnate
 </li>
 
 <li>
-    <a href=https://kefir.protopopov.lv/posts/announce2.html target="_blank">
-        Cessation of public development of Kefir C compiler |
+    <a href=https://github.com/cyberpapiii/chipotlai-max target="_blank">
+        Chipotlai Max |
     </a>
-    By: f311a
-</li>
-
-<li>
-    <a href=https://blainsmith.com/articles/httptrace-with-go/ target="_blank">
-        Tracing HTTP Requests with Go's net/HTTP/httptrace |
-    </a>
-    By: speckx
-</li>
-
-<li>
-    <a href=https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting target="_blank">
-        Cloudflare Turnstile requiring fingerprintable WebGL |
-    </a>
-    By: HypnoticOcelot
+    By: nigelgutzmann
 </li>
 </ol>
