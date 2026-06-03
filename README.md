@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 02 Jun 2026</h4>
+<h4>Check the latest news from: Wed 03 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.0xsid.com/blog/meta-account-takeover-fiasco target="_blank">
-        The newest Instagram “exploit” is the goofiest I've seen |
+    <a href=https://blog.ammaraskar.com/github-token-stealing/ target="_blank">
+        1-Click GitHub Token Stealing via a VSCode Bug |
     </a>
-    By: ssiddharth
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-support-bot-to-seize-instagram-accounts&#x2F;" rel="nofollow">https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su...</a> </br>
-</p>
-
-<li>
-    <a href=https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/ target="_blank">
-        macOS needs its grid back |
-    </a>
-    By: ranebo
+    By: ammar2
 </li>
 
 <li>
-    <a href=https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai target="_blank">
-        Can the stockmarket swallow Anthropic, SpaceX and OpenAI? |
+    <a href=https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers target="_blank">
+        Life and work is not meant to be spent in isolation |
     </a>
-    By: 1vuio0pswjnm7
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw" rel="nofollow">https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw</a> </br>
-</p>
-
-<li>
-    <a href=https://categoricaldata.net/ target="_blank">
-        CQL: Categorical Databases |
-    </a>
-    By: noworriesnate
+    By: jlundberg
 </li>
 
 <li>
-    <a href=https://github.com/cyberpapiii/chipotlai-max target="_blank">
-        Chipotlai Max |
+    <a href=https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html target="_blank">
+        AI Engineers aren't safe from being replaced by AI |
     </a>
-    By: nigelgutzmann
+    By: Doch88
+</li>
+
+<li>
+    <a href=https://github.com/s-macke/Test-Drive-3-Maps target="_blank">
+        Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game) |
+    </a>
+    By: s-macke
+</li>
+
+<li>
+    <a href=https://github.com/c0dejedi/nbd-vram target="_blank">
+        Use your Nvidia GPU's VRAM as swap space on Linux |
+    </a>
+    By: tanelpoder
 </li>
 </ol>
