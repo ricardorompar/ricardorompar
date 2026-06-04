@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 03 Jun 2026</h4>
+<h4>Check the latest news from: Thu 04 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.ammaraskar.com/github-token-stealing/ target="_blank">
-        1-Click GitHub Token Stealing via a VSCode Bug |
+    <a href=https://maxleiter.com/blog/weights target="_blank">
+        "They're made out of weights" |
     </a>
-    By: ammar2
+    By: MaxLeiter
 </li>
 
 <li>
-    <a href=https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers target="_blank">
-        Life and work is not meant to be spent in isolation |
+    <a href=https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ target="_blank">
+        Elixir v1.20: Now a gradually typed language |
     </a>
-    By: jlundberg
+    By: cloud8421
 </li>
 
 <li>
-    <a href=https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html target="_blank">
-        AI Engineers aren't safe from being replaced by AI |
+    <a href=https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html target="_blank">
+        Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes |
     </a>
-    By: Doch88
+    By: littlexsparkee
 </li>
 
 <li>
-    <a href=https://github.com/s-macke/Test-Drive-3-Maps target="_blank">
-        Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game) |
+    <a href=https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/ target="_blank">
+        Gemma 4 12B: A unified, encoder-free multimodal model |
     </a>
-    By: s-macke
+    By: rvz
 </li>
 
 <li>
-    <a href=https://github.com/c0dejedi/nbd-vram target="_blank">
-        Use your Nvidia GPU's VRAM as swap space on Linux |
+    <a href=https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/ target="_blank">
+        I built a vulnerable app and spent $1,500 seeing if LLMs could hack it |
     </a>
-    By: tanelpoder
+    By: jc4p
 </li>
 </ol>
