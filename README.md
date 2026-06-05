@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 04 Jun 2026</h4>
+<h4>Check the latest news from: Fri 05 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://maxleiter.com/blog/weights target="_blank">
-        "They're made out of weights" |
+    <a href=https://ladybird.org/posts/changing-how-we-develop-ladybird/ target="_blank">
+        Changing How We Develop Ladybird |
     </a>
-    By: MaxLeiter
+    By: EdwinHoksberg
 </li>
 
 <li>
-    <a href=https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ target="_blank">
-        Elixir v1.20: Now a gradually typed language |
+    <a href=https://herbsutter.com/2026/06/04/c-the-documentary-released-today/ target="_blank">
+        C++: The Documentary |
     </a>
-    By: cloud8421
+    By: ingve
 </li>
 
 <li>
-    <a href=https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html target="_blank">
-        Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes |
+    <a href=https://passo.uno/fine-tuning-docs-llm/ target="_blank">
+        Fine-tuning an LLM to write docs like it's 1995 |
     </a>
-    By: littlexsparkee
+    By: taubek
 </li>
 
 <li>
-    <a href=https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/ target="_blank">
-        Gemma 4 12B: A unified, encoder-free multimodal model |
+    <a href=https://fb.watch/HxPu0fSyeH/ target="_blank">
+        Meta enables ADB on deprecated Portal devices [video] |
     </a>
-    By: rvz
+    By: jenders
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;developers.meta.com&#x2F;horizon&#x2F;blog&#x2F;build-apps-for-portal-with-ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;developers.meta.com&#x2F;horizon&#x2F;blog&#x2F;build-apps-for-port...</a> </br>
+</p>
+
 <li>
-    <a href=https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/ target="_blank">
-        I built a vulnerable app and spent $1,500 seeing if LLMs could hack it |
+    <a href=https://spectrum.ieee.org/faster-dna-synthesis-sidewinder target="_blank">
+        Leap in DNA synthesis slashes time to build new genetic sequences |
     </a>
-    By: jc4p
+    By: natalcleft
 </li>
 </ol>
