@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 05 Jun 2026</h4>
+<h4>Check the latest news from: Sat 06 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://ladybird.org/posts/changing-how-we-develop-ladybird/ target="_blank">
-        Changing How We Develop Ladybird |
+    <a href=https://www.0xkato.xyz/how-llms-actually-work/ target="_blank">
+        How LLMs work |
     </a>
-    By: EdwinHoksberg
+    By: 0xkato
 </li>
 
 <li>
-    <a href=https://herbsutter.com/2026/06/04/c-the-documentary-released-today/ target="_blank">
-        C++: The Documentary |
+    <a href=https://salvagedcircuitry.com/sigma-45mm.html target="_blank">
+        The intracies of modern camera lens repair (2024) |
     </a>
-    By: ingve
+    By: transistor-man
 </li>
 
 <li>
-    <a href=https://passo.uno/fine-tuning-docs-llm/ target="_blank">
-        Fine-tuning an LLM to write docs like it's 1995 |
+    <a href=https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/ target="_blank">
+        Pre-Modern Armies for Worldbuilders, Part I: Why They Fight |
     </a>
-    By: taubek
+    By: gostsamo
 </li>
 
 <li>
-    <a href=https://fb.watch/HxPu0fSyeH/ target="_blank">
-        Meta enables ADB on deprecated Portal devices [video] |
+    <a href=https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/ target="_blank">
+        S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic |
     </a>
-    By: jenders
+    By: maltalex
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;developers.meta.com&#x2F;horizon&#x2F;blog&#x2F;build-apps-for-portal-with-ai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;developers.meta.com&#x2F;horizon&#x2F;blog&#x2F;build-apps-for-port...</a> </br>
-</p>
-
 <li>
-    <a href=https://spectrum.ieee.org/faster-dna-synthesis-sidewinder target="_blank">
-        Leap in DNA synthesis slashes time to build new genetic sequences |
+    <a href=https://meetfranz.com/blog/ten-years-of-franz target="_blank">
+        Ten Years of Franz |
     </a>
-    By: natalcleft
+    By: tosh
 </li>
 </ol>
