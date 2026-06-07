@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 06 Jun 2026</h4>
+<h4>Check the latest news from: Sun 07 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.0xkato.xyz/how-llms-actually-work/ target="_blank">
-        How LLMs work |
+    <a href=https://www.ioccc.org/2025/ target="_blank">
+        The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners |
     </a>
-    By: 0xkato
+    By: matt_d
 </li>
 
 <li>
-    <a href=https://salvagedcircuitry.com/sigma-45mm.html target="_blank">
-        The intracies of modern camera lens repair (2024) |
+    <a href=https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 target="_blank">
+        Valve P2P networking broken for more than 2 months |
     </a>
-    By: transistor-man
+    By: babuskov
 </li>
 
 <li>
-    <a href=https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/ target="_blank">
-        Pre-Modern Armies for Worldbuilders, Part I: Why They Fight |
+    <a href=https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/ target="_blank">
+        I design with Claude more than Figma now |
     </a>
-    By: gostsamo
+    By: MrBuddyCasino
 </li>
 
 <li>
-    <a href=https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/ target="_blank">
-        S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic |
+    <a href=https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses target="_blank">
+        Field of clones: How horse replicas came to dominate polo |
     </a>
-    By: maltalex
+    By: gscott
 </li>
 
 <li>
-    <a href=https://meetfranz.com/blog/ten-years-of-franz target="_blank">
-        Ten Years of Franz |
+    <a href=https://kristoff.it/blog/north-star/ target="_blank">
+        My Software North Star |
     </a>
-    By: tosh
+    By: kristoff_it
 </li>
 </ol>
