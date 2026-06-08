@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 07 Jun 2026</h4>
+<h4>Check the latest news from: Mon 08 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.ioccc.org/2025/ target="_blank">
-        The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners |
+    <a href=https://www.cypherpunkbooks.com target="_blank">
+        The Cypherpunk Library |
     </a>
-    By: matt_d
+    By: yu3zhou4
 </li>
 
 <li>
-    <a href=https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 target="_blank">
-        Valve P2P networking broken for more than 2 months |
+    <a href=https://igerman.cc/blog/dopamine-fracking/ target="_blank">
+        Dopamine Fracking |
     </a>
-    By: babuskov
+    By: igmn
 </li>
 
 <li>
-    <a href=https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/ target="_blank">
-        I design with Claude more than Figma now |
+    <a href=https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/ target="_blank">
+        1k Data Breaches Later, the Disclosure Lag Is Worse |
     </a>
-    By: MrBuddyCasino
+    By: 882542F3884314B
 </li>
 
 <li>
-    <a href=https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses target="_blank">
-        Field of clones: How horse replicas came to dominate polo |
+    <a href=https://teenage.engineering/products/apc-2 target="_blank">
+        APC–2 – A professional record cutter for producing original playback discs |
     </a>
-    By: gscott
+    By: vthommeret
 </li>
 
 <li>
-    <a href=https://kristoff.it/blog/north-star/ target="_blank">
-        My Software North Star |
+    <a href=https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony target="_blank">
+        Building from zero after addiction, prison, and a felony |
     </a>
-    By: kristoff_it
+    By: gavinray
 </li>
 </ol>
