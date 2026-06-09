@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 08 Jun 2026</h4>
+<h4>Check the latest news from: Tue 09 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.cypherpunkbooks.com target="_blank">
-        The Cypherpunk Library |
+    <a href=https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ target="_blank">
+        Microsoft's open source tools were hacked to steal passwords of AI developers |
     </a>
-    By: yu3zhou4
+    By: raffael_de
 </li>
 
 <li>
-    <a href=https://igerman.cc/blog/dopamine-fracking/ target="_blank">
-        Dopamine Fracking |
+    <a href=https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ target="_blank">
+        Apple reveals new AI architecture built around Google Gemini models |
     </a>
-    By: igmn
+    By: unclefuzzy
 </li>
 
 <li>
-    <a href=https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/ target="_blank">
-        1k Data Breaches Later, the Disclosure Lag Is Worse |
+    <a href=https://blog.aheymans.xyz/post/thinkpad_x61/ target="_blank">
+        Porting the ThinkPad X61 to Coreboot |
     </a>
-    By: 882542F3884314B
+    By: walterbell
 </li>
 
 <li>
-    <a href=https://teenage.engineering/products/apc-2 target="_blank">
-        APC–2 – A professional record cutter for producing original playback discs |
+    <a href=https://opencv.org/opencv-5/ target="_blank">
+        OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision |
     </a>
-    By: vthommeret
+    By: ternaus
 </li>
 
 <li>
-    <a href=https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony target="_blank">
-        Building from zero after addiction, prison, and a felony |
+    <a href=https://oldavista.com/ target="_blank">
+        Old'aVista – The most powerful guide to the old Internet |
     </a>
-    By: gavinray
+    By: abnercoimbre
 </li>
 </ol>
