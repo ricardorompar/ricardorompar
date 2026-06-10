@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 09 Jun 2026</h4>
+<h4>Check the latest news from: Wed 10 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ target="_blank">
-        Microsoft's open source tools were hacked to steal passwords of AI developers |
+    <a href=https://github.com/apple/container/blob/main/docs/container-machine.md target="_blank">
+        macOS Container Machines |
     </a>
-    By: raffael_de
+    By: timsneath
 </li>
 
 <li>
-    <a href=https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ target="_blank">
-        Apple reveals new AI architecture built around Google Gemini models |
+    <a href=https://www.anthropic.com/news/claude-fable-5-mythos-5 target="_blank">
+        Claude Fable 5 |
     </a>
-    By: unclefuzzy
+    By: Philpax
+</li>
+
+<p>
+Text: System Card [pdf]: <a href="https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf" rel="nofollow">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a> </br>
+</p>
+
+<li>
+    <a href=https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/ target="_blank">
+        How do you design a $30k electric pickup? Inside Ford's skunkworks |
+    </a>
+    By: PaulHoule
 </li>
 
 <li>
-    <a href=https://blog.aheymans.xyz/post/thinkpad_x61/ target="_blank">
-        Porting the ThinkPad X61 to Coreboot |
+    <a href=https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/ target="_blank">
+        Upcoming breaking changes for npm v12 |
     </a>
-    By: walterbell
+    By: plasma
 </li>
 
 <li>
-    <a href=https://opencv.org/opencv-5/ target="_blank">
-        OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision |
+    <a href=https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ target="_blank">
+        German ruling declares Google liable for false answers in AI Overviews |
     </a>
-    By: ternaus
-</li>
-
-<li>
-    <a href=https://oldavista.com/ target="_blank">
-        Old'aVista – The most powerful guide to the old Internet |
-    </a>
-    By: abnercoimbre
+    By: ahlCVA
 </li>
 </ol>
