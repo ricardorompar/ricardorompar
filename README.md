@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 11 Jun 2026</h4>
+<h4>Check the latest news from: Fri 12 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/ target="_blank">
-        Pokémon Go Scans Trained the Navigation Tech for Military Drones |
+    <a href=https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ target="_blank">
+        AI agent bankrupted their operator while trying to scan DN42 |
     </a>
-    By: vrganj
+    By: xiaoyu2006
 </li>
 
 <li>
-    <a href=https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ target="_blank">
-        AI agent runs amok in Fedora and elsewhere |
+    <a href=https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf target="_blank">
+        Nobody ever gets credit for fixing problems that never happened (2001) [pdf] |
     </a>
-    By: tanelpoder
+    By: sam_bristow
 </li>
 
 <li>
-    <a href=https://github.com/vanyapr/makaroshki target="_blank">
-        Macaroni – a single HTML file messenger |
+    <a href=https://tombedor.dev/human-attention-and-human-effort/ target="_blank">
+        If you are asking for human attention, demonstrate human effort |
     </a>
-    By: snowflaxxx
+    By: jjfoooo4
 </li>
 
 <li>
-    <a href=https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/ target="_blank">
-        Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable |
+    <a href=https://brew.sh/2026/06/11/homebrew-6.0.0/ target="_blank">
+        Show HN: Homebrew 6.0.0 |
     </a>
-    By: speckx
+    By: mikemcquaid
 </li>
 
+<p>
+Text: Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).<p>Happy to discuss any questions here! </br>
+</p>
+
 <li>
-    <a href=https://github.com/philipl/pifs target="_blank">
-        πFS |
+    <a href=https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia target="_blank">
+        How we made hit video game Prince of Persia |
     </a>
-    By: helterskelter
+    By: msephton
 </li>
 </ol>
