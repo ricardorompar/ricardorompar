@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 12 Jun 2026</h4>
+<h4>Check the latest news from: Sat 13 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ target="_blank">
-        AI agent bankrupted their operator while trying to scan DN42 |
+    <a href=https://blog.unitedheroes.net/5751 target="_blank">
+        Leaving Mozilla |
     </a>
-    By: xiaoyu2006
+    By: martey
 </li>
 
 <li>
-    <a href=https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf target="_blank">
-        Nobody ever gets credit for fixing problems that never happened (2001) [pdf] |
+    <a href=https://koenvangilst.nl/lab/claude-fable-shepherds-dog target="_blank">
+        Shepherd's Dog: A Game by the Most Dangerous AI Model |
     </a>
-    By: sam_bristow
+    By: vnglst
 </li>
 
 <li>
-    <a href=https://tombedor.dev/human-attention-and-human-effort/ target="_blank">
-        If you are asking for human attention, demonstrate human effort |
+    <a href=https://www.anthropic.com/news/fable-mythos-access target="_blank">
+        Statement on US government directive to suspend access to Fable 5 and Mythos 5 |
     </a>
-    By: jjfoooo4
-</li>
-
-<li>
-    <a href=https://brew.sh/2026/06/11/homebrew-6.0.0/ target="_blank">
-        Show HN: Homebrew 6.0.0 |
-    </a>
-    By: mikemcquaid
+    By: Dylan1312
 </li>
 
 <p>
-Text: Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).<p>Happy to discuss any questions here! </br>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;ClaudeDevs&#x2F;status&#x2F;2065597942602531163" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;ClaudeDevs&#x2F;status&#x2F;2065597942602531163</a> </br>
 </p>
 
 <li>
-    <a href=https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia target="_blank">
-        How we made hit video game Prince of Persia |
+    <a href=https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ target="_blank">
+        Electric motors with no rare earths |
     </a>
-    By: msephton
+    By: bestouff
+</li>
+
+<li>
+    <a href=https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/ target="_blank">
+        CRISPR tech selectively shreds cancer cells, including "undruggable" cancers |
+    </a>
+    By: gmays
 </li>
 </ol>
