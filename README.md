@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 13 Jun 2026</h4>
+<h4>Check the latest news from: Sun 14 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.unitedheroes.net/5751 target="_blank">
-        Leaving Mozilla |
+    <a href=https://phoenixframework.org/blog/phoenix-liveview-1-2-released target="_blank">
+        Phoenix LiveView 1.2 Released |
     </a>
-    By: martey
+    By: ksec
 </li>
 
 <li>
-    <a href=https://koenvangilst.nl/lab/claude-fable-shepherds-dog target="_blank">
-        Shepherd's Dog: A Game by the Most Dangerous AI Model |
+    <a href=https://juniperspring.org/posts/honda-evil-valet/ target="_blank">
+        Honda Civics and the Evil Valet |
     </a>
-    By: vnglst
-</li>
-
-<li>
-    <a href=https://www.anthropic.com/news/fable-mythos-access target="_blank">
-        Statement on US government directive to suspend access to Fable 5 and Mythos 5 |
-    </a>
-    By: Dylan1312
+    By: librick
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;ClaudeDevs&#x2F;status&#x2F;2065597942602531163" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;ClaudeDevs&#x2F;status&#x2F;2065597942602531163</a> </br>
+Text: Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753</a> - May 2023 (43 comments) </br>
 </p>
 
 <li>
-    <a href=https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ target="_blank">
-        Electric motors with no rare earths |
+    <a href=https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows target="_blank">
+        Don't trust large context windows |
     </a>
-    By: bestouff
+    By: computersuck
 </li>
 
 <li>
-    <a href=https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/ target="_blank">
-        CRISPR tech selectively shreds cancer cells, including "undruggable" cancers |
+    <a href=https://sqltoerdiagram.com/ target="_blank">
+        Free SQL→ER diagram tool, runs in the browser, nothing uploaded |
     </a>
-    By: gmays
+    By: robhati
 </li>
+
+<li>
+    <a href=https://twitter.com/jietang/status/2065784751345287314 target="_blank">
+        GLM 5.2 Is Out |
+    </a>
+    By: aloknnikhil
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn" rel="nofollow">https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn</a> </br>
+</p>
 </ol>
