@@ -45,48 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 14 Jun 2026</h4>
+<h4>Check the latest news from: Mon 15 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://phoenixframework.org/blog/phoenix-liveview-1-2-released target="_blank">
-        Phoenix LiveView 1.2 Released |
+    <a href=https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ target="_blank">
+        Your ePub Is fine |
     </a>
-    By: ksec
+    By: sohkamyung
 </li>
 
 <li>
-    <a href=https://juniperspring.org/posts/honda-evil-valet/ target="_blank">
-        Honda Civics and the Evil Valet |
+    <a href=https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models target="_blank">
+        Apple Foundation Models |
     </a>
-    By: librick
-</li>
-
-<p>
-Text: Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753</a> - May 2023 (43 comments) </br>
-</p>
-
-<li>
-    <a href=https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows target="_blank">
-        Don't trust large context windows |
-    </a>
-    By: computersuck
+    By: MehrdadKhnzd
 </li>
 
 <li>
-    <a href=https://sqltoerdiagram.com/ target="_blank">
-        Free SQL→ER diagram tool, runs in the browser, nothing uploaded |
+    <a href=https://karthinks.com/software/even-more-batteries-included-with-emacs/ target="_blank">
+        Even more batteries included with Emacs |
     </a>
-    By: robhati
+    By: signa11
 </li>
 
 <li>
-    <a href=https://twitter.com/jietang/status/2065784751345287314 target="_blank">
-        GLM 5.2 Is Out |
+    <a href=https://stratechery.com/2026/anthropics-safety-superpower/ target="_blank">
+        Anthropic's Safety Superpower |
     </a>
-    By: aloknnikhil
+    By: swolpers
 </li>
 
-<p>
-Text: <a href="https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn" rel="nofollow">https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn</a> </br>
-</p>
+<li>
+    <a href=https://mrmarket.lol/what-the-fuck-happened-to-nerds/ target="_blank">
+        What the Fuck Happened to Nerds |
+    </a>
+    By: vrnvu
+</li>
 </ol>
