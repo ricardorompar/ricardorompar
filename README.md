@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 15 Jun 2026</h4>
+<h4>Check the latest news from: Tue 16 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ target="_blank">
-        Your ePub Is fine |
+    <a href=https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419 target="_blank">
+        The time the x86 emulator team found code so bad they fixed it during emulation |
     </a>
-    By: sohkamyung
+    By: paulmooreparks
 </li>
 
 <li>
-    <a href=https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models target="_blank">
-        Apple Foundation Models |
+    <a href=https://roman.pt/posts/linkedin-backdoor/ target="_blank">
+        A backdoor in a LinkedIn job offer |
     </a>
-    By: MehrdadKhnzd
+    By: lwhsiao
 </li>
 
 <li>
-    <a href=https://karthinks.com/software/even-more-batteries-included-with-emacs/ target="_blank">
-        Even more batteries included with Emacs |
+    <a href=https://twitter.com/ID_AA_Carmack/status/2064095424420487226 target="_blank">
+        John Carmack on Fabrice Bellard |
     </a>
-    By: signa11
+    By: apitman
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226</a> </br>
+</p>
+
+<li>
+    <a href=https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso target="_blank">
+        New way of making espresso with ultrasound |
+    </a>
+    By: darktoto
 </li>
 
 <li>
-    <a href=https://stratechery.com/2026/anthropics-safety-superpower/ target="_blank">
-        Anthropic's Safety Superpower |
+    <a href=https://www.iroh.computer/blog/v1 target="_blank">
+        Iroh 1.0 |
     </a>
-    By: swolpers
-</li>
-
-<li>
-    <a href=https://mrmarket.lol/what-the-fuck-happened-to-nerds/ target="_blank">
-        What the Fuck Happened to Nerds |
-    </a>
-    By: vrnvu
+    By: chadfowler
 </li>
 </ol>
