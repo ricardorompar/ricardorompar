@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 16 Jun 2026</h4>
+<h4>Check the latest news from: Wed 17 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419 target="_blank">
-        The time the x86 emulator team found code so bad they fixed it during emulation |
+    <a href=https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon target="_blank">
+        GrapheneOS has been ported to Android 17 |
     </a>
-    By: paulmooreparks
+    By: Cider9986
 </li>
 
 <li>
-    <a href=https://roman.pt/posts/linkedin-backdoor/ target="_blank">
-        A backdoor in a LinkedIn job offer |
+    <a href=https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/ target="_blank">
+        Running local models is good now |
     </a>
-    By: lwhsiao
+    By: jfb
 </li>
 
 <li>
-    <a href=https://twitter.com/ID_AA_Carmack/status/2064095424420487226 target="_blank">
-        John Carmack on Fabrice Bellard |
+    <a href=https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ target="_blank">
+        Humiliating IIS servers for fun and jail time |
     </a>
-    By: apitman
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226</a> </br>
-</p>
-
-<li>
-    <a href=https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso target="_blank">
-        New way of making espresso with ultrasound |
-    </a>
-    By: darktoto
+    By: denysvitali
 </li>
 
 <li>
-    <a href=https://www.iroh.computer/blog/v1 target="_blank">
-        Iroh 1.0 |
+    <a href=https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study target="_blank">
+        Subterranean fungi networks more than 100 quadrillion km in length |
     </a>
-    By: chadfowler
+    By: tosh
+</li>
+
+<li>
+    <a href=https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/ target="_blank">
+        TIL: You can make HTTP requests without curl using Bash /dev/TCP |
+    </a>
+    By: mrshu
 </li>
 </ol>
