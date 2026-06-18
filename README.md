@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 17 Jun 2026</h4>
+<h4>Check the latest news from: Thu 18 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon target="_blank">
-        GrapheneOS has been ported to Android 17 |
+    <a href=https://www.midjourney.com/medical/blogpost target="_blank">
+        Midjourney Medical |
     </a>
-    By: Cider9986
+    By: ricochet11
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical" rel="nofollow">https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical</a><p>Video: <a href="https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797</a> </br>
+</p>
+
+<li>
+    <a href=https://chat.deepseek.com/ target="_blank">
+        DeepSeek Introduces Vision |
+    </a>
+    By: RIshabh235
 </li>
 
 <li>
-    <a href=https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/ target="_blank">
-        Running local models is good now |
+    <a href=https://www.acma.gov.au/sms-sender-id-register target="_blank">
+        The Australian Government to Require SMS/MMS Sender ID Registraion |
     </a>
-    By: jfb
+    By: anitil
 </li>
 
 <li>
-    <a href=https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ target="_blank">
-        Humiliating IIS servers for fun and jail time |
+    <a href=https://blog.alexellis.io/local-ai-is-not-opus/ target="_blank">
+        Local Qwen isn't a worse Opus, it's a different tool |
     </a>
-    By: denysvitali
+    By: alphabettsy
 </li>
 
 <li>
-    <a href=https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study target="_blank">
-        Subterranean fungi networks more than 100 quadrillion km in length |
+    <a href=https://lore.org/ target="_blank">
+        Lore – Open source version control system designed for scalability |
     </a>
-    By: tosh
-</li>
-
-<li>
-    <a href=https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/ target="_blank">
-        TIL: You can make HTTP requests without curl using Bash /dev/TCP |
-    </a>
-    By: mrshu
+    By: regnerba
 </li>
 </ol>
