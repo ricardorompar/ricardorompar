@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 18 Jun 2026</h4>
+<h4>Check the latest news from: Fri 19 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.midjourney.com/medical/blogpost target="_blank">
-        Midjourney Medical |
+    <a href=https://www.jvm-weekly.com/p/project-valhalla-explained-how-a target="_blank">
+        Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 |
     </a>
-    By: ricochet11
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical" rel="nofollow">https:&#x2F;&#x2F;www.midjourney.com&#x2F;medical</a><p>Video: <a href="https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797</a> </br>
-</p>
-
-<li>
-    <a href=https://chat.deepseek.com/ target="_blank">
-        DeepSeek Introduces Vision |
-    </a>
-    By: RIshabh235
+    By: philonoist
 </li>
 
 <li>
-    <a href=https://www.acma.gov.au/sms-sender-id-register target="_blank">
-        The Australian Government to Require SMS/MMS Sender ID Registraion |
+    <a href=https://www.greybeam.ai/blog/duckdb-internals-part-1 target="_blank">
+        DuckDB Internals: Why Is DuckDB Fast? (Part 1) |
     </a>
-    By: anitil
+    By: marklit
 </li>
 
 <li>
-    <a href=https://blog.alexellis.io/local-ai-is-not-opus/ target="_blank">
-        Local Qwen isn't a worse Opus, it's a different tool |
+    <a href=https://mnot.net/blog/2026/well_known_uris target="_blank">
+        So You Want to Define a Well-Known URI |
     </a>
-    By: alphabettsy
+    By: ingve
 </li>
 
 <li>
-    <a href=https://lore.org/ target="_blank">
-        Lore – Open source version control system designed for scalability |
+    <a href=https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610 target="_blank">
+        To study how chips work, MIT researchers built their own operating system |
     </a>
-    By: regnerba
+    By: speckx
+</li>
+
+<li>
+    <a href=https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning target="_blank">
+        Zen and the Art of Machine Learning Research |
+    </a>
+    By: jxmorris12
 </li>
 </ol>
