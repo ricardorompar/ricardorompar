@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 19 Jun 2026</h4>
+<h4>Check the latest news from: Sat 20 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.jvm-weekly.com/p/project-valhalla-explained-how-a target="_blank">
-        Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 |
+    <a href=https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ target="_blank">
+        I Stored a Website in a Favicon |
     </a>
-    By: philonoist
+    By: theanonymousone
 </li>
 
 <li>
-    <a href=https://www.greybeam.ai/blog/duckdb-internals-part-1 target="_blank">
-        DuckDB Internals: Why Is DuckDB Fast? (Part 1) |
+    <a href=https://mattmahoney.net/dc/dce.html target="_blank">
+        Data Compression Explained (2012) |
     </a>
-    By: marklit
+    By: mtdewcmu
 </li>
 
 <li>
-    <a href=https://mnot.net/blog/2026/well_known_uris target="_blank">
-        So You Want to Define a Well-Known URI |
+    <a href=https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ target="_blank">
+        Where to Find the Colors Your Screen Can't Show You |
     </a>
-    By: ingve
+    By: moultano
 </li>
 
 <li>
-    <a href=https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610 target="_blank">
-        To study how chips work, MIT researchers built their own operating system |
+    <a href=https://overreacted.io/there-are-no-instances-in-atproto/ target="_blank">
+        There are no instances in ATProto |
     </a>
-    By: speckx
+    By: danabramov
 </li>
 
 <li>
-    <a href=https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning target="_blank">
-        Zen and the Art of Machine Learning Research |
+    <a href=https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize target="_blank">
+        The discovery that changed how scientists think about memory |
     </a>
-    By: jxmorris12
+    By: rbanffy
 </li>
 </ol>
