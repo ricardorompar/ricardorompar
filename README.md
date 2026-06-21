@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 20 Jun 2026</h4>
+<h4>Check the latest news from: Sun 21 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ target="_blank">
-        I Stored a Website in a Favicon |
+    <a href=https://github.com/namgyaaal/avoxelgame target="_blank">
+        A 3D voxel game engine written in APL |
     </a>
-    By: theanonymousone
+    By: sph
 </li>
 
 <li>
-    <a href=https://mattmahoney.net/dc/dce.html target="_blank">
-        Data Compression Explained (2012) |
+    <a href=https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/ target="_blank">
+        Google Hits 50% IPv6 |
     </a>
-    By: mtdewcmu
+    By: barqawiz
 </li>
 
 <li>
-    <a href=https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ target="_blank">
-        Where to Find the Colors Your Screen Can't Show You |
+    <a href=https://fosterelli.co/developers-dont-understand-cors target="_blank">
+        Developers don't understand CORS (2019) |
     </a>
-    By: moultano
+    By: toilet
 </li>
 
 <li>
-    <a href=https://overreacted.io/there-are-no-instances-in-atproto/ target="_blank">
-        There are no instances in ATProto |
+    <a href=https://zeux.io/2026/06/17/zigzag-decoding-avx512/ target="_blank">
+        Zigzag Decoding with AVX-512 |
     </a>
-    By: danabramov
+    By: luu
 </li>
 
 <li>
-    <a href=https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize target="_blank">
-        The discovery that changed how scientists think about memory |
+    <a href=https://github.com/mysk-research/loupe target="_blank">
+        Loupe – A iOS app that raises awareness about what native apps can see |
     </a>
-    By: rbanffy
+    By: Cider9986
 </li>
 </ol>
