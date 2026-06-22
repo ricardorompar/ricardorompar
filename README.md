@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 21 Jun 2026</h4>
+<h4>Check the latest news from: Mon 22 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/namgyaaal/avoxelgame target="_blank">
-        A 3D voxel game engine written in APL |
+    <a href=https://docs.deno.com/runtime/desktop/ target="_blank">
+        Deno Desktop |
     </a>
-    By: sph
+    By: GeneralMaximus
 </li>
 
 <li>
-    <a href=https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/ target="_blank">
-        Google Hits 50% IPv6 |
+    <a href=https://lmao.center/blog/wiggle-accidents/ target="_blank">
+        Help I accidentally a wigglegram |
     </a>
-    By: barqawiz
+    By: gregsadetsky
 </li>
 
 <li>
-    <a href=https://fosterelli.co/developers-dont-understand-cors target="_blank">
-        Developers don't understand CORS (2019) |
+    <a href=https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/ target="_blank">
+        Did my old job only exist because of fraud? |
     </a>
-    By: toilet
+    By: advisedwang
 </li>
 
 <li>
-    <a href=https://zeux.io/2026/06/17/zigzag-decoding-avx512/ target="_blank">
-        Zigzag Decoding with AVX-512 |
+    <a href=https://apertvs.ai/ target="_blank">
+        Apertus – Open Foundation Model for Sovereign AI |
     </a>
-    By: luu
+    By: T-A
 </li>
 
 <li>
-    <a href=https://github.com/mysk-research/loupe target="_blank">
-        Loupe – A iOS app that raises awareness about what native apps can see |
+    <a href=https://github.com/openai/codex/issues/28224 target="_blank">
+        Codex logging bug may write TBs to local SSDs |
     </a>
-    By: Cider9986
+    By: vantareed
 </li>
 </ol>
