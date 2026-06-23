@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 22 Jun 2026</h4>
+<h4>Check the latest news from: Tue 23 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://docs.deno.com/runtime/desktop/ target="_blank">
-        Deno Desktop |
+    <a href=https://store.steampowered.com/news/group/45479024/view/685257114654870245 target="_blank">
+        Steam Machine launches today |
     </a>
-    By: GeneralMaximus
+    By: theschwa
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine" rel="nofollow">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href="https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article" rel="nofollow">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a> </br>
+</p>
+
+<li>
+    <a href=https://kreya.app/blog/new-http-query-method-explained/ target="_blank">
+        The new HTTP QUERY method explained |
+    </a>
+    By: CommonGuy
 </li>
 
 <li>
-    <a href=https://lmao.center/blog/wiggle-accidents/ target="_blank">
-        Help I accidentally a wigglegram |
+    <a href=https://swelljoe.com/post/will-it-mythos/ target="_blank">
+        Will It Mythos? |
     </a>
-    By: gregsadetsky
+    By: mindingnever
 </li>
 
 <li>
-    <a href=https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/ target="_blank">
-        Did my old job only exist because of fraud? |
+    <a href=https://unsloth.ai/docs/models/glm-5.2 target="_blank">
+        GLM-5.2 – How to Run Locally |
     </a>
-    By: advisedwang
+    By: TechTechTech
 </li>
 
 <li>
-    <a href=https://apertvs.ai/ target="_blank">
-        Apertus – Open Foundation Model for Sovereign AI |
+    <a href=https://arxiv.org/abs/2606.16140 target="_blank">
+        VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO |
     </a>
-    By: T-A
-</li>
-
-<li>
-    <a href=https://github.com/openai/codex/issues/28224 target="_blank">
-        Codex logging bug may write TBs to local SSDs |
-    </a>
-    By: vantareed
+    By: timhigins
 </li>
 </ol>
