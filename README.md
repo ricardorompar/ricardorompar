@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 23 Jun 2026</h4>
+<h4>Check the latest news from: Wed 24 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://store.steampowered.com/news/group/45479024/view/685257114654870245 target="_blank">
-        Steam Machine launches today |
+    <a href=https://words.filippo.io/vuln-reports/ target="_blank">
+        Vulnerability reports are not special anymore |
     </a>
-    By: theschwa
+    By: goranmoomin
+</li>
+
+<li>
+    <a href=https://gitlab.com/baiyibai/pico-usb-wifi target="_blank">
+        Raspberry Pi Pico W as USB Wi-Fi Adapter |
+    </a>
+    By: byb
+</li>
+
+<li>
+    <a href=https://glyphcss.com target="_blank">
+        Show HN: An ASCII 3D Rendering Engine |
+    </a>
+    By: apresmoi
+</li>
+
+<li>
+    <a href=http://www.jerrysmap.com/the-map target="_blank">
+        Jerry's Map |
+    </a>
+    By: turtleyacht
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine" rel="nofollow">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href="https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article" rel="nofollow">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE" rel="nofollow">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html" rel="nofollow">https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...</a> </br>
 </p>
 
 <li>
-    <a href=https://kreya.app/blog/new-http-query-method-explained/ target="_blank">
-        The new HTTP QUERY method explained |
+    <a href=https://swipe.futo.tech/ target="_blank">
+        FUTO Swipe – A new swipe typing model |
     </a>
-    By: CommonGuy
-</li>
-
-<li>
-    <a href=https://swelljoe.com/post/will-it-mythos/ target="_blank">
-        Will It Mythos? |
-    </a>
-    By: mindingnever
-</li>
-
-<li>
-    <a href=https://unsloth.ai/docs/models/glm-5.2 target="_blank">
-        GLM-5.2 – How to Run Locally |
-    </a>
-    By: TechTechTech
-</li>
-
-<li>
-    <a href=https://arxiv.org/abs/2606.16140 target="_blank">
-        VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO |
-    </a>
-    By: timhigins
+    By: futohq
 </li>
 </ol>
