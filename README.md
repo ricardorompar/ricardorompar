@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 24 Jun 2026</h4>
+<h4>Check the latest news from: Thu 25 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://words.filippo.io/vuln-reports/ target="_blank">
-        Vulnerability reports are not special anymore |
+    <a href=https://hl2.slqnt.dev/ target="_blank">
+        Half-Life 2 in a Browser |
     </a>
-    By: goranmoomin
+    By: panza
 </li>
 
 <li>
-    <a href=https://gitlab.com/baiyibai/pico-usb-wifi target="_blank">
-        Raspberry Pi Pico W as USB Wi-Fi Adapter |
+    <a href=https://utaw.tech/news/wikipedia-recognition target="_blank">
+        Wikipedia Workers in Britain set global first by seeking union recognition |
     </a>
-    By: byb
+    By: chobeat
 </li>
 
 <li>
-    <a href=https://glyphcss.com target="_blank">
-        Show HN: An ASCII 3D Rendering Engine |
+    <a href=https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ target="_blank">
+        Anthropic says Alibaba illicitly extracted Claude AI model capabilities |
     </a>
-    By: apresmoi
+    By: htrp
 </li>
 
 <li>
-    <a href=http://www.jerrysmap.com/the-map target="_blank">
-        Jerry's Map |
+    <a href=https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/ target="_blank">
+        OpenAI unveils its first custom chip, built by Broadcom |
     </a>
-    By: turtleyacht
+    By: jamdesk
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html" rel="nofollow">https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...</a> </br>
+Text: Announcement: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-chip&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...</a><p><a href="https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-custom-ai-chip" rel="nofollow">https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...</a><p><a href="https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno-ai-chip" rel="nofollow">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno...</a> </br>
 </p>
 
 <li>
-    <a href=https://swipe.futo.tech/ target="_blank">
-        FUTO Swipe – A new swipe typing model |
+    <a href=https://blog.cloudflare.com/oauth-for-all/ target="_blank">
+        Cloudflare launched self-managed OAuth for all |
     </a>
-    By: futohq
+    By: terryds
 </li>
 </ol>
