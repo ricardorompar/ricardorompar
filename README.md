@@ -45,44 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 25 Jun 2026</h4>
+<h4>Check the latest news from: Fri 26 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://hl2.slqnt.dev/ target="_blank">
-        Half-Life 2 in a Browser |
+    <a href=https://om.co/2026/06/24/1966-2026/ target="_blank">
+        Om Malik has died |
     </a>
-    By: panza
-</li>
-
-<li>
-    <a href=https://utaw.tech/news/wikipedia-recognition target="_blank">
-        Wikipedia Workers in Britain set global first by seeking union recognition |
-    </a>
-    By: chobeat
-</li>
-
-<li>
-    <a href=https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ target="_blank">
-        Anthropic says Alibaba illicitly extracted Claude AI model capabilities |
-    </a>
-    By: htrp
-</li>
-
-<li>
-    <a href=https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/ target="_blank">
-        OpenAI unveils its first custom chip, built by Broadcom |
-    </a>
-    By: jamdesk
+    By: minimaxir
 </li>
 
 <p>
-Text: Announcement: <a href="https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-chip&#x2F;" rel="nofollow">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...</a><p><a href="https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-custom-ai-chip" rel="nofollow">https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...</a><p><a href="https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno-ai-chip" rel="nofollow">https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;06&#x2F;24&#x2F;tech&#x2F;openai-broadcom-jalapeno...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-valley-to-read-itself" rel="nofollow">https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-vall...</a> </br>
 </p>
 
 <li>
-    <a href=https://blog.cloudflare.com/oauth-for-all/ target="_blank">
-        Cloudflare launched self-managed OAuth for all |
+    <a href=https://aditya.patadia.org/p/ai-and-cloud-costs target="_blank">
+        Why current LLM costs are not sustainable |
     </a>
-    By: terryds
+    By: adityapatadia
+</li>
+
+<li>
+    <a href=https://scrollprize.org/firstscroll target="_blank">
+        An entire Herculaneum scroll has been read for the first time |
+    </a>
+    By: verditelabs
+</li>
+
+<p>
+Text: Preprint: <a href="https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf" rel="nofollow">https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa</a> </br>
+</p>
+
+<li>
+    <a href=https://graphicore.github.io/librebarcode/ target="_blank">
+        Libre Barcode Project |
+    </a>
+    By: luu
+</li>
+
+<li>
+    <a href=https://akrites.org/letter/ target="_blank">
+        We All Depend on Open Source. We Will Defend It Together |
+    </a>
+    By: dhruv3006
 </li>
 </ol>
