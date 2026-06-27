@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 26 Jun 2026</h4>
+<h4>Check the latest news from: Sat 27 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://om.co/2026/06/24/1966-2026/ target="_blank">
-        Om Malik has died |
+    <a href=https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1 target="_blank">
+        OpenTTD 16.0-Beta1 |
+    </a>
+    By: untilted
+</li>
+
+<li>
+    <a href=https://openai.com/index/previewing-gpt-5-6-sol/ target="_blank">
+        Previewing GPT‑5.6 Sol: a next-generation model |
     </a>
     By: minimaxir
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-valley-to-read-itself" rel="nofollow">https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-vall...</a> </br>
+Text: System card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a> </br>
 </p>
 
 <li>
-    <a href=https://aditya.patadia.org/p/ai-and-cloud-costs target="_blank">
-        Why current LLM costs are not sustainable |
+    <a href=https://www.sfwriter.com/wordstar.htm target="_blank">
+        WordStar: A Writer's Word Processor (1996) |
     </a>
-    By: adityapatadia
+    By: droidjj
 </li>
 
 <li>
-    <a href=https://scrollprize.org/firstscroll target="_blank">
-        An entire Herculaneum scroll has been read for the first time |
+    <a href=https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed target="_blank">
+        Why does kinetic energy increase quadratically, not linearly, with speed? (2011) |
     </a>
-    By: verditelabs
-</li>
-
-<p>
-Text: Preprint: <a href="https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf" rel="nofollow">https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdf</a><p><a href="https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa</a> </br>
-</p>
-
-<li>
-    <a href=https://graphicore.github.io/librebarcode/ target="_blank">
-        Libre Barcode Project |
-    </a>
-    By: luu
+    By: ProxyTracer
 </li>
 
 <li>
-    <a href=https://akrites.org/letter/ target="_blank">
-        We All Depend on Open Source. We Will Defend It Together |
+    <a href=https://github.com/schlae/IBM_MCGA target="_blank">
+        IBM MCGA Gate Array Reverse Engineering |
     </a>
-    By: dhruv3006
+    By: userbinator
 </li>
 </ol>
