@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 27 Jun 2026</h4>
+<h4>Check the latest news from: Sun 28 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1 target="_blank">
-        OpenTTD 16.0-Beta1 |
+    <a href=https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep target="_blank">
+        Marfa Public Radio Puts You to Sleep |
     </a>
-    By: untilted
+    By: reaperducer
 </li>
 
 <li>
-    <a href=https://openai.com/index/previewing-gpt-5-6-sol/ target="_blank">
-        Previewing GPT‑5.6 Sol: a next-generation model |
+    <a href=https://github.com/itsthelore/wayfinder-router target="_blank">
+        Wayfinder Router: deterministic routing of queries between local and hosted LLM |
     </a>
-    By: minimaxir
+    By: handfuloflight
+</li>
+
+<li>
+    <a href=https://github.com/cfenollosa/bashblog target="_blank">
+        Bashblog – a single bash script to create blogs |
+    </a>
+    By: ludicrousdispla
+</li>
+
+<li>
+    <a href=https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md target="_blank">
+        AMD Strix Halo RDMA Cluster Setup Guide |
+    </a>
+    By: jakogut
+</li>
+
+<li>
+    <a href=https://decomp-academy.dev target="_blank">
+        Show HN: Decomp Academy – Learn to decompile GameCube games into matching C |
+    </a>
+    By: jackpriceburns
 </li>
 
 <p>
-Text: System card: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview</a> </br>
+Text: Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It&#x27;s difficult to find any good learning resources for it and any open-source projects for this are inactive and&#x2F;or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC&#x2F;2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that&#x27;s a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you&#x27;re not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src&#x2F;curriculum), it&#x27;s trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I&#x27;m happy to share it with HN. I&#x27;m very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href="https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe</a> </br>
 </p>
-
-<li>
-    <a href=https://www.sfwriter.com/wordstar.htm target="_blank">
-        WordStar: A Writer's Word Processor (1996) |
-    </a>
-    By: droidjj
-</li>
-
-<li>
-    <a href=https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed target="_blank">
-        Why does kinetic energy increase quadratically, not linearly, with speed? (2011) |
-    </a>
-    By: ProxyTracer
-</li>
-
-<li>
-    <a href=https://github.com/schlae/IBM_MCGA target="_blank">
-        IBM MCGA Gate Array Reverse Engineering |
-    </a>
-    By: userbinator
-</li>
 </ol>
