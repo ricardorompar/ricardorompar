@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 28 Jun 2026</h4>
+<h4>Check the latest news from: Mon 29 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep target="_blank">
-        Marfa Public Radio Puts You to Sleep |
+    <a href=https://danunparsed.com/p/hackerrank-open-source-ats target="_blank">
+        HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88 |
     </a>
-    By: reaperducer
+    By: sambellll
 </li>
 
 <li>
-    <a href=https://github.com/itsthelore/wayfinder-router target="_blank">
-        Wayfinder Router: deterministic routing of queries between local and hosted LLM |
+    <a href=https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/ target="_blank">
+        GLM 5.2 beats Claude in our benchmarks |
     </a>
-    By: handfuloflight
+    By: jms703
 </li>
 
 <li>
-    <a href=https://github.com/cfenollosa/bashblog target="_blank">
-        Bashblog – a single bash script to create blogs |
+    <a href=https://schamper.dev/dissecting-apples-sparse-image-format-asif/ target="_blank">
+        Dissecting Apple's Sparse Image Format (ASIF) |
     </a>
-    By: ludicrousdispla
+    By: supermatou
 </li>
 
 <li>
-    <a href=https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md target="_blank">
-        AMD Strix Halo RDMA Cluster Setup Guide |
+    <a href=https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 target="_blank">
+        Age verification is just a precursor to automated attribution of speech |
     </a>
-    By: jakogut
+    By: arkhiver
 </li>
 
 <li>
-    <a href=https://decomp-academy.dev target="_blank">
-        Show HN: Decomp Academy – Learn to decompile GameCube games into matching C |
+    <a href=https://github.com/ogulcancelik/herdr target="_blank">
+        Herdr: Agent multiplexer that lives in your terminal |
     </a>
-    By: jackpriceburns
+    By: mzehrer
 </li>
-
-<p>
-Text: Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It&#x27;s difficult to find any good learning resources for it and any open-source projects for this are inactive and&#x2F;or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC&#x2F;2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that&#x27;s a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you&#x27;re not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src&#x2F;curriculum), it&#x27;s trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I&#x27;m happy to share it with HN. I&#x27;m very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href="https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;JackPriceBurns&#x2F;decomp-academy-fe</a> </br>
-</p>
 </ol>
