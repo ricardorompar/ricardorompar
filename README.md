@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 29 Jun 2026</h4>
+<h4>Check the latest news from: Tue 30 Jun 2026</h4>
 <ol>
 <li>
-    <a href=https://danunparsed.com/p/hackerrank-open-source-ats target="_blank">
-        HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88 |
+    <a href=https://opensourcelowtech.org/ target="_blank">
+        Open Source Low Tech |
     </a>
-    By: sambellll
+    By: grep_it
 </li>
 
 <li>
-    <a href=https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/ target="_blank">
-        GLM 5.2 beats Claude in our benchmarks |
+    <a href=https://quesma.com/blog/qwen-36-is-awesome/ target="_blank">
+        Qwen 3.6 27B is the sweet spot for local development |
     </a>
-    By: jms703
+    By: stared
 </li>
 
 <li>
-    <a href=https://schamper.dev/dissecting-apples-sparse-image-format-asif/ target="_blank">
-        Dissecting Apple's Sparse Image Format (ASIF) |
+    <a href=https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/ target="_blank">
+        .self: A new top-level domain designed to support self-hosting |
     </a>
-    By: supermatou
+    By: HumanCCF
 </li>
 
 <li>
-    <a href=https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 target="_blank">
-        Age verification is just a precursor to automated attribution of speech |
+    <a href=https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/ target="_blank">
+        Free the Icons |
     </a>
-    By: arkhiver
+    By: zdw
 </li>
 
 <li>
-    <a href=https://github.com/ogulcancelik/herdr target="_blank">
-        Herdr: Agent multiplexer that lives in your terminal |
+    <a href=https://fil-c.org/context_switches target="_blank">
+        Memory Safe Context Switching |
     </a>
-    By: mzehrer
+    By: modeless
 </li>
 </ol>
