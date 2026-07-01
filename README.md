@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 30 Jun 2026</h4>
+<h4>Check the latest news from: Wed 01 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://opensourcelowtech.org/ target="_blank">
-        Open Source Low Tech |
+    <a href=https://thereallo.dev/blog/claude-code-prompt-steganography target="_blank">
+        Claude Code is steganographically marking requests |
     </a>
-    By: grep_it
+    By: kirushik
 </li>
 
 <li>
-    <a href=https://quesma.com/blog/qwen-36-is-awesome/ target="_blank">
-        Qwen 3.6 27B is the sweet spot for local development |
+    <a href=https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells target="_blank">
+        The first early human eggs from stem cells |
     </a>
-    By: stared
+    By: dsr12
 </li>
 
 <li>
-    <a href=https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/ target="_blank">
-        .self: A new top-level domain designed to support self-hosting |
+    <a href=https://www.anthropic.com/news/claude-sonnet-5 target="_blank">
+        Claude Sonnet 5 |
     </a>
-    By: HumanCCF
+    By: marinesebastian
 </li>
 
 <li>
-    <a href=https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/ target="_blank">
-        Free the Icons |
+    <a href=https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ target="_blank">
+        ArXiv's Next Chapter |
     </a>
-    By: zdw
+    By: subset
 </li>
 
 <li>
-    <a href=https://fil-c.org/context_switches target="_blank">
-        Memory Safe Context Switching |
+    <a href=https://github.com/google/copybara target="_blank">
+        Google copybara: moving code between repositories |
     </a>
-    By: modeless
+    By: reconnecting
 </li>
 </ol>
