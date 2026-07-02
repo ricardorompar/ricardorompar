@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 01 Jul 2026</h4>
+<h4>Check the latest news from: Thu 02 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://thereallo.dev/blog/claude-code-prompt-steganography target="_blank">
-        Claude Code is steganographically marking requests |
+    <a href=https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ target="_blank">
+        Kimi K2.7 Code is generally available in GitHub Copilot |
     </a>
-    By: kirushik
+    By: unliftedq
 </li>
 
 <li>
-    <a href=https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells target="_blank">
-        The first early human eggs from stem cells |
+    <a href=https://f-droid.org/2026/07/01/adv-malware.html target="_blank">
+        A new Android malware from Google |
     </a>
-    By: dsr12
+    By: drewfax
 </li>
 
 <li>
-    <a href=https://www.anthropic.com/news/claude-sonnet-5 target="_blank">
-        Claude Sonnet 5 |
+    <a href=https://zcode.z.ai/en target="_blank">
+        ZCode – Harness for GLM-5.2 |
     </a>
-    By: marinesebastian
+    By: chvid
 </li>
 
 <li>
-    <a href=https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ target="_blank">
-        ArXiv's Next Chapter |
+    <a href=https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ target="_blank">
+        Oomwoo, an open-source robot vacuum you build yourself |
     </a>
-    By: subset
+    By: devicelimit
 </li>
 
 <li>
-    <a href=https://github.com/google/copybara target="_blank">
-        Google copybara: moving code between repositories |
+    <a href=https://tedium.co/2026/07/01/online-web-forums-retrospective/ target="_blank">
+        Bring back crappy forums |
     </a>
-    By: reconnecting
+    By: pentagrama
 </li>
 </ol>
