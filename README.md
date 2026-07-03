@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 02 Jul 2026</h4>
+<h4>Check the latest news from: Fri 03 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ target="_blank">
-        Kimi K2.7 Code is generally available in GitHub Copilot |
+    <a href=https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data target="_blank">
+        Virginia bans sale of geolocation data |
     </a>
-    By: unliftedq
+    By: toomuchtodo
 </li>
 
 <li>
-    <a href=https://f-droid.org/2026/07/01/adv-malware.html target="_blank">
-        A new Android malware from Google |
+    <a href=https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts target="_blank">
+        CarPlay Is Additive |
     </a>
-    By: drewfax
+    By: sprawl_
 </li>
 
 <li>
-    <a href=https://zcode.z.ai/en target="_blank">
-        ZCode – Harness for GLM-5.2 |
+    <a href=https://righttointelligence.org/ target="_blank">
+        Right to Local Intelligence |
     </a>
-    By: chvid
+    By: thoughtpeddler
 </li>
 
 <li>
-    <a href=https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ target="_blank">
-        Oomwoo, an open-source robot vacuum you build yourself |
+    <a href=https://github.com/FractalFir/crustc target="_blank">
+        crustc: entirety of `rustc`, translated to C |
     </a>
-    By: devicelimit
+    By: Philpax
 </li>
 
 <li>
-    <a href=https://tedium.co/2026/07/01/online-web-forums-retrospective/ target="_blank">
-        Bring back crappy forums |
+    <a href=https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ target="_blank">
+        The Safari MCP server for web developers |
     </a>
-    By: pentagrama
+    By: coloneltcb
 </li>
 </ol>
