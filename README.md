@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 03 Jul 2026</h4>
+<h4>Check the latest news from: Sat 04 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data target="_blank">
-        Virginia bans sale of geolocation data |
+    <a href=https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ target="_blank">
+        The bottleneck might be the air in the room |
     </a>
-    By: toomuchtodo
+    By: gslin
 </li>
 
 <li>
-    <a href=https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts target="_blank">
-        CarPlay Is Additive |
+    <a href=https://www.hyperstitionai.com/unslop-results target="_blank">
+        2026 Unslop AI-Written Fiction Contest Results |
     </a>
-    By: sprawl_
+    By: networked
 </li>
 
 <li>
-    <a href=https://righttointelligence.org/ target="_blank">
-        Right to Local Intelligence |
+    <a href=https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post target="_blank">
+        Agentic coding notes from Galapagos Island |
     </a>
-    By: thoughtpeddler
+    By: gm678
 </li>
 
 <li>
-    <a href=https://github.com/FractalFir/crustc target="_blank">
-        crustc: entirety of `rustc`, translated to C |
+    <a href=https://www.wafer.ai/blog/glm52-amd target="_blank">
+        Performance per dollar is getting faster and cheaper |
     </a>
-    By: Philpax
+    By: latchkey
 </li>
 
 <li>
-    <a href=https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ target="_blank">
-        The Safari MCP server for web developers |
+    <a href=https://mistral.ai/news/leanstral-1-5/ target="_blank">
+        Leanstral 1.5: Proof abundance for all |
     </a>
-    By: coloneltcb
+    By: programLyrique
 </li>
 </ol>
