@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 04 Jul 2026</h4>
+<h4>Check the latest news from: Sun 05 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ target="_blank">
-        The bottleneck might be the air in the room |
+    <a href=https://ui.shadcn.com/docs/changelog target="_blank">
+        Shadcn/UI now defaults to Base UI instead of Radix |
     </a>
-    By: gslin
+    By: dabinat
 </li>
 
 <li>
-    <a href=https://www.hyperstitionai.com/unslop-results target="_blank">
-        2026 Unslop AI-Written Fiction Contest Results |
+    <a href=https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main target="_blank">
+        Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable |
     </a>
-    By: networked
+    By: asronline
 </li>
 
 <li>
-    <a href=https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post target="_blank">
-        Agentic coding notes from Galapagos Island |
+    <a href=https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/ target="_blank">
+        If you're a button, you have one job |
     </a>
-    By: gm678
+    By: nozzlegear
 </li>
 
 <li>
-    <a href=https://www.wafer.ai/blog/glm52-amd target="_blank">
-        Performance per dollar is getting faster and cheaper |
+    <a href=https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/ target="_blank">
+        sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) |
     </a>
-    By: latchkey
+    By: ognyankulev
 </li>
 
 <li>
-    <a href=https://mistral.ai/news/leanstral-1-5/ target="_blank">
-        Leanstral 1.5: Proof abundance for all |
+    <a href=https://pandoc.org/lua-filters.html target="_blank">
+        Pandoc Lua Filters |
     </a>
-    By: programLyrique
+    By: ankitg12
 </li>
 </ol>
