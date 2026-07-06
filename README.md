@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 05 Jul 2026</h4>
+<h4>Check the latest news from: Mon 06 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://ui.shadcn.com/docs/changelog target="_blank">
-        Shadcn/UI now defaults to Base UI instead of Radix |
+    <a href=https://twitter.com/thsottiaux/status/2073933490513752151 target="_blank">
+        GPT-5.6 Sol Ultra will be in Codex |
     </a>
-    By: dabinat
+    By: mfiguiere
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a> </br>
+</p>
+
+<li>
+    <a href=https://iamwillwang.com/notes/has-not-been-viewed-much/ target="_blank">
+        Has_not_been_viewed_much |
+    </a>
+    By: wxw
 </li>
 
 <li>
-    <a href=https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main target="_blank">
-        Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable |
+    <a href=https://organicmaps.app/ target="_blank">
+        Organic Maps |
     </a>
-    By: asronline
+    By: tosh
 </li>
 
 <li>
-    <a href=https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/ target="_blank">
-        If you're a button, you have one job |
+    <a href=https://kyrall.com/ target="_blank">
+        Generate parametric, manufacturable 3D models in seconds |
     </a>
-    By: nozzlegear
+    By: OsamaAtwi
 </li>
 
 <li>
-    <a href=https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/ target="_blank">
-        sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) |
+    <a href=https://tomtunguz.com/ai-spend-breakeven-2029/ target="_blank">
+        When AI Costs More Than the Engineer |
     </a>
-    By: ognyankulev
-</li>
-
-<li>
-    <a href=https://pandoc.org/lua-filters.html target="_blank">
-        Pandoc Lua Filters |
-    </a>
-    By: ankitg12
+    By: kiyanwang
 </li>
 </ol>
