@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 06 Jul 2026</h4>
+<h4>Check the latest news from: Tue 07 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://twitter.com/thsottiaux/status/2073933490513752151 target="_blank">
-        GPT-5.6 Sol Ultra will be in Codex |
+    <a href=https://github.com/MaximeRivest/Riddle target="_blank">
+        Fable turned reMarkable into Tom Riddle's diary from Harry Potter |
     </a>
-    By: mfiguiere
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575</a> </br>
-</p>
-
-<li>
-    <a href=https://iamwillwang.com/notes/has-not-been-viewed-much/ target="_blank">
-        Has_not_been_viewed_much |
-    </a>
-    By: wxw
+    By: modinfo
 </li>
 
 <li>
-    <a href=https://organicmaps.app/ target="_blank">
-        Organic Maps |
+    <a href=https://openwrt.org/toh/openwrt/one target="_blank">
+        OpenWrt One – Open Hardware Router |
     </a>
-    By: tosh
+    By: peter_d_sherman
 </li>
 
 <li>
-    <a href=https://kyrall.com/ target="_blank">
-        Generate parametric, manufacturable 3D models in seconds |
+    <a href=https://www.comaps.app/ target="_blank">
+        CoMaps – FOSS Offline Maps |
     </a>
-    By: OsamaAtwi
+    By: basilikum
 </li>
 
 <li>
-    <a href=https://tomtunguz.com/ai-spend-breakeven-2029/ target="_blank">
-        When AI Costs More Than the Engineer |
+    <a href=https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ target="_blank">
+        GLM 5.2 and the coming AI margin collapse |
     </a>
-    By: kiyanwang
+    By: martinald
+</li>
+
+<li>
+    <a href=https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home target="_blank">
+        How to sequence your own DNA at home |
+    </a>
+    By: bilsbie
 </li>
 </ol>
