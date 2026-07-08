@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 07 Jul 2026</h4>
+<h4>Check the latest news from: Wed 08 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/MaximeRivest/Riddle target="_blank">
-        Fable turned reMarkable into Tom Riddle's diary from Harry Potter |
+    <a href=https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ target="_blank">
+        How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024) |
     </a>
-    By: modinfo
+    By: 4diii
 </li>
 
 <li>
-    <a href=https://openwrt.org/toh/openwrt/one target="_blank">
-        OpenWrt One – Open Hardware Router |
+    <a href=https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ target="_blank">
+        GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos |
     </a>
-    By: peter_d_sherman
+    By: ColinEberhardt
 </li>
 
 <li>
-    <a href=https://www.comaps.app/ target="_blank">
-        CoMaps – FOSS Offline Maps |
+    <a href=https://kb.cert.org/vuls/id/213560 target="_blank">
+        Tenda firmware (multiple versions) contains hidden authentication backdoor |
     </a>
-    By: basilikum
+    By: miniBill
 </li>
 
 <li>
-    <a href=https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ target="_blank">
-        GLM 5.2 and the coming AI margin collapse |
+    <a href=https://www.digipres.org/the-floppy-guide/ target="_blank">
+        Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks |
     </a>
-    By: martinald
+    By: whiteblossom
 </li>
 
 <li>
-    <a href=https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home target="_blank">
-        How to sequence your own DNA at home |
+    <a href=https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/ target="_blank">
+        Structure and Interpretation of Computer Programs Video Lectures (1986) |
     </a>
-    By: bilsbie
+    By: gjvc
 </li>
 </ol>
