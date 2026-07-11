@@ -45,52 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 10 Jul 2026</h4>
+<h4>Check the latest news from: Sat 11 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/JustVugg/colibri target="_blank">
-        Show HN: Getting GLM 5.2 running on my slow computer |
+    <a href=https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/ target="_blank">
+        The Vintage Beauty of Soviet Control Rooms |
     </a>
-    By: vforno
+    By: mvdtnz
+</li>
+
+<li>
+    <a href=https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity target="_blank">
+        Einstein's relativity rules chemical bonds in heavy elements, new research shows |
+    </a>
+    By: hhs
 </li>
 
 <p>
-Text: A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I&#x27;ve gotten from models like Claude or GPT, and this really surprised me.<p>But then I thought, &quot;I wonder how it would work on a normal computer like mine,&quot; and above all, &quot;I wonder if it would work without going into OOM on a computer like mine.&quot; So I started working with the help of agents to test this possibility.<p>I started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren&#x27;t high in cold start, but even then, we&#x27;re talking about 0.1 tok&#x2F;s, but that wasn&#x27;t important to me. The important thing was the journey to reach this goal. I just wanted it to work at all costs, even slowly.<p>So I created Colibrì, which was born from a very simple idea, to be honest, but tested in every way, where a 744B Mixture-of-Experts model activates only ~40B parameters per token—and only ~11 GB of those change from token to token (the routed experts). So:<p>The dense part (attention, shared experts, embeddings—~17B params) stays resident in RAM at int4 (~9.9 GB); The 21,504 routed experts (75 MoE layers × 256 experts + the MTP head, ~19 MB each at int4) live on disk (~370 GB) and are streamed on demand, with a per-layer LRU cache, an optional pinned hot-store, and the OS page cache as a free L2.<p>The engine is a single C file (c&#x2F;glm.c, ~1,300 lines) plus small headers. No BLAS, no Python at runtime, no GPU.No GPU or serious hardware because I don&#x27;t have that hardware so I can&#x27;t test it on hardware that is more powerful than my computer.Colibrì is a one-person project, written and tested entirely on a 12-core laptop with 25 GB of RAM — the numbers above are the ceiling of what I can measure at home.<p>Any feedback is welcome! (and if anyone wanted to participate in the project I would be delighted)<p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;colibri" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;colibri</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285" rel="nofollow">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285</a> </br>
 </p>
 
 <li>
-    <a href=https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/ target="_blank">
-        EU Parliament greenlights Chat Control 1.0 |
+    <a href=https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/ target="_blank">
+        QuadRF can spot drones and see WiFi through my wall |
     </a>
-    By: rapnie
+    By: speckx
 </li>
 
 <li>
-    <a href=https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429 target="_blank">
-        Train sim created by just one person is being called the best ever made |
+    <a href=https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/ target="_blank">
+        Apple sues OpenAI, accuses ex-employees of stealing trade secrets |
     </a>
-    By: oumua_don17
+    By: stock_toaster
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;" rel="nofollow">https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;</a> </br>
+Text: <a href="https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://18words.com/ target="_blank">
-        Show HN: 18 Words |
+    <a href=https://neciudan.dev/most-secure-way-to-store-auth-token target="_blank">
+        What's the best way to do authentication in modern applications |
     </a>
-    By: pompomsheep
+    By: freediver
 </li>
-
-<li>
-    <a href=https://openai.com/index/gpt-5-6/ target="_blank">
-        GPT-5.6 |
-    </a>
-    By: logickkk1
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdf" rel="nofollow">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdf</a><p><a href="https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-model" rel="nofollow">https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-model</a><p><a href="https:&#x2F;&#x2F;x.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628" rel="nofollow">https:&#x2F;&#x2F;x.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628</a>, <a href="https:&#x2F;&#x2F;xcancel.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628" rel="nofollow">https:&#x2F;&#x2F;xcancel.com&#x2F;levie&#x2F;status&#x2F;2075287443411222628</a> </br>
-</p>
 </ol>
