@@ -45,48 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sat 11 Jul 2026</h4>
+<h4>Check the latest news from: Sun 12 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/ target="_blank">
-        The Vintage Beauty of Soviet Control Rooms |
+    <a href=https://www.iroh.computer/blog/mesh-llm target="_blank">
+        Mesh LLM: distributed AI computing on iroh |
     </a>
-    By: mvdtnz
+    By: tionis
 </li>
 
 <li>
-    <a href=https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity target="_blank">
-        Einstein's relativity rules chemical bonds in heavy elements, new research shows |
+    <a href=https://antjs.org target="_blank">
+        Show HN: Ant – A JavaScript runtime and ecosystem |
     </a>
-    By: hhs
-</li>
-
-<p>
-Text: <a href="https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285" rel="nofollow">https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285</a> </br>
-</p>
-
-<li>
-    <a href=https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/ target="_blank">
-        QuadRF can spot drones and see WiFi through my wall |
-    </a>
-    By: speckx
-</li>
-
-<li>
-    <a href=https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/ target="_blank">
-        Apple sues OpenAI, accuses ex-employees of stealing trade secrets |
-    </a>
-    By: stock_toaster
+    By: theMackabu
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;</a> </br>
+Text: Hello HN!<p>I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It&#x27;s still early, and I&#x27;d appreciate any feedback on the overall direction or what you&#x27;d like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today. </br>
 </p>
 
 <li>
-    <a href=https://neciudan.dev/most-secure-way-to-store-auth-token target="_blank">
-        What's the best way to do authentication in modern applications |
+    <a href=https://hlnet.notion.site/text-art-tools target="_blank">
+        Text art tools |
     </a>
-    By: freediver
+    By: surprisetalk
+</li>
+
+<li>
+    <a href=https://github.com/Wren6991/RISCBoy target="_blank">
+        RISCBoy is an open-source portable games console, designed from scratch |
+    </a>
+    By: mariuz
+</li>
+
+<li>
+    <a href=https://thebeach.dev/posts/lisp-agent/ target="_blank">
+        An agent in 100 lines of Lisp |
+    </a>
+    By: jamiebeach
 </li>
 </ol>
