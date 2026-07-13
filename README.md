@@ -45,44 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Sun 12 Jul 2026</h4>
+<h4>Check the latest news from: Mon 13 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://www.iroh.computer/blog/mesh-llm target="_blank">
-        Mesh LLM: distributed AI computing on iroh |
-    </a>
-    By: tionis
-</li>
-
-<li>
-    <a href=https://antjs.org target="_blank">
-        Show HN: Ant – A JavaScript runtime and ecosystem |
-    </a>
-    By: theMackabu
-</li>
-
-<p>
-Text: Hello HN!<p>I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.<p>The goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It&#x27;s still early, and I&#x27;d appreciate any feedback on the overall direction or what you&#x27;d like to see from an e2e alternative to the existing JavaScript stacks.<p>P.S. I’ve shared Ant here before as a runtime; since then, it has grown into the broader ecosystem you see today. </br>
-</p>
-
-<li>
-    <a href=https://hlnet.notion.site/text-art-tools target="_blank">
-        Text art tools |
-    </a>
-    By: surprisetalk
-</li>
-
-<li>
-    <a href=https://github.com/Wren6991/RISCBoy target="_blank">
-        RISCBoy is an open-source portable games console, designed from scratch |
+    <a href=https://github.com/schlae/BeavisUltrasound target="_blank">
+        Beavis Ultrasound PnP ISA Sound Card Replica |
     </a>
     By: mariuz
 </li>
 
 <li>
-    <a href=https://thebeach.dev/posts/lisp-agent/ target="_blank">
-        An agent in 100 lines of Lisp |
+    <a href=https://mmapped.blog/posts/52-backtrack-free-cursive target="_blank">
+        Backtrack-Free Cursive |
     </a>
-    By: jamiebeach
+    By: dmit
+</li>
+
+<li>
+    <a href=https://nebusec.ai/research/ionstack-part-2/ target="_blank">
+        GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years |
+    </a>
+    By: ranger_danger
+</li>
+
+<p>
+Text: UAF = Use After Free (<a href="https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer" rel="nofollow">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>) </br>
+</p>
+
+<li>
+    <a href=https://shellzine.net/cyberpunk-comics/ target="_blank">
+        Cyberpunk Comics, Manga and Graphic Novels |
+    </a>
+    By: zdw
+</li>
+
+<li>
+    <a href=https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership target="_blank">
+        The social physics of conversation: Communication patterns matter |
+    </a>
+    By: kiyanwang
 </li>
 </ol>
