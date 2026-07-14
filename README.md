@@ -45,44 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 13 Jul 2026</h4>
+<h4>Check the latest news from: Tue 14 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/schlae/BeavisUltrasound target="_blank">
-        Beavis Ultrasound PnP ISA Sound Card Replica |
+    <a href=https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ target="_blank">
+        Japan develops a method to recover up to 90% of lithium from used EV batteries |
     </a>
-    By: mariuz
+    By: donohoe
 </li>
 
 <li>
-    <a href=https://mmapped.blog/posts/52-backtrack-free-cursive target="_blank">
-        Backtrack-Free Cursive |
+    <a href=https://github.com/JetBrains/youtrackdb target="_blank">
+        YouTrackDB is a general-use object-oriented graph database |
     </a>
-    By: dmit
+    By: gjvc
 </li>
 
 <li>
-    <a href=https://nebusec.ai/research/ionstack-part-2/ target="_blank">
-        GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years |
+    <a href=https://lalitm.com/post/git-history/ target="_blank">
+        The Git history command deserves more attention |
     </a>
-    By: ranger_danger
-</li>
-
-<p>
-Text: UAF = Use After Free (<a href="https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer" rel="nofollow">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>) </br>
-</p>
-
-<li>
-    <a href=https://shellzine.net/cyberpunk-comics/ target="_blank">
-        Cyberpunk Comics, Manga and Graphic Novels |
-    </a>
-    By: zdw
+    By: turbocon
 </li>
 
 <li>
-    <a href=https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership target="_blank">
-        The social physics of conversation: Communication patterns matter |
+    <a href=https://web.stanford.edu/~dntse/wireless_book.html target="_blank">
+        Fundamentals of Wireless Communication (2005) |
     </a>
-    By: kiyanwang
+    By: teleforce
+</li>
+
+<li>
+    <a href=https://blinry.org/lcd-clock/ target="_blank">
+        How to build a circular LCD clock |
+    </a>
+    By: birdculture
 </li>
 </ol>
