@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 14 Jul 2026</h4>
+<h4>Check the latest news from: Wed 15 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ target="_blank">
-        Japan develops a method to recover up to 90% of lithium from used EV batteries |
+    <a href=https://fabiensanglard.net/jurrasic_park_computers/index.html target="_blank">
+        Jurassic Park computers in excruciating detail |
     </a>
-    By: donohoe
+    By: vinhnx
 </li>
 
 <li>
-    <a href=https://github.com/JetBrains/youtrackdb target="_blank">
-        YouTrackDB is a general-use object-oriented graph database |
+    <a href=https://www.ayush.digital/blog/the-memory-heist target="_blank">
+        I tricked Claude into leaking your deepest, darkest secrets |
     </a>
-    By: gjvc
+    By: macleginn
 </li>
 
 <li>
-    <a href=https://lalitm.com/post/git-history/ target="_blank">
-        The Git history command deserves more attention |
+    <a href=https://vpd.ca/ target="_blank">
+        Vancouver PD website features Quick Escape button that wipes itself from history |
     </a>
-    By: turbocon
+    By: LookAtThatBacon
 </li>
 
 <li>
-    <a href=https://web.stanford.edu/~dntse/wireless_book.html target="_blank">
-        Fundamentals of Wireless Communication (2005) |
+    <a href=https://tailscale.com/security-bulletins target="_blank">
+        TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access |
     </a>
-    By: teleforce
+    By: jervant
 </li>
 
 <li>
-    <a href=https://blinry.org/lcd-clock/ target="_blank">
-        How to build a circular LCD clock |
+    <a href=https://prismml.com/news/bonsai-27b target="_blank">
+        Bonsai 27B: A 27B-Class model that runs on a phone |
     </a>
-    By: birdculture
+    By: xenova
 </li>
 </ol>
