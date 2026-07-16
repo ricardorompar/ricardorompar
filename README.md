@@ -45,40 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 15 Jul 2026</h4>
+<h4>Check the latest news from: Thu 16 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://fabiensanglard.net/jurrasic_park_computers/index.html target="_blank">
-        Jurassic Park computers in excruciating detail |
+    <a href=https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming target="_blank">
+        The lost joy of music piracy |
     </a>
-    By: vinhnx
+    By: mcgin
 </li>
 
 <li>
-    <a href=https://www.ayush.digital/blog/the-memory-heist target="_blank">
-        I tricked Claude into leaking your deepest, darkest secrets |
+    <a href=https://thinkingmachines.ai/news/introducing-inkling/ target="_blank">
+        Inkling: Our Open-Weights Model |
     </a>
-    By: macleginn
+    By: vimarsh6739
 </li>
 
 <li>
-    <a href=https://vpd.ca/ target="_blank">
-        Vancouver PD website features Quick Escape button that wipes itself from history |
+    <a href=https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ target="_blank">
+        If you want to create a button from scratch, you must first create the universe |
     </a>
-    By: LookAtThatBacon
+    By: treve
 </li>
 
 <li>
-    <a href=https://tailscale.com/security-bulletins target="_blank">
-        TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access |
+    <a href=https://mort.coffee/home/sqlite-editions/ target="_blank">
+        SQLite should have (Rust-style) editions |
     </a>
-    By: jervant
+    By: gnyeki
 </li>
 
 <li>
-    <a href=https://prismml.com/news/bonsai-27b target="_blank">
-        Bonsai 27B: A 27B-Class model that runs on a phone |
+    <a href=https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html target="_blank">
+        1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored |
     </a>
-    By: xenova
+    By: gslin
 </li>
 </ol>
