@@ -45,40 +45,44 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Thu 16 Jul 2026</h4>
+<h4>Check the latest news from: Fri 17 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming target="_blank">
-        The lost joy of music piracy |
+    <a href=https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 target="_blank">
+        EEG shows brain can simultaneous encode two speech streams |
     </a>
-    By: mcgin
+    By: giuliomagnifico
 </li>
 
 <li>
-    <a href=https://thinkingmachines.ai/news/introducing-inkling/ target="_blank">
-        Inkling: Our Open-Weights Model |
+    <a href=https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/ target="_blank">
+        How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues |
     </a>
-    By: vimarsh6739
+    By: divbzero
 </li>
 
 <li>
-    <a href=https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ target="_blank">
-        If you want to create a button from scratch, you must first create the universe |
+    <a href=https://www.kimi.com/blog/kimi-k3 target="_blank">
+        Kimi K3: Open Frontier Intelligence |
     </a>
-    By: treve
+    By: vincent_s
+</li>
+
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.kimi.com&#x2F;en" rel="nofollow">https:&#x2F;&#x2F;www.kimi.com&#x2F;en</a><p>Kimi K3 Intelligence, Performance &amp; Price Analysis: <a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3</a> </br>
+</p>
+
+<li>
+    <a href=https://repebble.com/blog/pebble-mega-update-july-2026 target="_blank">
+        Pebble Mega Update – July 2026 |
+    </a>
+    By: crazysaem
 </li>
 
 <li>
-    <a href=https://mort.coffee/home/sqlite-editions/ target="_blank">
-        SQLite should have (Rust-style) editions |
+    <a href=https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029 target="_blank">
+        An Engineer's Guide to USB Typе-С (2024) |
     </a>
-    By: gnyeki
-</li>
-
-<li>
-    <a href=https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html target="_blank">
-        1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored |
-    </a>
-    By: gslin
+    By: gregsadetsky
 </li>
 </ol>
