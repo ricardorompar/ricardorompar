@@ -45,44 +45,34 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Fri 17 Jul 2026</h4>
+<h4>Check the latest news from: Sat 18 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 target="_blank">
-        EEG shows brain can simultaneous encode two speech streams |
+    <a href=https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ target="_blank">
+        Kaiser nurses say AI, workplace surveillance are making their jobs, care worse |
     </a>
-    By: giuliomagnifico
+    By: gnabgib
 </li>
 
 <li>
-    <a href=https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/ target="_blank">
-        How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues |
+    <a href=https://maurycyz.com/projects/bad_jpeg/ target="_blank">
+        Regressive JPEGs |
     </a>
-    By: divbzero
+    By: vitaut
 </li>
 
 <li>
-    <a href=https://www.kimi.com/blog/kimi-k3 target="_blank">
-        Kimi K3: Open Frontier Intelligence |
+    <a href=https://parksb.github.io/en/article/41.html target="_blank">
+        Reviving a 15-year-old netbook with Arch Linux |
     </a>
-    By: vincent_s
+    By: parksb
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.kimi.com&#x2F;en" rel="nofollow">https:&#x2F;&#x2F;www.kimi.com&#x2F;en</a><p>Kimi K3 Intelligence, Performance &amp; Price Analysis: <a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3</a> </br>
+Text: URL already posted: <a href="https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status" rel="nofollow">https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;status</a><p>I&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href="https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_skyrocketed_from_around_5_cents_per&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s...</a> </br>
 </p>
 
-<li>
-    <a href=https://repebble.com/blog/pebble-mega-update-july-2026 target="_blank">
-        Pebble Mega Update – July 2026 |
-    </a>
-    By: crazysaem
-</li>
-
-<li>
-    <a href=https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029 target="_blank">
-        An Engineer's Guide to USB Typе-С (2024) |
-    </a>
-    By: gregsadetsky
-</li>
+<p>
+Text: Tomorrow is the 15th anniversary of the first day of the Recurse Center (<a href="https:&#x2F;&#x2F;www.recurse.com&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.recurse.com&#x2F;</a>)<p>My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building &quot;OkCupid for jobs.&quot; That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.<p>Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers.<p>After running two small batches, we launched on HN[1] and got an incredible reception.<p>That post on HN helped us reach beyond our personal networks and meet programmers from around the world, many of whom have since become friends. HN brought us the majority of people who came to our next few batches, and in the years since, HN has remained our #2 source of applicants (after word of mouth).<p>Alas, pg&#x27;s comment[2] on HN when we launched turned out to be prescient: Running free programming retreats isn&#x27;t a billion-dollar business, but it&#x27;s still a worthwhile thing to do, and has positively impacted over 3,000 people so far. And 15 years on I still wake up every day excited to keep working on it.<p>So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life&#x27;s work.<p>[1] <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=3435183</a><p>[2] &quot;This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. In fact, the way the Hackruiters think about Hacker School is a lot like the way we initially thought about YC: if it doesn&#x27;t make money, it will at least have been a benevolent thing to do.&quot; </br>
+</p>
 </ol>
