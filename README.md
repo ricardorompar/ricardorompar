@@ -45,38 +45,40 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Mon 20 Jul 2026</h4>
+<h4>Check the latest news from: Tue 21 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://robotics.xiaomi.com/xiaomi-robotics-1.html target="_blank">
-        Xiaomi-Robotics-1 |
+    <a href=https://github.com/janestreet/incremental target="_blank">
+        Incremental – A library for incremental computations |
     </a>
-    By: ilreb
+    By: handfuloflight
 </li>
 
 <li>
-    <a href=https://github.com/Saivineeth147/lora-speedrun target="_blank">
-        LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques |
+    <a href=https://stratechery.com/2026/whos-afraid-of-chinese-models/ target="_blank">
+        Who's afraid of Chinese models? |
     </a>
-    By: Vineeth147
-</li>
-
-<p>
-Text: I might be the only SRE on Earth with his own bowling center. It&#x27;s a more in-depth gig than you&#x27;d think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren&#x27;t many recreation options for families. You&#x27;ve heard of a food desert? This is an R&amp;R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn&#x27;t work perfectly. The system that keeps your score is particularly interesting to me. It&#x27;s the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It&#x27;s calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That&#x27;s for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what&#x27;s this &quot;advanced&quot; system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I&#x27;ve got a six-figure invoice in my hand. I&#x27;m upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I&#x27;ve built an equivalent prototype for about $200 per lane-pair, $400 if you&#x27;re fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that&#x27;s really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it&#x27;s all ESP32, I&#x27;ve got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It&#x27;s an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it&#x27;s event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data&#x27;s in redis, it&#x27;s familiar middleware&#x2F;React&#x2F;websocket&#x2F;pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I&#x27;d bet a house like mine could go from zero to running in an hour or two.<p>We&#x27;re calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it&#x27;s ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.
-I hate vendor lock-in. I&#x27;m not a fan of closed systems, calling support for every hiccup, or paying to &quot;white label&quot; my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone&#x27;s interested in more posts about this bowling nonsense. </br>
-</p>
-
-<li>
-    <a href=https://github.com/hgaiser/moonshine target="_blank">
-        Moonshine: Lets you stream games from your PC to any device running Moonlight |
-    </a>
-    By: wertyk
+    By: mfiguiere
 </li>
 
 <li>
-    <a href=https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization target="_blank">
-        Self-Powered Trailers Promise Leaner Freight Runs |
+    <a href=https://www.armaangomes.com/blogs/doom/ target="_blank">
+        Running Doom on Our Custom CPU and Going Viral |
     </a>
-    By: rbanffy
+    By: arghunter
+</li>
+
+<li>
+    <a href=https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ target="_blank">
+        A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste |
+    </a>
+    By: sudo_cowsay
+</li>
+
+<li>
+    <a href=https://www.kimi.com/products/kimi-work target="_blank">
+        Kimi Work |
+    </a>
+    By: ms7892
 </li>
 </ol>
