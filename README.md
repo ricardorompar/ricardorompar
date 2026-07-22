@@ -45,40 +45,49 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Tue 21 Jul 2026</h4>
+<h4>Check the latest news from: Wed 22 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://github.com/janestreet/incremental target="_blank">
-        Incremental – A library for incremental computations |
-    </a>
-    By: handfuloflight
-</li>
-
-<li>
-    <a href=https://stratechery.com/2026/whos-afraid-of-chinese-models/ target="_blank">
-        Who's afraid of Chinese models? |
+    <a href=https://openai.com/index/hugging-face-model-evaluation-security-incident/ target="_blank">
+        OpenAI and Hugging Face address security incident during model evaluation |
     </a>
     By: mfiguiere
 </li>
 
+<p>
+Text: <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-breach-caused-by-one-its-models" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248</a> (9 comments) </br>
+</p>
+
 <li>
-    <a href=https://www.armaangomes.com/blogs/doom/ target="_blank">
-        Running Doom on Our Custom CPU and Going Viral |
+    <a href=https://fireworks.ai/blog/kimik3-fable target="_blank">
+        Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA |
     </a>
-    By: arghunter
+    By: piotrgrabowski
+</li>
+
+<p>
+Text: Also: Kimi K3: second only to Fable 5 on AA-Briefcase
+ <a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;kimi-k3-agentic-knowledge-benchmark" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;kimi-k3-agentic-knowl...</a> </br>
+</p>
+
+<li>
+    <a href=https://github.com/chrislgarry/Apollo-11 target="_blank">
+        Original Apollo 11 Guidance Computer source code for command and lunar modules |
+    </a>
+    By: noteness
 </li>
 
 <li>
-    <a href=https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ target="_blank">
-        A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste |
+    <a href=https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv target="_blank">
+        Intel Starts Shipping High-NA EUV Silicon |
     </a>
-    By: sudo_cowsay
+    By: zdw
 </li>
 
 <li>
-    <a href=https://www.kimi.com/products/kimi-work target="_blank">
-        Kimi Work |
+    <a href=https://late.sh/ target="_blank">
+        Late.sh – a command-line Clubhouse for computer people |
     </a>
-    By: ms7892
+    By: itherseed
 </li>
 </ol>
