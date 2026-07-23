@@ -45,49 +45,48 @@ Projects...
 <h2>Today's top <a href='https://news.ycombinator.com/' target="_blank">Hacker News</a></h2>
 How does this work? -> <a href='./AUTOMATIC.md'>here 💡</a>
 
-<h4>Check the latest news from: Wed 22 Jul 2026</h4>
+<h4>Check the latest news from: Thu 23 Jul 2026</h4>
 <ol>
 <li>
-    <a href=https://openai.com/index/hugging-face-model-evaluation-security-incident/ target="_blank">
-        OpenAI and Hugging Face address security incident during model evaluation |
+    <a href=https://nesbitt.io/2026/07/21/end-of-options.html target="_blank">
+        git's –end-of-options Flag |
     </a>
-    By: mfiguiere
+    By: Erenay09
+</li>
+
+<li>
+    <a href=https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56 target="_blank">
+        Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample |
+    </a>
+    By: gmays
 </li>
 
 <p>
-Text: <a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-breach-caused-by-one-its-models" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248</a> (9 comments) </br>
+Text: <i>A digestion of the Jacobian conjecture counterexample</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869</a> - July 2026 (508 comments) </br>
 </p>
 
 <li>
-    <a href=https://fireworks.ai/blog/kimik3-fable target="_blank">
-        Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA |
+    <a href=https://resobscura.substack.com/p/quality-non-fiction-books-are-the target="_blank">
+        Quality non-fiction books are the antithesis of AI slop |
     </a>
-    By: piotrgrabowski
+    By: benbreen
 </li>
 
 <p>
-Text: Also: Kimi K3: second only to Fable 5 on AA-Briefcase
- <a href="https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;kimi-k3-agentic-knowledge-benchmark" rel="nofollow">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;kimi-k3-agentic-knowl...</a> </br>
+Text: <a href="https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;" rel="nofollow">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a> </br>
 </p>
 
 <li>
-    <a href=https://github.com/chrislgarry/Apollo-11 target="_blank">
-        Original Apollo 11 Guidance Computer source code for command and lunar modules |
+    <a href=https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html target="_blank">
+        Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot |
     </a>
-    By: noteness
+    By: jjba23
 </li>
 
 <li>
-    <a href=https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv target="_blank">
-        Intel Starts Shipping High-NA EUV Silicon |
+    <a href=https://github.com/marcelroed/gigatoken/ target="_blank">
+        GigaToken: ~1000x faster Language model tokenization |
     </a>
-    By: zdw
-</li>
-
-<li>
-    <a href=https://late.sh/ target="_blank">
-        Late.sh – a command-line Clubhouse for computer people |
-    </a>
-    By: itherseed
+    By: syrusakbary
 </li>
 </ol>
